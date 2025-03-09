@@ -1,0 +1,439 @@
+[
+    {
+        "question": "During conversion of milk into curd, ...... is produced.",
+        "options": [
+            "Lactic acid",
+            "Hydrochloric acid",
+            "Sulphuric acid",
+            "Acetic acid"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Animals show heterotrophic mode of nutrition.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mode of nutrition in fungi.",
+        "options": [
+            "Autotrophic",
+            "Heterotrophic",
+            "Saprophytic"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the virus that cause diseases in living things - Plant",
+        "options": [
+            "Picorna",
+            "Tobacco mosaic",
+            "Bacteriophage"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Bread mold is a type of",
+        "options": [
+            "Bacteria",
+            "Fungi",
+            "Protist",
+            "Algae"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Algae can carry out photosynthesis.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Fermentation of milk is carried out by",
+        "options": [
+            "Streptococci",
+            "Lactobacilli",
+            "Plasmodium",
+            "Mycobacterium"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... found in the form of independent particles.",
+        "options": [
+            "Protozoa",
+            "Bacteria",
+            "Virus"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is known as Baker's yeast?",
+        "options": [
+            "Aspergillus",
+            "Paramoecium",
+            "Clostridium",
+            "Saccharomyces"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Organisms in kingdom Monera may be autotrophic or heterotrophic.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Viruses cause many diseases to plants and animals.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "All types of bacteria are included in the kingdom Protista.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... absorb their food from decaying organic matter.",
+        "options": [
+            "Autotrophs",
+            "Saprotrophs",
+            "Heterotrophs"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Fungi are unicellular and multicellular.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Photosynthesis in algae is carried out with the help of.",
+        "options": [
+            "Chloroplasts",
+            "Cilia",
+            "Flagella",
+            "Sporangiophores"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Lactobacilli are ...... shaped bacteria.",
+        "options": [
+            "Comma",
+            "Spiral",
+            "Bacillus",
+            "Vibrio"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "...... are found on decaying organic matter and dead bodies of plants and animals.",
+        "options": [
+            "Protozoa",
+            "Bacteria",
+            "Fungi"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "First invented Binomial system of nomenclature.",
+        "options": [
+            "Whittaker",
+            "Carl Linnaeus"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Asexual reproduction in bread mold occurs by",
+        "options": [
+            "Rhizoids",
+            "Hypha",
+            "Spores",
+            "Sporangiophore"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Who am I? Have hair like cilia for locomotion.",
+        "options": [
+            "Amoeba",
+            "Paramoecium"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Viruses survive only in living plant or animal.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Reproduce by simple binary fission",
+        "options": [
+            "Bacteria",
+            "Fungi",
+            "Amoeba"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Salmonella typhi is a type of a bacteria.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... are the organisms at the edge of living and non-living.",
+        "options": [
+            "Protozoans",
+            "Viruses",
+            "Algae",
+            "Bacteria"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The process of dividing living organisms into groups and subgroups.",
+        "options": [
+            "Biological Classification",
+            "Physiological Classification"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Groups and subgroups were created considering the similarities and differences among the living organisms.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Organisms that feed upon decaying organic matter.",
+        "options": [
+            "Protista",
+            "Fungi",
+            "Algae"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Complexity of cell structure was one of the criteria for Whittaker five kingdom classification.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Saprotrophic in nature",
+        "options": [
+            "Bacteria",
+            "Fungi",
+            "Algae"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Identify the virus that cause diseases in living things - Human",
+        "options": [
+            "Picorna",
+            "Witt",
+            "Polio"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Living organisms are divided into Eukaryotes and Prokaryotes as per Whittaker.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Divided living organisms into 4 kingdom.",
+        "options": [
+            "Carl Linnaeus",
+            "Kopland",
+            "Whittaker"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Protista are single celled organisms with well-defined nucleus.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Kopland : four kingdom classification : ...... : five kingdom classification.",
+        "options": [
+            "Carl Linnaeus",
+            "Whittaker"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Identify the virus that cause diseases in living things - Cattle",
+        "options": [
+            "Witt",
+            "Picorna",
+            "Influenza"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Complex sugar that makes the fungal cell wall.",
+        "options": [
+            "Citin",
+            "Chitin",
+            "Keratin"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Found on the stale bread.",
+        "options": [
+            "Mucor",
+            "Moss"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Who am I ? Use pseudopodia for engulfing food and locomotion.",
+        "options": [
+            "Euglena",
+            "Amoeba"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Bacteria : Kingdom Monera : : Protozoa : ......",
+        "options": [
+            "Kingdom Protista",
+            "Kingdom Fungi"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Divided living organisms into 5 kingdom.",
+        "options": [
+            "Carl Linnaeus",
+            "Kopland",
+            "Whittaker"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Who am I? Unicellular and contain chloroplast.",
+        "options": [
+            "Paramecium",
+            "Euglena"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "National Institute of Virology is located in Mumbai.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Viruses have long molecules of",
+        "options": [
+            "Only DNA",
+            "Only RNA",
+            "Both DNA or RNA",
+            "Either DNA or RNA"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "...... are found in soil, fresh water and sea water.",
+        "options": [
+            "Protozoa",
+            "Bacteria",
+            "Fungi"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Great variation is seen in cell structure, organs of locomotion and modes of nutrition among protozoans.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Who am I? Small rod-like microbe in curd.",
+        "options": [
+            "Staphylococcus bacteria",
+            "Lactobacilli bacteria"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... causes amoebiasis.",
+        "options": [
+            "Entamoeba histolytica",
+            "Plasmodium",
+            "Paramoecium",
+            "Influenza virus"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Eukaryotes are further divided into unicellular and multicellular.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Eukaryotic : Protozoa : : Prokaryotic : ......",
+        "options": [
+            "Bacteria",
+            "Algae",
+            "Fungi"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a group of eukaryotic, multicellular organisms having cell wall?",
+        "options": [
+            "Monera",
+            "Protista",
+            "Animalia",
+            "Fungi"
+        ],
+        "answer": 4
+    }
+]

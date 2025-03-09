@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700&display=swap" rel="stylesheet">
+    <style>
+        /* ? ------------------ Navbar ------------------ */
+
+        nav {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 2rem;
+            position: fixed;
+            width: 100%;
+            z-index: 10;
+            height: 10vh;
+            background: white;
+            top: 0;
+        }
+
+        nav .right {
+            display: flex;
+            align-items: center;
+            /* justify-content: space-between; */
+            gap: 1.5rem;
+        }
+
+        nav .right a {
+            text-decoration: none;
+            color: black;
+            font-family: "Poppins", serif;
+            font-weight: 500;
+            font-size: 1.3rem;
+            font-style: normal;
+        }
+
+        nav .left {
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        nav img {
+            height: 80%;
+        }
+
+
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        .pdf h1 {
+            margin: 5rem 0 2rem 0;
+            text-align: center;
+            font-size: 2rem;
+            /* width: max-content ; */
+            border-top: 1px solid black;
+            padding-top: 1rem;
+        }
+
+        .pdf img {
+            height: 100px;
+        }
+
+        .pdf .container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 2rem;
+        }
+
+        .pdf .container .box {
+            /* background: red; */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        .pdf .container .box h2 {
+            font-size: 1.3rem;
+            margin: 0.5rem 0;
+        }
+
+        .pdf .container .box a {
+            color: white;
+            background: black;
+            padding: 1rem 2rem;
+        }
+
+        @media (max-width:700px) {
+
+            /* ? ------------------ Basic Code ------------------ */
+
+            html {
+                font-size: 14px;
+            }
+
+            nav {
+                padding: 0 1rem;
+            }
+
+            nav .left img {
+                height: 50%;
+            }
+
+            nav .right {
+                gap: 0.8rem;
+            }
+
+            nav a {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <div class="left">
+            <img src="../images/logo.png" alt="">
+        </div>
+        <div class="right">
+            <h2><a href="../index.html">Home</a></h2>
+        </div>
+    </nav>
+
+    <section class="pdf"></section>
+    <script>
+        let pdf = document.querySelector('.pdf')
+        fetch("./Pdfs.json")
+            .then(response => response.json())
+            .then(data => {
+
+                for (let key in data) {
+                    let subject = key
+                    let papersArray = data[key]
+
+                    let html = `<h1>${subject}</h1> <div class="container">`
+
+                    for (let paper of papersArray) {
+                        html +=
+                            `<div class="box">
+                            <img src="./pdf.png">
+                            <h2>${paper}</h2>
+                            <a href="./Pdfs/${subject}/${paper}" download>Download</a>
+                        </div>`
+                    }
+
+                    html += "</div>"
+                    pdf.innerHTML += html
+                }
+            })
+    </script>
+</body>
+
+</html>

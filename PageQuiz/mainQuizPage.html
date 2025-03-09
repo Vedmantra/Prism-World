@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        body {
+            background: #EAF3F9;
+        }
+
+        section {
+            height: 100vh;
+            width: 100%;
+            /* display: flex;
+            align-items: center;
+            justify-content: center; */
+        }
+
+        section .title {
+            font-size: 4rem;
+            text-align: center;
+            padding: 5rem 0;
+        }
+
+        section .container {
+            /* height: 100vh; */
+            width: 50%;
+            margin: auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        section .container>* {
+            width: 50%;
+            margin: auto;
+            margin: 1rem 0;
+            /* border: 1px solid black; */
+            /* display: flex; */
+            /* flex-direction: column; */
+        }
+
+        section .container h1 {
+            font-weight: 300;
+            margin-bottom: 0.5rem;
+            font-size: 1.2rem;
+            /* text-align: left; */
+        }
+
+        section .container h2 {
+            /* margin: 2rem 0; */
+            text-align: center;
+        }
+
+        section .container .subjectDiv {
+            /* border: 1px solid black; */
+        }
+
+        input[type=range] {
+            -webkit-appearance: none;
+            height: 5rem;
+            width: 100%;
+            cursor: pointer;
+            background: #EAF3F9;
+            position: relative;
+        }
+
+        /* input[type=range]:before {
+            content: "Slide to select standard";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-weight: 500;
+            font-size: 1rem;
+        } */
+
+        input[type=range]:focus {
+            /* outline: none; */
+        }
+
+        input[type=range]::-webkit-slider-runnable-track {
+            border-radius: 30px;
+            /* border: 0px solid #010101; */
+            /* box-shadow: 1px 1px 1px #000000; */
+            /* background: rgb(180, 179, 179); */
+            background: white;
+            transition: .5s;
+            height: 3.5rem;
+            width: 3.5rem;
+            padding: 0 0.2rem;
+        }
+
+        /* Middle Circle  */
+        input[type=range]::-webkit-slider-thumb {
+            margin-top: 0.25rem;
+
+            -webkit-appearance: none;
+            box-shadow: 1px 1px 1px #000031;
+            border: 1px solid #00001E;
+            height: 3rem;
+            width: 3rem;
+            border-radius: 50px;
+            /* background: #FFFFFF; */
+            background: black;
+        }
+
+        /* input[type=range]:focus::-webkit-slider-runnable-track {
+            background: rgb(117, 117, 117);
+        } */
+        section .subjectDiv {
+            margin: 2rem 0;
+        }
+
+        select {
+            width: 50%;
+            margin: auto;
+            text-align: center;
+            font-size: 1.3rem;
+            border-radius: 10px;
+            padding: 0.5rem 0;
+            border: 0.5px solid gray;
+
+        }
+
+        select:focus {
+            outline: none;
+        }
+
+        .buttonDiv {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        button {
+            background: black;
+            color: white;
+            border: none;
+            font-size: 1.3rem;
+            padding: 1rem 0;
+            cursor: pointer;
+            width: 100%;
+        }
+
+        @media (max-width:700px) {
+            section .container {
+                width: 90%;
+            }
+
+            section .container>* {
+                width: 90%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <section>
+        <h1 class="title">QUIZ TEST</h1>
+
+        <div class="container">
+            <div class="standardDiv">
+                <h2>8th</h2>
+                <input type="range" name="standard" id="standardInput" min="0" max="100" value="0">
+            </div>
+
+            <div class="mediumDiv">
+                <h2>Marathi Medium</h2>
+                <input type="range" name="medium" id="mediumInput" min="0" max="100" value="0">
+            </div>
+
+            <div class="subjectDiv">
+                <!-- <h2>a </h2> -->
+                <select class="subjectDropdown1">
+                    <option value="default" selected disabled>Subject</option>
+                    <option value="Maths">Maths</option>
+                    <option value="Science">Science</option>
+                    <option value="History & PS">History & PS</option>
+                    <option value="Geography">Geography</option>
+                </select>
+                <select class="subjectDropdown2">
+                    <option value="default" selected disabled>Subject</option>
+                    <option value="Maths 1">Maths 1</option>
+                    <option value="Maths 2">Maths 2</option>
+                    <option value="Science 1">Science 1</option>
+                    <option value="Science 2">Science 2</option>
+                    <option value="History & PS">History & PS</option>
+                    <option value="Geography">Geography</option>
+                </select>
+            </div>
+
+            <div class="buttonDiv">
+                <button>Start Test</button>
+            </div>
+        </div>
+
+    </section>
+
+    <script>
+        let std = "8th"
+        function Standard() {
+            let standardOutput = document.querySelector('.standardDiv h2')
+            let standardInput = document.querySelector('#standardInput')
+            standardInput.addEventListener("input", () => {
+                stdVal = standardInput.value
+                if (stdVal < 35) {
+                    std = "8th"
+                } else if (stdVal > 65) {
+                    std = "10th"
+                } else {
+                    std = "9th"
+                }
+                standardOutput.innerHTML = std
+            });
+
+            standardInput.addEventListener("mouseup", Snap)
+            standardInput.addEventListener("touchend", Snap)
+
+            function Snap() {
+                ChangeSubjectDropdown()
+                stdVal = standardInput.value
+                if (stdVal < 35) {
+                    standardInput.value = 0
+                } else if (stdVal > 65) {
+                    standardInput.value = 100
+                } else {
+                    standardInput.value = 50
+                }
+            }
+        }
+
+        Standard()
+
+        let med = "Marathi Medium"
+        function Medium() {
+            let mediumOutput = document.querySelector('.mediumDiv h2')
+            let mediumInput = document.querySelector('#mediumInput')
+            mediumInput.addEventListener("input", () => {
+                let medVal = mediumInput.value
+                if (medVal >= 50) {
+                    med = "English Medium"
+                } else {
+                    med = "Marathi Medium"
+                }
+                mediumOutput.innerHTML = med
+            });
+
+            mediumInput.addEventListener("mouseup", Snap);
+            mediumInput.addEventListener("touchend", Snap);
+
+            function Snap() {
+                if (mediumInput.value >= 50) {
+                    mediumInput.value = 100
+                } else {
+                    mediumInput.value = 0
+                }
+            }
+
+        }
+
+        Medium()
+
+        function ChangeSubjectDropdown() {
+            let subjectDropdown1 = document.querySelector('.subjectDropdown1')
+            let subjectDropdown2 = document.querySelector('.subjectDropdown2')
+            if (std == "8th") {
+                subjectDropdown2.style.display = "none"
+                subjectDropdown1.style.display = "block"
+            } else {
+                subjectDropdown1.style.display = "none"
+                subjectDropdown2.style.display = "block"
+            }
+        }
+        ChangeSubjectDropdown()
+
+        let sub
+        subjectDropdown1 = document.querySelector('.subjectDropdown1')
+        subjectDropdown2 = document.querySelector('.subjectDropdown2')
+
+        subjectDropdown1.addEventListener('change', function (e) {
+            sub = subjectDropdown1.value
+            // console.log('sub', sub)
+        })
+        subjectDropdown2.addEventListener('change', function (e) {
+            sub = subjectDropdown2.value
+            // console.log('sub', sub)
+        })
+
+        let button = document.querySelector('button')
+        button.addEventListener('click', function () {
+            console.log(std)
+            console.log(med)
+            console.log(sub)
+            if (!sub) {
+                alert("Please Choose A Subject")
+                return
+            }
+            // console.log('Hey')
+            window.location.href = `quiz.html?std=${encodeURIComponent(std)}&med=${encodeURIComponent(med)}&sub=${encodeURIComponent(sub)}`;
+        })
+
+
+    </script>
+
+</body>
+
+</html>
