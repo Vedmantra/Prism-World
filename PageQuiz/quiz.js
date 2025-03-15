@@ -10,7 +10,7 @@ console.log('sub', sub)
 // GetDataFromMainPage()
 
 let allQuestionsArray2 = []
-let questionLimit = 10
+let questionLimit = 50
 let marks = 2
 let maxMarks = questionLimit * marks
 
@@ -28,7 +28,7 @@ fetch("./pdf.json")
             }
         }
 
-        RandomsizeTheQuestions()
+        // RandomsizeTheQuestions() 
 
         let container = document.querySelector('.container')
         let qIndex = 1
