@@ -1,0 +1,303 @@
+
+[
+    {
+        "question": "The energy released from the interior of the earth in the forms of waves are also called ...... waves.",
+        "options": [
+            "Seismic",
+            "Tsunami",
+            "Surface",
+            "Secondary"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Slow movements in the earth’s interior depend upon ......",
+        "options": [
+            "Landforms",
+            "Velocity",
+            "Direction",
+            "Density"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The instrument ...... is used to study the seismic waves.",
+        "options": [
+            "Seismograph",
+            "Richter scale",
+            "Seismogram",
+            "Histogram"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The focus is located in the ...... of the earth.",
+        "options": [
+            "Surface",
+            "Interior",
+            "Core",
+            "Exterior"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In primary waves the particles in the rocks move ......",
+        "options": [
+            "Up and down",
+            "To and fro",
+            "Side and side",
+            "Down and down"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mt. Katmai in Alaska have ...... Volcanoes.",
+        "options": [
+            "Active",
+            "Extinct",
+            "Dormant",
+            "Silent"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When molten magma comes out on the earth’s surface is called ......",
+        "options": [
+            "Magma",
+            "Lava",
+            "Gas",
+            "Radioactive"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If the originally continental portion of the crust subsides below the sea level is called ......",
+        "options": [
+            "Valley",
+            "Sea - bed",
+            "Trench",
+            "Ridge"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Barren island has ...... volcano.",
+        "options": [
+            "Dormant",
+            "Active",
+            "Extinct",
+            "Silent"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "In secondary waves the particles lying in the way move ......",
+        "options": [
+            "Up and down",
+            "To and fro",
+            "Side by side",
+            "Down and down"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The waves that reach the surface first are called ......",
+        "options": [
+            "Long waves",
+            "Primary Waves",
+            "Secondary Waves",
+            "Tertiary waves"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The movements in the earth’s interior occur in the upper layer of the ......",
+        "options": [
+            "Crust",
+            "Core",
+            "Mantle",
+            "Centre"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are ...... major plates in the world.",
+        "options": [
+            "Five",
+            "Three",
+            "Seven",
+            "Four"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... is the unit used to measure the intensity of the earthquake.",
+        "options": [
+            "Richter scale",
+            "Seismograph",
+            "Seismogram",
+            "Seismic-waves"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Tsunamis are generated in the ......",
+        "options": [
+            "Interior",
+            "Surface",
+            "Oceans",
+            "Lakes"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The place on the earth’s surface where energy waves reach first is called ......",
+        "options": [
+            "Focus",
+            "Fault",
+            "Epicenter",
+            "Tension"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Land may become fertile due to ......",
+        "options": [
+            "Magma",
+            "Lava",
+            "Volcanic-ash",
+            "Sand"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Secondary waves can only travel through the ...... medium.",
+        "options": [
+            "Solid",
+            "Gaseous",
+            "Liquid",
+            "Semi-liquid"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The faults are formed in the ...... rocks.",
+        "options": [
+            "Soft",
+            "Hard",
+            "Semi-hard",
+            "Porous"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When tension in the interior of the earth goes beyond limits, the energy is released in the form of ......",
+        "options": [
+            "Currents",
+            "Waves",
+            "Shocks",
+            "Seismic"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mt Fujiyama in Japan has ...... Volcanoes.",
+        "options": [
+            "Active",
+            "Extinct",
+            "Dormant",
+            "Silent"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Extensive plateaus can be formed because of ...... movement.",
+        "options": [
+            "Slow movement",
+            "Sudden movement",
+            "Volcanoes",
+            "Vertical"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The magnitude of the earthquake is the highest at the ......",
+        "options": [
+            "Epicenter",
+            "Circumference",
+            "Focus",
+            "Surface"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The most destructive waves are ...... waves.",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Surface",
+            "Tertiary"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The formation of extensive plateaus is the result of ...... movement.",
+        "options": [
+            "Mountain building",
+            "Continent building",
+            "Horizontal",
+            "Vertical"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When waves divert from each other they create ......",
+        "options": [
+            "Tension",
+            "Compression",
+            "Mountain",
+            "Valley"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Primary waves Travel at a very fast speed from the focus of the earthquake in ...... direction.",
+        "options": [
+            "Radial",
+            "Perpendicular",
+            "Rectangular",
+            "Straight"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The effect of folding is seen in ...... rocks.",
+        "options": [
+            "Soft",
+            "Hard",
+            "Semi-hard",
+            "Sandy"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "...... Is Transferred from the interior of the earth.",
+        "options": [
+            "Molten",
+            "Rocks",
+            "Energy",
+            "Lava"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Earthquakes and Volcanoes occur because of the instability in the ...... of the earth.",
+        "options": [
+            "Exterior",
+            "Interior",
+            "Surface",
+            "Mantle"
+        ],
+        "answer": 1
+    }
+]

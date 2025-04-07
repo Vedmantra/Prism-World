@@ -1,0 +1,182 @@
+[
+    {
+        "question": "............... fishing is not developed in Brazil.",
+        "options": [
+            "Inland",
+            "Open sea",
+            "Marine"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Providing boarding and lodging fall under …………… activity.",
+        "options": [
+            "Tertiary",
+            "Primary"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "In which sector Brazil has not invested in India?",
+        "options": [
+            "Mining",
+            "IT",
+            "Biofuels",
+            "Auto sector"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Name the occupation which gives boost to economic development of a country",
+        "options": [
+            "Agriculture",
+            "Tertiary",
+            "Forestry"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "The per capita income of India is high",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Khadi Industry requires ……………. raw material.",
+        "options": [
+            "Cotton",
+            "Jute",
+            "Silk"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Name the 2 main crops of Brazil.",
+        "options": [
+            "Rice – Maize",
+            "Coffee-tobacco",
+            "Soyabean-rice"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Gujarat and Rajasthan produce bulk of ............... in the country",
+        "options": [
+            "Salt",
+            "Spices",
+            "Pickles"
+        ],
+        "answer":1
+    },
+    {
+        "question": "Excellent fishing ground is available in ............... Atlantic ocean",
+        "options": [
+            "North",
+            "Eastern",
+            "South"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "dentify the correct group.The states with most of the reserves of metallic minerals",
+        "options": [
+            "Gujarat - Rajasthan - Tamil Nadu",
+            "Jharkhand - Orissa - Madhya Pradesh",
+            "Rajasthan - Maharashtra - Punjab"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Cuddapah stones are found in ...............",
+        "options": [
+            "Madhya Pradesh",
+            "Andhra Pradesh",
+            "Himachal Pradesh"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Name the following group of fruits.Bananas, pineapples, oranges, citrus fruits",
+        "options": [
+            "Tropical",
+            "Temperature",
+            "Mediterranean"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Extraction of sugar cane juice is ............... activity.",
+        "options": [
+            "Secondary",
+            "Primary",
+            "Tertiary"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Fishing is carried out in Brazil with ............... techniques.",
+        "options": [
+            "Primitive",
+            "Modern",
+            "Traditional"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "............... fishing is carried out in rivers, canals irrigation channels Tanks and ponds.",
+        "options": [
+            "Open-sea",
+            "Inland",
+            "Marine"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Fish terms an important part of the diet people living in ............... Areas",
+        "options": [
+            "Coastal",
+            "Centra",
+            "Plateau"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Along with fertile soil with other factor is important for agriculture",
+        "options": [
+            "Water",
+            "Seeds",
+            "Climate"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Identify the correct group:The refineries situated close to petroleum producing areas",
+        "options": [
+            "Koyali - Digboi - Noonmati",
+            "Mathura - Barauni - Digboi",
+            "Koyali - Barauni - Mathura"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Identify the continent whose countries are not the member of BRICS.",
+        "options": [
+            "South America",
+            "North America",
+            "Asia",
+            "Africa"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "In ............... Economy public and private sectors co-exists",
+        "options": [
+            "Mixed",
+            "Capital",
+            "Socialist"
+        ],
+        "answer":1 
+    }
+]

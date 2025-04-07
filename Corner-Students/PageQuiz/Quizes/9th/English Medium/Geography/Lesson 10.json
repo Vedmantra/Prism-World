@@ -1,0 +1,290 @@
+[
+    {
+        "question": "Migrated people generally come to urban areas for ............... but do not get it.",
+        "options": [
+            "Good living",
+            "Employment",
+            "Higher standard",
+            "Recreation"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cultural and social customs and traditions are ............... as the people from different parts, live together in cities.",
+        "options": [
+            "Shared",
+            "Exchanged",
+            "Updated",
+            "Increased"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In 19th century ............... grew rapidly because of textile mills.",
+        "options": [
+            "Surat",
+            "Mumbai",
+            "Ahmedabad",
+            "Thane"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Modern agriculture is carried out with the help of ...............",
+        "options": [
+            "Tools",
+            "Bullocks",
+            "Machines",
+            "Manpower"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "State true of false Modern Technology and Technological facilities improve the standard of living.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Dealing with ............... pollution is the big problem for cities during public celebrations.",
+        "options": [
+            "Air",
+            "Water",
+            "Noise",
+            "Smoke"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Complete the statement: Migrated people do not get jobs so they fall for antisocial activities like ...............",
+        "options": [
+            "Education",
+            "Burglaries",
+            "Entertainment",
+            "Scuffles"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The ............... of the people of the village has started changing",
+        "options": [
+            "Life style",
+            "Occupation",
+            "Habits",
+            "Standard"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "............... railways has brought many villages in Ratnagiri district to their proximity.",
+        "options": [
+            "Konkan",
+            "Western",
+            "Southern",
+            "Northern"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "............... consumes lots of Travelling time",
+        "options": [
+            "Transport",
+            "Pollution",
+            "Traffic-Jam",
+            "Signals"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The ............... are increasing in the cities which cause antisocial problems.",
+        "options": [
+            "Slums",
+            "Settlement",
+            "Huts, traffic-jam",
+            "Traffic jam"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Every individual should table his or her vehicle to control the traffic-jam - say True or False correct it",
+        "options": [
+            "False - Transport",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": "Provides public services to the villages.",
+        "options": [
+            "District",
+            "Municipal Council",
+            "Gram-Panchayat",
+            "Municipal Corporation"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Services like medical, food, hospital, recreation change the life in the ...............",
+        "options": [
+            "Villages",
+            "Regions",
+            "Cities",
+            "Towns"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Circle the odd one out.",
+        "options": [
+            "Industrialisation",
+            "Mechanisation",
+            "Urbanisation",
+            "Migration, (Pollution)"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "State True or False High-rise building solve the problem of land use in big cities.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "............... is centrally located in India.",
+        "options": [
+            "Bhopal",
+            "Nagpur",
+            "Ranchi",
+            "Surat"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The growth of business complexes, banks, credit societies cold storage are important for ...............",
+        "options": [
+            "Growth",
+            "Development",
+            "Trade",
+            "Technology"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Population census is carried out after every .............. years.",
+        "options": [
+            "5",
+            "10",
+            "3",
+            "15"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Circle the odd one out :",
+        "options": [
+            "Drinking water",
+            "Roads",
+            "Street light",
+            "Recreation"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Patients and their family members come from different parts for ............... facilities in  urban area.",
+        "options": [
+            "Educational",
+            "Medical",
+            "Cultural",
+            "Recreational"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In urban area the density of settlement should be more than ............... person per sq",
+        "options": [
+            "500",
+            "300",
+            "400",
+            "200"
+        ],
+        "answer": 3 
+    },
+    {
+        "question": "say true or false ; if false correct it.Mumbai grew rapidly because of bollywood.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": "The main occupation of rural areas is ...............",
+        "options": [
+            "Cattle rearing",
+            "Carpentry",
+            "Agriculture",
+            "Pottery"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The development and concentration of industries in a region leads to ...............",
+        "options": [
+            "Pollution",
+            "Urbanisation",
+            "Globalisation",
+            "Mechanisation"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The ............... of India carry out the survey of population",
+        "options": [
+            "Research",
+            "Census",
+            "Government",
+            "Authority"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Convergence of important rail routes through ............... led to rapid growth.",
+        "options": [
+            "Ratlam",
+            "Bhusawal",
+            "Vadodara",
+            "Nashik"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Law and order issues bring pressure on ............... and ............... system",
+        "options": [
+            "Government",
+            "Police, judicial",
+            "N.G.O's",
+            "Judicial"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "............. has adversely affected the life of the people.",
+        "options": [
+            "Germany",
+            "Pollution",
+            "Employment",
+            "Slums"
+        ],
+        "answer": 2 
+    },
+    {
+        "question": "Moving from one place to another is called .............",
+        "options": [
+            "Migration",
+            "Exchange",
+            "Trade",
+            "Bargain"
+        ],
+        "answer": 1
+    }
+]

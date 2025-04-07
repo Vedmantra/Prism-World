@@ -1,0 +1,449 @@
+[
+    {
+        "question": "The C.G.S.unit of force is ............... .",
+        "options": [
+            "Newton",
+            "Joule",
+            "Dyne",
+            "Erg"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A body covers a distance of 50km in 60min, its average speed is equal to ...............",
+        "options": [
+            "1km/hr",
+            "5km/hr",
+            "50km/hr",
+            "None of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A car travelling on a road having curves is an example of ............... motion.",
+        "options": [
+            "Uniform motion",
+            "Non-uniform motion"        ],
+        "answer":2 
+    },
+    {
+        "question": "When you look at the speedometer in a moving car, you can see the car’s ...............",
+        "options": [
+            "Average distance travelled",
+            "Instantaneous acceleration",
+            "Instantaneous speed",
+            "Average speed"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Average speed",
+        "options": [
+            "3x 10 m/s",
+            "3x 10 m/s"        ],
+        "answer":2 
+    },
+    {
+        "question": "Displacement is a ............... quantity.",
+        "options": [
+            "Scalar",
+            "Vector",
+            "Tensor",
+            "Fundamental"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Due to the action of the ............... forces, there is no change in the state of rest or of uniform motion of abody in a straight line.",
+        "options": [
+            "Balanced",
+            "Unbalanced",
+            "Circular",
+            "Inclined"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Momentum of a body is directly proportional to ............... .",
+        "options": [
+            "Velocity",
+            "Time",
+            "Inertia",
+            "Acceleration"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The rate of change of momentum is inversely proportional to the applied force.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "A car moving with a speed of 50km/hr is an example of ............... motion.",
+        "options": [
+            "Uniform motion",
+            "Non-uniform motion"        ],
+        "answer":1 
+    },
+    {
+        "question": "A coin placed on a card (rested at the edges of the glass) remains at rest because of ................ .",
+        "options": [
+            "Inertia of rest",
+            "Two forces act on the coin which balance each other",
+            "No unbalanced force acts on it",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": " The rest state and motion of the body are ............... .",
+        "options": [
+            "Non relative",
+            "Not related",
+            "Relative",
+            "None of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What do you get by the product of mass and velocity?",
+        "options": [
+            "Force",
+            "Inertia",
+            "Momentum",
+            " Acceleration"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "1 dyne = ................ .",
+        "options": [
+            "1 kg × 1 cm/s ",
+            " 1 g × 1 cm/s  ",
+            "1 g × 1 cm/s ",
+            " 1 g × 1 m/s ."
+        ],
+        "answer": 3
+    },
+    {
+        "question": " What is the initial velocity of the object?",
+        "options": [
+            "0m/s",
+            "8m/s",
+            "56m/s",
+            "0m/s"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "The velocity of a body changes when ...............  but speed is kept constant .",
+        "options": [
+            "Distance changes",
+            "Direction changes"        ],
+        "answer":2 
+    },
+    {
+        "question": "Change in momentum is explained by ...............",
+        "options": [
+            "Newton’s first law of motion",
+            "Newton’s law of gravitation ",
+            "Newton’s third law of motion ",
+            "Newton’s second law of motion"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The direction of momentum is same as that of velocity",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "If a ball is thrown vertically upwards its final velocity is zero.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": "If the velocity of the object does not change with time, the acceleration is ..................",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero"        ],
+        "answer": 3
+    },
+    {
+        "question": "The acceleration in a body is due to ...............",
+        "options": [
+            "Balanced force",
+            "Unbalanced force",
+            "Mass",
+            "Electrostatic force"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If an object is moving with a uniform velocity, ............... ",
+        "options": [
+            "Its speed remains the same but direction of motion changes",
+            "Its speed and direction of motion remains the same",
+            "Its speed changes while direction of motion remains the same.",
+            "Its speed and direction of motion changes"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "How long will an object remain at rest, according to Newton’s first law of motion?",
+        "options": [
+            "It can’t rest",
+            "Until an external unbalanced force acts on it.",
+            "Until a balanced force acts on it.",
+            "Until gravity acts on it."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The formula for acceleration is",
+        "options": [
+            "v-u/t",
+            "v+u/t ",
+            "v+u",
+            "s/t"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "If the velocity changes by unequal amounts in equal time intervals, the object is said to be in ............... .",
+        "options": [
+            "Uniform acceleration",
+            "Non-uniform acceleration"        ],
+        "answer": 2
+    },
+    {
+        "question": "Newton’s first law of motion explains ................",
+        "options": [
+            "Momentum",
+            "Force",
+            "Acceleration",
+            "Inertia"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "An object will continue to accelerate until ...............",
+        "options": [
+            "The resultant force begins to decrease",
+            "The resultant force is zero",
+            "The velocity changes direction",
+            "The resultant force on it is increased continuously"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The unit of speed is ...............",
+        "options": [
+            "m/s",
+            "s",
+            "kg",
+            "Hour"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The motion of artificial satellite around the earth is an example of circular motion.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "If an object covers ............... distance in ............... time intervals, it is said to be moving with uniform speed. ",
+        "options": [
+            "Equal, equal",
+            "Equal, unequal",
+            "Unequal, equal",
+            "Unequal, unequal"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The C.G.S. unit of force is newton",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "If same amount of force is applied for certain intervals of time ‘t’ on two bodies having different masses, then each body acquires ............... after time ‘t’",
+        "options": [
+            "Same acceleration",
+            "Same momentum",
+            "Same velocity",
+            "Same speed"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "if the Velocity-time graph is a straight line with respect to  time(on X-axis). What type of a motion is it?",
+        "options": [
+            "Uniform accelerated",
+            "Uniform velocity",
+            "Uniform speed",
+            "Non-uniform acceleration"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "If the displacement of an object is zero, the actual distance traversed by it is always zero.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2 
+    },
+    {
+        "question": "The formula of Force is ............... .",
+        "options": [
+            "Mass × Velocity",
+            "Mass × Acceleration",
+            "Velocity × Time",
+            "Speed × Acceleration"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When a body changes its position in a certain direction with respect to the surrounding, the body is said to be in ............... with respect to the surrounding",
+        "options": [
+            "Force",
+            "Motion",
+            "Momentum",
+            "Distance"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Although the forces of action and reaction are equal in magnitude & opposite in direction, they do not cancel each other because ............... .",
+        "options": [
+            "They act on the same body ",
+            "They act on circular bodies ",
+            "They act at different time intervals on same body",
+            "They act on different bodies"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The rate of change of velocity is called ............... .",
+        "options": [
+            "Acceleration",
+            "Force"        ],
+        "answer": 1
+    },
+    {
+        "question": "The physical quantity which is the measure of inertia is ...............",
+        "options": [
+            "Density",
+            "Weight",
+            "Force",
+            "Mass"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "A force of 280 N produces an acceleration of 7 m/s . If the same body is accelerated by 2 m/s on application of a certain force, the magnitude of force is ...............",
+        "options": [
+            "8 N",
+            "0.8 N",
+            "800 N",
+            "80 N"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "inertia of a body depends upon the ............... of the body.",
+        "options": [
+            "Mass",
+            "Velocity",
+            "Force",
+            "Momentum"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If an object covers ............... distance in .............. time intervals, it is said to be moving with non-uniform speed",
+        "options": [
+            "Equal, equal",
+            "Equal, unequal",
+            "Unequal, unequal"        ],
+        "answer": 1
+    },
+    {
+        "question": "If a body changes its position with respect to the surroundings, it is said to be at .............. .",
+        "options": [
+            "Distance",
+            "Position",
+            "Rest",
+            "Motion"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "A car starts from rest and covers a distance of 100m in one second with uniform acceleration. Its acceleration is",
+        "options": [
+            "100m/s",
+            "50m/s2",
+            "200m/s",
+            "100m/s"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "............... is a scalar quantity.",
+        "options": [
+            "Force",
+            "Speed",
+            "Velocity",
+            "Displacement"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The total ............... of a system of bodies remains constant, if no external forces act on the system.",
+        "options": [
+            "Force",
+            "Mass",
+            "Velocity",
+            "Momentum"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "If an object covers unequal distances in equal intervals of time, it is said to be moving with ............... .",
+        "options": [
+            "Uniform speed ",
+            "Uniform velocity",
+            "Acceleration",
+            "Non-uniform speed"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "The rate of change of momentum of an object is proportional to ................ ",
+        "options": [
+            "Mass of the body",
+            "Velocity of the body",
+            "Net force applied on the body",
+            "None of these"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The velocity of a body changes when Change both ............... and ............... .",
+        "options": [
+            "Speed & direction",
+            "Speed & distance"        ],
+        "answer": 1
+    }
+]

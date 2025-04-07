@@ -1,0 +1,377 @@
+[
+    {
+        "question": "Each responsible citizen should follow the 4R principle.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Glass is a slow conductor of heat.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Materials that do not degrade naturally are called as ............... materials.",
+        "options": [
+            "Degradable",
+            "Non-degradable"        ],
+        "answer":2 
+    },
+    {
+        "question": "Glass being ..............., most of the light passes through it.",
+        "options": [
+            "Transparent",
+            "Opaque"        ],
+        "answer":1 
+    },
+    {
+        "question": "Any one natural materials.",
+        "options": [
+            "Plastic",
+            "Glass",
+            "Jute"        ],
+        "answer":3 
+    },
+    {
+        "question": "A form of a complex material called polystyrene.",
+        "options": [
+            "Teflon",
+            "Thermocol"        ],
+        "answer": 2
+    },
+    {
+        "question": "Liquid styrene may cause ................",
+        "options": [
+            "Cancer",
+            "Skin burns"        ],
+        "answer":2
+    },
+    {
+        "question": "Materials that are manufactured in the factories are called as ............... materials.",
+        "options": [
+            "Natural",
+            "Manmade"        ],
+        "answer":2 
+    },
+    {
+        "question": "If food kept in Thermocol is reheated, ............... may dissolve in the food.",
+        "options": [
+            "Poisonous gases",
+            "Styrene"        ],
+        "answer":2 
+    },
+    {
+        "question": ".............. glass bottles are usually used to store medicinal syrups to prevent their photodegradation.",
+        "options": [
+            "Laminated safety",
+            "Colourless",
+            "Amber coloured",
+            "Teflon coated"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " a type of pure glass useful in production of microscopic lenses",
+        "options": [
+            "Optical glass",
+            "Borosilicate glass",
+            "Lead glass"        ],
+        "answer":1 
+    },
+    {
+        "question": "Being a bad conductor of electricity, glass is used as ............... in electrical appliances.",
+        "options": [
+            "Conductor",
+            "Insulator"        ],
+        "answer":2 
+    },
+    {
+        "question": "Materials obtained directly from the nature are called as ............... materials",
+        "options": [
+            "Natural",
+            "Manmade"        ],
+        "answer":1 
+    },
+    {
+        "question": "Depending upon the properties of silica and other components in the glass, there are different types of glass.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Materials that degrade naturally are called as ............... materials",
+        "options": [
+            "Degradable",
+            "Non-degradable"        ],
+        "answer":1 
+    },
+    {
+        "question": "Another name for alkali silicate glass",
+        "options": [
+            "Lead glass",
+            "Water glass",
+            "Fiber glass"        ],
+        "answer":2 
+    },
+    {
+        "question": "Plastic can be molded into any shape due to its property of elasticity.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer":2 
+    },
+    {
+        "question": "Find the odd one out.",
+        "options": [
+            "Plastic",
+            "Thermocol",
+            "Glass",
+            "Paper"
+        ],
+        "answer":4 
+    },
+    {
+        "question": ".............. is a natural material.",
+        "options": [
+            "Glass",
+            "Metals",
+            "Minerals"        ],
+        "answer": 3
+    },
+    {
+        "question": "Thermocol being a good shock-absorber, it is used in packing of delicate items.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Carcinogenic ingredient in Thermocol that causes blood cancer.",
+        "options": [
+            "Styrene",
+            "Silicate"        ],
+        "answer": 2
+    },
+    {
+        "question": "Plastics vessels are used to cook food in microwave",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Silica glass: Laboratory glass ware:: Lead glass: ...............",
+        "options": [
+            "Lenses",
+            "Light bulbs"        ],
+        "answer":2 
+    },
+    {
+        "question": "Cloth bag: Degradable:: Plastic bag: ...............",
+        "options": [
+            "Biodegradable",
+            "Non-degradable"        ],
+        "answer":2 
+    },
+    {
+        "question": "A manmade material made up of organic ............... is plastic.",
+        "options": [
+            "Chemicals",
+            "Polymers",
+            "Fibers"        ],
+        "answer":2 
+    },
+    {
+        "question": "The degradation period of fruits and vegetables peels is 1-2weeks.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1
+    },
+    {
+        "question": "The plastic that cannot be molded into another shape once a specific shape is given is called as ................",
+        "options": [
+            "Thermosetting plastic",
+            "Thermoplastic"        ],
+        "answer":1 
+    },
+    {
+        "question": "Plastic is not easily affected by humidity, rain and heat.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "In the 4-R principle, Recycle means to use again after processing.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer":2 
+    },
+    {
+        "question": "Borosilicate glass: Store medicines:: Optical glass: ...............",
+        "options": [
+            "Lenses",
+            "Light bulbs"        ],
+        "answer":1 
+    },
+    {
+        "question": "The manmade material, plastic is obtained by refining of ............... .",
+        "options": [
+            "Sand",
+            "Crude oil",
+            "Limestone",
+            "Metal oxide"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Cotton cloth is a non-degradable material",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2 
+    },
+    {
+        "question": "Thermocol melts at ............... C.",
+        "options": [
+            "100",
+            "101",
+            "110"        ],
+        "answer":1 
+    },
+    {
+        "question": "Some parts of plastics are used for assembling parts of airplane",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Plastic is a good conductor of heat and electricity.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer":1 
+    },
+    {
+        "question": "............ glass is produced using silica",
+        "options": [
+            "Silica",
+            "Borosilicate",
+            "Alkali silicate"        ],
+        "answer":1 
+    },
+    {
+        "question": "Out the following, which is non-biodegradable?",
+        "options": [
+            "Vegetable peels",
+            "Cotton",
+            "Plastic bags",
+            "Jute"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Syringes used in hospitals are made up of ............... .",
+        "options": [
+            "Metal",
+            "Wood",
+            "Plastic",
+            "Paper"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "The maximum degradation period for wood is ............... ",
+        "options": [
+            "1 - 2 weeks",
+            "100 years",
+            "12 months",
+            "10 - 15 years"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Which of the following is not a common property of plastic ?",
+        "options": [
+            "Non-reactive",
+            "Light in weight",
+            "Durable",
+            "Good conductor of electricity"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "PVC are used for manufacturing the toys.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Glass is the ..............., hard but brittle solid material formed from silica and silicate.",
+        "options": [
+            "Crystalline",
+            "Non-crystalline"        ],
+        "answer":2 
+    },
+    {
+        "question": "Plastic that can be molded as per our wish is called as ..............",
+        "options": [
+            "Thermosetting plastic",
+            "Thermoplastics"        ],
+        "answer": 2
+    },
+    {
+        "question": "A transparent glass used in manufacturing of electric bulbs.",
+        "options": [
+            "Silica glass",
+            "Borosilicate glass",
+            "Lead glass"        ],
+        "answer":3 
+    },
+    {
+        "question": "Glass is a degradable material.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer":1 
+    },
+    {
+        "question": "The density of glass depends on its ................",
+        "options": [
+            "Silica",
+            "Ingredients"        ],
+        "answer":2 
+    },
+    {
+        "question": "Chemically, sand is ............... .",
+        "options": [
+            "CO2",
+            "SiO 2",
+            "MgO",
+            "Al O 2 3"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Any one man-made materials",
+        "options": [
+            "Cotton",
+            "Wood",
+            "Nylon"        ],
+        "answer":3 
+    },
+    {
+        "question": "Plastic is a ............... material.",
+        "options": [
+            "Degradable",
+            "Non-degradable"   ]
+    }
+]

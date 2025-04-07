@@ -1,0 +1,382 @@
+
+[
+    {
+        "question": "Resurgence is a stage used for the welfare and ...... of the nation.",
+        "options": [
+            "Settlement",
+            "Construction",
+            "Rehabilitation",
+            "Benefit"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "...... to the disaster is to be given immediately after the incidence.",
+        "options": [
+            "Aid",
+            "Cure",
+            "Response",
+            "Reply"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "People reconstruct their buildings and facilities like roads and water supply are restored in ...... phase.",
+        "options": [
+            "Phase of emergency",
+            "Reconstruction phase",
+            "Transitional phase"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Variously dangerous events occur many times in the environment. Those are called as ......",
+        "options": [
+            "Disasters",
+            "Accidents",
+            "Incidents",
+            "Problems"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "......is a practice to check the preparedness of facing the disaster as early as possible.",
+        "options": [
+            "Disaster test",
+            "D-drill",
+            "Mock Drill"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Tell the cause in the picture below:",
+        "options": [
+            "Erosion",
+            "Improper maintenance",
+            "Water clogging",
+            "Plague"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Give the example of Catastrophic disaster.",
+        "options": [
+            "Cyclones",
+            "Strikes of workers",
+            "Rising levels of oceans",
+            "Esterification"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Categorize the following steps in a) pre-disaster management or b) post-disaster management Increasing awareness about disaster management among the general public through training programmes, mass media etc.",
+        "options": [
+            "Pre disaster management",
+            "Post disaster management"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the sign.",
+        "options": [
+            "Flammable material",
+            "Explosive material",
+            "Toxic material",
+            "Corrosive material"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Production and use of harmful chemicals is under ...... in developed countries.",
+        "options": [
+            "Production",
+            "Support",
+            "Ban",
+            "Generation"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which isn’t the aspect of disaster for common citizens?",
+        "options": [
+            "Phase of emergency",
+            "Transitional phase",
+            "Phase of reconstruction",
+            "Phase of medical support"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Disaster management can be divided into two parts ...... and ......",
+        "options": [
+            "Pre-disaster management, Post-disaster management",
+            "Pro- disaster management, Post-disaster management",
+            "Pre- disaster management, Pro-disaster management",
+            "Before- disaster management, Pre-disaster management"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Some of the main ...... disasters are floods, wet and dry famine, cyclones, earthquakes, volcanoes, etc. These are ‘all of a sudden’ troubles to the mankind.",
+        "options": [
+            "Artificial",
+            "Man-made",
+            "Natural"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Match the following: Search and rescue operations, Monetary offers to victim, Water supply reconstructed with Phase of emergency, Transitional phase, Reconstruction phase.",
+        "options": [
+            "Search and rescue operations - Phase of emergency, Monetary offers to victim - Transitional phase, Water supply reconstructed - Reconstruction phase",
+            "Search and rescue operations - Transitional phase, Monetary offers to victim - Reconstruction phase, Water supply reconstructed - Phase of emergency",
+            "Search and rescue operations - Reconstruction phase, Monetary offers to victim - Phase of emergency, Water supply reconstructed - Transitional phase"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Man made (unknown) disaster.",
+        "options": [
+            "Hepatitis",
+            "Meteorites",
+            "Poisonous gases",
+            "Weed"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Disaster which are caused due to use of natural resources",
+        "options": [
+            "Natural",
+            "Man-made",
+            "Prolonging",
+            "Resourceful"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Collapsing of houses, developing cracks in land are some of the effects of ......",
+        "options": [
+            "Earthquake",
+            "Flooding",
+            "Cyclones",
+            "Alkalization"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Match the following: Terrorism, Floods, Weeds, Malaria with Plants, Man-made, Animals, Atmospheric.",
+        "options": [
+            "Terrorism - Man-made, Floods - Atmospheric, Weeds - Plants, Malaria - Animals",
+            "Terrorism - Plants, Floods - Atmospheric, Weeds - Man-made, Malaria - Animals",
+            "Terrorism - Man-made, Floods - Plants, Weeds - Atmospheric, Malaria - Animals"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Categorize the following steps in a) pre-disaster management or b) post-disaster management Collecting the information about intensity of disaster and probable sites of disasters through predictive intensity maps and hazard maps respectively",
+        "options": [
+            "Pre disaster management",
+            "Post disaster management"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Geophysical ( geological) disaster.",
+        "options": [
+            "Earth quakes",
+            "Floods",
+            "Snow storms",
+            "Plague"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... divisions of National Disaster Response Force are working in the country.",
+        "options": [
+            "12",
+            "29",
+            "28",
+            "7"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mock drill includes which of the following activities?",
+        "options": [
+            "Demonstrations like extinguishing the fire",
+            "Rescuing the people trapped at higher floors of buildings",
+            "Rescuing the persons whose clothing have cached the fire",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Collapsing of bridges, flooding of coastal villages, shortage of food are some of the problems of ......",
+        "options": [
+            "Endemic",
+            "Floods.",
+            "Plague",
+            "Erosion"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In case of any disasters in school what all should be followed? Do not touch any ...... object.",
+        "options": [
+            "Known",
+            "Claimed",
+            "Unclaimed"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Geophysical (atmospheric) disaster.",
+        "options": [
+            "Tsunami",
+            "Malaria",
+            "Hot and cold waves",
+            "Volcano"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In case of any disasters in school what all should be followed? Follow the ...... rules. Look at left and right sides while crossing the road and ensure that any vehicle in not passing by.",
+        "options": [
+            "Traffic",
+            "Crossing",
+            "Road"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In case of any disasters in school what all should be followed? Do not make chaos at the ...... places.",
+        "options": [
+            "Open",
+            "Empty",
+            "Crowded"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "...... is an important link between emergency measures and national progress.",
+        "options": [
+            "Reliance",
+            "Resurgence",
+            "Reassurance"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... is an important link between measures after disaster and national development, and is useful for progress of nation and rehabilitation.",
+        "options": [
+            "Restoration",
+            "Prevention",
+            "Reassurance"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Biological (plants) disaster.",
+        "options": [
+            "Atomic bomb testing",
+            "Cholera",
+            "Landslides",
+            "Fungal disease spreading, weed"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Environment is also damaged due to use of natural resources for our development. This leads to sudden disasters, unexpected to humans. These can be called as ...... disasters.",
+        "options": [
+            "Natural",
+            "Man-made",
+            "Resource"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "An example of radiation leakage ......",
+        "options": [
+            "India",
+            "Russia",
+            "USA",
+            "Canada"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Observe the following images and tell the disaster.",
+        "options": [
+            "Floods",
+            "Earthquakes",
+            "Malaria",
+            "Weed"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Impact of disaster implies ...... of disaster.",
+        "options": [
+            "Prevention",
+            "Intensity",
+            "Reason"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Give the example of Most commonly occurring natural disaster.",
+        "options": [
+            "Desertification",
+            "Wet and dry famine",
+            "Cyclones",
+            "Plagues"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The disaster management authority that is in contact with direct public is ......",
+        "options": [
+            "Village level Committee",
+            "Sarpanch",
+            "Branch committee"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Match the following: Hepatitis, Fungal infection, Earthquakes, Wars with Geological, Man-made, Plants, Animals.",
+        "options": [
+            "Hepatitis - Animals, Fungal infection - Plants, Earthquakes - Geological, Wars - Man-made",
+            "Hepatitis - Geological, Fungal infection - Plants, Earthquakes - Animals, Wars - Man-made",
+            "Hepatitis - Animals, Fungal infection - Man-made, Earthquakes - Geological, Wars - Plants"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Match the following: Partial or complete collapsing of buildings, Death of victims, Sudden increase in fund expenditure, Collapsing transport system with Medical, Economic, Environmental, Administrative.",
+        "options": [
+            "Partial or complete collapsing of buildings - Environmental, Death of victims - Medical, Sudden increase in fund expenditure - Economic, Collapsing transport system - Administrative",
+            "Partial or complete collapsing of buildings - Medical, Death of victims - Environmental, Sudden increase in fund expenditure - Administrative, Collapsing transport system - Economic",
+            "Partial or complete collapsing of buildings - Economic, Death of victims - Administrative, Sudden increase in fund expenditure - Environmental, Collapsing transport system - Medical"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Disaster making the impact for long duration or disasters whose frequency increases with time",
+        "options": [
+            "Rising levels of oceans",
+            "Earthquake",
+            "Cyclones",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Categorize the following steps in a) pre-disaster management or b) post-disaster management Getting special training for disaster management",
+        "options": [
+            "Pre disaster management",
+            "Post disaster management"
+        ],
+        "answer": 1
+    }
+]

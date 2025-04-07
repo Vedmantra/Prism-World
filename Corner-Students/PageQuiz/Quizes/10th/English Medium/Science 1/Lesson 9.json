@@ -1,0 +1,501 @@
+
+[
+    {
+        "question": "Pick the odd option out",
+        "options": [
+            "KMnO₄",
+            "K₂Cr₂O₄",
+            "HNO₃",
+            "C₃H₅O"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Molecular formula for ethanol is",
+        "options": [
+            "C₂H₅OH",
+            "C₂H₆OH",
+            "C₂H₀OH",
+            "C₃H₆O"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... and ...... are the two important types of compounds.",
+        "options": [
+            "Metallic, Non-metallic",
+            "Organic, Inorganic",
+            "Solid, Liquid",
+            "Ionic, Non-Ionic"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Covalent bonding is a characteristic feature of carbon.",
+        "options": [
+            "False, carbon has 4 valence electrons",
+            "True, carbon bonds are very strong",
+            "False, ionic bonding is feature of carbon",
+            "True, but it has low stability"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "...... is not an oxidizing agent.",
+        "options": [
+            "Potassium permanganate",
+            "Naphthalene",
+            "Potassium Dichromate",
+            "Sulphuric acid"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Functional Group in alkene is",
+        "options": [
+            "C=C",
+            "-OH",
+            "C=C",
+            "-CH₂⁻"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Alcohol is obtained from process of",
+        "options": [
+            "Disintegration",
+            "Fermentation",
+            "Dispersion",
+            "Degeneration"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Outermost shell of carbon : 4 electrons : Outermost shell of neon : ......",
+        "options": [
+            "2 electrons",
+            "3 electrons",
+            "8 electrons",
+            "6 electrons"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "If C₃H₅ loses two hydrogen atoms twice, it forms",
+        "options": [
+            "C=C",
+            "C-C",
+            "C=C",
+            "H₂-C=C-H₂"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "To attain configuration of He ; Carbon forms",
+        "options": [
+            "C⁴",
+            "C⁴⁺",
+            "C⁴⁻",
+            "4⁰"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Pick the odd one out",
+        "options": [
+            "Chromo",
+            "Oxo",
+            "Bromo",
+            "Iodo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Sulphur ring molecule comprises of ...... atoms",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Simplest example for covalent molecule is ......",
+        "options": [
+            "Hydrogen",
+            "Methane",
+            "Chloroform",
+            "Oxygen"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "KMnO₄ is ...... Coloured solution.",
+        "options": [
+            "Blue",
+            "Pink",
+            "Red",
+            "Green"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Structural isomerism is seen in",
+        "options": [
+            "C₄H₁₀, C₆H₁₀",
+            "C₄H₁₀, C₄H₁₀",
+            "C₆H₁₂, C₆H₁₀",
+            "C₄H₁₀, C₆H₁₂"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "CH₃-OH is formed from – by substituting one hydrogen.",
+        "options": [
+            "Propane",
+            "Butane",
+            "Ethane",
+            "Methane"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Hydrocarbons can easily undergo",
+        "options": [
+            "Dissociation",
+            "Ionization",
+            "Diazotization",
+            "Combustion"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Cyclohexane has ...... Carbon atoms",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In formula CₙH₂ₙ₊₂ ; if n is 7 the compound is",
+        "options": [
+            "Alkane",
+            "Butene",
+            "Heptane",
+            "Heptene"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Due to isomerism number of carbon compounds",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Do no change",
+            "Remain same"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Below 17° C, acetic acid is found in ...... state.",
+        "options": [
+            "Liquid",
+            "Gaseous",
+            "Semisolid",
+            "Solid"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "In low oxygen saturated compounds burn with",
+        "options": [
+            "Blue flame",
+            "Sooty flame",
+            "Yellow flame",
+            "Yellow sooty"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Match the following :",
+        "options": [
+            "(i) - C (ii) - A (iii) - B (iv) - D",
+            "(i) - A (ii) - B (iii) - C (iv) - D"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pick the odd one out",
+        "options": [
+            "Ethanal",
+            "Butanol",
+            "Propanol",
+            "Methanol"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In carboxylic acids – is the hetero atom",
+        "options": [
+            "-O-",
+            "-COOH",
+            "-OH",
+            "-CO-"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Formula for potassium permanganate is",
+        "options": [
+            "K₂CrO₄",
+            "K₂CrO₄",
+            "KMnO₄",
+            "K₄[Fe(CN)₆]"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In alcohol and alkali the number of hydrogen atoms is",
+        "options": [
+            "One less in alcohol",
+            "One more alcohol",
+            "Same in both",
+            "One less in alkane"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "According to nomenclature ; CH₃-CH₂-CH₂-COOH is",
+        "options": [
+            "Butanoic acid",
+            "Butan-4-oic acid",
+            "Propan-1-oic acid",
+            "Propan-4-oic acid"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Three units in Nomenclature are",
+        "options": [
+            "Prefix-parent-suffix",
+            "Suffix-parent-prefix",
+            "Parent-prefix-suffix",
+            "Prefix-suffix-parent"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Ethanol is …………",
+        "options": [
+            "Acidic",
+            "Basic",
+            "Neutral",
+            "Alkaline"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Chlorination of methane continues till formation of",
+        "options": [
+            "Sunlight",
+            "CHCl₃",
+            "CCl₄",
+            "CH₃Cl"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In n-Chloropropane, the functional group is",
+        "options": [
+            "Propyl",
+            "Oxygen",
+            "Nitrogen",
+            "Halogen"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Pick odd one out.",
+        "options": [
+            "Methane",
+            "Ethane",
+            "Butane",
+            "Propane"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cyclopentane has ...... carbon atoms",
+        "options": [
+            "6",
+            "5",
+            "4",
+            "7"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Molecular formula for Nitrogen molecule is ......",
+        "options": [
+            "N",
+            "(N=N)₂",
+            "N₂",
+            "N₃"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Pick the odd option out – with respect to hydrogenation addition of unsaturated hydrocarbons.",
+        "options": [
+            "Heptene",
+            "Hexene",
+            "Butyne",
+            "Propane"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Intermolecular attractive forces are weak in carbon compounds.",
+        "options": [
+            "False, they are stronger in carbon compounds",
+            "True, but they have high boiling points",
+            "False, they form covalent bond",
+            "True, their boiling point is below 300°C"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "...... compounds have comparative high boiling points.",
+        "options": [
+            "Ionic",
+            "Carbon",
+            "Organic",
+            "Covalent"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Ethane has ...... C-H bonds",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "5"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Butane : C₄H₁₀ :: Butanol : ?",
+        "options": [
+            "C₄H₁₀OH",
+            "C₄H₉OH",
+            "C₄H₈OH",
+            "C₄H₆OH"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following statements is right about ammonia ?",
+        "options": [
+            "N-H covalent bonding, 2 covalent bonds",
+            "H-N covalent bonding, 2 covalent bonds",
+            "N-H covalent bonding, 3 covalent bonds",
+            "H-N covalent bonding, 4 covalent bonds"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Saturated carbon compounds burn with – flame",
+        "options": [
+            "Blue sooty",
+            "Yellow sooty",
+            "Clean Yellow",
+            "Clean Blue"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Major constituent of organic compounds is …………..",
+        "options": [
+            "Hydrogen",
+            "Oxygen",
+            "Hydroxy",
+            "Carbon"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "One ethyl alcohol molecule produces – on combining with 3 oxygen molecules",
+        "options": [
+            "CO₂ + 3H₂O",
+            "2CO₂ + 3H₂O",
+            "3CO₂ + 2H₂O",
+            "3CO₂ + 3H₂O"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The number of hydrogen atoms in alkyne and alcohol",
+        "options": [
+            "Same",
+            "Differ by 2",
+            "Differ by 3",
+            "Differ by 4"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "No. of carbon in ethanoic acid is",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "1"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pick the odd option out",
+        "options": [
+            "Alkane",
+            "Alkene",
+            "Alkyne",
+            "Alcohol"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Valency of nitrogen is 3. The number of atoms in Nitrogen molecule is ……………",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Combustion of carbon in presence of oxygen forms",
+        "options": [
+            "C₂",
+            "O₂",
+            "CO₂",
+            "C₂O₂"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Formula for cyclohexane is",
+        "options": [
+            "C₆H₁₀",
+            "C₆H₁₂",
+            "C₄H₆",
+            "C₆H₁₈"
+        ],
+        "answer": 2
+    }
+]

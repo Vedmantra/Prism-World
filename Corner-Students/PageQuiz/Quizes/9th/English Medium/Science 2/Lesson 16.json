@@ -1,0 +1,361 @@
+[
+    {
+        "question": "As there are four types of nitrogenous bases, nucleotides also are of four types.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Character seen in F1 generation is always",
+        "options": [
+            "Recessive",
+            "Dominant",
+            "Incomplete",
+            "Similar to parents"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "DNA stands for ...............",
+        "options": [
+            "Denaturized nucleic acid",
+            "Dioxyribose nucleic acid",
+            "Deribose nucleic acid",
+            "Deoxyribonucleic acid"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Which of the following is not a pyrimidine",
+        "options": [
+            "Uracil",
+            "Cytosine",
+            "Thymine",
+            "Guanine"
+        ],
+        "answer": 4 
+    },
+    {
+        "question": "Genetic material is transferred in equal quantity from parents to progeny",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": "Consumption of tobacco in any form can cause ...............",
+        "options": [
+            "Albinism",
+            "Mitochondrial disorder",
+            "Cancer",
+            "Diabetes"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "............... control the structure and function of the cells of the body.",
+        "options": [
+            "Chromosomes",
+            "Genes",
+            "Ribosomes",
+            "RNA"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Sickle-cell anaemia is a non- hereditary disease.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "Each strand in the molecule of DNA is made up of many small molecules known as ‘...............’.",
+        "options": [
+            "Gene",
+            "Nucleoside",
+            "Nucleotide",
+            "Chromosome"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is a monogenic disorder?",
+        "options": [
+            "Monosomy",
+            "Klinefelter syndrome",
+            "Trisomy",
+            "Cystic fibrosis"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Each rung of the ladder is a pair of nitrogenous bases joined by ............... bonds.",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen",
+            "Phosphoric"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Principles of heredity were given by ............... .",
+        "options": [
+            "Francis Crick",
+            "Watson",
+            "Mendel",
+            "Miescher"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In Turner syndrome, ............... is the cause of the disorder.",
+        "options": [
+            "Trisomy of 21st Chromosome",
+            "Trisomy of 22nd Chromosome",
+            "Monosomy of X chromosome",
+            "Monosomy of Y chromosome"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Harmful effects of smoking are due to the ............... present in tobacco",
+        "options": [
+            "Biotin",
+            "Smoke",
+            "Carbon",
+            "Nicotine"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "How many phenotypes are formed in second filial generation in monohybrid cross?",
+        "options": [
+            "4",
+            "2",
+            "9",
+            "16"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Normal hemoglobin has ............... as the 6th amino acid in its molecular structure.",
+        "options": [
+            "Glutamic acid",
+            "Lysine",
+            "Methanone",
+            "Glycine"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is not an effect Down syndrome?",
+        "options": [
+            "Single horizontal crease on palm",
+            "Scanty hair",
+            "Blurred vision",
+            "Flat nose"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "There is no variation in the size and shape of all the chromosomal pairs.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": "Diseases occurring due to mutation in single gene are",
+        "options": [
+            "Monosomy disorders",
+            "Single genetic disorders",
+            "Monogenic disorders",
+            "Polygenic disorders"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "New progeny is formed through the process of ............... . ",
+        "options": [
+            "Respiration",
+            "Circulation",
+            "Excretion",
+            "Reproduction"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Polygenic disorders do not strictly follow Mendel’s principles of heredity.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": "In sickle cell anemia, the ................ which are normally biconcave become sickle-shaped.",
+        "options": [
+            "Plasma cells",
+            "Platelets",
+            "WBCs",
+            "RBCs"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Number of chromosomes present in a person suffering from Klinefelter syndrome is ...............",
+        "options": [
+            "45",
+            "47",
+            "44",
+            "48"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "............... is the second important nucleic acid of the cell.",
+        "options": [
+            "RNA",
+            "DNA",
+            "Gene",
+            "Protein"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mitochondrial disorder occurs due to mutation in ...............",
+        "options": [
+            "Genetic DNA",
+            "Parental DNA",
+            "Mitochondrial DNA",
+            "Chromosomal DNA"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Diseases can occur due to mutation in single gene.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Human beings have how many chromosomes in their genome?",
+        "options": [
+            "2 pairs",
+            "46 pairs",
+            "22 pairs",
+            "23 pairs"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "3:1 Monohybrid: : 9:3:3:1 : ?",
+        "options": [
+            "Dominant",
+            "Recessive",
+            "Dihybrid",
+            "Multi-Hybrid"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Disorders cannot arise due to mutations in more than one gene.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": "The molecule of RNA which is a component of the ribosome organelle is called a  ............... .",
+        "options": [
+            "hnRNA",
+            "tRNA",
+            "mRNA",
+            "rRNA"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Diseases or disorders occurring due to abnormalities in ............... and mutations in genes are called genetic disorders",
+        "options": [
+            "RNA",
+            "Chromosomes",
+            "Ribosomes",
+            "mRNA"
+        ],
+        "answer": 2 
+    },
+    {
+        "question": "The branch of biology which studies the transfer of characteristics of organisms from one generation to the next, and genes in particular, is called ‘...............’.",
+        "options": [
+            "Biology",
+            "Genetics",
+            "Biotechnology",
+            "Gene"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Transfer of characteristics from parents to offspring is called ............... .",
+        "options": [
+            "Gene",
+            "Gametes",
+            "Heredity",
+            "Trait"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Offspring produced through ............... reproduction, show comparatively greater variations.",
+        "options": [
+            "Sexual",
+            "Asexual",
+            "Budding",
+            "Fission"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In the structure of the nucleotide, a molecule of a nitrogenous base and phosphoric acid are each joined to a molecule of ............... .",
+        "options": [
+            "Protein",
+            "Acid",
+            "Lipid",
+            "Sugar"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "During fertilization, mitochondria are contributed by ...............",
+        "options": [
+            "Female gamete",
+            "Male gamete",
+            "Endosperm",
+            "Male cytoplasm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Based on its ability of expression, genes can be of two types which are",
+        "options": [
+            "Dominant and recessive",
+            "Allosomes and autosomes",
+            "Expressive and non-expressive",
+            "True gene and pseudo gene"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following are called ‘Master Molecules’?",
+        "options": [
+            "Chromosomes",
+            "Nucleotide",
+            "mRNA",
+            "DNA"
+        ],
+        "answer": 4
+    }
+]

@@ -1,0 +1,327 @@
+
+[
+    {
+        "question": "During cell division in meiosis, crossing over occurs between the homologous chromosomes.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A balanced diet is important to keep the body strong and healthy.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The part of the cell associated with heredity.",
+        "options": [
+            "Centrioles",
+            "Chromosomes"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The process in cell metabolism by which carbohydrates and sugars, especially glucose, are broken down step wise, producing ATP and pyruvic acid.",
+        "options": [
+            "Cellular respiration",
+            "Glycolysis"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "An enzyme RUBISCO present in the plant ...... is most abundant protein found in nature.",
+        "options": [
+            "Cell wall",
+            "Chloroplasts"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Glucose is incompletely oxidized and less amount of energy is obtained in ...... type of respiration.",
+        "options": [
+            "Aerobic",
+            "Anaerobic"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The process of glycolysis occurs in ......",
+        "options": [
+            "Cytoplasm",
+            "Mitochondria"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Vitamin A, D, E and K are water soluble.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Asexual reproduction is accomplished through mitosis.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In meiosis, all the four daughter cells are genetically different from parent cell.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The electron transfer chain reaction is operated only in ......",
+        "options": [
+            "Cytoplasm",
+            "Mitochondria"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The stage when chromosomes arrange at equator.",
+        "options": [
+            "Metaphase",
+            "Anaphase"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Our muscles also perform ...... respiration while performing the exercise.",
+        "options": [
+            "Aerobic",
+            "Anaerobic"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A molecule of glucose is completely oxidized in ...... respiration.",
+        "options": [
+            "Aerobic",
+            "Anaerobic"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Vitamins are a group of heterogeneous compounds essential for proper operation of various processes in the body.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Seeds perform ...... respiration if the soil is submerged under water during germination.",
+        "options": [
+            "Aerobic",
+            "Anaerobic"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The molecules called phospholipids are essential for producing cytoplasm.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mitosis is completed through two main steps namely Karyokinesis and Cytokinesis.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Proteins are the ...... formed by bonding together many amino acids.",
+        "options": [
+            "Macromolecules",
+            "Micro molecules"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A biochemical process in which the simple nutrients like glucose are oxidized within the cells to release energy.",
+        "options": [
+            "Cellular respiration",
+            "Aerobic respiration",
+            "Anaerobic respiration"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If there is insufficient amount of carbohydrates in the body, then ......and ...... are used for energy production.",
+        "options": [
+            "Lipids and fats",
+            "Lipids and proteins"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The type of cell division present in unicellular organisms.",
+        "options": [
+            "Mitosis",
+            "Meiosis"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The kind of division that takes place in reproductive tissues.",
+        "options": [
+            "Mitosis",
+            "Meiosis"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The process by which the replacement of dead cells is accomplished.",
+        "options": [
+            "Mitosis",
+            "Meiosis"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Vitamin B₂: riboflavin:: Vitamin B₅: ......",
+        "options": [
+            "Nicotinamide",
+            "Thiamine"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The ...... type of cellular respiration performs complete oxidation of glucose.",
+        "options": [
+            "Aerobic",
+            "Anaerobic"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Excess of amino acids are not stored in the body but broken down and the ammonia formed is eliminated from the body.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... and ...... are two steps of anaerobic respiration.",
+        "options": [
+            "Glycolysis and Fermentation",
+            "Tricarboxylic acid cycle and Electron transfer chain reaction"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "NADH₂: Nicotinamide Adenine dinucleotide:: FADH₂: ......",
+        "options": [
+            "Flavin adenine dinucleotide",
+            "Flavin adenosine dinucleotide"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "As per the need, energy is obtained by breaking the phosphate bond of ATP.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hormones play an important role in control and coordination of the body.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The cyclic reactions of tricarboxylic acid cycle were discovered by ......",
+        "options": [
+            "Hans Kreb",
+            "Gustav Embden"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mitosis results in four daughter cells.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Gametes are diploid cells.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Excess of ...... is stored in adipose connective tissue in the body.",
+        "options": [
+            "Lipids",
+            "Proteins"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When less amount of energy is produced in our body, ...... accumulates due to which we feel tired.",
+        "options": [
+            "Acetic acid",
+            "Lactic acid"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Fatty acids are used for producing hormones.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The process of gamete production and spore formation occurs by mitosis.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Karyokinesis is the division of ......",
+        "options": [
+            "Cytoplasm",
+            "Nucleus",
+            "Cell wall",
+            "Pollen grains"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The respiration which takes place in absence of oxygen.",
+        "options": [
+            "Cellular respiration",
+            "Aerobic respiration",
+            "Anaerobic respiration"
+        ],
+        "answer": 3
+    }
+]

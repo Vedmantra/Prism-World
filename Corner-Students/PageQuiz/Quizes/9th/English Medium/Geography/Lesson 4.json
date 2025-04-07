@@ -1,0 +1,200 @@
+[
+    {
+        "question": "Glacier is a huge mass of ice so its velocity is ...............",
+        "options": [
+            "More",
+            "Less",
+            "Average",
+            "High"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When many flows of water come together, a ............... is formed.",
+        "options": [
+            "Sea",
+            "Oceans",
+            "River",
+            "Lake"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Wind is a gaseous agent of .................",
+        "options": [
+            "Transportation",
+            "Erosion",
+            "Soil movement",
+            "Depiction"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Pick out odd one - Cirques, aretes, horns, gorges",
+        "options": [
+            "Cirques",
+            "Aretes",
+            "Horns",
+            "Gorges"
+        ],
+        "answer": 4 
+    },
+    {
+        "question": "The ............... work of the wind takes place in the area where its speed is reduced.",
+        "options": [
+            "Erosional",
+            "Transportation",
+            "Depositional"        ],
+        "answer": 3
+    },
+    {
+        "question": "Eroded materials in the sea bed became fine because of ................ and hitting each other",
+        "options": [
+            "Reduction",
+            "Waves",
+            "Attrition",
+            "Hydraulic action"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Sea waves carry out their work in the ................. areas.",
+        "options": [
+            "Coastal",
+            "Plateau",
+            "Hilly",
+            "River"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Glaciers carry sediments which are called ...................",
+        "options": [
+            "Moraines",
+            "Sheepbacks",
+            "Aretes",
+            "All the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The speed of the glacier is ................ as compared to river.",
+        "options": [
+            "Fast",
+            "Slow",
+            "Medium",
+            "High"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Alluvial fans are formed by the rivers at the ............... of the hills.",
+        "options": [
+            "Slopes",
+            "Foothills",
+            "Peaks",
+            "Valleys"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A river flows at a great speed in the ............... region. ",
+        "options": [
+            "Plain",
+            "Valley",
+            "Mountainous",
+            "Plateau"
+        ],
+        "answer": 3
+    },
+    {
+        "question": " The river originates at a much higher ...................... from sea level.",
+        "options": [
+            "Altitude",
+            "Attitude",
+            "Longitude",
+            "Peak"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The earth’s surface wears away because of ................",
+        "options": [
+            "Transportation",
+            "Depuration",
+            "Erosion",
+            "Ox bow lakes"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The velocity of the Jacobshavn Glacier in Greenland is ............... per day.",
+        "options": [
+            "1 cm",
+            "1 m",
+            "46 M",
+            "50 M"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "............... of rocks occurs due to the hitting of the waves at the coast.",
+        "options": [
+            "Erosion",
+            "Breaking",
+            "Movement",
+            "Both 1 and 2"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Landforms like flood plains and ............... are formed because of deposition sediments.",
+        "options": [
+            "Eskers",
+            "Deltas",
+            "Barchans",
+            "Harms"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In regains where temperature are below freezing point, precipitation  is in the form of",
+        "options": [
+            "Rain",
+            "Hail",
+            "Snowfall",
+            "Freezing rain"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Formation of ............... is the erosional work of the wind.",
+        "options": [
+            "Barchan",
+            "Seif",
+            "Sand dunes",
+            "Mushroom rock"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The work of the wind is prominent in ................ region.",
+        "options": [
+            "Plain",
+            "Desert",
+            "Mountainous",
+            "Hot"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The erosional work of glaciers produces landforms like ...............",
+        "options": [
+            "Gorges",
+            "Yardangs",
+            "Cirques",
+            "Hamad"
+        ],
+        "answer": 3
+    }
+]

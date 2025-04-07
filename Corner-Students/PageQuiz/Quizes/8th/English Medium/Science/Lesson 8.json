@@ -1,0 +1,425 @@
+[
+    {
+        "question": "The connection in which many cells are connected in series is known as ............... ",
+        "options": [
+            "Battery",
+            "Ni-Cd Cells",
+            "Dry cells",
+            "Lead Acid cells"
+        ],
+        "answer": 1
+    },
+    {
+        "question": " Magnetic needle changes its direction when a bar magnet is brought close to it",
+        "options": [
+            "True",
+            "False"
+                  ],
+        "answer":1
+    },
+    {
+        "question": "…………… cells are used in radio sets, wall clocks and torches",
+        "options": [
+            "Lithium Ion",
+            "Dry",
+            "Ni-Cd"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " We get current electricity when the protons in an electrical conductor are made to flow",
+        "options": [
+            "True",
+            "False"
+                   ],
+        "answer":2
+    },
+    {
+        "question": " The chemical reaction in the dry cell proceeds …………",
+        "options": [
+            "Slowly",
+            "Very Slowly",
+            "Faster"
+        ],
+        "answer":2
+    },
+    {
+        "question": "A magnetic needle is......",
+        "options": [
+            "Magnet",
+            "Cell",
+            "key",
+            "Battery"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "…………… is a source required to produce a uniform flow of charges in a circuit",
+        "options": [
+            "Electric wire",
+            "Electric Cell",
+            "Electric Bulb"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In series connection, the positive terminal of one cell is connected to positive terminal of another cell",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " Electromagnets are permanent magnets",
+        "options": [
+            "True",
+            "False"
+                   ],
+        "answer":2 
+    },
+    {
+        "question": "Positive terminal of the Lead-Acid cell",
+        "options": [
+            "Lead dioxide electrode",
+            "Lead electrode"
+        ],
+        "answer": 1
+    },
+    {
+        "question": " Heat always flows from a body at a lower temperature to a body at a higher temperature",
+        "options": [
+            "True",
+            "False"
+                   ],
+        "answer": 1
+    },
+    {
+        "question": "Electrolyte in the dry cell.",
+        "options": [
+            "Zinc chloride and Ammonium chloride",
+            " Zinc ammonium chloride"
+        ],
+        "answer":1
+    },
+    {
+        "question": " The shelf life of dry cell is …………… than other electric cells using liquid.",
+        "options": [
+            "Shorter",
+            "Longer"
+                  ],
+        "answer":2 
+    },
+    {
+        "question": "The SI unit of electric current is …………",
+        "options": [
+            "Coulomb",
+            "Ampere",
+            "volt"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Any One use of lead acid cell",
+        "options": [
+            "Cars",
+            "Wall clocks",
+            "Solar Cells"
+                ],
+        "answer":1
+    },
+    {
+        "question": " Magnetic field is created around a wire when ............... flows through it",
+        "options": [
+            "Electrolyte",
+            "Electrostatic potential",
+            " Electrical energy",
+            "Electric current"
+        ],
+        "answer":4 
+    },
+    {
+        "question": " Electrolyte in the Lead-Acid cell.",
+        "options": [
+            "Dilute Hydrochloric acid",
+            "Dilute Sulphuric acid"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Connection of cels in the series",
+        "options": [
+            "Cells",
+            "Battery",
+            "Plug key"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " Electric bulb glows when the circuit is closed",
+        "options": [
+            "False",
+            "True"
+            ],
+        "answer": 1
+    },
+    {
+        "question": " Lithium ion cells are used in smart phones",
+        "options": [
+            "True",
+            "False"
+                  ],
+        "answer":1 
+    },
+    {
+        "question": " The difference of potential of two points",
+        "options": [
+            "Electrostatic potential",
+            "Potential difference"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " A large current flows when lightning takes place from a cloud to the ground.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": " If each cell has a potential difference of 2 V, then the total potential difference when four cells are connected in series is ............... ",
+        "options": [
+            "2 V",
+            "8 V",
+            "0.5 V",
+            "0 V"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Any one use of dry cell",
+        "options": [
+            "Cars",
+            "Wall Clocks",
+            "Solar Cells"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " The potential difference produced by the Lead-Acid cell",
+        "options": [
+            "2 V",
+            "1.2V"
+        ],
+        "answer":1
+    },
+    {
+        "question": "Co-related terms Torch : Light energy  :: Door bell : …………",
+        "options": [
+            "Sound Energy",
+            "Heat Energy"
+                   ],
+        "answer":1
+    },
+    {
+        "question": " Moving charges get transferred from one object to the other",
+        "options": [
+            "True",
+            "False"
+                 ],
+        "answer":1
+    },
+    {
+        "question": " In absence of any cell, there is no current in the circuit",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": " Electrons in the wire flow due to the potential difference between the two ends of a cell",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":1
+    },
+    {
+        "question": " If the cell has a potential difference of 3V, then the total potential difference of 2 cells will be 3V",
+        "options": [
+            "True",
+            "False"
+           ],
+        "answer": 2
+    },
+    {
+        "question": " Ni-Cd cell delivers a potential difference of ............... volts",
+        "options": [
+            "2",
+            "1.5",
+            "1.2",
+            "3"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Co-related terms Wall clock : Dry cell :: Loudspeaker: …………",
+        "options": [
+            "Electromagnets",
+            "Chemical Energy"
+             ],
+        "answer": 1
+    },
+    {
+        "question": " Electric cells are connected in series to obtain smaller current",
+        "options": [
+            "True",
+            "False"
+                ],
+        "answer": 2
+    },
+    {
+        "question": " The electrical level deciding the direction of flow of electrical charges",
+        "options": [
+            " Electrostatic potential",
+            "Potential difference",
+            "Electrostatic potential"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Ni-Cd cells deliver 1.4V potential difference",
+        "options": [
+            "True",
+            "False"
+           ],
+        "answer":2 
+    },
+    {
+        "question": " Electric current is a …………… quantity",
+        "options": [
+            "Scalar",
+            "Vector"
+            ],
+        "answer":1 
+    },
+    {
+        "question": " Lead-Acid cells are rechargeable",
+        "options": [
+            "True",
+            "False"
+            ],
+        "answer": 1
+    },
+    {
+        "question": " An object does not show any charge though its atom contain charged particles.",
+        "options": [
+            "True",
+            "False"
+         ],
+        "answer": 1
+    },
+    {
+        "question": "Find the odd one out",
+        "options": [
+            "Microphone",
+            "Speakers",
+            "Motor",
+            "Dry Cell"
+        ],
+        "answer":4
+    },
+    {
+        "question": "Find the odd one out",
+        "options": [
+            "Door bell",
+            "Bulb",
+            "Lamp"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "The main function of electric cells is to maintain a  …………… potential difference between its two terminals",
+        "options": [
+            "Variable",
+            "Constant",
+            "Stable"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " Electrical charge flowing through a wire in 1 second can be called ...............",
+        "options": [
+            "Coulomb",
+            "Unit current",
+            "Amphere"
+        ],
+        "answer":2
+    },
+    {
+        "question": " An atom has same number of positively charged protons and negatively charged electrons",
+        "options": [
+            "True",
+            "False"
+         ],
+        "answer":1 
+    },
+    {
+        "question": " Magnetic field is created when an electric current flows in a wire",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": " Negative terminal of the Lead-Acid cell",
+        "options": [
+            "Lead dioxide electrode",
+            "Lead Elctrode"
+           ],
+        "answer":2
+    },
+    {
+        "question": " The unit of potential difference is Voltage",
+        "options": [
+            "True",
+            "False"
+          ],
+        "answer":2 
+    },
+    {
+        "question": " Electricity was first observed by Hans Oersted",
+        "options": [
+            "True",
+            "False"
+               ],
+        "answer": 2
+    },
+    {
+        "question": "The system of coil and the screw is called an electromagnet",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":1
+    },
+    {
+        "question": "Negative terminal of the dry cell",
+        "options": [
+            "Graphite Rod",
+            "Zinc Layer"
+            ],
+        "answer": 2
+    },
+    {
+        "question": " Positive terminal of the dry cell",
+        "options": [
+            "Graphite Rod",
+            "Zinc Layer"
+              ],
+        "answer":1 
+    }
+]

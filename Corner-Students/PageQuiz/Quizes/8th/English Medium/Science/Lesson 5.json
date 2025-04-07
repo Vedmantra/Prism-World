@@ -1,0 +1,409 @@
+[
+    {
+        "question": " Write the molecular formula of the given compound.Methane",
+        "options": [
+            "CH4",
+            "C4H"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Molecular formula indicates the number of atoms of elements present in one molecule of a compound",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Classify the following into mixture and compound.A black-colored substance is obtained when iron filings and sulphur are heated together in the test tube.",
+        "options": [
+            "Compound",
+            "Mixture"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " The intermolecular force is ............... in the particles of solid.",
+        "options": [
+            "Minimum",
+            "Moderate",
+            "Maximum",
+            "Indefinite"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "If the combustion is not complete, black color carbon remains behind as residue. These compounds are called …………… compounds.",
+        "options": [
+            "Organic",
+            "Inorganic",
+            "Complex"
+        ],
+        "answer": 1
+    },
+    {
+        "question": " Classify the following into homogeneous or heterogeneous mixture.Sugar in water",
+        "options": [
+            "Homogeneous",
+            "Heterogeneous"        ],
+        "answer":1 
+    },
+    {
+        "question": " Solids retain their volume even when external pressure is applied. This property is called ............... ",
+        "options": [
+            "Plasticity",
+            "Incompressibility",
+            "Fluidity",
+            "Elasticity"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Sugar is a common ingredient in most of the foodstuffs. It is ............... ",
+        "options": [
+            "An inorganic compound",
+            "An organic compound",
+            "A complex compound",
+            "A homogenous mixture"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " Matter that contain two or more constituent substances is called ............... .",
+        "options": [
+            "Mixture",
+            "Compound",
+            "Element",
+            "Metalloid"
+        ],
+        "answer": 1
+    },
+    {
+        "question": " The properties of the constituent substances are retained in the ……………",
+        "options": [
+            "Compound",
+            "Mixture"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " Classify the following into solution, suspension and colloids Fog",
+        "options": [
+            "Solution",
+            "Suspension",
+            "Colloid"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Matter exists namely in three types.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "The part of matter having uniform composition is called  …………….",
+        "options": [
+            "State",
+            "Phase"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "When all the components of a mixture form one phase, it is called  …………….  mixture.",
+        "options": [
+            "Homogeneous",
+            "Heterogeneous"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Find the odd one out",
+        "options": [
+            "Hydrogen",
+            "Sodium",
+            "Potassium",
+            "Carbon"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Write the valency of the given elements.Chlorine-Cl",
+        "options": [
+            "1",
+            "7",
+            "3"        ],
+        "answer": 1
+    },
+    {
+        "question": "Write the symbol/ molecular formulae of given substances.Nitrogen molecule :  …………",
+        "options": [
+            "N",
+            "N2"        ],
+        "answer":2 
+    },
+    {
+        "question": "Milk is an example of type of matter called ............... .",
+        "options": [
+            "Solution",
+            "Homogeneous mixture",
+            "Heterogeneous mixture",
+            "Suspension"
+        ],
+        "answer": 3
+    },
+    {
+        "question": " Classify the following into the types of solution Dilute HCl",
+        "options": [
+            "Solid in solid",
+            "Solid in liquid",
+            "Liquid in liquid"        ],
+        "answer": 3
+    },
+    {
+        "question": "Classify the following into the types of solution.Brass",
+        "options": [
+            "Solid in solid",
+            "Solid in liquid",
+            "Liquid in liquid"        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following forms a suspension",
+        "options": [
+            "Water + Milk",
+            "Water + Saw dust",
+            "Water + Common salt",
+            "Water + Blue vitriol"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Classify the following into solution, suspension and colloids Saw dust in water",
+        "options": [
+            "Solution",
+            "Suspension",
+            "Colloid"        ],
+        "answer":2 
+    },
+    {
+        "question": "Classify the following into homogeneous or heterogeneous mixture. Sand in water",
+        "options": [
+            "Homogeneous",
+            "Heterogeneous"        ],
+        "answer":2 
+    },
+    {
+        "question": " When the components of a mixture are distributed into two or more phases it is called a  ……………. mixture",
+        "options": [
+            "Homogeneous",
+            "Heterogeneous"        ],
+        "answer":2 
+    },
+    {
+        "question": "Classify the following into mixture and compound Milk contains water, lactose fats, proteins and few more natural substances.",
+        "options": [
+            "Compound",
+            "Mixture"        ],
+        "answer": 2
+    },
+    {
+        "question": "Valency of carbon is 4 and that of oxygen is 2. From this, we understand that there are ............... chemical bond/bonds between the carbon atom and one oxygen atom in the compound-carbon dioxide",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Each molecule of water contains two oxygen atoms joined to one atom of hydrogen",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": "Write the valency of the given elements.Sodium-Na",
+        "options": [
+            "1",
+            "2",
+            "3"        ],
+        "answer": 1
+    },
+    {
+        "question": "…………… is an inflammable gas",
+        "options": [
+            "Hydrogen",
+            "Oxygen"        ],
+        "answer":1 
+    },
+    {
+        "question": " An intermolecular force of attraction acts between particles of matter",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Classify the following into solution, suspension and colloids.Sugar syrup",
+        "options": [
+            "Solution",
+            "Suspension",
+            "Colloid"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Gases are incompressible.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2 
+    },
+    {
+        "question": "Classify the following into mixture and compound Pure water is formed by chemical combination of the elements hydrogen and oxygen",
+        "options": [
+            "Compound",
+            "Mixture"        ],
+        "answer":1 
+    },
+    {
+        "question": "Various atoms in the molecules of compounds are joined by ……………. bonds",
+        "options": [
+            "Organic",
+            "Chemical"        ],
+        "answer": 2
+    },
+    {
+        "question": "Carbon dioxide molecule contains one atom of carbon and two atoms of oxygen",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Deduce the molecular formula of the compounds formed from the following pairs of elements.Hydrogen (valency-1) and Oxygen (valency-2).",
+        "options": [
+            "HO2",
+            "H2O"        ],
+        "answer":2 
+    },
+    {
+        "question": " Liquids have fluidity and their shape changes in accordance with the container.",
+        "options": [
+            "True",
+            " False"
+                    ],
+        "answer":1 
+    },
+    {
+        "question": " Water, mercury and bromine are similar to each other, because three are ............... ",
+        "options": [
+            "Liquids",
+            "Compounds",
+            "Nonmetals",
+            "Elements"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Atoms/ molecules of a …………… are of two or more types.",
+        "options": [
+            "Compound",
+            "Mixture"        ],
+        "answer":2 
+    },
+    {
+        "question": "The proportion of constituent elements in a compound is ……………",
+        "options": [
+            "Varying",
+            "Constant"        ],
+        "answer":2 
+    },
+    {
+        "question": "Classify the following into homogeneous or heterogeneous mixture.Blue vitriol in water",
+        "options": [
+            "Homogeneous",
+            "Heterogeneous"        ],
+        "answer":1 
+    },
+    {
+        "question": "While making cakes or bread, we use baking soda to make it fluffy. Baking soda is a ............... .",
+        "options": [
+            "Compound",
+            "Mixture",
+            "Colloid",
+            "Suspension"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Deduce the molecular formula of the compounds formed from the following pairs of elements.Ferrous (valency 2) and Sulphur (valency 2)",
+        "options": [
+            "Fe2S2",
+            "FeS"        ],
+        "answer":2 
+    },
+    {
+        "question": " The distance between the particles is moderate in liquids.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Matter is classified into the types: mixture, compound and element, by applying the criterion ............... ",
+        "options": [
+            "States of matter",
+            "Phases of matter",
+            "Chemical composition of matter",
+            "All of these"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Air is a mixture containing different gases.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2 
+    },
+    {
+        "question": " Liquids neither have definite shape nor definite volume",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2 
+    },
+    {
+        "question": " Classify the following into mixture and compound.A greyish color substance is obtained when iron filings and sulphur are mixed together in the dish",
+        "options": [
+            "Compound",
+            "Mixture"        ],
+        "answer": 2
+    },
+    {
+        "question": "Classify the following into solution, suspension and colloids Ink",
+        "options": [
+            "Solution",
+            "Suspension",
+            "Colloid"
+        ],
+        "answer": 3 
+    },
+    {
+        "question": " Classify the following into solution, suspension and colloids Bronze",
+        "options": [
+            "Solution",
+            "Suspension",
+            "Colloid"
+        ],
+        "answer": 1
+    }
+]

@@ -1,0 +1,239 @@
+[
+    {
+        "question": "The ...... is the nominal head of the state.",
+        "options": [
+            "Chief Minister",
+            "Governor",
+            "Chairman",
+            "President"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Distinguished personalities from various fields are nominated by ...... to the Vidhan Parishad.",
+        "options": [
+            "Chief Minister",
+            "Speaker",
+            "Governor",
+            "Chairman"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "...... is appointed by the president.",
+        "options": [
+            "Mayor",
+            "Prime Minister",
+            "Governor"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Maharashtra is divided into territorial constituencies for the purpose of ......",
+        "options": [
+            "Voting",
+            "Elections",
+            "Education",
+            "Business"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The proceedings of the Vidhan Sabha are carried out under the supervision and guidance of the ......",
+        "options": [
+            "Chairman",
+            "Speaker",
+            "Mayor",
+            "Chief Minister"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Maharashtra has a ...... legislature",
+        "options": [
+            "Bicameral",
+            "Unicameral"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... is the first house of the Maharashtra legislature and comprises of 288 members.",
+        "options": [
+            "Vidhan Parishad",
+            "Vidhan Sabha"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Maharashtra’s legislature conducts minimum ...... sessions in a year.",
+        "options": [
+            "Two",
+            "Three",
+            "Four",
+            "One"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The Chief Minister ...... in issues facing the state and comfort the people.",
+        "options": [
+            "Creates",
+            "Intervenes",
+            "Develop",
+            "Co-ordinate"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Any citizen residing in Maharashtra and who has completed ...... years of age can contest the elections to the Vidhan Sabha.",
+        "options": [
+            "25",
+            "30",
+            "18",
+            "21"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are ...... members in the Vidhan Parishad of Maharashtra",
+        "options": [
+            "70",
+            "78",
+            "65",
+            "60"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "India has adopted ...... system of government.",
+        "options": [
+            "Monarchy",
+            "Dictatorship",
+            "Unitary",
+            "Federal"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "It was decided to form the status on the basis of ......",
+        "options": [
+            "Culture",
+            "Area",
+            "Language",
+            "Diversity"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The leader of the majority party in Legislative Assembly becomes the ......",
+        "options": [
+            "Governor",
+            "Chief Minister"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The nature of government machinery in all ...... of India is same.",
+        "options": [
+            "States",
+            "Area",
+            "Ward"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The Chief Minister bears the ultimate responsibility of the efficient ......",
+        "options": [
+            "Government",
+            "Federal",
+            "Administration",
+            "Working"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The Chief Minister along with his ...... are collectively responsible to the Legislature Assembly.",
+        "options": [
+            "Council of Ministers",
+            "MLA",
+            "Speaker",
+            "Portfolios"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When the legislature is not in session and needs arises to make laws governor can issue ......",
+        "options": [
+            "A Bill",
+            "A Proposal",
+            "an Ordinance",
+            "An Order"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The governor has the right to ...... the session of the State Legislature.",
+        "options": [
+            "Summon",
+            "Call",
+            "Conduct",
+            "programme"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "India has a large geographic expanse with a ...... population.",
+        "options": [
+            "Language",
+            "Multicultural",
+            "Large",
+            "Crowded"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Maharashtra is one of the ...... states in India.",
+        "options": [
+            "Progressive",
+            "Developed",
+            "Advance",
+            "Modernized"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "India has ...... constituent states",
+        "options": [
+            "28",
+            "29"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In the ...... system, the government exists in the two levels.",
+        "options": [
+            "Federal",
+            "Central",
+            "State"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The members of state legislatures are known as ......",
+        "options": [
+            "Members of legislature Assembly",
+            "Members of Executive Assembly"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Only ...... states in India have two houses.",
+        "options": [
+            "Seven",
+            "Eight",
+            "Five",
+            "Ten"
+        ],
+        "answer": 1
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "question": "The Cuban Missile Crisis (1962) was an ...... event in the cold war period.",
+        "options": [
+            "Unforgettable",
+            "Important",
+            "Valuable",
+            "Material"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Earlier empires in Europe ...... and new nations came into being.",
+        "options": [
+            "Succumb",
+            "Shattered",
+            "Collapsed",
+            "Break"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "We know that ...... world wars were fought in the last century.",
+        "options": [
+            "Two",
+            "One",
+            "No",
+            "Three"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The struggle for the power, arms race, differences in ideologies, attitude of checkmating each other by strategies and counter strategies gave rise to the ...... .",
+        "options": [
+            "No war",
+            "Hot war",
+            "Cold war",
+            "Extreme war"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "This movement started from ...... under the leadership of Indian Prime Minister Pandit Jawaharlal Nehru.",
+        "options": [
+            "1961",
+            "1968",
+            "1947",
+            "1981"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Such nations decided to stay out of the cold war rivalry, their policy is known as ...... .",
+        "options": [
+            "Alignment",
+            "Allied",
+            "Non alignment",
+            "Both 1 & 2"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The soviet union ...... socialism and one party authoritarian system.",
+        "options": [
+            "Publicized",
+            "Advocated",
+            "Criticized",
+            "Advanced"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "America had ...... nuclear weapons.",
+        "options": [
+            "Manufactured",
+            "Invented",
+            "Produced",
+            "Both 1 & 2"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Just as globalization has brought us benefits, it has also caused ...... .",
+        "options": [
+            "Misfuture",
+            "Deficiency",
+            "Losses",
+            "Defeat"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The first world war was fought between 1914 and ...... .",
+        "options": [
+            "1920",
+            "1915",
+            "1928",
+            "1918"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "As the east European countries under the influence of the soviet union adopted the ...... and democratic paths, the regimes there changed.",
+        "options": [
+            "Communist",
+            "Entrepreneur",
+            "Capitalist",
+            "Economist"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "It became an important ...... to solve international disputes and carry out negotiations.",
+        "options": [
+            "Stage",
+            "Platform",
+            "Terrace",
+            "None of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The Soviet Union also tried to become a super power by making ...... weapons and by increasing its military might.",
+        "options": [
+            "Minor",
+            "Nuclear",
+            "Radio active",
+            "Essential"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The second world war ended with the defeat of ...... in Europe and of Japan in Asia.",
+        "options": [
+            "London",
+            "Germany",
+            "France",
+            "Both 1 & 2"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Interdependence is an ...... feature of the international system i.e. today's global system.",
+        "options": [
+            "Valuable",
+            "Salient",
+            "Important",
+            "Essential"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "After the end of the cold war, trade and ...... relations between countries became more open.",
+        "options": [
+            "Business",
+            "Productive",
+            "Profitable",
+            "Economic"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "All the countries of the world are ...... on each other for one reason or the other.",
+        "options": [
+            "Dependent",
+            "Independent",
+            "Interdependent",
+            "Both 1 & 2"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... played a major role in the second world war.",
+        "options": [
+            "Russia",
+            "America",
+            "India",
+            "Dubai"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "But there were extreme ...... between America and the soviet union.",
+        "options": [
+            "Dissimilarity",
+            "Alteration",
+            "Diversity",
+            "Differences"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The Non-aligned movement is based on eternal principles of ...... global peace & equality.",
+        "options": [
+            "Humanism",
+            "Civilization",
+            "Social",
+            "Convention"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "We are dependent on different persons, institutions, and organizations in the ...... for different reasons and for different facilities.",
+        "options": [
+            "Society",
+            "Human kind",
+            "Association",
+            "Population"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The boundaries between nations did not remain as ...... as they were before.",
+        "options": [
+            "Sacred",
+            "Sacrosanct",
+            "Spiritual",
+            "Sanctified"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The south east Asian countries (Singapore, Thailand, Malaysia, Indonesia, Philippines, etc.) established the ...... .",
+        "options": [
+            "ASEAN",
+            "USSR",
+            "RERA",
+            "FERA"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "America and the soviet union, who were ...... in the second world war became competitors as far as the war got over.",
+        "options": [
+            "Accomplice",
+            "Antagonist",
+            "Allies",
+            "Colleague"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "An international organization called the ...... was established out of this thinking.",
+        "options": [
+            "League of nations",
+            "World health organization",
+            "Naga national council",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Due to the ...... in information technology, different events and developments began to be known everywhere.",
+        "options": [
+            "Revolution",
+            "Evolution",
+            "Rebellion",
+            "Stagnation"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Many European countries had their colonies in the continents of ...... and Asia.",
+        "options": [
+            "Africa",
+            "India",
+            "Antarctica",
+            "America"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The soviet union ...... and several new nations were created out of it.",
+        "options": [
+            "Integrated",
+            "Atomized",
+            "Dismantle",
+            "Disintegrated"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "...... was a military organization under the dominance of America.",
+        "options": [
+            "M120",
+            "SATO",
+            "RERA",
+            "NATO"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The Asian and African countries which became ...... after the second world war supported the idea of non-alignment.",
+        "options": [
+            "Dependent",
+            "Interdependent",
+            "Both 1 & 2",
+            "Independent"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The economies of the victorious as well as the losing countries ...... .",
+        "options": [
+            "Shattered",
+            "Succumb",
+            "Collapsed",
+            "Break"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Autocratic regimes came up in ...... ITALY, SPAIN, and other countries.",
+        "options": [
+            "France",
+            "Germany",
+            "Russia",
+            "America"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Our social life is ...... and mutual cooperation has a very important role in it.",
+        "options": [
+            "Dependent",
+            "Interdependent",
+            "Independent",
+            "Both 1 & 2"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Independent states enter into ...... with each other.",
+        "options": [
+            "Agreement",
+            "Contract",
+            "Bond",
+            "Treaties"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "After the first world war period, America was already a ...... power.",
+        "options": [
+            "Super",
+            "Divine",
+            "Terrific",
+            "Inferior"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "1945 to ...... is the long period of the cold war.",
+        "options": [
+            "1982",
+            "1955",
+            "1998",
+            "1991"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The Warsaw Pact was a ...... organization under the command of the soviet union.",
+        "options": [
+            "Military",
+            "Civilian",
+            "Martial",
+            "Army"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The Non-aligned movement has opposed colonialism, ......, and racism.",
+        "options": [
+            "Fascism",
+            "Imperialism",
+            "Democratic",
+            "Socialism"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The ...... revolution took place in 1917 in Russia and the soviet union came into being.",
+        "options": [
+            "Capitalist",
+            "Marxist",
+            "Communist",
+            "Fascist"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "But soon, both the superpowers realized that the arms race may ...... international peace.",
+        "options": [
+            "Assist",
+            "Hazard",
+            "Exposed",
+            "Endanger"
+        ],
+        "answer": 4
+    }
+]

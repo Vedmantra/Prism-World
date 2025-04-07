@@ -1,0 +1,302 @@
+[
+    {
+        "question": "Water droplets are formed when air becomes ...............",
+        "options": [
+            "Saturated",
+            "Unsaturated",
+            "Condense",
+            "Compress"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "People living in snow clad region have to protect themselves from ...............",
+        "options": [
+            "Mosquito bite",
+            "Heat stroke",
+            "Frostbite",
+            "Snake bite"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "When the temperature in the atmosphere is below the freezing point, water vapour directly turn in snowflakes,is called .............",
+        "options": [
+            "Evaporation",
+            "Distillation",
+            "Carbonization",
+            "Sublimation"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "When the ............... accumulates on large scale then the transport and communication system of the cold region collapses",
+        "options": [
+            "Snow",
+            "Fog",
+            "Hail",
+            "Smog"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hail do not occur in ............... regions due to lack of upward movement of air flow.",
+        "options": [
+            "Equatorial",
+            "Monsoon",
+            "Grassland",
+            "Polar"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Massive transparent snow found in layers in cold region is called ............",
+        "options": [
+            "Fog",
+            "Dew",
+            "Smog",
+            "Ice"
+        ],
+        "answer": 4 
+    },
+    {
+        "question": "Places where temperature of air is below freezing point of water, precipitation will be in form of ...............",
+        "options": [
+            "Snow",
+            "Lightning",
+            "Hailstorms",
+            "Thunders"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What type of precipitation is associated with an air mass rising over mountain range?",
+        "options": [
+            "Convectional",
+            "Orographic",
+            "Cyclone",
+            "Monsoon"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Dew and frost occur on large scale in ...............",
+        "options": [
+            "Summer",
+            "Winter",
+            "Monsoon",
+            "Autumn"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The main source of portable water is available on Earth is ...........",
+        "options": [
+            "Sublimation",
+            "Precipitation",
+            "Condensation",
+            "Distillation"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Form of summer precipitation in cool temperate climate is  ............",
+        "options": [
+            "Convectional rain",
+            "Refraction rain",
+            "Cirrus rain",
+            "Cumulus rain"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which one of the following is not a form of precipitation?",
+        "options": [
+            "Hail",
+            "Fog",
+            "Rainfall",
+            "Snowfall"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Unit of measurement to measure rain is ...............",
+        "options": [
+            "Degree Fahrenheit",
+            "Degree Celsius",
+            "Millimeter or centimeter",
+            "Percentage"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Clouds are formed by the ...............",
+        "options": [
+            "Droplets of water",
+            "Frost",
+            "Hail",
+            "Wind"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The instrument that is used to measure rainfall is called ...............",
+        "options": [
+            "Thermometer",
+            "Wind vane",
+            "Rain gauge",
+            "Barometer"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The rain which is harmful to living organism as well as the non-living object is ...............",
+        "options": [
+            "Dew",
+            "Frost",
+            "Fog",
+            "Acid rain"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Snow will fall as precipitation when temperature is below ...............",
+        "options": [
+            "−12°C",
+            "−8°C",
+            "0°C",
+            "10°C"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Convectional rainfall occurs in ...............",
+        "options": [
+            "Equatorial region",
+            "Temperate region",
+            "Tropical region",
+            "Polar region"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Precipitation of water with dissolved acids reaches the ground. Such rainfall is called ...............",
+        "options": [
+            "Cyclonic rain",
+            "Monsoon rain",
+            "Acid rain",
+            "Equatorial rain"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Water which returns to surface of Earth is classified as",
+        "options": [
+            "Wind",
+            "Precipitation",
+            "Humidity",
+            "Temperature"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Water falling on earth surface in any form is called ...............",
+        "options": [
+            "Atmosphere",
+            "Climate",
+            "Weather",
+            "Precipitation"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Hail do not occur in ............... areas because of the heat in the atmosphere.",
+        "options": [
+            "Monsoon",
+            "Equatorial",
+            "Mediterranean",
+            "Western Europe"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Rain which is caused by heating of ground is classified as ...............",
+        "options": [
+            "Relief rain",
+            "Frontal rain",
+            "Convectional rain",
+            "Refraction rain"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "......... % part of the earth surface is full of water.",
+        "options": [
+            "29",
+            "35",
+            "29.2",
+            "70.8"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The forms of condensation occurred due to the ............... in the atmosphere",
+        "options": [
+            "Oxygen",
+            "Water vapour",
+            "Carbon dioxide",
+            "Dust particle"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Form of precipitation in cold region is ...............",
+        "options": [
+            "Windstorms",
+            "Snow",
+            "Hail storms",
+            "Thunderstorms"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "............ type of rainfall is regional in nature and occurs in limited area",
+        "options": [
+            "Orographic",
+            "Convectional",
+            "Cyclonic",
+            "Monsoon"
+        ],
+        "answer": 4
+    },
+    {
+        "question": ".............. is the specific air formation when the pressure at an area is less than the surrounding regions.",
+        "options": [
+            "Hailstone",
+            "Frost",
+            "Snowfall",
+            "Cyclone"
+        ],
+        "answer": 4
+    },
+    {
+        "question": ".............. rainfall occurs in the most part of the world",
+        "options": [
+            "Orographic",
+            "Convectional",
+            "Cyclonic",
+            "Monsoon"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Considering orographic rain, side of mountain which stays dry or gets lesser rainfall is ...............",
+        "options": [
+            "Hail ward side",
+            "Leeward side",
+            "Windward side",
+            "None of the above"
+        ],
+        "answer": 2
+    }
+]

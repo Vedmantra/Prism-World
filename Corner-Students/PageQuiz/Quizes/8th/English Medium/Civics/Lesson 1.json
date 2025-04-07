@@ -1,0 +1,270 @@
+[
+    {
+        "question": "The party which gets more than half of the seats is considered as the ...... party.",
+        "options": [
+            "Minority",
+            "Ruling",
+            "Defeated",
+            "Majority"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The Executive implements the law and the Judiciary provides ......",
+        "options": [
+            "Justice",
+            "Equality"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... is considered to be the Supreme body.",
+        "options": [
+            "Governor",
+            "President",
+            "Parliament",
+            "Prime Minister"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Questions related to law are discussed in the legislature.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Members of the opposition party also take part in the discussion of the questions related to public welfare.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The function of the Legislature is to make ......",
+        "options": [
+            "Bill",
+            "Policy",
+            "Law",
+            "Aim"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The ...... of Parliamentary institutions started during the British Rule.",
+        "options": [
+            "Development",
+            "Beginning",
+            "Power",
+            "Authority"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "India has adopted ...... system.",
+        "options": [
+            "Presidential",
+            "Parliamentary"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... representatives of people express demands and aspirations of common people in the Parliament.",
+        "options": [
+            "Unelected",
+            "Elected"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In the Parliamentary system the President is directly elected by the people.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The President is the Executive head in the Presidential System.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The Parliamentary system is a system of ......",
+        "options": [
+            "Election",
+            "Justice",
+            "Constitution",
+            "Governance"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "In the Parliamentary system the Executive is dependent upon the confidence of the ...... in them.",
+        "options": [
+            "Justice",
+            "Executive",
+            "Legislature",
+            "Economy"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The interrelationship between the Legislature, Executive and Judiciary is decided by the ......",
+        "options": [
+            "Government",
+            "President",
+            "Constitution",
+            "Parliament"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The English constitution is a written constitution.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The ...... of the Constitution made few changes in the Parliamentary System to suit the Indian situation.",
+        "options": [
+            "Makers",
+            "Developer",
+            "Framers",
+            "System"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "...... is an effective tool of keeping a check over the Executive.",
+        "options": [
+            "No confidence motion",
+            "Voting",
+            "Opposition party",
+            "Governor"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Sometimes when no party gets a clear majority ...... government is formed.",
+        "options": [
+            "Presidential",
+            "Coalition",
+            "Military",
+            "Communist"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The Parliamentary system of government developed primarily in ......",
+        "options": [
+            "London",
+            "India",
+            "England",
+            "Italy"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Questions related to ...... welfare are discussed in the Legislature.",
+        "options": [
+            "Public",
+            "Social",
+            "Weaker",
+            "Political"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The Leader of the majority party becomes the ......",
+        "options": [
+            "President",
+            "Chief Minister",
+            "Prime Minister",
+            "Governor"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The United States of America has adopted the Presidential system of government.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The U.S.A., has adopted the ...... system of government.",
+        "options": [
+            "Presidential",
+            "Parliamentary"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The English constitution is an ...... constitution where governance is based on conventions.",
+        "options": [
+            "Changeable",
+            "Unchangeable",
+            "Unwritten",
+            "Written"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The function of the Judiciary is to implement law.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The mutual control over each other can lead to a ...... government.",
+        "options": [
+            "Complete",
+            "Responsible",
+            "Enough",
+            "Unique"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The ...... is the executive head and has lot of powers including power to implement laws.",
+        "options": [
+            "Chief Minister",
+            "Prime Minister",
+            "President",
+            "Parliamentary"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Discussions and ...... are an integral part of the parliamentary form of government.",
+        "options": [
+            "Deliberations",
+            "Argument",
+            "Effective",
+            "Expresses"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Members of the Lok Sabha are directly elected by the ......",
+        "options": [
+            "President",
+            "Judge",
+            "People",
+            "Governor"
+        ],
+        "answer": 3
+    }
+]

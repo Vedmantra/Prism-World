@@ -1,0 +1,471 @@
+
+[
+    {
+        "question": "Match the following:",
+        "options": [
+            "i - c, ii - a, iii - b",
+            "i - a, ii - c, iii - b"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Reflection can be ……………….",
+        "options": [
+            "Regular",
+            "Irregular",
+            "Both 1 and 2",
+            "None of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The colours of the spectrum of white light combine to reproduce white light.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What will you observe when a pencil is kept inclined in a transparent glass filled with water.",
+        "options": [
+            "The portion of the pencil inside water appears to be thicker than the portion above water",
+            "Pencil appears to be broken near the surface of water",
+            "Both 1 and 2",
+            "None of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "When the ray of light is incident normally at the boundary between two media then it ......",
+        "options": [
+            "Does not change its direction",
+            "Does not get refraction",
+            "Passes undeviated along the same path",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "When a ray of light travels from a rarer medium to a denser medium, it bends towards the normal then ......",
+        "options": [
+            "∠I = ∠X",
+            "∠I > ∠X",
+            "∠I < ∠X",
+            "None of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The refractive index of air keeps increasing as we go on increasing heights.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "For critical angle, the angle of refraction is ......",
+        "options": [
+            "180°",
+            "90°",
+            "45°",
+            "60°"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In a glass slab refraction occurs ......",
+        "options": [
+            "Once",
+            "Twice",
+            "Four times",
+            "Five times"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "We can see the sun even when it is little below the horizon because of ......",
+        "options": [
+            "Refraction of light",
+            "Reflection of light",
+            "Dispersion of light",
+            "Absorption of light"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Velocity of light is same in all media.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The phenomenon of change in direction of light when it passes from one transparent medium to another is ......",
+        "options": [
+            "Reflection",
+            "Refraction",
+            "Dispersion",
+            "Scattering"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The greater is the value of refractive index, the lesser is the bending of refracted ray towards the normal.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Twinkle star is seen due to change of ...... in atmosphere.",
+        "options": [
+            "Temperature",
+            "Refractive Index",
+            "Pressure",
+            "Climate"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Match the following:",
+        "options": [
+            "i - c, ii - d, iii - a",
+            "i - c, ii - a, iii - d"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the reason for twinkling of stars?",
+        "options": [
+            "Explosions occurring in stars from time to time",
+            "Absorption of light in the earth's atmosphere",
+            "Motion of stars",
+            "Changing refractive index of the atmosphere gases"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Rainbow is seen in the sky due to combined effect of ......",
+        "options": [
+            "Dispersion",
+            "Refraction",
+            "Reflection",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Critical angle is denoted as ......",
+        "options": [
+            "C",
+            "1/c",
+            "1/c",
+            "1/c"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... light is scattered the least by the atmosphere.",
+        "options": [
+            "Red",
+            "Violet",
+            "Yellow",
+            "Green"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When white light is dispersed into seven colours, ...... colour bends the least.",
+        "options": [
+            "Red",
+            "Violet",
+            "Blue",
+            "Blue"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The angle between the incident ray and normal is known as ......",
+        "options": [
+            "Angle of refraction",
+            "Angle of reflection",
+            "Angle of incidence",
+            "Angle of emergence"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Red colour is scattered in a greater amount than the blue and violet colour.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Rainbow can be seen at mountains in any season.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The ratio sin i / sin r = constant is called as ......",
+        "options": [
+            "Dispersion",
+            "Spectrum",
+            "Refractive index",
+            "Proportionality constant"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "When a ray of light passes from a rarer medium into a denser medium.",
+        "options": [
+            "It bends away from the normal",
+            "It bends towards the normal",
+            "Goes undeviated",
+            "Goes backward"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The wavelength of red light is ......",
+        "options": [
+            "Close to 200nm",
+            "Close to 700nm",
+            "Close to 350nm",
+            "Close to 500nm"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Second Law of Refraction is also known as ......",
+        "options": [
+            "Dalton law",
+            "Snell's law",
+            "Law of conservation of matter",
+            "None of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The refractive index of ...... is the highest.",
+        "options": [
+            "Alcohol",
+            "Flint glass",
+            "Diamond",
+            "Canada balsam"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "During dispersion, red colour deviates the most.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The refractive index of water is ......",
+        "options": [
+            "1.33",
+            "1.36",
+            "1.31",
+            "1"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A light ray is moving from glass to diamond it moves ......",
+        "options": [
+            "Away from normal",
+            "Towards the normal",
+            "Does not move",
+            "None of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "With reference to the refraction of light through a rectangular glass slot. Following point/s is/are true.",
+        "options": [
+            "Refraction of light occurs at two parallel surfaces",
+            "Emergent ray is in direction of incident ray",
+            "Emergent ray is laterally displaced",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Light can bend under some special circumstances.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Out of the following which is rarest medium.",
+        "options": [
+            "Water",
+            "Air",
+            "Glass"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The speed of light in vacuum is ......",
+        "options": [
+            "3 × 10⁵ m/sec",
+            "3 × 10⁸ m/sec",
+            "3 × 10⁶ m/sec"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Light travels in a straight line. This is known as ......",
+        "options": [
+            "Rectilinear propagation of light",
+            "Curvilinear propagation of light",
+            "Both 1 and 2",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The wavelength of violet is ......",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Same as red",
+            "None of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The hotter air is rarer than the cooler air.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If the angle of incidence ∠1 = 0°, then angle of reflection ∠r = ......",
+        "options": [
+            "0°",
+            "90°",
+            "45°",
+            "180°"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The apparent random wavering of hot air above the heated roads causes a phenomenon called as ......",
+        "options": [
+            "Looming",
+            "Mirage",
+            "Spectrum",
+            "Dispersion"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Absolute refractive index of any medium is always ......",
+        "options": [
+            "1",
+            ">1",
+            "<1",
+            "0"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Find the odd man out.",
+        "options": [
+            "Dispersion",
+            "Mirage",
+            "Refraction",
+            "Induction"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Match the column:",
+        "options": [
+            "i - b, ii - c, iii - a",
+            "i - a, ii - c, iii - b"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In ...... medium light travels in a straight line.",
+        "options": [
+            "Homogeneous",
+            "Heterogeneous",
+            "Crystalline"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Light is electromagnetic ......",
+        "options": [
+            "Radiation",
+            "Ultrasonic",
+            "Infrasonic"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Speed of light is different in different medium.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The phenomenon of a light being rebounded after hitting a surface is called ......",
+        "options": [
+            "Refraction",
+            "Reflection",
+            "Total internal reflection",
+            "Dispersion"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In optics, an object which has higher refractive index is called ......",
+        "options": [
+            "Optically rarer",
+            "Optically denser",
+            "Optical density",
+            "Refractive index"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Velocity of light is greater in rarer medium than the denser medium.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The stars are ...... source of light as they are very far away.",
+        "options": [
+            "Point",
+            "Infinite",
+            "Important",
+            "Primary"
+        ],
+        "answer": 1
+    }
+]

@@ -1,0 +1,483 @@
+[
+    {
+        "question": "Specific organs carry out the specific steps.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Human heart is a ................ organ ?",
+        "options": [
+            "Muscular",
+            "Skeletal",
+            "Muscular and skeletal",
+            "None of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "A, B,O  blood group was discovered by ?",
+        "options": [
+            "William Harvey",
+            "Carl Landsteiner",
+            "Decastello and Sturli",
+            "Sturli"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Sound heard during heart beat is ?",
+        "options": [
+            "Lubb and Dub",
+            "Dub and Lubb",
+            "Lubb and Lubb",
+            "Dub Dub"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "pH of oxygenated blood is ...............",
+        "options": [
+            "6.4",
+            "6.5",
+            "7.4",
+            "7.5"
+        ],
+        "answer":3
+    },
+    {
+        "question": " Which blood group is known as Universal donor ?",
+        "options": [
+            "O",
+            "AB",
+            "B",
+            "AO"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Capillaries have thin walls so that ……………",
+        "options": [
+            "They can go deep into body layers.",
+            "They do not have any blood pressure",
+            "They can have large surface area.",
+            "They can have large surface area."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Food pipe and wind pipe originate in the …………….",
+        "options": [
+            "Pharynx",
+            "Trachea",
+            "Nose",
+            "Lungs"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following vein does not carry deoxygenated blood?",
+        "options": [
+            "One which carries blood from heart to lungs.",
+            "One which carries blood from lungs to heart.",
+            "One which carries blood from heart to all body parts.",
+            "One which carries blood from heart to kidney."
+        ],
+        "answer":2 
+    },
+    {
+        "question": " …………… acts as partition between the thoracic cavity and abdominal cavity.",
+        "options": [
+            "Diaphragm",
+            "Alveoli",
+            "Pleura",
+            "Pharynx"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " White Blood cells are produced in ...............",
+        "options": [
+            "Red bone marrow",
+            "White bone marrow",
+            "Cartilaginous membranes",
+            "Ligaments"
+        ],
+        "answer":1
+    },
+    {
+        "question": "What is the ph pf blood ?",
+        "options": [
+            "7.4",
+            "7",
+            "7.2",
+            "6"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Heart is covered by a double layered …………… membrane.",
+        "options": [
+            "Cervical",
+            "Spinal",
+            "Peritoneal",
+            "Cardiac"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Person who donates the blood is referred as blood recipient.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": " A lung is present on either side of heart in which of the following cavity",
+        "options": [
+            "Abdominal",
+            "Thoracic",
+            "Peritoneal",
+            "Cervical"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Which of the following is gas necessary for respiration?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon",
+            "CO 2"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Vessels carrying the blood towards the heart from various parts of body are called as ……………",
+        "options": [
+            "Pulmonary vessels",
+            "Arteries",
+            "Veins",
+            "Capillaries"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Blood is carried throughout the body within …………….",
+        "options": [
+            "Blood vessels",
+            "Blood vesicles",
+            "Blood membranes",
+            "Through osmosis"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A muscular partition is present at the base of ",
+        "options": [
+            "Thoracic cage",
+            "Diaphragm",
+            "Ribs",
+            "None of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "In case of a healthy person, there are …………… beats of heart per minute.",
+        "options": [
+            "60",
+            "70",
+            "72",
+            "82"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Energy production occurs within the …………….",
+        "options": [
+            "Cells",
+            "Tissues",
+            "Plasma",
+            "Organs"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Water content in blood plasma is around ................",
+        "options": [
+            "90-92%",
+            "45-55%",
+            "80-85%",
+            "6-8%"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Respiration and respiratory system begins with?",
+        "options": [
+            "Mouth",
+            "Lungs",
+            "Nose",
+            "Pharynx"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Walls of ............... are extremely thin and made up of single layers of cells.",
+        "options": [
+            "Capillaries",
+            "Arteries",
+            "Heart",
+            "Veins"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Capillaries unite together to form?",
+        "options": [
+            "Veins",
+            "Arteries",
+            "Aorta",
+            "None of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Where does wind pipe bifurcates?",
+        "options": [
+            "Larynx",
+            "Pharynx",
+            "Trachea",
+            "Thorax"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "During ……………, air is taken in through nose and sent towards the lungs through trachea.",
+        "options": [
+            "External Respiration",
+            "Inspiration",
+            "Cellular Respiration",
+            "Internal Respiration"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "............... is carried via blood from lungs to cell in various parts of the body.",
+        "options": [
+            "Antigen",
+            "Antibodies",
+            "Albumins",
+            "Oxygen"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Where does RBCs and WBCs are produced ?",
+        "options": [
+            "Red bone marrow",
+            "Liver",
+            "Kidney",
+            "Heart"
+        ],
+        "answer": 1
+    },
+    {
+        "question": " Which blood cells are nucleated and colourless?",
+        "options": [
+            "RBCs",
+            "WBCs",
+            "Plasma",
+            "RBCs and WBCs"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The positive and negative blood groups are denoted by",
+        "options": [
+            "P+ and N-",
+            "Rh+ and Rh-",
+            "P+ and P-",
+            "N+ and N-"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Process of pumping the blood towards various parts of the body and bringing it back towards the heart is called as …………….",
+        "options": [
+            "Blood transfusion",
+            "Blood circulation",
+            "Blood production",
+            "Blood regulation"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "What happens to systolic pressure and diastolic pressure in hypertension",
+        "options": [
+            "Low",
+            "High",
+            "Normal",
+            "No changes"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " Persons who donates the blood is referred as ?",
+        "options": [
+            "Blood donor",
+            "Blood recipient",
+            "Blood recipient",
+            "None of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "High blood pressure then normal is known ?",
+        "options": [
+            "Hypotension",
+            "Hypertension",
+            "High systolic pressure",
+            "None of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Blood is ...............",
+        "options": [
+            "Made up of 90% proteins.",
+            "Acidic in nature.",
+            "Fluid connective tissue.",
+            "Sour to taste."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "RBCs do not have a nucleus",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Blood Pressure of healthy person is about ?",
+        "options": [
+            "120/80mm to 139/86mm",
+            "139/80mm to 120/86mm",
+            "130/85mm to 120/80mm",
+            "120/86mm to 139/80mm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In cellular respiration energy is restored in the form of ?",
+        "options": [
+            "Water",
+            "ATP",
+            "ATP and water",
+            "None of the above"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Process of respiration is carried out through …………… system.",
+        "options": [
+            "Digestive",
+            "Respiratory",
+            "Circulatory",
+            "Nervous"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Air taken through nose and sent to lungs is known as ?",
+        "options": [
+            "Respiration",
+            "Inspiration",
+            "Circulation",
+            "Cellular respiration"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Amount of blood which can be restored within 24 hours in a healthy person is ...............",
+        "options": [
+            "200 ml",
+            "250 ml",
+            "350 ml",
+            "500 ml"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Blood vessels which carry the blood away from heart are called as…………….",
+        "options": [
+            "Pulmonary vessels",
+            "Arteries",
+            "Veins",
+            "Capillaries"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Air is filtered with the help of hair and mucus present in which part?",
+        "options": [
+            "Pharynx",
+            "Trachea",
+            "Nose",
+            "Lungs"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A large number of alveoli is present in the ...............",
+        "options": [
+            "Lungs",
+            "Heart",
+            "Kidney",
+            "Aorta"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Name the membrane present in the heart ?",
+        "options": [
+            "Peritoneal membrane",
+            "Muscular membrane",
+            "Aortic membrane",
+            "Lymphatic membrane"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "How many chambers heart consists of ?",
+        "options": [
+            "2 chambers",
+            "4 chambers",
+            "3 chambers",
+            "None of the above"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " Heart is almost present in the center of ...............",
+        "options": [
+            "Thoracic cage",
+            "Towards right lungs",
+            "Towards right",
+            "None of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Sphygmomanometer is the device used to ...............",
+        "options": [
+            "Measure amount of blood transfused.",
+            "Purify the blood in the body.",
+            "Measure blood pressure.",
+            "Detect components of blood."
+        ],
+        "answer":3 
+    }     
+]

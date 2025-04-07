@@ -1,0 +1,264 @@
+[
+    {
+        "question": "Find the odd one and write the reason.",
+        "options": [
+            "Mumbai",
+            "Goa",
+            "Kerala",
+            "Marathwada"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Shillong receives low rainfall because it lies in ………….. region.",
+        "options": [
+            "Rain-shadow",
+            "Desert",
+            "Plain"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Parts of Brazilian …………… extend upto the northern coast.",
+        "options": [
+            "Mountains",
+            "Highlands",
+            "Plains"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Region beyond the Brazilian highlands is known as",
+        "options": [
+            "Orographic type",
+            "Drought Quadrilateral",
+            "Convergence zone",
+            "Tropical zone"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Because of the proximity to the sea, the coast experience …………… climate.",
+        "options": [
+            "Mild and humid",
+            "Mild and dry",
+            "Cool and dry"
+        ],
+        "answer":2
+    },
+    {
+        "question": "Identify the monsoon winds which bring heavy rain in India",
+        "options": [
+            "South-East",
+            "South-West",
+            "Easterlies"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Identify the odd one and write the reason.",
+        "options": [
+            "Pernambuco",
+            "Alagoas",
+            "Amazon",
+            "Rio-Grand"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Central part of India peninsular plateau lies in ………….. region.",
+        "options": [
+            "Rain-shadow",
+            "Heavy rainfall",
+            "Equatorial"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "The desert in Rajasthan is called ……………",
+        "options": [
+            "Bhor",
+            "Thar",
+            "Alagoas"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Brazilian coast experience the cyclones frequently.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "The Southern most part of Brazil experience ………….. climate",
+        "options": [
+            "Tropical",
+            "Cool",
+            "Temperate"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Name the water body from where the winds blow and give rain in Brazil.",
+        "options": [
+            "Indian ocean",
+            "Atlantic ocean",
+            "Pacific ocean"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Cold winds blowing from the north of ……………. are obstructed by the Himalayas.",
+        "options": [
+            "Asia",
+            "Siberia",
+            "Russia"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Name the month in which India receives highest rainfall.",
+        "options": [
+            "May",
+            "June",
+            "July"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Some parts of Gujarat and Rajasthan receive low rainfall because South-west winds blow parallel to ………….. ranges.",
+        "options": [
+            "Vindhya",
+            "Satpuda",
+            "Aravalli"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "In which region of Brazil one finds highest rain fall.",
+        "options": [
+            "Amazon",
+            "Sao paulo",
+            "Brazilian Highland"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Because of the large ............... extent, Brazil experiences wide range of climatic variations.",
+        "options": [
+            "Latitudinal",
+            "Longitudinal",
+            "Continental"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "In Brazil the winter is from ……………",
+        "options": [
+            "November to January",
+            "April to September",
+            "October to December"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Brazil gets lots of rainfall because of South-west monsoon winds",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":2
+    },
+    {
+        "question": "Retreating of monsoon is one of seasons of India.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "The moisture laden South-west monsoon winds came from …………….",
+        "options": [
+            "Arabian sea",
+            "Indian ocean",
+            "Bay of Bengal"
+        ],
+        "answer":2
+    {
+        "question": "Brazil has a ………….. climate",
+        "options": [
+            "Equatorial",
+            "Temperate",
+            "Tropical"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "North-eastern part of India receives ………….. rainfall",
+        "options": [
+            "Low",
+            "Moderate",
+            "Heavy"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Orographic type of rainfall occurs because of the natural obstruction of the ..................",
+        "options": [
+            "Himalayas",
+            "Shiwalik",
+            "Indian Ocean",
+            "None of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Eastern coastal area of India receives rainfall from …………… winds",
+        "options": [
+            "South-west monsoon",
+            "North-east monsoon",
+            "South-east monsoon"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Low pressure is created in the plains of Punjab and the Thar desert in Rajasthan in …………….",
+        "options": [
+            "Summer",
+            "Winter",
+            "Monsoon"
+        ],
+        "answer":1
+    },
+    {
+        "question": "India’s climate is …………. type.",
+        "options": [
+            "Equatorial",
+            "Temperate",
+            "Monsoon"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Name the type of rainfall:When moisture laden winds are obstructed by mountains."
+                    ,
+        "options": [
+            "Orographic rainfall",
+            "Convectional rainfall",
+            "Cyclonic rainfall"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Paddy cultivation is mainly a …………… crop.",
+        "options": [
+            "Rabi",
+            "Kharif",
+            "All season"
+        ],
+        "answer":2 
+    }
+]

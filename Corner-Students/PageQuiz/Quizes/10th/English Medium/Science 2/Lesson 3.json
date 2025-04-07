@@ -1,0 +1,418 @@
+
+[
+    {
+        "question": "Spores of Mucor germinate in moist and warm place.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "These are the major female sex organs that produce ova or eggs.",
+        "options": [
+            "Ovary",
+            "Testes/testicles",
+            "Gametes"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Seminal vesicles secrete their secretion in urinogenital duct.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In sperms, the process of meiotic division completes after sperm leaves the male reproductive tract.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The transfer of pollen grains from anther to stigma.",
+        "options": [
+            "Fertilization",
+            "Pollination",
+            "Germination"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The female whorl of the flower.",
+        "options": [
+            "Stamens",
+            "Carpels"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Many nuclei are formed by repeated nuclear divisions in the cyst.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There is higher possibility of infections during the menstrual cycle.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the technique used in the following Women having problems in implantation of embryo.",
+        "options": [
+            "In Vitro Fertilization (IVF)",
+            "Sperm bank",
+            "Surrogacy"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Sperms need a lot of energy and hence fructose is present in them.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Vegetative reproduction by stem.",
+        "options": [
+            "Sugarcane",
+            "Carrot",
+            "Ginger"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Female gamete and male gamete are called germ cells.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In Fragmentation, the body of parent organism breaks up into many fragments and each fragment starts to live as an independent new organisms.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In fertilization, the zygote divides by mitosis and an embryo is formed.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "This connects the ovary to the uterus.",
+        "options": [
+            "Vagina",
+            "Cervix",
+            "Fallopian tube"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The tip of the style.",
+        "options": [
+            "Ovary",
+            "Stamen",
+            "Stigma"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Testes contain numerous seminiferous tubules.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Haploid gametes are formed in the process of ......",
+        "options": [
+            "Fertilization",
+            "Germination",
+            "Meiosis",
+            "Mitosis"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The minimum age for marriage in India is 18 for girls and 21 for boys.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Find the odd one out.",
+        "options": [
+            "Corpus luteum",
+            "Luteinizing hormone",
+            "Estrogen",
+            "Progesterone"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Conjoined twins are called.",
+        "options": [
+            "Siamese",
+            "Dizygotic"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Find the odd one out.",
+        "options": [
+            "Stigma",
+            "Style",
+            "Anther",
+            "Ovary"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A person's state of being physical, metal and social strongness is called as ......",
+        "options": [
+            "Physiology",
+            "Health"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Parent hydra supplies nutrition to the budding hydra.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... is one of the various reasons responsible for evolution of each species.",
+        "options": [
+            "Reproduction",
+            "Fertilization"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Sperms are produced in testes of men from beginning of puberty till death.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The placenta is the organ formed for supply of food material during the growth in uterus.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Asexual Reproduction by Spore formation.",
+        "options": [
+            "Hydra",
+            "Mucor",
+            "Spirogyra"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "All organs of female reproductive system lie in the ...... cavity.",
+        "options": [
+            "Pelvic",
+            "Abdominal"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In case of women, difficulty in oocyte production is one of the reasons why women cannot have children.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Asexual reproduction occurs by budding in yeast-a unicellular fungus.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Sexual reproduction occurs with the help of two germ cells.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Every month, a ____ is released from each ovary.",
+        "options": [
+            "Ova",
+            "Ovum"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Down’s syndrome is a genetic disorder.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In the flower, each embryo sac consists of a haploid egg cell and two haploid polar nuclei.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A unisexual flower with the presence of only androecium.",
+        "options": [
+            "Female flower",
+            "Male flower"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Reproduction is one of the life processes that occur in living organisms.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A pair of Bartholin’s gland is present in female reproductive system.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Gametes are formed by mitosis.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Planaria: Regeneration :: Rhizopus : ......",
+        "options": [
+            "Fragmentation",
+            "Spore formation"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Sperm bank is a concept similar to blood bank.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... is one of the life processes important for production of energy.",
+        "options": [
+            "Respiration",
+            "Excretion"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... is the stoppage of functioning of female reproductive system.",
+        "options": [
+            "Menstruation",
+            "Menopause"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Flower is the structural unit of asexual reproduction.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Amoeba divides in any plane due to lack of specific shape, hence it is called as ......",
+        "options": [
+            "Simple binary fission",
+            "Transverse binary fission",
+            "Longitudinal binary fission"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Vegetative reproduction by buds.",
+        "options": [
+            "Sugarcane",
+            "Carrot",
+            "Ginger"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Slow movement of sperms or anomalies in the sperms is the reason why couples cannot have children.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Amoeba: simple binary fission :: Euglena: ......",
+        "options": [
+            "Longitudinal binary fission",
+            "Transverse binary fission"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Semen is formed of sperms and secretions of all the glands.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Calyx and corolla are called the ‘essential whorls’.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    }
+]

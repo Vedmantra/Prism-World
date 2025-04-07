@@ -1,0 +1,462 @@
+[
+    {
+        "question": "The unit of potential difference is named in the honour of Italian scientist ...............",
+        "options": [
+            "Faraday",
+            "Ohm",
+            "Oersted",
+            "Alessandro Volta"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Electric current flowing through the conductor is said to be of …………… if a  charge of 1 coulomb passes through the cross-section of conductor in 1 second.",
+        "options": [
+            "1 volt ",
+            "1 coulomb  ",
+            "1 ampere",
+            "1 ohm"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "If 45 coulombs of charge passes through a cross section of a conductor in 3 minutes, the magnitude of electric current is ...............",
+        "options": [
+            "15 A",
+            "0.25 A ",
+            "135 A",
+            "Thick"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Conductors whose resistance becomes zero if the temperature is decreased upto a certain value to zero kelvin are called …………………  conductor.",
+        "options": [
+            "Good",
+            "Super",
+            "Bad",
+            "Semi"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The direction of the conventional electric current is …………….. to the direction in which electrons are moving.",
+        "options": [
+            "Opposite",
+            "The same as ",
+            "Parallel",
+            "Perpendicular"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The material used for fuse wire has ............... melting point.",
+        "options": [
+            "High",
+            "Low",
+            "Infinite",
+            "Zero"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "The equivalent resistance of a number of resistances connected in parallel is equal to the …………. of the individual resistances.",
+        "options": [
+            "Sum of inverse",
+            "Sum",
+            "Difference",
+            "Product"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The unit of electric charge is the …………….",
+        "options": [
+            "Volt",
+            "Coulomb",
+            "Ampere",
+            "Ohm"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Substances which do not obey ohm’s law are called ............... conductors.",
+        "options": [
+            "Good",
+            "Ohmic",
+            "Bad",
+            "Non–ohmic"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The equivalent resistance of parallel combination of 2 resistances 30 Ω and 20 Ω is ................",
+        "options": [
+            "25 Ω",
+            "12 Ω",
+            "0.83 Ω",
+            "50 Ω"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In order to measure the potential difference applied across a circuit, we connect …………….. with the circuit.",
+        "options": [
+            "A voltmeter in parallel",
+            "A voltmeter in series",
+            "An ammeter in parallel",
+            "An ammeter in series"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Resistance and current are inversely proportional to each other provided …………… is a constant.",
+        "options": [
+            "Electric current",
+            "Charge",
+            "Resistance",
+            "Potential difference"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The potential difference between the two ends of a wire of resistance 50Ω when a current of 250 mA flows through it is ...............",
+        "options": [
+            "125 V",
+            "5 V",
+            "0.02 V",
+            "12.5 V"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "A ……………… is a device which is used to apply potential difference.",
+        "options": [
+            "Voltmeter",
+            "Ammeter",
+            "Key",
+            "Cell"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "If a charge of 30 C passes through the cross section of a wire in one minute. The current through the wire is ...............",
+        "options": [
+            "30 A ",
+            "0.5 A  ",
+            "1800 A",
+            "0.33 A"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The SI unit of electric current is called the ……………..",
+        "options": [
+            "Ampere",
+            "Volt",
+            "Ohm",
+            "Coulomb"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Live wire is also called ..............",
+        "options": [
+            "Neutral wire",
+            "Phase wire",
+            "Earth wire",
+            "Charge wire."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The equivalent resistance is ............... than the value of each of the individual resistances in parallel combination.",
+        "options": [
+            "Greater",
+            "Less",
+            "Double",
+            "Half"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The equivalent or resultant resistance of a series combination of the resistances 5 Ω, 10 Ω,15 Ω and 6 Ω is ...............",
+        "options": [
+            "36 Ω",
+            "5 Ω",
+            "10 Ω",
+            "15 Ω"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "The potential difference to be applied across a conductor of resistance 200Ω so that a current of 10 mA flows through the conductor is ...............",
+        "options": [
+            "5 V",
+            "3 V ",
+            "10 V",
+            "2 V"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "If 20 joules of work is done when a charge of five coulombs move from one point to another, the potential difference between the two points is ...............",
+        "options": [
+            "4 V ",
+            "100 V",
+            "5 V",
+            "0.25 V"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "…………….. is used to measure the electric current in the circuit",
+        "options": [
+            "Voltmeter",
+            "Battery",
+            "Ammeter",
+            "Key"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "The colour code for insulation on the live wire, neutral wire & earth wire are ............... respectively.",
+        "options": [
+            "Blue, Brown & Green",
+            "Green, Blue & Brown",
+            "Brown, Green & Blue",
+            "Brown, Blue & Green."
+        ],
+        "answer":4 
+    },
+    {
+        "question": "The S.I. unit of resistance is ………………",
+        "options": [
+            "Coulomb",
+            "Joule",
+            "Volt",
+            "Ohm"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "The earth’s surface has …………….. potential.",
+        "options": [
+            "Zero",
+            "Negative",
+            "Positive",
+            "High"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The electric level at a point is called the ……………. at that point.",
+        "options": [
+            "Electric potential",
+            "Electric energy",
+            "Electric current",
+            "Electromotive force"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When a potential difference of 4V is applied between the ends of a wire, a current of 20mA flows through the wire. What will be the current flowing through the wire if a potential difference of 6V is applied between the ends of the wire?",
+        "options": [
+            "30 mA",
+            "20 mA",
+            "10 mA",
+            "40 mA"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The potential difference between the ends of a wire is 450 V and the current flowing through it is 300 mA. The resistance of the wire is ...............",
+        "options": [
+            "1.5 Ω",
+            "150 Ω ",
+            "1500 Ω",
+            "0.66 Ω"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "The opposition offered by a substance to the passage of electric current through it when a P.D. is applied across it is called the …………. of that substance.",
+        "options": [
+            "Electric current",
+            "Charge",
+            "Resistance",
+            "Potential difference"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "............... is used to measure the potential difference in the circuit.",
+        "options": [
+            "Voltmeter",
+            "Battery",
+            "Ammeter",
+            "Key"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If a current of 5A flows for twenty seconds through a conductor, find the amount of charge flowing through a cross section of the conductor",
+        "options": [
+            "0.25 C",
+            "4 C",
+            "100 C",
+            "2 C"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Since electrons are negatively charged, they start moving from ……………. of the cell through a wire.",
+        "options": [
+            "Negative end to the positive end",
+            "Positive end to the earth",
+            "Negative end to the earth",
+            "Positive end to the negative end"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "…………… is defined as the rate of flow of electric charge.",
+        "options": [
+            "Electric current",
+            "Charge",
+            "Resistance",
+            "Potential difference"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "............... wire is mainly used for safety purpose.",
+        "options": [
+            "Live",
+            "Neutral",
+            "Earthing",
+            "All of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Good conductors of electricity have ……………… number of free electrons.",
+        "options": [
+            "Less",
+            "Large",
+            "Zero",
+            "Half"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In parallel combination of resistances.",
+        "options": [
+            "P.D. is same across each resistance",
+            "Total resistance is increased",
+            "Current is same in each resistance",
+            "All above are true"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "A metallic wire is said to carry an electric current when …………… pass through it.",
+        "options": [
+            "Electrons & positive ions",
+            "Only electrons",
+            "Only positive ions",
+            "Only neutrons"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "If in carrying an electric charge of 8 coulombs between two points in a circuit, 12 joule of work is done. TheP.D between the two points is ...............",
+       "options": [
+            "1.5 V ",
+            "0.67 V",
+            "96 V",
+            "9.6 V."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The main fuse is connected in ...............",
+        "options": [
+            "Live wire",
+            "Both live wire & earth wire",
+            "Neutral wire",
+            "Both the earth & neutral wires."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Substances or materials which allow electric current to pass through them readily are called ……………. conductors of electricity.",
+        "options": [
+            "Good",
+            "Super",
+            "Bad",
+            "Semi"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The effective resistance when three resistors of resistances 2 Ω, 3 Ω and 5 Ω are connected in series are................",
+        "options": [
+            "5 Ω ",
+            "3 Ω",
+            "10 Ω",
+            "2 Ω"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "If a current of 1.2 amperes is passed for 4 minutes through a conductor, the amount of charge passed through a cross section of the conductor ...............",
+        "options": [
+            "4.8 C",
+            "48 C ",
+            "288 C",
+            "2880 C"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The loosely bound electrons are considered as ……………",
+        "options": [
+            "Shared electrons",
+            "Free electrons",
+            "Bound electrons",
+            "Inert electrons"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The equivalent resistance of a number of resistances connected in series is equal to the ............... of the individual resistances.",
+        "options": [
+            "Sum of inverse",
+            "Sum",
+            "Difference",
+            "Product"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The S.I. unit of potential difference is the ……………",
+        "options": [
+            "Newton",
+            "Joule",
+            "Volt",
+            "Coulomb"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "............... applied between the two ends of the conductor is said to be of 1 volt if 1 joule of work is done in carrying a charge of 1 coulomb from one end of the conductor to the other.",
+        "options": [
+            "Electric current",
+            "Charge",
+            "Resistance",
+            "Potential difference"
+        ],
+        "answer": 4
+    }
+]

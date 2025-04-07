@@ -1,0 +1,183 @@
+[
+    {
+        "question": "Name the season when field visits are being undertaken.",
+        "options": [
+            "Summer",
+            "Monsoon",
+            "Winter"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Maharashtra forts were built for ………….. purpose.",
+        "options": [
+            "Security",
+            "Entertainment",
+            "Hiding"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "With the help of a Teacher students prepare a …………… before going to the field visit.",
+        "options": [
+            "Questionnaire",
+            "Report",
+            "Map"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "One should ensure not to harm the …………… during field visit.",
+        "options": [
+            "Trees",
+            "Animals",
+            "Environment"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "………….. is to be carried for any emergency circumstances.",
+        "options": [
+            "Water-bottle",
+            "First aid",
+            "Mobile-phone"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "………….. is the source of information during field visit.",
+        "options": [
+            "BMC office",
+            "Local office",
+            "District office"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Circle the odd one:",
+        "options": [
+            "Note-book",
+            "Pen",
+            "Spectacles",
+            "Compass"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "A field report should be written on the basis of the …………… obtained after the field visit.",
+        "options": [
+            "Pictures",
+            "Information",
+            "Maps"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Multi-purpose projects provide water for ……………",
+        "options": [
+            "Agriculture",
+            "Animals",
+            "Forests"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Geographical concepts and elements can be directly experienced through …………..",
+        "options": [
+            "Maps",
+            "Field visits",
+            "Slides"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Mud and wood houses are cheap and …………..",
+        "options": [
+            "Eco-friendly",
+            "Strong",
+            "Complicated"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "It is necessary to converse with …………… people to understand their problems.",
+        "options": [
+            "Village",
+            "Local",
+            "City"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "The ground rule is to obey the …………… of the teachers.",
+        "options": [
+            "Rules",
+            "Instructions",
+            "Laws"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Maharashtra plateau is made up of ……………. rocks.",
+        "options": [
+            "Basalt",
+            "Sedimentary",
+            "Metamorphic"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Maharashtra plateau is formed due to …………… volcanic eruption.",
+        "options": [
+            "Fissure",
+            "Conical",
+            "Active"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Give one word for greenery on the out streets of the village.",
+        "options": [
+            "Orchard",
+            "Garden",
+            "Devrai"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Field visit one useful for understanding the correlation between environment and …………..",
+        "options": [
+            "Climate",
+            "Animals",
+            "Humans"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Students carry camera to click selfies during field visit.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Position of the sun, moon and earth affect the …………….",
+        "options": [
+            "Waves",
+            "Tides",
+            "Tsunamis"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Permission letter has to be acquire ……………. going to the field visit.",
+        "options": [
+            "Before",
+            "After",
+            "Same day"
+        ],
+        "answer":1 
+    } 
+    
+]

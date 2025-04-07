@@ -1,0 +1,384 @@
+[
+    {
+        "question": "Plants: Producers:: Microbes: ................ ",
+        "options": [
+            "Consumers",
+            "Decomposers"        ],
+        "answer":2 
+    },
+    {
+        "question": "Biotic and Abiotic factors and their interactions form an ...............",
+        "options": [
+            "Ecosystem",
+            "Ecology",
+            "Environment"        ],
+        "answer":1 
+    },
+    {
+        "question": "Large ecosystems are called.",
+        "options": [
+            "Biomes",
+            "Habitat"        ],
+        "answer":1 
+    },
+    {
+        "question": "Keoladeo National Park at Bharatpur is famous for",
+        "options": [
+            "Tigers",
+            "Aquatic birds",
+            "One-horned rhino",
+            "White panther"
+        ],
+        "answer":2
+    },
+    {
+        "question": ".............. is NOT a physical abiotic factor of an ecosystem.",
+        "options": [
+            "Air",
+            "Soil",
+            "Sunlight",
+            "Lipids"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Which of the following is / are the characteristics of grasslands ?",
+        "options": [
+            "Limited rainfall",
+            "Longer summer",
+            "Dwarf plants",
+            "All of these"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "The position of any living organism in context to other living organisms and the role it is playing is called food web.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2 
+    },
+    {
+        "question": "Another name for ‘Biotic community’.",
+        "options": [
+            "Environment",
+            "Ecosystem"        ],
+        "answer":2 
+    },
+    {
+        "question": "Droughts are man-made disasters",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "Dajipur : Maharashtra:: Sunderban : ................",
+        "options": [
+            "West Bengal",
+            "Sikkim"        ],
+        "answer": 1
+    },
+    {
+        "question": "Grasslands develop where rainfall is ................",
+        "options": [
+            "Scanty",
+            "Plenty"        ],
+        "answer":1 
+    },
+    {
+        "question": "Snails: Primary Consumers:: Crocodiles: ................ ",
+        "options": [
+            "Secondary consumer",
+            "Tertiary consumer"        ],
+        "answer":2 
+    },
+    {
+        "question": "Longer summer and limited rain develop ............... plants in the grassland areas.",
+        "options": [
+            "Tall",
+            "Dwarf"        ],
+        "answer":2
+    },
+    {
+        "question": "Plants are autotrophic in nature",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Biomes which exist only on Land",
+        "options": [
+            "Land Biomes",
+            "Aquatic Biomes"        ],
+        "answer":1 
+    },
+    {
+        "question": "Find the odd one out.",
+        "options": [
+            "Snake",
+            "Hyena",
+            "Vulture",
+            "Kite"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Some plants can grow in shade",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Find the odd one out. ",
+        "options": [
+            "Ponds",
+            "Lakes",
+            "Rivers",
+            "Oceans"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Teak is the producer that is found in the ................ ecosystem",
+        "options": [
+            "Evergreen forest",
+            "Grassland"        ],
+        "answer":1 
+    },
+    {
+        "question": "Living organisms and their ............... , environment are correlated to each other.",
+        "options": [
+            "Lifestyles",
+            "Habitat",
+            "Ecosystem"        ],
+        "answer":2 
+    },
+    {
+        "question": "Each and every abiotic factor affects the biotic factors in the ecosystem.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1
+    },
+    {
+        "question": "Human activities are responsible for diminishment of ecosystems",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Vast growth of grass is found in the grassland ecosystems",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Animals are ............... consumers.",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "All of these"
+        ],
+        "answer":4
+    },
+    {
+        "question": " ............... forest was the habitat for single horned Rhino.",
+        "options": [
+            "Gir",
+            "Dudhwa",
+            "Dajipur"        ],
+        "answer":2 
+    },
+    {
+        "question": "Gir forest in Gujarat is the only habitat for the spectacular ................",
+        "options": [
+            "Asiatic tigers",
+            "Asiatic lions"        ],
+        "answer":2 
+    },
+    {
+        "question": "Due to unequal distribution of ............... factors different types of ecosystems exist.",
+        "options": [
+            "Biotic",
+            "Abiotic"        ],
+        "answer":2 
+    },
+    {
+        "question": "Tourism in a particular area causes destruction of local ecosystem due to increased stress.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Find the odd one out.",
+        "options": [
+            "Large Dams",
+            "Flood",
+            "Mining",
+            "Tourism"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Living: Biotic:: Non-living: ...............",
+        "options": [
+            "Artificial",
+            "Abiotic"        ],
+        "answer": 2
+    },
+    {
+        "question": "Animals are consumers",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1
+    },
+    {
+        "question": "Microbes are called ...............",
+        "options": [
+            "Consumers",
+            "Producer",
+            "Decomposers"        ],
+        "answer": 3
+    },
+    {
+        "question": "Proteins, Carbohydrates, lipids are ............... type of substances.",
+        "options": [
+            "Inorganic",
+            "Organic",
+            "Physical"        ],
+        "answer":2 
+    },
+    {
+        "question": "Spiders are ...............consumers.",
+        "options": [
+            "Primary",
+            "Secondary"        ],
+        "answer": 1
+    },
+    {
+        "question": "Hydrogen, Sodium and Nitrogen are called as organic substances.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "Man is ............... in an ecosystem.",
+        "options": [
+            "Producer",
+            "Consumer",
+            "Decomposer"        ],
+        "answer":2 
+    },
+    {
+        "question": " Bottom of the oceans has more number of ...............",
+        "options": [
+            "Fishes",
+            "Decomposers"        ],
+        "answer": 2
+    },
+    {
+        "question": "............... is NOT responsible for the diminishment of ecosystems.",
+        "options": [
+            "Afforestation",
+            "Industrialization",
+            "Tourism",
+            "Construction of dams"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Which of the following is a biotic factor?",
+        "options": [
+            "Sunlight",
+            "Decomposer",
+            "Temperature",
+            "Humidity"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Changing lifestyles of people does not lay any stress on the ecosystem.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "Ulothrix is ................. in the fresh water ecosystem.",
+        "options": [
+            "Producer",
+            "Decomposer"        ],
+        "answer": 1
+    },
+    {
+        "question": "We can separate small ecosystems from each other and classify them according to their functions.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Many types of ecosystems are found in biosphere.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Tertiary consumers depend upon the primary consumers for their food.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following are the tertiary consumers in an aquatic ecosystem ?",
+        "options": [
+            "Birds",
+            "Aspergillus and Parthenium",
+            "Fungi and bacteria",
+            "Azolla and Hydrilla"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Ranthambore : Tigers:: ............... : White panther  ",
+        "options": [
+            "Gir forest",
+            "Great Himalayan National Park"        ],
+        "answer":2 
+    },
+    {
+        "question": "Find the odd one out.",
+        "options": [
+            "Giraffe",
+            "Deer",
+            "Egrets",
+            "Zebra"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Types of ecosystems are formed according to size, place, climate, types of plants and animals.",
+        "options": [
+            "True ",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Due to urbanization, more and more agricultural lands are being destroyed.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    }
+]

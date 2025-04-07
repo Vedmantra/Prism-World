@@ -1,0 +1,394 @@
+[
+    {
+        "question": "Valuable guidance for making first super computer was received from the senior scientist ……………",
+        "options": [
+            "Ajay Bhatkar",
+            "Sanjay Bhatkar",
+            "Vijay Bhatkar",
+            "None of these"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "C-DAC stands for ……………",
+        "options": [
+            "Centre for Data Analysis",
+            "Centre for Development of Advanced Computing",
+            "Centre for Data Computing",
+            "None of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "All the electronic and mechanical parts used in computers are together known as its ................",
+        "options": [
+            "Input unit ",
+            "Output unit ",
+            "Hardware",
+            "Software"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "To animate the slide and make a slide show we use.",
+        "options": [
+            "File tab",
+            "Animation tab",
+            "Design tab",
+            "Home tab"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "PDF files can be used to ……………",
+        "options": [
+            "View files",
+            "Print files",
+            "Handle files",
+            "All of these"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Punched cards, Paper tapes are the input methods of ............... .",
+        "options": [
+            "First and second generation of computers",
+            "Third generation of computers",
+            "Fourth and fifth generation of computers",
+            "All the generation computers."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The term Information Communication Technology (ICT) includes.",
+        "options": [
+            "Communication devices",
+            "Use of the communication devices",
+            "Services provided with the help of communication devices",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "A ............... has many buttons on it called as keys.",
+        "options": [
+            "Mouse",
+            "Keyboard",
+            "Monitor",
+            "Printer"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "To find the required information from all the information available on the internet, we use ……………",
+        "options": [
+            "Internet Explorer",
+            "RAM",
+            "ROM",
+            "PDF"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "............... is the place in the computer for storing data obtained from the input devices and also the generated solution.",
+        "options": [
+            "Input unit ",
+            "Memory",
+            "Hardware",
+            "Software"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In Microsoft excel, no space be inserted while typing any formula.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "…………… is created from electronic components.",
+        "options": [
+            "DOS",
+            "RAM",
+            "ROM",
+            "ALu"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "………… is the most important device for information communication.",
+        "options": [
+            "Camera",
+            "Computer",
+            "Radio",
+            "Television Set"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "WordPad is more advanced than ............... as WordPad provides few text formatting options.",
+        "options": [
+            "Paint",
+            "Notepad",
+            "Printer",
+            "Mouse"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "............... includes random access memory and read only memory in computers.",
+        "options": [
+            "Internal memory",
+            "External memory",
+            "Software components",
+            "Hardware components"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hard disk, Pen drive, Compact disc are the parts of .............. in computers.",
+        "options": [
+            "Internal memory",
+            "External memory",
+            "Software components ",
+            "Hardware components"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Since vacuum tubes consumed a lot of electricity and generated a lot of heat, it led to the ................",
+        "options": [
+            "Increase in accuracy of first-generation computers.",
+            "Increase in cost production of first-generation computers",
+            "Frequent shutdown of first-generation computers",
+            "Acute shortage of electricity and increase in overall demand"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "DOS stands For",
+        "options": [
+            "Disk Operating System",
+            "Digital Operating System",
+            "Department of Service",
+            "Duty of subject"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mouse, scanner are the input methods of ............... .",
+        "options": [
+            "First and second generation of computers",
+            "Third generation of computers",
+            "Fourth and fifth generation of computers ",
+            "All the generation computers."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which one is not external memory",
+        "options": [
+            "Pen drive",
+            "Hard disk",
+            "RAM",
+            "Compact disc"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "There are ............... types of memory in computer.",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A Portable Document Format file stands for ……………",
+        "options": [
+            "PDF",
+            "PF",
+            "PPF",
+            "All of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The first generation computers were created during the period between ............... .",
+        "options": [
+            "1946 & 1959",
+            "1933 & 1946",
+            "1936 & 1949"        ],
+        "answer": 1
+    },
+    {
+        "question": "…………… is a program which provides a means of communication between the computer and person working on it.",
+        "options": [
+            "Data",
+            "RAM",
+            "ROM",
+            "Operating System"
+        ],
+        "answer": 4
+    },
+    {
+        "question": ".............. includes Microsoft word, Microsoft excel, Microsoft Powerpoint.",
+        "options": [
+            "Internal memory ",
+            "External memory",
+            "Software components ",
+            "Hardware components"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Mobile phones are used in making voice calls, sending messages etc. because of ............... .",
+        "options": [
+            "Ease in data and information transfer.",
+            "Ease in communication and transfer of information",
+            "Easy broadcasting of information in audio format",
+            "Broadcasting of information in audio–visual format"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The first generation computer would shut down many times because",
+        "options": [
+            "Valves were used in its construction",
+            "Valves were large in size and consumed lot of electricity",
+            "Valves generated lot of heat",
+            "All of the these"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The two types of internal memory is ……………",
+        "options": [
+            "DOS and Windows",
+            "RAM and ROM",
+            "Hardware and Software",
+            "None of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "For entering data in Microsoft Excel, it should be preferably entered in tabular form.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "The first Indian supercomputer made with the help of C–DAC was ............... .",
+        "options": [
+            "ENIAC",
+            "Param",
+            "IBM 1401",
+            "Aakash"
+        ],
+        "answer": 2
+    },
+    {
+        "question": ".............. is used for listening to audio programs, news etc.",
+        "options": [
+            "Laptops",
+            "Mobile phones",
+            "Radio",
+            "Digital TV"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "RAM stands for ...............",
+        "options": [
+            "Read Only Memory",
+            "Random Access Memory",
+            "Read Of Memory",
+            "Random Of Memory"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "…………. is a group of commands to be given to a computer.",
+        "options": [
+            "Program",
+            "Data",
+            "Information",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The first generation computers had large size ............... as their main component.",
+        "options": [
+            "LED tubes",
+            "Chemical tubes",
+            "Vacuum tubes",
+            "Plasma tubes"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which one of the following statement (s) is true for Microsoft excel.",
+        "options": [
+            "It is used to create document and write equations",
+            "It is mainly used to draw graphs based on numerical information.",
+            "It can perform different types of calculation using different formula",
+            "Both 2 and 3"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The data obtained from the input as well as the generated solution is stored in …………… of the computer.",
+        "options": [
+            "Input device",
+            "Memory",
+            "Output device",
+            "All of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The computer is considered to have gone through …………… generation.",
+        "options": [
+           "Three",
+           "Four",
+           "Five",
+           "Six"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Radio : Audio format : : Television : ...............",
+        "options": [
+            "Only visual format",
+            "Only audio format",
+            "Audio-visual format",
+            "None of these"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A computer will not work unless ............... is supplied.",
+        "options": [
+            "Electricity",
+            "Heat",
+            "Light",
+            "Catalyst"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "To draw graphs based on the obtained numerical information, we should use.",
+        "options": [
+            "Microsoft Power point",
+            "Microsoft Word",
+            "Microsoft Excel",
+            "Coral Draw"
+        ],
+        "answer": 3
+    }
+]

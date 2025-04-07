@@ -1,0 +1,457 @@
+[
+    {
+        "question": "The angle between the incident ray and  normal is called ……………",
+        "options": [
+            "Angle of normal",
+            "Angle of incidence",
+            "Angle of reflection",
+            "Angle of refraction"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Radius of curvature of a spherical mirror is ...............",
+        "options": [
+            "Distance between centre of curvature and pole",
+            "Distance between centre of curvature and principal focus.",
+            "Distance between principal focus and pole.",
+            "Half the length of the mirror."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The type of mirror used in street lights, head lamps of a car is ............... mirror.",
+        "options": [
+            "Convex",
+            "Concave",
+            "Plane",
+            "All of them"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The magnification of the mirror is 0.5. If the distance of the object from the mirror is 18 cm, then the distance of the image is ...............",
+        "options": [
+            "36 cm ",
+            "9 cm",
+            "90 cm",
+            "54 cm."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Rays of light coming from a point behind the mirror.",
+        "options": [
+            "Object",
+            "Point source"        ],
+        "answer": 2
+    },
+    {
+        "question": "If the inner surface of the spherical mirror is the reflecting surface, then it is called a …………… mirror.",
+        "options": [
+            "Concave",
+            "Convex",
+            "Plane"        ],
+        "answer": 1
+    },
+    {
+        "question": "…………… mirrors are parts of a hollow glass sphere.",
+        "options": [
+            "Spherical",
+            "Plain",
+            "Plane",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "According to the new sign convention, the …………… of the mirror is taken as the origin.",
+        "options": [
+            "Object",
+            "Pole",
+            "Image",
+            "Principal axis"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "For virtual images, the height of the image is ……………",
+        "options": [
+            "Positive",
+            "Negative",
+            "Neither positive nor negative",
+            "Can be positive or Negative"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Reflection from smooth, flat surfaces is …………… reflection.",
+        "options": [
+            "Regular",
+            "Reflected",
+            "Irregular",
+            "Refracted"
+        ],
+        "answer": 1
+    },
+    {
+        "question": " ............... is half of the radius of curvature of the mirror.",
+        "options": [
+            "Magnification",
+            "Power",
+            "Focal length",
+            "Image distance"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "If the object is placed at an infinite distance, then the image formed by concave mirror is ...............",
+        "options": [
+            "Virtual & same size",
+            "Real & point size",
+            "Virtual & diminished",
+            "Real and magnified"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "For virtual erect images, formed by a concave mirror, magnification is ...............",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A surface which reflects light and creates clear images is called a …………",
+        "options": [
+            "Sphere",
+            "Opaque surface",
+            "Mirror",
+            "None of these"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "............... has no unit since it is a ratio",
+        "options": [
+            "Focal length",
+            "Power",
+            "Image distance",
+            "Magnification"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Light reflects differently from the various surfaces around us.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "............... mirror always forms diminished and erect image of the object.",
+        "options": [
+            "Convex",
+            "Concave",
+            "Plane",
+            "All of them"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "At the barber’s shop, ……………  mirror is used to obtain a erect, virtual and magnified image.",
+        "options": [
+            "Concave",
+            "Plane",
+            "Convex",
+            "Lens"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The centre of the sphere of which the mirror is a part, is called the ……………",
+        "options": [
+            "Pole",
+            "Radius of curvature",
+            "Centre of curvature"        ],
+        "answer": 3
+    },
+    {
+        "question": "In head lamps of vehicles, the source of light is kept at the ……………  of the mirror.",
+        "options": [
+            "Pole",
+            "Radius of curvature",
+            "Centre of curvature"        ],
+        "answer": 3 
+    },
+    {
+        "question": "In head lamps of vehicles, the source of light is kept at the ……………  of the mirror.",
+        "options": [
+            "Pole",
+            "Centre of curvature",
+            "Focus",
+            "Beyond centre of curvature"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Polished surfaces absorb less light and so minimum light gets reflected.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": "The straight line passing through the pole and centre of curvature of the mirror is called its ……………",
+        "options": [
+            "Pole",
+            "Principal focus",
+            "Principal axis"        ],
+        "answer": 3
+    },
+    {
+        "question": "A ............... mirror is also known as focusing mirror.",
+        "options": [
+            "Convex",
+            "Concave",
+            "Plane",
+            "All of them."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A concave mirror ............... the rays of light falling on it.",
+        "options": [
+            "Refracts",
+            "Diverges",
+            "Converges",
+            "Absorbs"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "............... is a surface which reflects light and creates clear images.",
+        "options": [
+            "Lens",
+            "Mirror",
+            "An axis ",
+            "Wave"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The ratio of the height of the image to the height of the object is called the ............... produced by the spherical mirror",
+        "options": [
+            "Object distance",
+            "Power",
+            "Magnification",
+            "Focal length"
+        ],
+        "answer": 3 
+    },
+    {
+        "question": "The mirror displayed in laughing chamber are ............... mirrors.",
+        "options": [
+            "Convex",
+            "Concave",
+            "Curved",
+            "Plane"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "…………… images are formed in front of the mirror.",
+        "options": [
+            "Real",
+            "Virtual",
+            "Virtual and inverted",
+            "Real and erect"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Spherical mirror whose outer surface is the reflecting surface is called a ............... mirror",
+        "options": [
+            "Convex",
+            "Concave",
+            "Plane",
+            "All of them"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is used for drawing diagrams for image formed in a mirror?",
+        "options": [
+            "Laws of reflection",
+            "Laws of refraction",
+            "Laws of scattering ",
+            "Both (1) and (2)"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The radius of the ............... of which the mirror is a part, is called the radius of curvature of the mirror.",
+        "options": [
+            "Square",
+            "Cylinder",
+            "Sphere",
+            "Rectangle"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A vase is kept in front of two plane mirrors inclined at angle ‘A’ with each other. If  four images of vase are formed, then the angle ‘A’ between the mirrors is ...............",
+        "options": [
+            "62°",
+            "72°",
+            "52°",
+            "42°"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "............... mirror always forms virtual, erect and same size image as that of the object.",
+        "options": [
+            "Convex",
+            "Concave",
+            "Plane",
+            "All of them"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The distance between the pole and the principal focus of the mirror is called the ...............",
+        "options": [
+            "Object distance",
+            "Power",
+            "Magnification",
+            "Focal length"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "According to the new sign convention, distance of the object form the pole is ……………",
+        "options": [
+            "v",
+            "u",
+            "f",
+            "h"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The image will be inverted and same size as the source when the object is placed at ……………",
+        "options": [
+            "Between focus and pole",
+            "At focus",
+            "At the centre of the curvature",
+            "At infinity"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The nature of the image formed by a convex mirror does not depend on the distance of the object from the mirror.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "The mirrors used in cars and motorcycles are …………… mirrors.",
+        "options": [
+            "Concave",
+            "Convex",
+            "Plane",
+            "Plano-Convex"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When the object is placed at infinity, the image is formed is ……………",
+        "options": [
+            "Magnified",
+            "Very Large",
+            "Diminished",
+            "Point images"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Principal focus of concave mirror lies ............... the mirror while principal focus of convex mirror lies ............... the mirror.",
+        "options": [
+            "In front, in front",
+            "Behind,  in front of. ",
+            "Behind, behind.",
+            "In front of,  behind."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The rear view mirrors in cars are …………… mirror.",
+        "options": [
+            "Plane",
+            "Plain",
+            "Curved",
+            "None of these"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The image formed by a plane mirror is a …………… image.",
+        "options": [
+            "Real",
+            "Virtual",
+            "Inverted",
+            "Diminished"
+        ],
+        "answer": 2 
+    },
+    {
+        "question": "If the object is placed at the focus, then the image formed by concave mirror is ...............",
+        "options": [
+            "Virtual, erect & same size",
+            "Real, inverted & same size",
+            "Virtual, erect & diminished",
+            "Real, inverted and magnified."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Distances measured vertically upwards from the principal axis are taken as ............... & those measured in vertically downward direction are taken as ...............",
+        "options": [
+            "Positive, positive",
+            "Negative, positive",
+            "Positive, negative",
+            "Negative, negative"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The image formed by a plane mirror is of the same size as the source.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "If the outer surface of the spherical mirror is the reflecting surface, then it is called a …………… mirror",
+        "options": [
+            "Concave",
+            "Convex",
+            "Plane"        ],
+        "answer": 2
+    },
+    {
+        "question": "If the object is placed beyond the centre of curvature, then the image formed by concave mirror is",
+        "options": [
+            "Virtual, erect & magnified",
+            "Real, inverted & same size",
+            "Virtual, erect & diminished",
+            "Real, inverted and diminished"
+        ],
+        "answer": 4 
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "The word economics comes from ............... word.",
+        "options": [
+            "Latin",
+            "Greek",
+            "English"        ],
+        "answer": 2
+    },
+    {
+        "question": "In capitalist economy the means of production are owned by ............... individual",
+        "options": [
+            "Private",
+            "Public",
+            "Personal"        ],
+        "answer": 1
+    },
+    {
+        "question": "Mixed economy aims at achieving a balance between profit and ..............",
+        "options": [
+            "Growth",
+            "Development",
+            "Social welfare"        ],
+        "answer": 3
+    },
+    {
+        "question": "The micro-unit of an economy is a ............... ",
+        "options": [
+            "Village",
+            "Family",
+            "State"        ],
+        "answer": 2
+    },
+    {
+        "question": "In socialistic economy the means of production are under ..................... control",
+        "options": [
+            "State",
+            "Political",
+            "Psychological"        ],
+        "answer": 1
+    },
+    {
+        "question": "The macro unit of economics is the ............... .",
+        "options": [
+            "District",
+            "Region",
+            "World"        ],
+        "answer": 3 
+    },
+    {
+        "question": "In capitalistic economy the main aim is to earn ...............",
+        "options": [
+            "Profit",
+            "Social justice",
+            "Social welfare"        ],
+        "answer": 1
+    },
+    {
+        "question": "Globalisation means aligning the country's economy with the ............... economy.",
+        "options": [
+            "Regional",
+            "World",
+            "State"        ],
+        "answer": 2
+    },
+    {
+        "question": "Economics help us to understand how to use time, money, labour and land ...............",
+        "options": [
+            "Substantially",
+            "Effectively",
+            "Initially"        ],
+        "answer": 2
+       },
+    {
+        "question": "............... mean family management.",
+        "options": [
+            "Oikonomia",
+            "Social-welfare",
+            "Profit"        ],
+        "answer": 1
+    },
+    {
+        "question": "Economics studies how to satisfy the infinite needs of the people using various ...............",
+        "options": [
+            "Income",
+            "Resources",
+            "Taxes"        ],
+        "answer": 2
+    },
+    {
+        "question": "The ............... relates to the production, distribution and consumption of goods and services.",
+        "options": [
+            "Factory",
+            "Industry",
+            "Enterprise"        ],
+        "answer": 3
+    },
+    {
+        "question": "Economics is a science which studies human ............... as a relationship between ends and scarce means.",
+        "options": [
+            "Aspect",
+            "Behaviour",
+            "Interests"        ],
+        "answer": 2
+    },
+    {
+        "question": "An economy strives to create a ............... between limited resources and unlimited needs",
+        "options": [
+            "Trade",
+            "Balance",
+            "Exchange"        ],
+        "answer": 2
+    },
+    {
+        "question": "An economy tries to ................ the production costs as much as possible.",
+        "options": [
+            "Minimise",
+            "Maximise",
+            "Change"        ],
+        "answer": 1
+    }
+]

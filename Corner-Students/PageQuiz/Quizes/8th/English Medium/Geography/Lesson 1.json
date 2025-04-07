@@ -1,0 +1,230 @@
+[
+    {
+        "question": "On …………… the Sun would appears to be at highest point in the sky.",
+        "options": [
+            "21 june",
+            "23 june",
+            "22 june"
+            
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The …………… time is the same at any given longitude.",
+        "options": [
+            "Sunset",
+            "Sunrise",
+            "Noon"            
+        ],
+        "answer": 3
+    },
+    {
+        "question": "True/False Longitudes located in the west of Greenwich are behind in time.",
+        "options": [
+            "True",
+            "False"
+            
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Greenwich meridian is located in …………… .",
+        "options": [
+            "Greenwich meridian is located in …………… .",
+            "London",
+            "England",
+            "U.K"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "At poles, the duration of the day lasts around …………… months.",
+        "options": [
+            "4",
+            "24",
+            "6"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The Indian standard time is decided according to …………… longitude",
+        "options": [
+            "80°30E",
+            "90°E",
+            "82°30’E"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The …………… time can be told without using the clock.",
+        "options": [
+            "Sunset",
+            "Sunrise",
+            "Noon"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The local time of a place can be calculated with reference to the time at the …………… .",
+        "options": [
+            "Same longitude",
+            "Prime meridian",
+            "Date line"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Each degree of longitude, the local time differs by …………… minutes.",
+        "options": [
+            "24",
+            "4",
+            "15"
+        ],
+        "answer": 2 
+    },
+    {
+        "question": "Name the country which follows the same Indian standard time.",
+        "options": [
+            "China",
+            "Pakistan",
+            "Sri lanka"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "…………… longitudes take one hour to face the sun.",
+        "options": [
+            "15°",
+            "20°",
+            "25°"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "We experience sunrise, sunset, noon, midnight due to …………… of the earth.",
+        "options": [
+            "Tilt",
+            "Axis",
+            "Rotation"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "There are …………… longitudes with a difference of 1° can be drawn on the map of India.",
+        "options": [
+            "30",
+            "35",
+            "29"   
+     ],
+        "answer": 3
+    },
+    {
+        "question": "The longitude in the east has time behind of Greenwich.",
+        "options": [
+            "True",
+            "False"
+
+        ],
+        "answer": 2
+    },
+    {
+        "question": " If it is 8 am in India, the time at Greenwich is …………… .",
+        "options": [
+            "1.30 am",
+            "2.30 am",
+            "3.30 am"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "82° 30’ E longitude passes through …………… in Allahabad",
+        "options": [
+            "Rampur",
+            "Mirzapur",
+            "Shahpur"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The earth rotates from …………… .",
+        "options": [
+            "West to east",
+            "East to west",
+            "East to northwest"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The earth takes …………… hours to complete one rotation.",
+        "options": [
+            "15",
+            "20",
+            "24"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "We feel that the sun keeps changing its position because of the …………… of the earth.",
+        "options": [
+            "Tilt",
+            "Rotation",
+            "Equator"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mumbai is located at 73° E longitude, Kolkata is at 88° E longitude the difference between the longitudes of these cities.",
+        "options": [
+            "15°",
+            "25°",
+            "10°"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If the standard time in Patna is 10 am then the time in Mumbai would be …………… .",
+        "options": [
+            "8 am",
+            "7 am",
+            "10 am"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The Indian standard time is …………… ahead of GMT.",
+        "options": [
+            "5 hrs 30 min",
+            "4 hrs 30 min",
+            "5 hrs"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the right option.AM stands for",
+        "options": [
+            "Dante Meridian",
+            "Ante Meridiem",
+            "After Meridian"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Identify country with one standard time.",
+        "options": [
+            "China",
+            "U.S.A",
+            "Australia"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If one travels from 73°E to 73°W the time will be …………… .",
+        "options": [
+            "Behind",
+            "Ahead",
+            "Same"
+        ],
+        "answer": 1
+    }
+
+]

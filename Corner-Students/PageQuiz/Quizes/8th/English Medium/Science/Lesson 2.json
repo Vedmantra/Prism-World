@@ -1,0 +1,441 @@
+[
+    {
+        "question": " Which of the following type of mosquito most commonly grows in dirty sewage water?",
+        "options": [
+            "Aedes",
+            "Culex",
+            "Anopheles",
+            "All of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " Lifestyle includes the daily routine and the type of food",
+        "options": [
+            "True",
+            "False"        
+        ],
+        "answer": 1
+    },
+    {
+        "question": " Lifestyle includes the daily routine and the type of food",
+        "options": [
+            "True",
+            "False" 
+        ],
+        "answer": 1
+    },
+    {
+        "question": " Condition of disturbances in physiological processes of body is called as disease",
+        "options": [
+            "True",
+            "False"
+                    ],
+        "answer":1
+    },
+    {
+        "question": " Controlled diet helps to prevent some types of cancer",
+        "options": [
+            "True",
+            "False"
+                   ],
+        "answer":1
+    },
+    {
+        "question": " Find the odd one out",
+        "options": [
+            "Plague",
+            "AIDS",
+            "Cholera",
+            "TB"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " Vaccination is useful to prevent non- infectious diseases",
+        "options": [
+            "True",
+            "False"
+                    ],
+        "answer":2
+    },
+    {
+        "question": " 14 November is celebrated as World Heart Day.",
+        "options": [
+            "True",
+            "False"
+                    ],
+        "answer": 2
+    },
+    {
+        "question": " Generic medicines are also known as general medicines",
+        "options": [
+            "True",
+            "False"
+                   ],
+        "answer": 1
+    },
+    {
+        "question": " Each disease has its own specific symptoms",
+        "options": [
+            "True",
+            "False"
+                    ],
+        "answer": 1
+    },
+    {
+        "question": " Diseases that spread through contaminated air, water, food or vectors are called as infectious food",
+        "options": [
+            "True",
+            "False"
+                   ],
+        "answer": 1
+    },
+    {
+        "question": " Pathogens are microorganisms that cause the disease",
+        "options": [
+            "True",
+            "False"
+                    ],
+        "answer": 1
+    },
+    {
+        "question": "Biopsy is one of the techniques used in the diagnosis of heart attack",
+        "options": [
+            "True",
+            "False"
+                  ],
+        "answer": 2
+    },
+    {
+        "question": " Generic medicines are manufactured and distributed without any patent",
+        "options": [
+            "True",
+            "False"
+                    ],
+        "answer": 1
+    },
+    {
+        "question": "AIDS can occur due to touching and sharing the food with HIV infected person",
+        "options": [
+            "True",
+            "False"
+                    ],
+        "answer":2 
+    },
+    {
+        "question": " Life of twelve persons can be saved if one donates blood for four times a year",
+        "options": [
+            "True",
+            "False"
+                    ],
+        "answer":1 
+    },
+    {
+        "question": "Which of the following diseases may be caused due to hereditary factors?",
+        "options": [
+            "Cancer",
+            "Diabetes",
+            "heart Dieseas",
+            "All of the above"
+        ],
+        "answer":4 
+    },
+    {
+        "question": " The hormone …………… produced in pancreas controls level of glucose in blood",
+        "options": [
+            "Thyroid",
+            "Insulin",
+            "Estrogen"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " Physical exercise should be as per one’s own capacity",
+        "options": [
+            "True",
+            "False"
+                   ],
+        "answer": 1
+    },
+    {
+        "question": " Which of the following vaccines are administered to children in public health centers?",
+        "options": [
+            "Polio vaccine",
+            " BCG",
+            "Hepatatis vaccine",
+            "All of the above"
+        ],
+        "answer":4 
+    },
+    {
+        "question": " Hydrophobia is the fear of……………",
+        "options": [
+            "Food",
+            "Dogs",
+            "Water",
+            "None Of These"
+        ],
+        "answer":3
+    },
+    {
+        "question": " …………… occurs due to the bite of the infected dog, rabbit, monkey, etc",
+        "options": [
+            "AIDS",
+            "Rabies",
+            "Swine Flue",
+            "Down Syndrome"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Sufficient sleep, right food, yogasanas and physical exercise help to reduce frequency of becoming sick",
+        "options": [
+            "True",
+            "False"
+                    ],
+        "answer":1
+    },
+    {
+        "question": "AIDS is caused by ……………",
+        "options": [
+            "Human Immunodeficiency Virus",
+            "Human Immune Virus",
+            "Acquired Human Virus",
+            "None Of These"
+        ],
+        "answer":1
+    },
+    {
+        "question": " Find the odd one out",
+        "options": [
+            "Malaria",
+            "Hepatatis",
+            "Elephantatis",
+            "Dengue"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "ORS is the treatment for person suffering from",
+        "options": [
+            "Dysentry",
+            "Typhoid",
+            "Tuberculosis"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In AIDS, the victims suffers from various diseases due to progressive weakening of natural immunity",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " Animal cages and their living spaces can be placed near kitchen",
+        "options": [
+            "True",
+            "False"
+                    ],
+        "answer":2
+    },
+    {
+        "question": " Sometimes we feel good without taking any medicines",
+        "options": [
+            "True",
+            "False"
+                  ],
+        "answer":1 
+    },
+    {
+        "question": " Group or lump of cancerous cells is called as …………… tumor",
+        "options": [
+            "Benign",
+            "Malignant"
+                    ],
+        "answer": 2
+    },
+    {
+        "question": " Which of the following statements would be used while raising awareness about AIDS",
+        "options": [
+            " It spreads through touching and sharing food",
+            "We should behave differently with AIDS patients",
+            " Nursing HIV patients is dangerous",
+            "Unsafe sexual contacts should be avoided to control spread of AIDS"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Incurable scars are one of the symptoms of cancer",
+        "options": [
+            "True",
+            "False"
+                    ],
+        "answer":1 
+    },
+    {
+        "question": "Vaccines Are Availabe For",
+        "options": [
+            "TuberCulosis",
+            "Hepatatis",
+            "Cholera",
+            "All of the Above"
+        ],
+        "answer":4
+    },
+    {
+        "question": "Mosquitoes lay eggs in water-logged places",
+        "options": [
+            "True",
+            "False"
+                    ],
+        "answer": 1
+    },
+    {
+        "question": "Chronic cough is the symptom of",
+        "options": [
+            "Chloera",
+            "Tuberculosis",
+            "Typhoid"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Overdose of medicines does not have any side effect on our body",
+        "options": [
+            "False",
+            "True"
+                    ],
+        "answer":1 
+    },
+    {
+        "question": "Yellow urine and grey stool are characteristic symptoms of",
+        "options": [
+            "Tuberculosis",
+            "Dysentry",
+            "Typhoid",
+            "Jaundice"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Which Of the following is a bacterial Disease",
+        "options": [
+            "AIDS",
+            "Chloera",
+            "Rabies",
+            "Dengue"
+        ],
+        "answer":2
+    },
+    {
+        "question": " Female Culex : Elephantiasis :: Influenza A (H N ) : ..............",
+        "options": [
+            "Dengue",
+            "Swine Flu",
+            "Malaria"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The most common preventive measure against malaria is to",
+        "options": [
+            "Prevent mosquito breeding",
+            "Wash hands regularly",
+            "Avoid contact with materials touched by patients",
+            " Drink only boiled water"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "14 June is celebrated as World Blood Donation Day",
+        "options": [
+            "True",
+            "False"
+                   ],
+        "answer":1 
+    },
+    {
+        "question": "Which of the following is NOT an infectious disease",
+        "options": [
+            "Common cold",
+            "Dengue",
+            "Diabetes",
+            "Rabies"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " Diseases can be cured by proper medical treatment",
+        "options": [
+            "False",
+            "True"
+                    ],
+        "answer":2
+    },
+    {
+        "question": "Efficiency of the heart decreases due to decreased blood supply",
+        "options": [
+            "True",
+            "False"
+                   ],
+        "answer":1 
+    },
+    {
+        "question": "Diseases which do not occur through body contacts are called as infectious diseases",
+        "options": [
+            "True",
+            "False"
+                    ],
+        "answer":1
+    },
+    {
+        "question": "The disease that is NOT spread through contaminated food and/or water is",
+        "options": [
+            "Tuberculosis",
+            "Chloera",
+            "Hepatatis",
+            "Typhoid"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Generating awareness about drinking only boiled water during monsoons will be useful to prevent",
+        "options": [
+            "Tuberculosis",
+            "Malaria",
+            "Dysentery",
+            "Rabies"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " Different species of mosquitoes spread different diseases.",
+        "options": [
+            "True",
+            "False"
+                    ],
+        "answer":1 
+    },
+    {
+        "question": "Frequent urination at night is the symptom of ……………",
+        "options": [
+            "Cancer",
+            "Asthma",
+            "Diabetes"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " ............... diseases are classified based on their duration",
+        "options": [
+            "Herediatry",
+            "Chronic",
+            "Aquired",
+            "Infectious"
+        ],
+        "answer": 2
+    }
+]

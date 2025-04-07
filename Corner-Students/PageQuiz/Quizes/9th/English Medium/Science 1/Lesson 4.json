@@ -1,0 +1,238 @@
+[
+    {
+        "question": "Atomic mass of Nitrogen is",
+        "options": [
+            "10",
+            "12",
+            "14",
+            "16"
+        ],
+        "answer": 3 
+    },
+    {
+        "question": "Atomic mass of Hydrogen is",
+        "options": [
+            "2",
+            "3",
+            "1",
+            "4"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "If the Valence shell of an element has 6 electron its valency is.",
+        "options": [
+            "2",
+            "3",
+            "6",
+            "1"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Neither gained nor lost during chemical reaction.",
+        "options": [
+            "Atomic number",
+            "Matter",
+            "Mole",
+            "Electrons"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mass of 1 mole of carbon atom is",
+        "options": [
+            "12 grams",
+            "24 grams",
+            "6 grams",
+            "36 grams"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The symbol of Helium is",
+        "options": [
+            "He",
+            "H",
+            "Na",
+            "K"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Atomic mass of calcium is.",
+        "options": [
+            "40",
+            "35.5",
+            "12",
+            "14"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "The Symbol N is used to denote.",
+        "options": [
+            "Avogadro's number",
+            "Mass number",
+            "Atomic radius"        ],
+        "answer": 1
+    },
+    {
+        "question": "Very tiny particles are",
+        "options": [
+            "Molecule",
+            "Radical",
+            "Element",
+            "Atom"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The valency of the element is 2 with electronic configuration.",
+        "options": [
+            "2, 6",
+            "2, 8",
+            "2, 1",
+            "2, 4"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "State the valency of Cu   in CuSO .",
+        "options": [
+            "14",
+            "4",
+            "3",
+            "2"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The mass of 0.5 mole of Nitrogen gas is",
+        "options": [
+            "7 grams",
+            "14  grams",
+            "21  grams",
+            "18  grams"
+        ],
+        "answer": 2 
+    },
+    {
+        "question": "Two or More element combine to form a.",
+        "options": [
+            "Atom",
+            "Compound",
+            "The avogadro’s number",
+            "Atomic mass"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "144 make ............... grass.",
+        "options": [
+            "2",
+            "4",
+            "3",
+            "1"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "The mass of 2 moles of carbon is",
+        "options": [
+            "36 grams",
+            "12 grams",
+            "24 grams",
+            " 48 grams"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In 1961 which atom was selected as the reference atom.",
+        "options": [
+            "Hydrogen",
+            "Oxygen",
+            "Carbon",
+            "Nitrogen"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " 6.022 × 10 is called.",
+        "options": [
+            "Avogadro’s number",
+            "Molecular Mass",
+            "Atomic number",
+            "Atomic mass"
+        ],
+        "answer": 1 
+    },
+    {
+        "question": "14 is atomic mass of",
+        "options": [
+            "Carbon",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Molecular formula of water is",
+        "options": [
+            "CO2",
+            "NH3",
+            "H2O",
+            "CI2"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which one is positively charged particle ?",
+        "options": [
+            "Proton",
+            "Neutron",
+            "Electron",
+            "Atom"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The mass of 1 mole of Nitrogen gas is",
+        "options": [
+            "7 grams",
+            "14 grams",
+            "28 grams"        ],
+        "answer": 3
+    },
+    {
+        "question": "Carbon atom was selected as the reference atom in which year.",
+        "options": [
+            "1961",
+            "1980",
+            "1965",
+            "1972"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Valency of carbon is",
+        "options": [
+            "4",
+            "2",
+            "3",
+            "1"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Symbol of boron",
+        "options": [
+            "Ca",
+            "B",
+            "Be",
+            "n"
+        ],
+        "answer": 2
+    }
+]

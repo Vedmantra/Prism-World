@@ -1,0 +1,337 @@
+[
+    {
+        "question": "In presence of oxygen : Aerobic :: Absence of oxygen : ?",
+        "options": [
+            "Atmospheric",
+            "Anaerobic",
+            "Anaerobic",
+            "Oxygenized"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Milk proteins under decrease of of pH",
+        "options": [
+            "Convert into fats",
+            "Dissociate",
+            "Coagulate",
+            "Form radicals"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Long term contact with infected person causes ___________________",
+        "options": [
+            "Pox",
+            "Measles",
+            "Leprosy"        ],
+        "answer": 3
+    },
+    {
+        "question": "Don’t consume antibiotics on your own to treat common diseases like a throat infection, common cold or influenza. ",
+        "options": [
+            "It can be too effective.",
+            "It will not effect the body.",
+            "It cannot effect the symptoms.",
+            "It can have side effects."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Which part of fungi penetrate into material for nutrition?",
+        "options": [
+            "Stem",
+            "Sting",
+            "Hyphae"        ],
+        "answer": 3
+    },
+    {
+        "question": "Probiotic foodstuff take care about our",
+        "options": [
+            "Stomach",
+            "Liver",
+            "Intestine"        ],
+        "answer": 3
+    },
+    {
+        "question": "Nowadays seeds are coated with ............... solution or powder before sowing.",
+        "options": [
+            "Fungal",
+            "Clostridum",
+            "Rhizobial",
+            "Sugar"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which compound is present in sugar solution ?",
+        "options": [
+            "Hydrogen compound",
+            "Compound of ammonia",
+            "Carbon Compound"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Carbon compounds obtained from some bacteria and fungi for destroying or preventing the growth of harmful micro-organisms are called ‘..............’. ",
+        "options": [
+            "Antibiotics",
+            "Probiotics",
+            "Antioxidants",
+            "Abiotics"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Spoilage of Jam, Pickles caused by - ...............",
+        "options": [
+            "Virus",
+            "Bacteria",
+            "Fungi"        ],
+        "answer":3 
+    },
+    {
+        "question": "Yeast is",
+        "options": [
+            "Eukaryotic unicellular",
+            "Prokaryotic multicellular",
+            "Eukaryotic multicellular",
+            "Prokaryotic unicellular"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Milk coagulates due to conversion of ",
+        "options": [
+            "Sugar",
+            "Acid",
+            "Salt",
+            "Base"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The first antibiotic discovered was - ...............",
+        "options": [
+            "Ampicillin",
+            "Streptomycin",
+            "Penicillin"        ],
+        "answer": 3
+    },
+    {
+        "question": "Recently ,it has been made compulsory in India and some other countries to mix 10% ................ with fuels like petrol and diesel.",
+        "options": [
+            "Spirit",
+            "Methane",
+            "Biogas",
+            "Biofuel"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Penicillin is obtained from ..............",
+        "options": [
+            "Bacteria",
+            "Fungus - Penicillium ",
+            "Protozoa"        ],
+        "answer": 2
+    },
+    {
+        "question": "To rise the dough of Pizza Bread and make it soft, What is added?",
+        "options": [
+            "Yeast",
+            "Bacteria",
+            "Salt"        ],
+        "answer": 1
+    },
+    {
+        "question": "Microscopic spores of fungi are present in the air.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "................. are the sugars present in grape juice.",
+        "options": [
+            "Glucose and maltose",
+            "Glucose and fructose",
+            "Maltose and fructose",
+            "Only Glucose"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The food on which fungi have grown cannot be eaten",
+        "options": [
+            "False",
+            "True"        ],
+        "answer":2 
+    },
+    {
+        "question": "Medicines containing penicillin are useful to treat certain ............... infections.",
+        "options": [
+            "Fungal",
+            "Chronic",
+            "Bacterial",
+            "D. molasses"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Pulses are rich in protein due to",
+        "options": [
+            "Carbon compound",
+            "Hydro carbon",
+            "Nitrogenous compound"        ],
+        "answer": 3
+    },
+    {
+        "question": "The process by which Rhizobium produces nitrogenous compounds from atmospheric nitrogen is called ............... .",
+        "options": [
+            "Ammonification",
+            "Nitrogen fixation",
+            "Acidification"        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the anaerobic bacteria which causes food poisoning",
+        "options": [
+            "Clostridium tetani ",
+            "Clostridium botulinum",
+            "Clostridium Perfringens",
+            "Clostridium difficile"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Yeast is ............... fungi",
+        "options": [
+            "Autotrophic",
+            "Heterotrophic",
+            "Zygomorphic"        ],
+        "answer": 2
+    },
+    {
+        "question": "After taking Dahi, ............... bacteria eliminates ............... bacteria from our ............... canal.",
+        "options": [
+            "Good, good, formal",
+            "Bad, Bad, funnel",
+            "Lactobacilli, Clostridium, Alimentary"        ],
+        "answer":3 
+    },
+    {
+        "question": "Penicillin is effective as its ............... destroys bacterial colonies. ",
+        "options": [
+            "Lysosomes",
+            "Hormones",
+            "Secretions",
+            "Cytosol"
+       ],
+        "answer": 3
+    },
+    {
+        "question": "Coagulation of milk causes",
+        "options": [
+            "Increase of potassium",
+            "Decrease in sugar",
+            "Decrease in pH of milk"        ],
+        "answer": 3
+    },
+    {
+        "question": "Two diseases caused by mosquito bite. What are they?",
+        "options": [
+            "Cholera, Chicken pox",
+            "Typhoid, Dengue",
+            "Dengue, Malaria"        ],
+        "answer": 3
+    },
+    {
+        "question": "Which species of bacteria causes food poisoning ?",
+        "options": [
+            "Clostridium tetani",
+            "Clostridium difficile",
+            "Clostridium botulinum"        ],
+        "answer": 3
+    },
+    {
+        "question": "Pick the odd option out.",
+        "options": [
+            "Budding",
+            "Nitration",
+            "Ammonification",
+            "Nitrogen fixation"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Name the component yoghurt industry mainly depends on.",
+        "options": [
+            "Lactobacilli",
+            "Plants",
+            "Microbes",
+            "Cows"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Hepatitis is a disease caused by",
+        "options": [
+            "Bacteria",
+            "Virus",
+            "Fungi"        ],
+        "answer": 2
+    },
+    {
+        "question": "Pick the odd option out with regard to Ethanol.",
+        "options": [
+            "Absolute alcohol",
+            "Fuel",
+            "Fermentation product of Molasses",
+            "Absorbs toxins in the body"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Krish does not want to drink milk, Instead of that he takes ' Dahi ' and 'Buttermilk ' in his lunch everyday. What form of converted sugar he is taking everyday ?",
+        "options": [
+            "Glucose",
+            "Lactose",
+            "Lactic acid"        ],
+        "answer": 3
+    },
+    {
+        "question": "Ida Bengston did her research on which disease.",
+        "options": [
+            "Cholera",
+            "Hepatitis",
+            "Typhus"        ],
+        "answer":3 
+    },
+    {
+        "question": "Which of the following is example of leguminous plant:",
+        "options": [
+            "Carrot",
+            "Sweet pea",
+            "Potato"        ],
+        "answer": 2
+    },
+    {
+        "question": "The pH of milk decreases due to formation of",
+        "options": [
+            "Lactose",
+            "Lactic acid",
+            "Milk proteins",
+            "Colloidal particles"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Wasp lay eggs on ...............",
+        "options": [
+            "Roots",
+            "Dead, decaying body",
+            "Fungal body"        ],
+        "answer": 3
+    }
+]

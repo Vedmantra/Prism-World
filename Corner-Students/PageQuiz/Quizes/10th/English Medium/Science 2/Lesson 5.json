@@ -1,0 +1,361 @@
+
+[
+    {
+        "question": "The electrical energy which is generated using fossil fuels, can lead to ......",
+        "options": [
+            "Release of oxygen",
+            "Environmental degradation",
+            "Release of fossil fuel",
+            "Formation of carbon"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Identify the wrong pair.",
+        "options": [
+            "Carbon dioxide : asthma",
+            "Nitrogen dioxide – acid rain"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The following image represents the:",
+        "options": [
+            "Schematics of electrical generator",
+            "Electromagnetic induction",
+            "Schematics of thermal power plant.",
+            "Steam turbine"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The particles released during nuclear reaction, that release large amount of energy.",
+        "options": [
+            "Neutrons",
+            "Chain reaction",
+            "Cooling tower"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In future there will be limitations on the availability of the coal, because, ......",
+        "options": [
+            "The use of coal is increasing day by day.",
+            "The reserves of fuel (Coal) are limited.",
+            "The fuel (Coal) is replaced by other fuels.",
+            "None of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nitrogen dioxide : asthma :: carbon monoxide : ………………",
+        "options": [
+            "Ecofriendly energy source",
+            "Global warming",
+            "Potential energy."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following are the correct steps of energy transformation in thermal power plant?",
+        "options": [
+            "Chemical energy in coal → Thermal energy → Kinetic energy in steam → Kinetic energy in turbine → Electrical Energy",
+            "Thermal energy → Chemical energy in coal → Kinetic energy in steam → Kinetic energy in turbine → Electrical Energy",
+            "Chemical energy in coal → Thermal energy → Kinetic energy in steam → Potential energy in turbine → Electrical Energy",
+            "None of above."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Following diagram represents.",
+        "options": [
+            "Schematic of solar thermal power plant.",
+            "Schematic of solar photovoltaic station",
+            "Schematic of nuclear power plant",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Given below are the statements w.r.t. the energy generation from fossil fuels. Choose the appropriate option, which tells us that they are non – ecofriendly.",
+        "options": [
+            "(i) Incomplete combustion of fossil fuels leads to formation of carbon monoxide, which in turn leads to global warming.",
+            "(ii) Nitrogen dioxide generated due to burning of fossil fuels, leads to problems like acid rain.",
+            "(iii) Soot particles generated due to incomplete combustion of fossil fuels cause the respiratory problems like asthma.",
+            "(i) and (ii) only",
+            "(i), (ii) and (iii)",
+            "(ii) and (iii)",
+            "(i) and (iii)"
+        ],
+        "answer": 5
+    },
+    {
+        "question": "In the above diagram, of schematic of electric generator, (a) and (b) are as follows.",
+        "options": [
+            "Rotating electric magnet, generated electrical energy.",
+            "Generated electrical energy, rotating electric magnet.",
+            "Voltmeter, coil.",
+            "None of above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following represent the correct steps in the transformation of energy in the nuclear power plant?",
+        "options": [
+            "Nuclear energy → Thermal energy → Kinetic energy in steam → Electrical Energy → Kinetic energy in turbine",
+            "Thermal energy → Nuclear energy → Kinetic energy in steam → Kinetic energy in turbine → Electrical Energy",
+            "Nuclear energy → Thermal energy → Kinetic energy in steam → Kinetic energy in turbine → Electrical Energy",
+            "None of the above."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The following figure represents:",
+        "options": [
+            "Schematic of hydroelectric power generation.",
+            "Schematic of wind mill.",
+            "Schematic of nuclear power station.",
+            "Schematic of thermal power plant."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Many ...... reflect and ...... solar radiation on ...... There ...... is converted into ...... using this heat energy ...... generated to drive the ...... and ...... in a solar power plant.",
+        "options": [
+            "generator, reflectors, concentrate, absorbers, heat energy, steam, turbine, solar energy.",
+            "reflectors, concentrate, absorbers, solar energy, heat energy, steam, turbine, generator",
+            "heat energy, generator, absorbers, concentrate, steam, turbine, solar energy, generator.",
+            "None of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The given diagram represents following image.",
+        "options": [
+            "Schematic of solar photovoltaic station",
+            "Different stages in solar thermal power plant.",
+            "Conversion of energy generated by cells to AC form by using inverter.",
+            "None of the above."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Following is the biggest challenge before the Scientists.",
+        "options": [
+            "Nuclear waste causes severe sound pollution.",
+            "Nuclear waste causes air pollution.",
+            "Safe disposal of nuclear waste.",
+            "All of the above."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Burning of fossil fuels like coal and natural gas leads to emission of certain ...... and ......",
+        "options": [
+            "Soot particles, oxygen",
+            "Nitrogen, Soot",
+            "Harmful gases, Soot particles",
+            "Oxygen, nitrogen"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In the second method of obtaining electricity from solar energy, the thermal energy obtained by the conversion of solar radiation then drives a ...... to generate electricity.",
+        "options": [
+            "Generator – compressor system",
+            "Turbine – generator system",
+            "Compressor – turbine",
+            "Turbine – operator"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are 2 main sections in the power generation plant based on energy of natural gas.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The field around a conductor can be changed in following two ways.",
+        "options": [
+            "If both the conductor and magnet are moving then the field around the conductor changes.",
+            "If, a conductor is stationary and magnet is rotating, the field around the conductor changes.",
+            "If a magnet is stationary, but the conductor is moving then the field around the conductor changes.",
+            "i and ii",
+            "ii and iii",
+            "i and iii",
+            "None of the above"
+        ],
+        "answer": 5
+    },
+    {
+        "question": "The electricity produced using the solar energy doesn't cause pollution because.",
+        "options": [
+            "The solar energy generates electricity using fuel combustion.",
+            "The solar energy generates electricity releasing oxygen",
+            "The solar energy generates electricity without any fuel combustion.",
+            "None of the above."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Select the correct flowchart representing the nuclear power plant.",
+        "options": [
+            "Nuclear reactor for nuclear fission → System for steam generation from water → Steam turbine → Generator → Electrical Energy",
+            "Nuclear reactor for nuclear fission → System for steam generation from water → Generator → steam turbine → Electrical Energy",
+            "System for steam generation from water → System for steam generation from water → Steam turbine → Generator → Fuel: Uranium or Plutonium → System for conversion of steam back into water → None of the above",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The following image represents.",
+        "options": [
+            "Electromagnetic induction.",
+            "Thermal energy.",
+            "Nuclear energy.",
+            "Electric induction"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Choose the correct statement.",
+        "options": [
+            "Solar energy is a renewable source of energy.",
+            "Solar energy is a non - renewable source of energy.",
+            "Solar energy causes air pollution.",
+            "All are correct"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Coal : harmful gases :: natural gas : ......",
+        "options": [
+            "Combustion chamber",
+            "Chemical energy",
+            "No Pollution"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is the function of gear box in the wind mill?",
+        "options": [
+            "Increase the rotations per unit time.",
+            "Decrease the rotations per unit time.",
+            "Increase the wind velocity.",
+            "None of the above."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Following are the correct steps in the generation of electrical energy.",
+        "options": [
+            "Generator → Turbine → proper energy source to run turbine → Electrical energy.",
+            "Turbine → proper energy source to run turbine → Electrical energy.",
+            "Proper energy source to run turbine → turbine → Generator → Electrical energy."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Following are the correct steps in the generation of electrical energy using thermal energy.",
+        "options": [
+            "Fuel coal → Boiler for conversion of water to steam → Steam turbine → Generator → Electrical Energy",
+            "Generator → Boiler for conversion of water to steam → Steam turbine → Fuel coal → Steam turbine → Electrical Energy",
+            "Generator → Steam turbine → Boiler for conversion of water to steam → Steam turbine → Steam turbine",
+            "None of above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The solar cells are made up of this special type of material.",
+        "options": [
+            "Semiconductor (e.g. silicon)",
+            "DC.",
+            "Sea shore"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Select the appropriate option.",
+        "options": [
+            "Wind with required velocity → Wind Turbine with large fins → Electrical energy → Generator",
+            "Stages in electric generator using wind energy.",
+            "Stages in electric generator using energy of Uranium.",
+            "Stages in electric generator using coal"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In the power plant based on nuclear energy, steam turbine is used to rotate the generator.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the wrong pair.",
+        "options": [
+            "CNG – Natural gas",
+            "Uranium – Crude oil"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Select the missing labels from the given schematic representation of the hydroelectric plant.",
+        "options": [
+            "Generator, Turbine, Reservoir",
+            "Turbine, Reservoir, generator",
+            "Reservoir, Generator, Turbine",
+            "Turbine, Steam chamber, Generator"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Give the full forms of: CNG",
+        "options": [
+            "Compressed Natural Gas",
+            "Liquid Petroleum Gas"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A type of solar cell, that converts the solar radiation energy directly into electrical energy.",
+        "options": [
+            "Solar photovoltaic cell.",
+            "Sea shore",
+            "DC."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Wind velocity is usually high on ……………… .",
+        "options": [
+            "Sea shores",
+            "Plains",
+            "Plateaus",
+            "All of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "An accident in nuclear power plant can be very fatal due to following reason.",
+        "options": [
+            "It can cause air pollution.",
+            "It results in release of very harmful radiations."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Following diagram represents the conversion of energy generated by cells to AC form by using inverter.",
+        "options": [
+            "Battery → Solar cell → Electric equipment working on AC power → Inverter",
+            "Solar cell → Battery → Electric equipment working on AC power → Inverter",
+            "Inverter → Battery → Electric equipment working on AC power → Solar cell",
+            "None of above"
+        ],
+        "answer": 2
+    }
+]

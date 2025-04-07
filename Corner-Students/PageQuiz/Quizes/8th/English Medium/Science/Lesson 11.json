@@ -1,0 +1,362 @@
+[
+    {
+        "question": "Which type of solution burns the skin as it decompose the proteins in skin",
+        "options": [
+            "Dil. Hcl",
+            "Conc. Acid",
+            "Conc. Base",
+            "All of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Solution of which of the following will turn red litmus paper blue?",
+        "options": [
+            "H2SO4",
+            "HNO3",
+            "NH4OH",
+            "H2CO3"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Acids present in food stuff are called ?",
+        "options": [
+            "Carbonic acid",
+            "Neutral base",
+            "Alkali",
+            "Weak acid"
+        ],
+        "answer": 1
+    },
+    {
+        "question": " Alkali has ............... taste.",
+        "options": [
+            "Bitter",
+            "Sour",
+            "Sweet",
+            "All of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "The colour of hibiscus indicator paper in alkali is ............... .",
+        "options": [
+            "Red",
+            "Pink",
+            "Greenish yellow",
+            "Orange"
+        ],
+        "answer":3
+    },
+    {
+        "question": " Where does hydrochloric acid is present in our body?",
+        "options": [
+            "Stomach",
+            "Eye",
+            "Kidney",
+            "All of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The dilute solution of which of the following acids is use electric cell ?",
+        "options": [
+            "Hydrochloric acid",
+            "Acetic acid",
+            "Nitric acid",
+            "Sulphuric acid"
+        ],
+        "answer":4
+    },
+    {
+        "question": "The colour of methyl red in alkali is ............... .",
+        "options": [
+            "Yellow",
+            "Red",
+            "Pink",
+            "Green"
+        ],
+        "answer":1
+    },
+    {
+        "question": "Metal oxide are generally ............... in nature.",
+        "options": [
+            "Acidic",
+            "Alkaline",
+            "Neutral",
+            "None of the above"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Which of the following bases is used for the production of fertilizers ?",
+        "options": [
+            "NH4OH",
+            "NaOH",
+            " Mg(OH)2",
+            " Ca(OH)2"
+        ],
+        "answer":1
+    },
+    {
+        "question": "Hydrochloric acid is used for the preparation of different types of ............... .",
+        "options": [
+            "Chloride salts",
+            "Fluoride salts",
+            "Base",
+            "None of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Which substances doesn’t acquire sour taste?",
+        "options": [
+            "Lemon",
+            "Tamarind",
+            "Vinegar",
+            "Sugar"
+        ],
+        "answer":4
+    },
+    {
+        "question": "Orange colour of methyl orange changes to pink in ?",
+        "options": [
+            "Acid",
+            "Base",
+            "Neutral",
+            "None of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Litmus paper mainly use to test ?",
+        "options": [
+            "Ph",
+            "Alkali or base",
+            "Temperature",
+            "None of the above"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Natural indicators can be made by several ............... indicator.",
+        "options": [
+            "Domestic",
+            "Tertiary",
+            "Primary",
+            "None of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Lime stone is used to ............... .",
+        "options": [
+            "To control acidity of soil",
+            "To prevent tooth decay",
+            "To control stomach acidity",
+            "To prevent pain of bee stings and ant bites."
+        ],
+        "answer":1 
+    },
+    {
+        "question": "What is mixed with soil to neutralize its excess acid present in soil?",
+        "options": [
+            "Lime stone",
+            "Water",
+            "Vinegar",
+            "Hcl"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Distilled water is .................. .",
+        "options": [
+            "Acidic",
+            "Basic",
+            "Weak acid",
+            "Tasteless"
+        ],
+        "answer":4
+    },
+    {
+        "question": "What is used for making of white paper from wood pulp ?",
+        "options": [
+            "Acid",
+            "Base",
+            "Acid and base",
+            "None of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Substances having astringent taste and slippery to touch are called as?",
+        "options": [
+            "Acidic",
+            "Basic",
+            "Neutral",
+            "None of the above"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "What happens when blue litmus paper is dipped into pure water?",
+        "options": [
+            "The litmus paper remains blue",
+            "The litmus paper turns red.",
+            "The litmus paper turns green.",
+            "The litmus paper turns yellow."
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Which of the following is used as antacids ?",
+        "options": [
+            "Solution of H2CO3",
+            "Solution of Ca(OH)2",
+            "Solution of Mg(OH)2",
+            "Solution of NaOH"
+        ],
+        "answer":3
+    },
+    {
+        "question": "Acids are ............... in nature.",
+        "options": [
+            "Basic",
+            "Neutral",
+            "Corrosive",
+            "Weak acid"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "What do you observe on addition of baking soda solution in fruit juice?",
+        "options": [
+            "Bubbles formed",
+            "No bubbles formed",
+            "Gets solidify",
+            "No changes"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Natural indicator cannot be prepared by?",
+        "options": [
+            "Red cabbage",
+            "Radish",
+            "Tomato",
+            "Potato"
+        ],
+        "answer":4 
+    },
+    {
+        "question": " Dil. HCL is used for ............... of water.",
+        "options": [
+            "Sterilization",
+            "Purification",
+            "Filtration",
+            "None of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Which of the following is NOT a laboratory indicator ?",
+        "options": [
+            "Phenolphthalein",
+            "Methyl red",
+            "Litmus paper",
+            "Turmeric indicator paper"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Vinegar is the source of ?",
+        "options": [
+            "Citric acid",
+            "Lactic acid",
+            "Oxalic acid",
+            "Acetic acid"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Acid is such a substance which gives hydrogen ions in ............... state .",
+        "options": [
+            "Solution",
+            "Solid",
+            "Gas",
+            "None of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Proteins in our body cell are made up?",
+        "options": [
+            "Amino acid",
+            "Alkali",
+            "Amino acid and alkali",
+            "None of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Name the indictor which change its colour from red to yellow in alkali solution?",
+        "options": [
+            "Litmus paper",
+            "Methyl orange",
+            "Methyl red",
+            "Phenolphthalein"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Which of the following statement is INCORRECT ?",
+        "options": [
+            "Methyl orange indicator turns yellow in alkali.",
+            "Methyl orange indicator turns red in acid.",
+            "Phenolphthalein indicator turns pink in alkali.",
+            "Phenolphthalein indicator turns yellow in acid."
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Source of citric acid is ?",
+        "options": [
+            "Tamarind",
+            "Lemon and orange",
+            "Orange",
+            "Lemon"
+        ],
+        "answer":2
+    },
+    {
+        "question": "When turmeric indicator paper is added to washing soap solution, its colour turns to ............... .",
+        "options": [
+            "Green",
+            "Red",
+            "Blue",
+            "Orange"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "What happens to the soil due to excessive use of chemical fertilizers?",
+        "options": [
+            "Acidity increases",
+            "Alkalify the soil",
+            "Neutralized",
+            "None of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Which is not a natural acid ?",
+        "options": [
+            "Vinegar",
+            "Tomato",
+            "Tamarind",
+            "Nitric acid"
+        ],
+        "answer":4 
+    }
+]

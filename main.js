@@ -1,9 +1,18 @@
-window.addEventListener("load", function () {
-    setTimeout(() => {
-        document.getElementById("loader").classList.add("hidden");
-        GSAPHeroSection()
-    }, 500);
-});
+// window.addEventListener("load", function () {
+    // setTimeout(() => {
+    //     document.getElementById("loader").classList.add("hidden");
+        
+    // }, 500);
+    // setTimeout(() => {
+    // GSAPHeroSection()
+
+    //     // document.getElementById("loader").classList.add("hidden");
+    // }, 700);
+    // });
+// document.getElementById("loader").classList.add("hidden");
+
+GSAPHeroSection()
+
 
 function GSAPHeroSection() {
     let tl = gsap.timeline()
@@ -53,28 +62,41 @@ function GSAPHeroSection() {
         opacity: 0,
     })
 
-    tl.from(".hero .buttons", {
+    tl.from(".hero .content img", {
         y: 50,
         duration: 0.3,
         opacity: 0,
     })
 }
-gsap.registerPlugin(ScrollTrigger);
 
-function GSAPBatches() {
-    gsap.to(".gallary img", {
-        left: 500,
-        dutation:1,
-        scrollTrigger:{
-            trigger:".gallary",
-            start: "top 80%", // Adjust when animation starts
-            end: "top 50%",
-            scrub: 1,
-        }
-    })
+gsap.registerPlugin(ScrollTrigger);
+function ScrollTriggerAnimation() {
+    gsap.from(".batches .box", {
+        opacity: 0,
+        y: 100,
+        duration: 0.3,
+        stagger: 0.3,
+        scrollTrigger: {
+            trigger: ".batches",
+            start: "top 50%",
+        },
+    });
+
+    let gallaryDivs = document.querySelectorAll(".gallary img")
+    for (let div of gallaryDivs) {
+        gsap.from(div, {
+            opacity: 0,
+            y: 100,
+            duration: 0.5,
+            scrollTrigger: {
+                trigger: div,
+                start: "top 80%",
+            }
+        });
+    }
 }
 
-GSAPBatches()
+ScrollTriggerAnimation()
 
 function SVG() {
     var animation1 = lottie.loadAnimation({
@@ -145,20 +167,56 @@ function Contacts() {
 Contacts()
 
 function FooterLinks() {
-
     document.querySelector('.footer .gb').onclick = function () {
-        window.location.href = "https://g.co/kgs/ExNHMKZ"
+        window.open("https://g.co/kgs/ExNHMKZ", "_blank");
     }
     document.querySelector('.footer .insta').onclick = function () {
-        window.location.href = "https://www.instagram.com/world_of_prisms?igsh=MWY3NzM3b2VnYXV4Yg=="
+        window.open("https://www.instagram.com/world_of_prisms?igsh=MWY3NzM3b2VnYXV4Yg==", "_blank");
     }
     document.querySelector('.footer .fb').onclick = function () {
-        window.location.href = "https://www.facebook.com/share/18pALPqCya/"
+        window.open("https://www.facebook.com/share/18pALPqCya/", "_blank");
     }
     document.querySelector('.footer .yt').onclick = function () {
-        window.location.href = "https://youtube.com/@worldofprismsedu?si=_dViL16DkpHOd0SD"
+        window.open("https://youtube.com/@worldofprismsedu?si=_dViL16DkpHOd0SD", "_blank");
     }
-
 }
 
 FooterLinks()
+
+function Reviews() {
+    // if (window.innerWidth < 600) {
+    //     let firstImg = document.querySelector('.reviews .one')
+    //     firstImg.src = "./Assets/Reviews/c.png"
+    // }
+
+    let reviewButton = document.querySelector('.reviews button')
+    reviewButton.addEventListener('click', function () {
+        window.open("https://g.page/r/CRrz7ygAV5-9EBM/review", "_blank");
+    })
+}
+
+Reviews()
+
+let navClicked = false
+let navbar = document.querySelector('nav .right')
+let img = document.querySelector('nav .toggleDiv img')
+function ToggleNavbar() {
+
+    if (navClicked == false) {
+        // show navbar 
+        gsap.to(navbar, {
+            x: "-100%",
+            duration: 0.2,
+        })
+        img.src = "./Assets/Icons/x.svg"
+        navClicked = true
+    } else {
+        // hide navbar 
+        gsap.to(navbar, {
+            x: "50%",
+            duration: 0.2,
+        })
+        img.src = "./Assets/Icons/menu.svg"
+        navClicked = false
+    }
+}

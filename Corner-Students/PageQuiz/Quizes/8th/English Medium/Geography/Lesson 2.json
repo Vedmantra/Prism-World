@@ -1,0 +1,156 @@
+[
+    {
+        "question": " Identify the correct answer ‘World Earth Day’ is celebrated to …………..",
+        "options": [
+            "Bring awareness about environmental protection",
+            "Bring awareness to protect the trees",
+            "Bring awareness to protect the atmosphere"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When is the World Earth Day celebrated ?",
+        "options": [
+            "22nd April",
+            "3rd May",
+            "1st May"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What does sima means ?",
+        "options": [
+            "Silica + aluminium",
+            "Silica + magnesium",
+            "Silica + iron"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " What happens when one goes deep into the interior of the earth ?",
+        "options": [
+            "Temperature increases",
+            "Height increases",
+            "Oxygen increases"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When the lava comes out it is in …………… state.",
+        "options": [
+            "Liquid",
+            "Solid",
+            "Semi-solid"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The earth’s crust is made up of ……………",
+        "options": [
+            "Iron",
+            "Rocks",
+            "Magnesium"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Eruption of volcanoes and occurring of earthquakes infer that the …………. of the earth is hot.",
+        "options": [
+            "Surface",
+            "Interior",
+            "Crust"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The inner core of the interior of the earth is also called Nife which mean ……………",
+        "options": [
+            "Iron + magnesium",
+            "Iron + aluminium",
+            "Iron + Nickel"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Name of the following.The layer which extends upto 100 km from the surface of the earth.",
+        "options": [
+            "Atmosphere",
+            "Magnetosphere",
+            "Lithosphere"
+        ],
+        "answer": 3
+    },
+    {
+        "question": " Name the layer in which magma chambers are found.",
+        "options": [
+            "Sial",
+            "Outercore",
+            "Mantle"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The uppermost layer of the earth is the ……………",
+        "options": [
+            "Crust",
+            "Mantle",
+            "Care"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The core of the earth starts from …………… km.",
+        "options": [
+            "1200",
+            "2900",
+            "2500"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " The …………… waves cannot pass through the outer core of the earth.",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Surface"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The crust is the …………… of all the layers when compared to the mantle and the care.",
+        "options": [
+            "Thinnest",
+            "Thickest",
+            "Strongest"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Sial is composed of silica and …………..",
+        "options": [
+            "Magnesium",
+            "Aluminium",
+            "Iron"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " When the earthquake comes the earth surface …………",
+        "options": [
+            "Breaks",
+            "Tears",
+            "Shakes"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "…………. Rocks are mainly found in continental crust.",
+        "options": [
+            "Granite",
+            "Basalt",
+            "Gabbro"
+        ],
+        "answer": 1
+    }
+   
+]

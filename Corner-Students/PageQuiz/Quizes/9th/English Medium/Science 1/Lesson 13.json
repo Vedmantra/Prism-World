@@ -1,0 +1,411 @@
+[
+    {
+        "question": "The pure form of coal that contains about 95% of carbon.",
+        "options": [
+            "Peat",
+            "Lignite",
+            "Anthracite"        ],
+        "answer": 3
+    },
+    {
+        "question": "The reaction between carboxylic acid and alcohol to form an ester is called ............... .",
+        "options": [
+            "Etherification",
+            "Esterification",
+            "Saponification",
+            "Combustification"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "............... are compounds of carbon and hydrogen.",
+        "options": [
+            "Carbon",
+            "Hydrogen",
+            "Oxygen",
+            "Hydrocarbon"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Decomposition of organic matter by aerobic process produces methane.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "Carbon dioxide is present as a salt in chalk",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Acids / bases have no effect on diamond.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "............... is used in glass cutting and rock drilling machines.",
+        "options": [
+            "Diamond",
+            "Graphite"        ],
+        "answer": 1
+    },
+    {
+        "question": "The Methanogenic bacteria act on the organic acids to produce methane gas.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "The name for Covalent bond is ............... bond",
+        "options": [
+            "Polar",
+            "Isolated",
+            "Network",
+            "Molecular"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Which gas in the air reacts with the coal on igniting?",
+        "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Carbon dioxide"        ],
+        "answer": 1
+    },
+    {
+        "question": "The melting point of diamond is 3500 C",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Coal contains nitrogen, phosphorus and sulphur.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Carbon forms a ............... bond.",
+        "options": [
+            "Ionic",
+            "Non polar",
+            "Covalent",
+            "Liquid"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Methane burns completely with oxygen to give a greenish flame.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "The element Carbon occurs in free as well as in the combined state in nature",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "................ is used for making alcoholic drinks.",
+        "options": [
+            "Ethanol",
+            "Benzene",
+            "Cyclohexane",
+            "Sulphuric acid"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the wrong pair Which of the following is not the property of Methane?",
+        "options": [
+            "Colorless gas",
+            "Sparingly soluble in water",
+            "Gaseous at room temperature",
+            "Denser than water"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "CHCI  is named as .............. .",
+        "options": [
+            "Chloroform",
+            "Chloromethane",
+            "Chloro methyl",
+            "Chloro-m"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Coke is used as a reducing agent.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "............... molecule has four hydrogen atoms linked to one carbon atom.",
+        "options": [
+            "Propane",
+            "Octane",
+            "Methane",
+            "Ethane"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The elements  sulphur and phosphorus also exhibit allotropy.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "The type of coal that contains 60 to 70% of carbon.",
+        "options": [
+            "Peat",
+            "Lignite",
+            "Anthracite"        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the hardest natural  substance known.",
+        "options": [
+            "Iron",
+            "Steel",
+            "Diamond"        ],
+        "answer": 3
+    },
+    {
+        "question": "............... is the simplest hydrocarbon.",
+        "options": [
+            "Ethane",
+            "Pentane",
+            "Hexane",
+            "Methane"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Covalent compounds are insoluble in water.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "............... is an example of Aromatic Hydrocarbon",
+        "options": [
+            "Nonane",
+            "Hexyne",
+            "Benzene",
+            "Cycloheptane"       ],
+        "answer": 3
+    },
+    {
+        "question": "Methane is also called marsh gas.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Methane gas is also called as Biogas.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Blue litmus turns red indicating that Carbon dioxide gas is basic in nature.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "In ..............., every carbon atom is bonded to four neighboring atoms.",
+        "options": [
+            "Diamond",
+            "Graphite"        ],
+        "answer": 1
+    },
+    {
+        "question": "............... are oxidized to Carboxylic acids.",
+        "options": [
+            "Phenols",
+            "Alkanes",
+            "Alcohols",
+            "Gas"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Carbon forms large number of ...............",
+        "options": [
+            "Simple",
+            "Compounds",
+            "Aroma",
+            "Complexes"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "CH Cl is named as .............. .",
+        "options": [
+            "Chloromethane",
+            "Dichloromethane",
+            "Methane chloride",
+            "Methyl chloride"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Biogas is also used for production of electricity.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Hydrochloric acid is used in fire extinguishers.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "In Methane, carbon atom shares one electron each with four hydrogen atoms.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "............... occur in free State in soot and interstellar space.",
+        "options": [
+            "Copper",
+            "Turmeric",
+            "Fullerenes",
+            "Ammonia"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Carbon is found in ............... and ............... state.",
+        "options": [
+            "Combined and free",
+            "Solid and combined",
+            "Gas and free",
+            "Free and solid"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "............. acts as catalyst in addition reaction.",
+        "options": [
+            "Carbon",
+            "Palladium or Ni",
+            "Gold",
+            "Copper"
+        ],
+        "answer": 2
+    },
+    {
+        "question": ".............. is chemically unique.",
+        "options": [
+            "Nitrogen",
+            "Carbon",
+            "Oxygen",
+            "Hydrogen"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Carbon compounds are also called ............... compound.",
+        "options": [
+            "Covalent",
+            "Ionic"        ],
+        "answer": 1
+    },
+    {
+        "question": "Carbon dioxide is an odorless and colorless gas.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": ".............. reacts with sodium to form sodium ethoxide.",
+        "options": [
+            "Methanol",
+            "Acetic acid",
+            "Ketone",
+            "Ethanol"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Carbon dioxide gas supports combustion",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "The atomic number of carbon is  ...............",
+        "options": [
+            "5",
+            "7",
+            "11",
+            "6"
+        ],
+        "answer": 6
+    },
+    {
+        "question": "The first example of fullerene is Buck minster fullerene.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "In ............... different forms of the same elements are chemically identical, but they differ markedly in their physical properties.",
+        "options": [
+            "Isomers",
+            "Allotropy",
+            "Isobars",
+            "Valency"
+        ],
+        "answer": 2 
+    },
+    {
+        "question": "The addition of hydrogen to unsaturated hydrocarbons to form saturated hydrocarbons is called ...............",
+        "options": [
+            "Halogenation",
+            "Oxidation",
+            "Hydrogenation",
+            "Reduction"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In the combined state, Carbon exists in the form of carbonates.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    }
+]

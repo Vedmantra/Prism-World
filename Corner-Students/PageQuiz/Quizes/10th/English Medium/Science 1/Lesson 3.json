@@ -1,0 +1,398 @@
+
+[
+    {
+        "question": "The process of conversion of Vegetable oil into ghee in known as ……….",
+        "options": [
+            "Hydrogenation",
+            "Chlorination",
+            "Nitrification",
+            "All of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is not true concerning the decomposition of a simple compound.",
+        "options": [
+            "The products are unpredictable",
+            "The products are the constituent elements",
+            "The reactant is a single substance",
+            "Energy is usually required"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which is a Chemical change?",
+        "options": [
+            "Formation of blood",
+            "Water turns into ice",
+            "Copper sulphate dissolved in water",
+            "Bending of iron nail"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Chemical reactions are classified into ...... types.",
+        "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "If the number of atoms of each element is not same on both the sides of the equation i.e Reactants and products, then the equation is ...... .",
+        "options": [
+            "Unbalanced equation",
+            "Balanced equation",
+            "Quadratic equation",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Catalyst used in decomposition of hydrogen peroxide into water and oxygen ...... .",
+        "options": [
+            "Magnesium oxide",
+            "Calcium oxide",
+            "Manganese dioxide",
+            "Nickel"
+        ],
+        "answer": 3
+    },
+    
+    {
+        "question": "Chemical substances which bring about oxidation reaction by making oxygen available are called ...... .",
+        "options": [
+            "Reducing agents",
+            "Oxidizing agents",
+            "Reactants",
+            "Products"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The reaction in which the ions in the reactants are exchanged to form a precipitate are called double displacement reactions.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Aluminum and Zinc both react with hydrochloric acid. Which of the statement is correct? i. Both react at the same speed ii. Aluminum is more reactive than Zinc iii. Aluminum reacts faster than Zinc iv. Zinc reacts faster than Aluminum",
+        "options": [
+            "Both (ii) and (iii)",
+            "(i)",
+            "(iv)",
+            "All (i), (ii), (iii)"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Silver chloride is an insoluble substance.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The substances taking part in chemical reaction are called ...... .",
+        "options": [
+            "Reactants",
+            "Products",
+            "Catalyst",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pure water decomposes into hydrogen and oxygen gases on passing electric current.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the gas liberated when Aluminum reacts with hydrochloric acid.",
+        "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Nitrogen",
+            "Carbon-di-oxide"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Magnetization of iron : Physical Change : : Rusting of iron : ……………… .",
+        "options": [
+            "Chemical change",
+            "Partial Physical change",
+            "Partial chemical change",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In C + O₂ → CO₂, state the reactants of the equation.",
+        "options": [
+            "C",
+            "CO₂",
+            "O₂",
+            "Both 1 and 3"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The chemical reaction in which two or more products are formed from a single reactant is called ……………… reaction.",
+        "options": [
+            "Combination reaction",
+            "Decomposition reaction",
+            "Displacement reaction",
+            "Double displacement reaction"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The substance in whose presence the rate of a chemical reaction changes, without causing any chemical change to it, is called",
+        "options": [
+            "Reducing agent",
+            "Oxidizing agent",
+            "Catalyst",
+            "Enzyme"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The substances formed as a result of chemical reaction by formation of new bonds are called ……………… .",
+        "options": [
+            "Reactants",
+            "Products",
+            "Catalyst",
+            "None of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "CaO + H₂O → Ca(OH)₂ + Heat is an example of ...... reaction.",
+        "options": [
+            "Exothermic",
+            "Endothermic",
+            "Partial exothermic",
+            "Partial endothermic"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Biogas is used as ...... .",
+        "options": [
+            "Paint",
+            "Fuel",
+            "Oil",
+            "Detergent"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Complete the following equation. CuSO₄ (aq) + Fe(s) → ...... + ......",
+        "options": [
+            "FeSO₄ + Cu",
+            "Cu + SO₄",
+            "CuO + SO₃",
+            "FeSO₃ + CuO"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Ethyl alcohol is oxidized to ...... acid.",
+        "options": [
+            "Formic acid",
+            "Oxalic acid",
+            "Acetic acid",
+            "Butyric acid"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The decomposition which takes place by means of electrical energy is called ...... .",
+        "options": [
+            "Thermal decomposition",
+            "Electrolysis",
+            "Hydrogenation",
+            "None of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Fe²⁺ → Fe³⁺ (Ferrous) (Ferric) This is an example of ......",
+        "options": [
+            "Reduction",
+            "Oxidation",
+            "Redox",
+            "None of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Endothermic : absorb heat : : ...... : release heat",
+        "options": [
+            "Exothermic",
+            "Endothermic",
+            "Precipitate",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The symbol for Ozone is ......",
+        "options": [
+            "O",
+            "O₂",
+            "O₃",
+            "O₄"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "When heat is given from outside to bring about a reaction it is indicated as",
+        "options": [
+            "→",
+            "Heat",
+            "→",
+            "None of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "CaCO₃(s) + Heat → CaO(s) + CO₂ (g) is an example of ...... reaction.",
+        "options": [
+            "Exothermic",
+            "Endothermic",
+            "Partial exothermic",
+            "Partial endothermic"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "CaCl₂ + H₂SO₄ → CaSO₄ + 2HCl This is ……… equation.",
+        "options": [
+            "Balanced equation",
+            "Unbalanced equation",
+            "Quadratic equation",
+            "Linear equation"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The sign used between two reactant is",
+        "options": [
+            "-",
+            "+",
+            "×",
+            "÷"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When water is added in the concentrates H₂So₄ in order to dilute it, then …………… occurs.",
+        "options": [
+            "Very large amount of heat is liberated",
+            "Water gets evaporated instantaneously",
+            "This may cause accident",
+            "All of these"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Concentrated acid reacts …………… than dilute acid.",
+        "options": [
+            "Slower",
+            "Faster",
+            "Equally same",
+            "Can be all of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Oxidation means …………… one or more electrons.",
+        "options": [
+            "Losing",
+            "Gaining",
+            "Sharing",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is an example of endothermic processes?",
+        "options": [
+            "Melting of ice",
+            "Dissolution of potassium nitrate in water",
+            "Both 1 and 2",
+            "None of these"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "All the chemical equations must be balanced in order to comply with …………….",
+        "options": [
+            "Law of conservation of mass",
+            "Law of conservation of water",
+            "Law of conservation of plants",
+            "All of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Left hand side : Reactant : : Right hand side : …………….",
+        "options": [
+            "Product",
+            "Answer",
+            "Question",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Dissolution of sodium hydroxide in water is …………… reaction.",
+        "options": [
+            "Endothermic reaction",
+            "Exothermic reaction",
+            "Both 1 and 2",
+            "None of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The chemical reaction in which a reactant combines with oxygen or loses hydrogen to form the product is called …………… reaction.",
+        "options": [
+            "Reduction",
+            "Oxidation",
+            "Redox",
+            "None of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "CaCO₃ → CaO(s) + CO₂↑ is an example of …………… reaction.",
+        "options": [
+            "Thermal decomposition",
+            "Combination reaction",
+            "Displacement reaction",
+            "Double displacement reaction"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In our body …………… increase the rate of physiological reactions.",
+        "options": [
+            "Enzymes",
+            "Vitamins",
+            "Minerals",
+            "Fats"
+        ],
+        "answer": 1
+    }
+]

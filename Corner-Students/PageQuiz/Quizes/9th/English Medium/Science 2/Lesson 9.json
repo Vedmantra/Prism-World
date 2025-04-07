@@ -1,0 +1,291 @@
+[
+    {
+        "question": "The India Meteorological Department provides important information regarding ...... conditions.",
+        "options": [
+            "Electricity",
+            "Energy",
+            "Weather and climatic",
+            "Pressure"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In an estuary, following waste materials are released: chemicals, pigmenta, sludge, ash, metals, etc.",
+        "options": [
+            "Domestic waste",
+            "Industrial waste",
+            "Hazardous waste",
+            "Electronic waste"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Management of solid waste is necessary even at household level.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Full form of NOAA is",
+        "options": [
+            "National Organization of Atmospheric Administration",
+            "National Oceanographic and Atmospheric Administration",
+            "Natural Oceanographic and Atmospheric Administration",
+            "National Organization of Atmosphere and Aeronautics"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Reducing the waste : Reduce :: Recycling of waste : ?",
+        "options": [
+            "Reuse",
+            "Refusal",
+            "Recycle",
+            "Rethink"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Meteorological departments have ‘......’ which are equipped with modern instruments and technology.",
+        "options": [
+            "Records",
+            "Binoculars",
+            "Scanners",
+            "Observatories"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Climate impact is not important in India.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Change in a climate is constant.",
+        "options": [
+            "False, it changes rapidly.",
+            "False, it never changes.",
+            "True, but it changes slowly over a period of time.",
+            "True, climate change depends upon soil erosion."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In a particular monsoon model, the current climatic observations in a region are compared with earlier parameters. Which of the following model it must be?",
+        "options": [
+            "Mathematical model",
+            "Statistical model",
+            "Holistic model"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Following is the reason why the knowledge of climate is important for the farmers.",
+        "options": [
+            "So that they can sow the seeds on correct time.",
+            "So that they can Water they can harvest the crop on perfect time.",
+            "So that they can grow the crops on perfect time.",
+            "All of the above."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The World Meteorological Organization was established by the …………………….. .",
+        "options": [
+            "NOAA",
+            "UNO",
+            "IITM",
+            "WMO"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Atmospheric conditions at a specific time at a particular place are referred to as ………………. .",
+        "options": [
+            "Atmosphere",
+            "Weather",
+            "Conditions",
+            "Air"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The World Meteorological Organization was established by the United Nations Organization.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Two types of disasters are",
+        "options": [
+            "Harmful and distressful",
+            "Real and unreal",
+            "Hazardous and non-hazardous",
+            "Natural and man-made"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Floods are a ...... type of disaster.",
+        "options": [
+            "Toxic",
+            "Hazardous",
+            "Man made",
+            "Natural"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Short duration : weather :: Long duration : ?",
+        "options": [
+            "Conditions",
+            "Temperature",
+            "Atmosphere",
+            "Climate"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Climate is a long term predominant condition of the atmosphere.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "We can predict climatic changes of the future if",
+        "options": [
+            "If we analyse change is water level of sea",
+            "If present climatic conditions are analysed with reference to the past climatic conditions",
+            "If present crop conditions are analysed with reference to the past crop conditions",
+            "If present water conditions are analysed with reference to the past water conditions."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is not included under meteorology?",
+        "options": [
+            "Study of storms",
+            "Study of temperature",
+            "Study of atmosphere",
+            "Study of census"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Using rechargeable batteries instead of lead batteries will reduce pollution due to",
+        "options": [
+            "Iron",
+            "Calcium",
+            "Lead",
+            "Zinc"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Action implemented through proper planning organised activity and co-ordination during an emergency is called ……………… .",
+        "options": [
+            "Disaster management",
+            "Solid waste management",
+            "Public awareness",
+            "RICE"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "……….. principle of waste management reduces the use of inorganic materials.",
+        "options": [
+            "Reduce",
+            "Research",
+            "Recycle",
+            "Renew"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In which model, current climatic observations in a region are compared with earlier parameters such as oceanic temperature?",
+        "options": [
+            "Mathematical model",
+            "Statistical model",
+            "Holistic model",
+            "Dynamic model"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name one of the drastic effect of a disaster.",
+        "options": [
+            "Loss of electronics",
+            "Loss of trees",
+            "Loss of life and property",
+            "Loss of money"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is not a model used ?",
+        "options": [
+            "Solar model",
+            "Holistic model",
+            "Statistical model",
+            "Mathematical model"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In an accident, the victim has injured his leg. Which method should be used for his transport?",
+        "options": [
+            "Cradle method",
+            "Carrying piggy back",
+            "Human crutch method",
+            "Stretcher"
+        ],
+        "answer":3
+    },
+    {
+        "question": "All Non-degradable materials never decomposes.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is not an effect of pollution due to solid waste?",
+        "options": [
+            "Noise pollution",
+            "Spreading of diseases",
+            "Water pollution",
+            "Soil pollution"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "CPR stands for",
+        "options": [
+            "Cyclic-pulmonary resuscitation",
+            "Cardio-pressurized resuscitation",
+            "Cardio-pulmonary resuscitation",
+            "Cyclic-pressurized resuscitation"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the material is inorganic waste and can be recycled?",
+        "options": [
+            "Polythene",
+            "Plastic bottle",
+            "Thermocol",
+            "Synthetic rubber"
+        ],
+        "answer": 2
+    }
+]

@@ -1,0 +1,423 @@
+[
+    {
+        "question": "What happens to the needle if the current is increased?",
+        "options": [
+            "Deflects faster",
+            "Deflects slowly"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What do you observe when the current starts flowing through the thick copper wire passing through the cardboard containing the iron filings?",
+        "options": [
+            "Iron fillings arrange themselves around the conductor",
+            "No change is observed"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Find the odd one out.",
+        "options": [
+            "Fuse",
+            "Bad conductor",
+            "Rubber shoes",
+            "Generator"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Find the odd one out.",
+        "options": [
+            "Electric fan",
+            "Electric bulb",
+            "Electric wire",
+            "Electric iron"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Larger the number of turns in the solenoid, greater will be the magnetism produced.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Find the odd one out.",
+        "options": [
+            "Rectangular coil",
+            "Brushes",
+            "Conducting rings",
+            "Direct current"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Electric ...... work on the principle of electromagnetic induction.",
+        "options": [
+            "Motor",
+            "Generator"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If live wire and earth wire come in contact with each other, then a large current flows through it.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Match the following:",
+        "options": [
+            "i - c , ii - b , iii - a , iv - d",
+            "i - b , ii - c , iii - a , iv - e"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In order to show the direction of the induced current, Fleming’s left hand rule is used.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Power = Current X Resistance (I x R)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The source of energy in the electric circuit is the cell.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Iron is a conductor of electricity.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What happens to the needle when the key is not switched on?",
+        "options": [
+            "No change",
+            "Starts deflecting"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "An element used as a filament in electric bulb.",
+        "options": [
+            "Argon",
+            "Tungsten"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Match the following:",
+        "options": [
+            "i - d , ii - e , iii - b , iv - c",
+            "i - c , ii - e , iii - b , iv - a"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When a resistor is connected in an electric circuit, heat is produced in it due to the current.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Find the odd one out.",
+        "options": [
+            "Voltmeter",
+            "Ammeter",
+            "Galvanometer",
+            "Thermometer"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Find the odd one out.",
+        "options": [
+            "Loudspeaker",
+            "Microphone",
+            "Electric motor",
+            "Bar magnet"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "In India, the frequency of Alternating Current is 100Hz.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "An alloy used in electric heater as a resistor ......",
+        "options": [
+            "Antimony",
+            "Nichrome"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The iron fillings spread along the magnetic lines of force.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The magnetic field inside the solenoid is uniform.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What do you see when the magnetic needle is kept a little away from the wire?",
+        "options": [
+            "Needle does not deflect",
+            "Deflection increases",
+            "Deflection decreases"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The concentric circles represent the magnetic lines of force.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Find the odd one out.",
+        "options": [
+            "Electric toaster",
+            "Electric oven",
+            "Electric heater",
+            "Refrigerator"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "What happens when a current-carrying conductor is placed in a magnetic field?",
+        "options": [
+            "No change is observed",
+            "It experiences a force"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Find the odd one out.",
+        "options": [
+            "Silver",
+            "Copper",
+            "Plastic",
+            "Aluminum"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The resistor breaks the circuit when the excess current flows in the circuit.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If the current through the wire is decreased, the intensity of the magnetic field decreases.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The magnetic lines of force inside the solenoid are curved.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The frequency of direct current ......",
+        "options": [
+            "0Hz",
+            "50Hz",
+            "100 Hz"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Name the rule that gives the direction of induced current.",
+        "options": [
+            "Fleming’s right hand rule",
+            "Fleming’s left hand rule"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mechanical Power = Mechanical work / time",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If the position of the magnets is reversed in the above figure, will the direction of rotation of the coil change?",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The commercial unit of electrical energy is kilowatt hour.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A material used as a precautionary measure in electrical circuits.",
+        "options": [
+            "Switches",
+            "Fuse"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Short circuiting occurs when live wire and neutral wire come in direct contact.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A device that converts electrical energy into mechanical energy.",
+        "options": [
+            "Electric motor",
+            "Electric generator"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Find the odd one out.",
+        "options": [
+            "Geyser",
+            "Refrigerator",
+            "Electric fan",
+            "Mixer grinder"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the position of the wire when there is no current flowing through it?",
+        "options": [
+            "Position A",
+            "Position B",
+            "Position C"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "An appliance that works on electric motor.",
+        "options": [
+            "Washing machine",
+            "Electric bulb"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Another term used for 1kWh electrical energy.",
+        "options": [
+            "1 electrical power",
+            "1 unit of energy"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What happens to the wire when the Current flows from bottom to top?",
+        "options": [
+            "Position A",
+            "Position B",
+            "Position C"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Another term used for present day circuit breakers.",
+        "options": [
+            "MCB",
+            "NCB"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Overloading can be avoided by connecting many appliances at a time in the circuit.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Electric generator is used to generate current.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "An electric current cannot be produced in a conductor with the help of a moving magnet.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In electric bulb, when the filament gets heated, it emits light.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What happens to the wire when the current flows from top to bottom?",
+        "options": [
+            "Position A",
+            "Position B",
+            "Position C"
+        ],
+        "answer": 3
+    }
+]

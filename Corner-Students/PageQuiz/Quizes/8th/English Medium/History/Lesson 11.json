@@ -1,0 +1,415 @@
+[
+    {
+        "question": " The workers struggle proved to be ............... to the national movement. ",
+        "options": [
+            "Demanding",
+            "Supportive",
+            "Growing",
+            "Socialist"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " The play ............... written by Deenbandhu Mitra brought to the notice of society the wretched conditions of the peasants producing indigo.",
+        "options": [
+            "Bahishkrut",
+            "Mooknayak",
+            "Bharat",
+            "Neel Darpan"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Mahatma Gandhiji gave inspiration to ................",
+        "options": [
+            "Dalits",
+            "Untouchables",
+            "Harijan Sevak Sangh",
+            "Satyagraha"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " The struggle of the ............... began under the leadership of Dr. Babasaheb Ambedkar.",
+        "options": [
+            "Dalits",
+            "Labours",
+            "Workers",
+            "Scheduled Caste"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " In 1928, the Mumbai mill workers union went on strike for ............... months. ",
+        "options": [
+            "Four",
+            "Six",
+            "Two",
+            "Ten"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " In the Indian social system women were given ............... position. ",
+        "options": [
+            "Primary",
+            "First",
+            "Secondary",
+            "Second"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " In 1888, Gopal Baba Walangkar in his book 'Vitaal Vidhwansan condemned ...............",
+        "options": [
+            "Social structure",
+            "Sati system",
+            "Untouchability",
+            "Devadasis"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " After the Act of ..............., women were included in the provincial Ministries.  ",
+        "options": [
+            "1935",
+            "1930",
+            "1931",
+            "1940"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " In quit India movement of ............... these young socialists were in the forefront. ",
+        "options": [
+            "1942",
+            "1941",
+            "1930",
+            "1920"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " The communist leaders were charged with planning of a ............... to overthrow the British rule. ",
+        "options": [
+            "Arrest",
+            "Bomb blast",
+            "Conspiracy",
+            "Demand"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " ............... was an integral part of Dr. Babasaheb Ambedkar's movement. ",
+        "options": [
+            "Radio",
+            "Newspaper",
+            "TV",
+            "Journal"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " The ............... did valuable work for social equality in South India. ",
+        "options": [
+            "Justice Party",
+            "Labour part",
+            "Socialist Party",
+            "Peasant party"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Rajarshi Shahu Maharaj made revolutionary declaration for reservation in state of ...............",
+        "options": [
+            "Kolhapur",
+            "Nagpur",
+            "Wai",
+            "Marathwada"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " In ............... with the initiative of Prof. N.G.Ranga, the ‘Akhil Bharatiya Kisan Sabha’ was established. ",
+        "options": [
+            "1936",
+            "1935",
+            "1970",
+            "1938"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Dr. Babasaheb Ambedkar started newspaper like ...............",
+        "options": [
+            "Janata",
+            "Darpan",
+            "Kesari",
+            "Prabhakar"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "............... took up the issue of eradication of untouchability in his hands.",
+        "options": [
+            "Justice Kanade",
+            "Shah Maharaj ",
+            "Mahatma Gandhi",
+            "Amrutlal"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " On 22nd February 1918 Rajarshi Shinde abolished the ............... by publishing a declaration in the government gazette of the state of Kolhapur.",
+        "options": [
+            "Sati",
+            "Barter",
+            "Balutedari",
+            "Widow remarriage"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " ............... passed the Act of inter caste marriage and gave it a legal acceptance in the state of Kolhapur. ",
+        "options": [
+            "Mahatma Jyotirao Phule",
+            "Rajarshi Shahu Maharaj",
+            "Rajaram Maharaj",
+            "Maharshi Vitthal Ramji Shinde"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "‘Akhil Bharatiya Kisan Sabha’ presented a declaration of ............... rights to the Indian National congress",
+        "options": [
+            "Peasants",
+            "Farmers",
+            "Workers",
+            "Labour"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " The peasants in Bengal formed their union and revolted against the compulsion of cultivating ...............",
+        "options": [
+            "Cash crops ",
+            "Tobacco",
+            "Indigo",
+            "Sugar"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " The socialist youths, while they were in prison at ............... decided to form the socialist party.  ",
+        "options": [
+            "Pune",
+            "Nasik",
+            "Mumbai",
+            "Nagpur"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " ............... went on fast unto death to open the doors of Vithal temple at Pandharpur for the Dalits.",
+        "options": [
+            "Sane Guruji",
+            "Dr. Babasaheb Ambedkar ",
+            "Rajaram",
+            "Babasaheb Bole"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " ............... got a bill passed in the Bombay Provincial Assembly for the public water reservoirs to be opened to the untouchables. ",
+        "options": [
+            "Babasaheb Ambedkar",
+            "Babasaheb Bole"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " In 1906, Maharshi Vitthal Ramji Shinde started the ............... for the progress of the Dalits. ",
+        "options": [
+            "Somavanshiya Mitra",
+            "Bharat Mahila Parishad",
+            "Depressed Classes Mission",
+            "Vitaal Vidhwansan"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " In 1938, the crops in eastern ............... were destroyed due to heavy rains.",
+        "options": [
+            "kheda",
+            "Champaran",
+            "Khandesh",
+            "Gorakhpur"
+        ],
+        "answer":3
+    },
+    {
+        "question": " The British government started feeling the danger of ............... movement. ",
+        "options": [
+            "Farmers",
+            "Socialist",
+            "Communist",
+            "Workers"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " Rakhmabai Janardan Save  was the first practicing woman ............... in India. ",
+        "options": [
+            "Engineer",
+            "Teacher",
+            "Judge",
+            "Doctor"
+        ],
+        "answer":4 
+    },
+    {
+        "question": ".............. was the president of Akhil Bharatiya Kisan Sabha.",
+        "options": [
+            "Sane Guruji ",
+            "Swami Sahajanand Saraswati",
+            "Maharshi Vitthal Ramji Shinde",
+            "Manavendranath Roy"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Dr. Babasaheb Ambedkar embraced ............... that advocated humanity and equality.",
+        "options": [
+            "Jainism",
+            "Christianity",
+            "Buddhism",
+            "Hinduism"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " In 1930, he started satyagraha for the entry of Dalits in the ............... temple at Nashik. ",
+        "options": [
+            "Kalaram",
+            "Rajaram",
+            "Shivaram",
+            "Vishnu"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " After Independence, the principle of ............... of men and women has been clearly started in the constitution of India.",
+        "options": [
+            "Equality",
+            "Liberty",
+            "Justice",
+            "Socialism"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " Indians got introduced to ............... and his communism.",
+        "options": [
+            "Fredrick Angel",
+            "Karl Marx",
+            "Manavendranath Roy",
+            "Muzaffar Ahmed"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " First Indian female doctor was Doctor ..............",
+        "options": [
+            "Pandita Ramabai",
+            "Anandibai Joshi",
+            "Ramabai",
+            "Kalpana"
+        ],
+        "answer":2
+    },
+    {
+        "question": "............. had already written on article on Marx in 1881.",
+        "options": [
+            "Narendra Dev",
+            "Ramabai",
+            "Lokmanya Tilak",
+            "Mahatma Phule"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "............... was the president of the first session of AITUC. ",
+        "options": [
+            "N. M. Joshi",
+            "Muzaffar Ahmed",
+            "N. M. Joshi",
+            "Lala Lajpat Rai"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "The session of the congress was held in the rural part of ............... in Maharashtra.",
+        "options": [
+            "Nagpur",
+            "Baramati",
+            "Faizpur",
+            "Miraj"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " In 1925, the ............... was formed in India.",
+        "options": [
+            "INC",
+            "Swaraj party",
+            "Communist Party",
+            "Bhartiya Janata Party"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " The Indian social structure was based on ...............",
+        "options": [
+            "Equality",
+            "Inequality"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " The farmers in Uttar Pradesh formed ............... in 1918",
+        "options": [
+            "Kisan Sabha",
+            "Farmer Sabha",
+            "Neel darpan",
+            "Sabha"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " Shivram Janba Kamble started the magazine ............... on 1st July 1908.",
+        "options": [
+            "Somavanshiya Mitra",
+            "Vitaal Vidhwansan",
+            "Bahishkrit Hitkarini Sabha",
+            "Depressed Classes Mission"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Sane Guruji was the president of mill workers union of ...............",
+        "options": [
+            "Pandharpur",
+            "Ammalner"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Dr. Babasaheb Ambedkar made a significant contribution to the creation of a social structure based on equality in ............... India.",
+        "options": [
+            "Ancient",
+            "Divided",
+            "Modern"
+        ],
+        "answer":3 
+    }
+]

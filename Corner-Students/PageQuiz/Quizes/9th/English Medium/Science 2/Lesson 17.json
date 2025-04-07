@@ -1,0 +1,445 @@
+[
+    {
+        "question": "There are __ main types of animal tissues.",
+        "options": [
+            "4",
+            "3",
+            "5",
+            "6"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Muscle fibres and muscular tissues are formed from special type of contractile ..............",
+        "options": [
+            "Proteins",
+            "Fats",
+            "Lipids",
+            "Carbs"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Simple Tissues are made up of only one type of cells.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Contraction and relaxation of the heart is carried out by ",
+        "options": [
+            "Nerves",
+            "Non- Straited muscles",
+            "Cardiac muscles",
+            "Straited muscles "
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Plants cannot be grown on a large scale even if means of pollination  or germinating seeds are not available",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "Tissue culture can be used to grow those plants on a large scale, which bear flowers, fruits of excellent quality. ",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "The techniques of bringing about improvements in living organisms by artificial genetic changes and by hybridization for the welfare of human beings, are together called ‘...............’",
+        "options": [
+            "Biotechnology",
+            "Totipotency",
+            "Complexity",
+            "Biography"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Due to use of seeds of GM crops, there is improvement in nutritive value and decrease in loss of crops",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Plantlets produced by tissue culture of the meristem are virus-free. ",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "............. are not uninucleate.",
+        "options": [
+            "Nerves",
+            "Non- Straited muscles",
+            "Cardiac muscles ",
+            "Straited muscles"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Xylem is a Simple tissue",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": ".......... show alternate dark and light bands.",
+        "options": [
+            "Nerves",
+            "Non- Straited muscles",
+            "Cardiac muscles",
+            "Straited muscles"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "GM crops cannot grow in any of the adverse conditions.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is not a local variety of cattle?",
+        "options": [
+            "Jersey",
+            "Sahiwal",
+            "Gir",
+            "Lal kandhari"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "............... transports waste materials generated all over the body to the  kidney for excretion. ",
+        "options": [
+            "Serum",
+            "Muscles",
+            "Nerves",
+            "Blood"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Plants produced by tissue culture and genetic modification techniques are disease-free.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Biotechnology includes the techniques of ..............",
+        "options": [
+            "Genetic engineering only",
+            "Tissue culture only",
+            "Both genetic engineering and tissue culture",
+            "None of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In India, animal husbandry is practiced for milk production and for using the cattle as help in farming operations.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "A liquid, solid or gel-like medium prepared from ..............., which supplies nutrients and energy is necessary for tissue culture",
+        "options": [
+            "Agar",
+            "Algae",
+            "Sugar",
+            "Cellulose"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Dark and light bands are absent in ",
+        "options": [
+            "Nerves",
+            "Non- Straited muscles ",
+            "Cardiac muscle",
+            "Straited muscle"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Orchids or pitcher plant do not germinate but these plants can easily be produced by means of tissue culture",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "............. is present Below the skin and around internal organs.",
+        "options": [
+            "Areolar Tissue",
+            "Blood",
+            "Adipose Tissue",
+            "Lungs"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "............. tissue is present in the brain, spinal cord and the network of nerves spread all through the body.",
+        "options": [
+            "Excretory",
+            "Respiratory",
+            "Muscular",
+            "Nervous"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "A group of cells having the same origin, same structure and same function is called ‘...............’",
+        "options": [
+            "Cellulose",
+            "Tissue",
+            "Multicellular",
+            "Unicellular"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Uniform growth occurs through out the body of an animal ",
+        "options": [
+            "True",
+            "False"            
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Tissues which join different parts of the body are called ............... tissues.",
+        "options": [
+            "Muscular",
+            "Connective",
+            "Communication",
+            "Nervous"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Rearing of egg and meat yielding chickens is called ................ farming.",
+        "options": [
+            "Animal",
+            "Egg and meat",
+            "Poultry",
+            "Cattle"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Muscular movement occurs due to contraction and relaxation of the ................ in these cells.",
+        "options": [
+            "Controlled proteins",
+            "Contractile proteins",
+            "Base proteins",
+            "Amino acids"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The cocoon may be spherical in shape.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "............... (moths) are reared for production of silk.",
+        "options": [
+            "Poultry",
+            "Earthworms",
+            "Silkworms",
+            "Cattle"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "............... tissues in plants transport water and food to all its parts. ",
+        "options": [
+            "Cellular",
+            "Simple",
+            "Permanent",
+            "Conducting"
+        ],
+        "answer": 4 
+    },
+    {
+        "question": "............... are useful for producing  plantlets on a very large scale.",
+        "options": [
+            "Gene",
+            "Tissue",
+            "Biotech",
+            "Bioreactors"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "...............Tissues are made up of more than one type of cells",
+        "options": [
+            "Simple",
+            "Complex",
+            "Sedentary",
+            "Conducting"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Find out one out.",
+        "options": [
+            "Jersey",
+            "Brown swiss",
+            "Holstein",
+            "Dangi"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Growth of the plants occurs in specific parts of their body where the tissues contain ............... cells",
+        "options": [
+            "Similar",
+            "Non- dividing",
+            "Dividing",
+            "Dissimilar"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Genetically Modified Crops (GM crops) are being produced by introducing changes in DNA of natural crops.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Plants being ..............., most of their tissues are of the type that gives support.",
+        "options": [
+            "Voluntary",
+            "Mobile",
+            "Motile",
+            "Sedentary"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "............. forms Outer layer of skin",
+        "options": [
+            "Lower epithelium",
+            "Stratified epithelium",
+            "inner epithelium",
+            "Glandular epithelium"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following are branched?",
+        "options": [
+            "Nerves",
+            "Non- Straited muscles",
+            "Cardiac muscles ",
+            "Straited muscles"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Protective coverings in the animal body are called ............... tissues. ",
+        "options": [
+            "Cover",
+            "Complex",
+            "Epithelial",
+            "Nervous"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Blood is a type of connective tissue.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Some cells in the body of living organisms are ‘...............’, that is if provided a proper environment, a new organism can grow from these cells. ",
+        "options": [
+            "Simple",
+            "Omnipotent",
+            "Impotent",
+            "Totipotent"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Cattle need not be regularly vaccinated.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "Muscular tissues are made up of the short cells of muscle fibres.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "Which Cells contain vesicles packed with secretory material?",
+        "options": [
+            "Lower epithelium",
+            "Stratified epithelium",
+            "Upper epithelium",
+            "Glandular epithelium"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Rare and endangered plants can be grown by tissue culture technique.",
+        "options": [
+            "Genetic engineering",
+            "Totipotency",
+            "Tissue culture",
+            "Soil-less farming"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which meristem Increases girth (diameter) of the root and stem?",
+        "options": [
+            "Lateral",
+            "Intercalary",
+            "Apical",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following contains Erythrocytes, leucocytes and platelets in a liquid plasma?",
+        "options": [
+            "Blood",
+            "Lymph",
+            "Adipose Tissue",
+            "Lungs"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In most animals, action in response to a stimulus occurs due to the integrated functioning of Which of the two?",
+        "options": [
+            "Nervous tissue and excretory tissue",
+            "Nervous tissue and muscular tissue",
+            "Nervous tissue and circulatory tissue",
+            "Circulatory tissue and muscular tissue"
+        ],
+        "answer": 2
+    }
+]

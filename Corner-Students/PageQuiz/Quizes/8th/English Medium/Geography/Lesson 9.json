@@ -1,0 +1,238 @@
+[
+    {
+        "question": "The ratio of the map distance to the ground distance is called ……………",
+        "options": [
+            "Indore",
+            "Map scale",
+            "Direction"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Identify the type of scale :  1 cm = 60 km.",
+        "options": [
+            "Verbal",
+            "Numerical",
+            "Linear"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The map of Maharashtra state is a …………… map.",
+        "options": [
+            "Small-scale",
+            "Large-scale",
+            "Numerical-scale"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A map showing Indian states and their political boundaries is",
+        "options": [
+            "Small scale map",
+            "Large scale map",
+            "Topographic map",
+            "All of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "large scale map provides …………… detailed information.",
+        "options": [
+            "More",
+            "Less",
+            "Much"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the ground distance from the given scale",
+        "options": [
+            "1 cm = 50 km",
+            "1 cm = 60 km",
+            "1 cm = 70 km"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the ground distance from the scale  :   1 cm = 60 km",
+        "options": [
+            "60 km",
+            "80 km",
+            "75 km"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which type of maps would you generally find in an atlas?",
+        "options": [
+            "Large scale",
+            "Small scale",
+            "Topographic",
+            "None of the above"
+        ],
+        "answer":  2
+    },
+    {
+        "question": "Identify the Small-scale map ",
+        "options": [
+            "1 cm = 100 m",
+            "1 cm = 10 km",
+            "1 cm = 10 m"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Find the odd one  :  Maps of Temple",
+        "options": [
+            "Mall",
+            "India",
+            "Village",
+            "School"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A small area on the ground shown covering larger area is call …………… map.",
+        "options": [
+            "Small-scale",
+            "Large-scale",
+            "Numerical-scale"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the type of map :-  Map of a temple",
+        "options": [
+            "Small-scale",
+            "Large-scale",
+            "Verbal-scale"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which scale is drawn with line graph ?",
+        "options": [
+            "Linear",
+            "Verbal",
+            "Numerical"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "To draw a map True to scale, it is essential to know the ground ……………",
+        "options": [
+            "Relief",
+            "Distance",
+            "Topography"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which map scale is also known as Representative fraction?",
+        "options": [
+            "Verbal Scale ",
+            "Linear scale",
+            "Numerical scale",
+            "None of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following are the examples of small scale maps?",
+        "options": [
+            "Wall maps",
+            "Atlas maps",
+            "City plans",
+            "Both (1) and (2)"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Which of the following scale is used globally?",
+        "options": [
+            "Numerical scale",
+            "Linear scale",
+            "Verbal scale",
+            "Statement scale"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Convert the scale : verbal scale -= 1 cm = 53 km : Numerical-scale = ……………",
+        "options": [
+            "1 : 530",
+            "1 : 5300",
+            "1 : 5300000"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In which type of map scale, distances are expressed with the use of words indicating measurement?",
+        "options": [
+            "Verbal scale",
+            "Linear scale",
+            "Numerical scale",
+            "Representative fraction"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Map-scale helps map reading and understanding the …………… on the ground.",
+        "options": [
+            "Direction",
+            "Distance",
+            "Speed"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following statements is NOT true?",
+        "options": [
+            "The ratio of the map distance to the ground distance is known as map distance",
+            "We obtain information about the earth from a globe or a map.",
+            "To draw a map true to scale it is essential to know the ground distances.",
+            "There are three main ways of expressing the scale on a map."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following scale indicates small scale map?",
+        "options": [
+            "1 : 100",
+            "1 : 1000",
+            "1 : 10000",
+            "1 : 100000"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "……………. scale is accepted universally.",
+        "options": [
+            "Verbal",
+            "Linear",
+            "Numerical"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following factor's map will be a large scale map?",
+        "options": [
+            "Temple",
+            "State",
+            "Nation",
+            "Continent"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A map showing minute features of a village is a",
+        "options": [
+            "Small scale map",
+            "Large scale map",
+            "Thematic map",
+            "All of the above"
+        ],
+        "answer": 2
+    }
+]

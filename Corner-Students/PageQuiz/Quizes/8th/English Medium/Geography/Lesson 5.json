@@ -1,0 +1,228 @@
+[
+    {
+        "question": "Ocean currents flowing below the 500m. depth.",
+        "options": [
+            "Surface currents",
+            "Deep currents",
+            "Ocean currents"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The deep ocean currents flow with high velocity.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Due to ............... the ocean water move from the surface to the bottom and vice versa.",
+        "options": [
+            "Conveyor belt",
+            "Thermohaline circulation",
+            "Earth's rotation"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The ocean currents more in clockwise and anti clockwise because of ..............",
+        "options": [
+            "Revolution of the earth",
+            "Continental structure",
+            "Rotation of the earth"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Warm water has lower salinity and ...............",
+        "options": [
+            "Density",
+            "Temperature",
+            "Speed"
+        ],
+        "answer": 1 
+    },
+    {
+        "question": "The velocity of the ocean currents is around ............... per hour.",
+        "options": [
+            "2 to 5 km",
+            "2 to 10 km",
+            "2 to 7 km"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The ............... flow of water is considered upto 500 meters of depth.",
+        "options": [
+            "Deep",
+            "Surface",
+            "Sea-bed"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cold ocean current flowing along the coast ............... parts in winter.",
+        "options": [
+            "Warms",
+            "Freezes",
+            "Heats"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What happens : If the ocean currents would have been absent :",
+        "options": [
+            "Water would have remained still.",
+            "No ships would have sailed.",
+            "People cannot swim in water."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the ocean current : Ocean water flowing from equator to the poles.",
+        "options": [
+            "Warm currents",
+            "Cold currents",
+            "Deep currents"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Circle the odd one The factors that affect the region along the coast are",
+        "options": [
+            "Precipitation",
+            "Temperature",
+            "Land breeze",
+            "Salinity"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Grand Bank near the North American coast in Atlantic ocean is famous for ..............",
+        "options": [
+            "Ice bergs",
+            "Fishing ground",
+            "Ships sailing"
+        ],
+        "answer": 2 
+    },
+    {
+        "question": "............... can reach the surface water",
+        "options": [
+            "Heat",
+            "Motion",
+            "Sunlight"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Name the ocean current : Ocean current flowing from poles to the equator.",
+        "options": [
+            "Warm current",
+            "Cold current",
+            "Surface current"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the following : The ocean currents flowing on the upper layer extend upto 500 meters",
+        "options": [
+            "Surface current",
+            "Deep currents",
+            "Ocean currents"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The alignment of coastline, changes the .............. of the ocean current.",
+        "options": [
+            "Direction",
+            "Length",
+            "Width"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Why does the cold water in deep ocean currents go down ?",
+        "options": [
+            "Because of High Temperature",
+            "Because of High density",
+            "Because of low temperature"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Complete the statement : Thermohaline circulation happens in ...............",
+        "options": [
+            "Surface ocean currents",
+            "Deep ocean currents",
+            "Ocean currents"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Near the coast where cold current flows, the amount of ............. is low.",
+        "options": [
+            "Temperature",
+            "Precipitation",
+            "Water"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The movement in ocean water occurs mainly due to ...............",
+        "options": [
+            "Trade winds",
+            "Waves",
+            "Temperature"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What gives ocean currents a speed?",
+        "options": [
+            "Salinity",
+            "Density",
+            "Planetary winds"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What happens : When two different ocean currents meet",
+        "options": [
+            "Thick fog",
+            "Water fall",
+            "Clouds formation",
+            "Precipitation"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Name the place : The warm Gulf stream current and cold Labrador current - meet.",
+        "options": [
+            "Dogger Bank",
+            "Newfoundland island",
+            "Grand Bank."
+        ],
+        "answer": 2
+    },
+    {
+        "question": " The ocean currents are mainly formed due to the difference in ..............",
+        "options": [
+            "Temperature",
+            "Sunlight",
+            "Depth"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "How much times does ocean water take to redistribution the water ?",
+        "options": [
+            "300 years",
+            "200 years",
+            "500 years"
+        ],
+        "answer": 3
+    }
+]

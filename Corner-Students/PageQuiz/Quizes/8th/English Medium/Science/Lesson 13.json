@@ -1,0 +1,342 @@
+[
+    {
+        "question": "Formula for expansion coefficient is",
+        "options": [
+            " = (l – l ) / (l T)",
+            " = (l – l ) / (l T)",
+            "= (l – l ) / (l T)",
+            "= (l – l ) / (l T)"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Because of the increased temperature the alcohol inside the thermometer",
+        "options": [
+            " Expands and the level goes down",
+            "Expands and the level rises",
+            "Shrinks and the level rises",
+            " Shrinks and the level goes down"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "What is the freezing point of water?",
+        "options": [
+            " 32 F",
+            "0 Celsius",
+            "273 K",
+            "Both 2 and 3"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Which thermometer has a sensor which can measure the heat coming out from the body directly and from that can measure the temperature of the body?",
+        "options": [
+            "Clinical Thermometer",
+            "Digital Thermometer",
+            "Mechanical Thermometer",
+            "None of the above"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "The inner vessel of the calorimeter is made up of",
+        "options": [
+            "Iron",
+            "Steel",
+            "Copper",
+            "Aluminium"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "When same amount of heat is given to two identical blocks made of aluminium and copper, whose temperature will be more after 10 minutes of heating ? (Consider the two blocks have same initial temperature.)",
+        "options": [
+            "Aluminium block.",
+            "Copper block.",
+            "Both will attain same temperature",
+            "It will depend on the atmospheric pressure."
+        ],
+        "answer":2 
+    },
+    {
+        "question": " A thermometer containing alcohol is dipped in a liquid. The initial volume of the alcohol was 5 ml. When the liquid is heated the alcohol rises to a certain height in the thermometer and its volume increases to 5.25 ml. By how much amount is the temperature of the liquid changed during the process?",
+        "options": [
+            "500 C",
+            "50 C",
+            "25 C",
+            "150 C"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Which of the following effects of heat does a mercury thermometer work on ?",
+        "options": [
+            "Expansion of gases.",
+            "Change of state",
+            "Expansion of liquids.",
+            "Anomalous behaviour."
+        ],
+        "answer":3 
+    },
+    {
+        "question": "CGS unit of specific heat is",
+        "options": [
+            "Joule/Kg Celsius",
+            "Calorie/ Kg Celsius",
+            "Calorie/ gm Celsius",
+            "Calorie/ Kg Fahrenheit"
+        ],
+        "answer":3
+    },
+    {
+        "question": "What is the freezing point of mercury?",
+        "options": [
+            "23 Celsius",
+            "296 K",
+            " 0 Celsius",
+            "-38.8 celsius"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Relation between kelvin and celsius is",
+        "options": [
+            "K = C + 273.15",
+            "C = K + 273.15",
+            "K = 273.15/C",
+            "C = K/273.15"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Formula for calculating amount of heat is",
+        "options": [
+            "Q = mcT",
+            "Q = m cT",
+            "Q = mc(T – T )",
+            "Q =  mc T2 T1"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "…………… is the amount of heat required to increase the temperature of unit mass of that substance through one degree.",
+        "options": [
+            "Specific energy",
+            "Specific heat",
+            "Kinetic energy",
+            "Heat energy"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " The heat received from the earth is called ............... ",
+        "options": [
+            "Thermal energy",
+            "Geothermal energy",
+            "Chemical energy",
+            "Green energy"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "One calorie is equal to",
+        "options": [
+            "4.18 J",
+            "1.48 J",
+            "8.14 J",
+            "4.81 J"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Which of the following is not a source of heat?",
+        "options": [
+            "Solar",
+            "Chemical",
+            "Nuclear",
+            "None of the above"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "The bulb and the part of liquid in a thermometer is filled with what?",
+        "options": [
+            "Mercury",
+            "Alcohol",
+            "Both 1 and 2",
+            "Water"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " ............... is used to measure the heat content of an object",
+        "options": [
+            "Thermometer",
+            "Calorimeter",
+            "Calorigram",
+            "Caloriometer"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "A special type of thermometer used to measure the temperatures of a day is termed as .............. ",
+        "options": [
+            "Clinical thermometer",
+            "Laboratory thermometer",
+            "Digital thermometer",
+            "Maximum - minimum thermometer"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Higher the temperature of the solid",
+        "options": [
+            "Slower is the velocity of oscillation",
+            "Higher is the velocity of oscillation",
+            "Velocity is independent of temperature",
+            "None of the above"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "What is the boiling point of water in Fahrenheit?",
+        "options": [
+            "273 F",
+            "232 F",
+            "212 F",
+            "221 F"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Which thermometer does not work by the principle of expansion of the liquid due to heat?",
+        "options": [
+            "Clinical Thermometer",
+            "Digital Thermometer",
+            "Both 1 and 2",
+            "None of the above"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "A ............... amount of heat is present in air all around us",
+        "options": [
+            "Large",
+            "Small",
+            "Can’t say",
+            "None of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Using calorimeter it is possible to determine.",
+        "options": [
+            "Specific heat of an object.",
+            "Heat content of an object.",
+            "Temperature of an object.",
+            "All of these."
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Which of the following is not an effect of heat?",
+        "options": [
+            "Expansion",
+            "Contraction",
+            "Change of state",
+            "Change of state"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Which unit of temperature is used majorly in scientific experiments?",
+        "options": [
+            "Celsius",
+            "Fahrenheit",
+            "Kelvin",
+            "Both 1 and 3"
+        ],
+        "answer":3
+    },
+    {
+        "question": "Q does not depend on",
+        "options": [
+            "Specific heat",
+            "Temperature",
+            "Time",
+            "Mass"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Heat is a form of energy which",
+        "options": [
+            "Is constant in all systems",
+            " Flows from higher temperature to lower temperature",
+            "Flows from lower to higher temperature",
+            "Can be obtained from only one source"
+        ],
+        "answer":2
+    },
+    {
+        "question": "Because of the increased temperature the alcohol inside the thermometer",
+        "options": [
+            "Expands and the level goes down",
+            "Expands and the level rises",
+            "Shrinks and the level rises",
+            "Shrinks and the level goes down"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "The atoms in a solid object are tied to one another because",
+        "options": [
+            "Of the forces acting between them.",
+            "Of the Kinetic energy between the molecules",
+            "The intermolecular forces between the atoms",
+            "Both 1 and 3"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Which of these statements is incorrect?",
+        "options": [
+            "If the average kinetic energy of atoms in two objects is equal then their temperatures will also be equal.",
+            "The velocity of atoms in the gas at higher temperature is larger than the velocity of atoms in the gas at lower temperature",
+            "The temperature of a substance is not related to the average kinetic energy of atoms.",
+            "None of the above"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Change of length is",
+        "options": [
+            "Directly proportional to the original length",
+            "Inversely proportional to the original length",
+            "Does not depend on the temperature change",
+            "None of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "What is the CGS unit of heat?",
+        "options": [
+            "Joule",
+            "Erg",
+            "Calorie",
+            "Newton"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "The thermometer used in homes is called",
+        "options": [
+            "Digital Thermometer",
+            "Clinical Thermometer",
+            "Mechanical thermometer",
+            "All of the above"
+        ],
+        "answer":2
+    }
+]

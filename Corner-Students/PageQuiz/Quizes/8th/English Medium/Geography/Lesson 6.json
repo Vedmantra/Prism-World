@@ -1,0 +1,306 @@
+[
+    {
+        "question": " In Mumbai, the Fort Area or the Bandra Kurla Complex are the example of ……………. .",
+        "options": [
+            "DCP",
+            "SSP",
+            "CBD"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A man’s needs have increased the use of ……………. for different purposes.",
+        "options": [
+            "Technology",
+            "Land",
+            "Industries"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The settlement in rural areas are located close to the fields of forests areas. (True or False.)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Planned city are the out come of ……………. .",
+        "options": [
+            "Industrialization",
+            "Urbanization",
+            "Transportation"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Arable land is a ……………. land.",
+        "options": [
+            "Barren",
+            "Non-cultivate",
+            "Cultivation"
+        ],
+        "answer": 3 
+    },
+    {
+        "question": "Transitional areas also known as ……………. .",
+        "options": [
+            "Towns",
+            "Districts",
+            "Suburbs"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The settlements of miners are closed to the ……………. areas.",
+        "options": [
+            "Rural",
+            "Urban",
+            "Mining"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Roads, railway lines station, petrol pumps, transport depots fall under public utility ara. (True or False : If false correct it.)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "7/12 extract record information of land in rural area.  (True / False.)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Name it City survey, Plot number, Amount of tax area of property assessed.",
+        "options": [
+            "7/12 Extract",
+            "Revenue Department",
+            "Property Card"
+        ],
+        "answer": 3 
+    },
+    {
+        "question": "Availability of land is a serious ……………. in the cities.",
+        "options": [
+            "Tension",
+            "Difficulty",
+            "Problem"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Arable land is own by the village. (Correct / Incorrect)",
+        "options": [
+            "Correct",
+            "Incorrect"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Follow land is an ……………. Land which is not used for one or two seasons.",
+        "options": [
+            "Non - Agricultural",
+            "Agricultural",
+            "Barren"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In urban areas with reference to population the land is ……………. .",
+        "options": [
+            "Unlimited",
+            "Limited",
+            "Abundant"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The areas having banks, shops, offices, have given rise to the concept of ……………. .",
+        "options": [
+            "State business district",
+            "Central business district",
+            "Local business district"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Grazing land in a village is own by ……………. .",
+        "options": [
+            "Village Panchayat",
+            "District : Collector",
+            "Municipal - Corporate"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Agro based activities are also common in ……………. areas.",
+        "options": [
+            "Forests",
+            "Rural",
+            "Urban"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Circle the odd one",
+        "options": [
+            "Forests comprise of large trees",
+            "Paddy",
+            "Bushes, creepers and grass"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Circle the odd one out Forest produce",
+        "options": [
+            "Firewood",
+            "Gum",
+            "Grass",
+            "Leather"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "7/12 extract forms are available with the ……………. in every village.",
+        "options": [
+            "Sarpanch",
+            "Collector",
+            "Talathi"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "It is necessary to make ……………. use of urban land",
+        "options": [
+            "Minimum",
+            "Average",
+            "Maximum"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Property card shows the information of ……………. land.",
+        "options": [
+            "City",
+            "Village",
+            "Urban"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following body does not provide public utility services.",
+        "options": [
+            "Local bodies",
+            "Revenue department",
+            "State government",
+            "Central government"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In urban areas ……………. Facilities are important for the movement of goods and people.",
+        "options": [
+            "Public-utility",
+            "Recreational",
+            "Transportational"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which is the mirror about the land ?",
+        "options": [
+            "Property - Card",
+            "7/12 Extract",
+            "Revenue - Department"
+        ],
+        "answer": 2 
+    },
+    {
+        "question": "The extent of residential area is less in rural areas because the population is ……………. .",
+        "options": [
+            "More",
+            "Sparse",
+            "Moderate"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "True / False Pastureland belongs to the entire village.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Fallow land is ……………. not in use",
+        "options": [
+            "Temporarily",
+            "Permanently",
+            "Sometimes"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Can follow land be called a kind of land use",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Circle the odd one",
+        "options": [
+            "Hospital",
+            "Post Office",
+            "Police Station",
+            "Gardens"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Utility services ……………. The tension caused due to burgeoning population.",
+        "options": [
+            "Increase",
+            "Reduce",
+            "Diffuse"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Ownership of ……………. land is recorded on the property card",
+        "options": [
+            "Residential",
+            "Forest",
+            "Non - Agricultural"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Residential land use has ……………. in urban areas.",
+        "options": [
+            "Increased",
+            "Decreased",
+            "Same"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which city in the following is not planned city.",
+        "options": [
+            "Chandigarh",
+            "Nagpur",
+            "Seoul",
+            "Brasília"
+        ],
+        "answer": 2
+    }
+]

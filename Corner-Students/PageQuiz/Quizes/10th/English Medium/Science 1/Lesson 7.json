@@ -1,0 +1,485 @@
+
+[
+    {
+        "question": "Lens formula is same for any spherical lens and any distance of object from the lens but sign convention should be used properly.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Find the odd one.",
+        "options": [
+            "Presbyopia",
+            "Retina",
+            "Near sightedness",
+            "Far sightedness"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The centre of spheres whose parts form surfaces of the lenses are called.",
+        "options": [
+            "Radius of curvature",
+            "Optical centre",
+            "Principal focus",
+            "Centre of curvature"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The focal length of a lens with power 2.5 D is",
+        "options": [
+            "0.4 m",
+            "0.5 m",
+            "0.6 m",
+            "0.8 m"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In television we see a continuous picture due to persistence of vision.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Small hole of changing diameter at the centre of the Iris is called ………..",
+        "options": [
+            "Pupil",
+            "Cornea",
+            "Iris",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What will be the effective focal length of two lenses kept in contact.",
+        "options": [
+            "1/f = 1/f₁ + 1/f₂",
+            "1/f = 1/f₁ - 1/f₂",
+            "1/f = 1/f₁ + 1/f₂",
+            "1/f = 1/f₁ + 1/f₂"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The imaginary line passing through both centres of curvature is called ......",
+        "options": [
+            "Optical centre",
+            "Radius of curvature",
+            "Principal axis",
+            "Principal focus"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The unit of power of lens is ......",
+        "options": [
+            "Metre",
+            "Centimetre",
+            "Dioptre",
+            "M⁻¹"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "To obtain an image of the same size as that of an object with the help of convex lens, the object should be placed at ......",
+        "options": [
+            "At infinity",
+            "Beyond F",
+            "Between F₁ and F₂",
+            "At 2F₁"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Which of the following statement is true regarding compound microscope.",
+        "options": [
+            "A compound microscope is made up of two convex lenses - objective and eye piece",
+            "The objective has smaller cross section and smaller focal length then eye piece",
+            "Higher magnification can be obtained by combined effect of two lenses",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "...... represents the lens formula.",
+        "options": [
+            "1/v + 1/u = 1/f",
+            "1/v - 1/u = 1/f",
+            "1/v + 1/u = 2/f",
+            "1/u - 1/v = 1/f"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Find the odd one.",
+        "options": [
+            "Simple microscope",
+            "Compound microscope",
+            "Telescope",
+            "Hypermetropia"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The very thin transparent membrane on the human eye, through which the light enters the eye is called ......",
+        "options": [
+            "Cornea",
+            "Retina",
+            "Iris",
+            "Eyelid"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If two lenses with focal lengths - 10 cm and 40 cm respectively are kept in contact with each other what can ray about the behavior of the combination of the lenses.",
+        "options": [
+            "Behave as concave lens",
+            "Behave as convex lens",
+            "Behave as plano convex lens",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The image of an object is formed behind ...... in hypermetropia.",
+        "options": [
+            "Cornea",
+            "Retina",
+            "Lens",
+            "Iris"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Focal length : Meter : : Power of lens : ......",
+        "options": [
+            "Dioptre",
+            "Kilometer",
+            "Centimeter",
+            "Millimeter"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In bifocal lenses, the upper part is ...... lens.",
+        "options": [
+            "Concave",
+            "Convex",
+            "Biconvex",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The conical cells can respond differently to red, green and blue colours.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "With the help of ray diagram we can find ...... about the image.",
+        "options": [
+            "Size",
+            "Nature",
+            "Position",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "To get an enlarged image by convex lens, the object should be placed ......",
+        "options": [
+            "At focus F₁",
+            "Between F₁ and O",
+            "Both 1 and 2",
+            "None of these"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The Power of a convex lens of focal length 25cm is ......",
+        "options": [
+            "+4.0D",
+            "0.25D",
+            "-4.0D",
+            "-0.4D"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The focal length of ...... lens is positive.",
+        "options": [
+            "Concave",
+            "Bifocal",
+            "Convex",
+            "Double concave"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Concave lens is ...... at the centre as compared to its edges.",
+        "options": [
+            "Thicker",
+            "Thinner",
+            "Shiny",
+            "Smoother"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The distance between the optical centre and principal focus of a lens is called its ......",
+        "options": [
+            "Centre of curvature",
+            "Radius of curvature",
+            "Focal length",
+            "Diameter"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Lens used in the eye is ...... lens",
+        "options": [
+            "Convex",
+            "Concave",
+            "Bifocal",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A convex lens is used to correct hypermetropia.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Light rays parallel to the principal axis falling on a concave lens ...... from one another after refraction.",
+        "options": [
+            "Go away",
+            "Come together",
+            "Disappear",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A convex lens always forms a virtual image.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In bifocal lenses, the lower part is ...... lens.",
+        "options": [
+            "Concave",
+            "Convex",
+            "Plano concave",
+            "None of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When an object is placed between O and F₁ in front of a convex lens, the image formed is ......",
+        "options": [
+            "Erect and enlarged",
+            "Real and enlarged",
+            "Diminished and erect",
+            "Diminished and inverted"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "An optical device used by watch repairers is ......",
+        "options": [
+            "Compound microscope",
+            "Telescope",
+            "Simple microscope",
+            "Spectrometer"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "This is ...... lens.",
+        "options": [
+            "Biconcave",
+            "Plano convex",
+            "Biconvex",
+            "Plano concave"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The focal length of ...... lens is negative.",
+        "options": [
+            "Concave",
+            "Convex",
+            "Bifocal",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the size of images formed by convex lenses, when the object is at focus F₁?",
+        "options": [
+            "Smaller than object",
+            "Same size",
+            "Point image",
+            "Very large"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "A ray of light gets refracted ...... while passing through a lens.",
+        "options": [
+            "Thrice",
+            "Twice",
+            "Once",
+            "Many"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A concave lens always form a magnified image.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If magnification is +1.5, the image is ......",
+        "options": [
+            "Erect",
+            "Diminished",
+            "Real",
+            "Inverted"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The magnification produced by concave lens is positive or negative depending on the distance of object.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The Power of ...... lens is negative.",
+        "options": [
+            "Concave",
+            "Convex",
+            "Plano convex",
+            "Biconvex"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Far sightedness can be corrected using spectacles having convex lenses of suitable focal length.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "With respect to convex lenses, what is the position of image when the object is at focus F₁?",
+        "options": [
+            "At 2F₂",
+            "At F₂",
+            "Between F₂ and 2F₂",
+            "At infinity"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Which of the following statement is true statement.",
+        "options": [
+            "The power of lens is always positive",
+            "The power of lens is always negative",
+            "The power of a convex lens is positive",
+            "The power of a concave lens is positive"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The dark, fleshy screen behind the cornea of the eye is called ......",
+        "options": [
+            "Cornea",
+            "Retina",
+            "Iris",
+            "Eyelid"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The Power of the lens with focal length 20 cm is ......",
+        "options": [
+            "3 D",
+            "5 D",
+            "15 D",
+            "4 D"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The capacity of the lens to change its focal length as per need is called its ......",
+        "options": [
+            "Power of accommodation",
+            "Persistence",
+            "Nearsightedness",
+            "Farsightedness"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Concave lenses are converging lenses.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "According to the sign convention the distance of object is ......",
+        "options": [
+            "Always positive",
+            "Always negative",
+            "May be positive or negative",
+            "Equal to object height"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Sometimes people suffer from near sightedness as well as far sightedness, in such case lenses are required to correct the defect.",
+        "options": [
+            "Concave",
+            "Convex",
+            "Bifocal",
+            "Double concave"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "1/f(m) Power of lens :: Image distance(v) object distance (u)......",
+        "options": [
+            "Magnification",
+            "Convergence",
+            "Divergence",
+            "None of the these"
+        ],
+        "answer": 1
+    }
+]

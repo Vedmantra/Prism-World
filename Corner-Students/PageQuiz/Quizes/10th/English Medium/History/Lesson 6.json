@@ -1,0 +1,472 @@
+[
+    {
+        "question": "Identify the picture (art)",
+        "options": [
+            "Dashavatara",
+            "Lalit"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The lailt is performed in a ...... style.",
+        "options": [
+            "Traditional",
+            "Performance",
+            "Theatrical",
+            "Modern"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "...... is a dramatic narration by alternatingly reciting poetry and prosaic extracts.",
+        "options": [
+            "Bharud",
+            "Tamasha",
+            "Powada",
+            "Lalit"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The ...... of history can avail of many professional opportunities in the field of drama and movies.",
+        "options": [
+            "Historians",
+            "Scholars",
+            "Citizens",
+            "Students"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "In Maharashtra ...... supports the tradition of bhajan, keertan through the tradition of varakari sect.",
+        "options": [
+            "Sant Tulsidas",
+            "Surdas",
+            "Saint Namadeva",
+            "Saint Kabir"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Watching a sports match or listening to music or watching a movie are examples of ...... entertainment.",
+        "options": [
+            "Passive",
+            "Active",
+            "Puppetry",
+            "Kathputali"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Lalit forms a part of the backdrop of modern ...... theatre.",
+        "options": [
+            "South",
+            "North",
+            "Gujrat",
+            "Marathi"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "...... introduced a new form of bhajan known as khanjiri bhajan.",
+        "options": [
+            "Tulsidas",
+            "Tukadoji Maharaj"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Bharuds composed by ...... are popular in Maharashtra.",
+        "options": [
+            "Saint Eknath",
+            "Saint namdev",
+            "Tulsidas",
+            "Meerabai"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... was the first woman producer of Marathi movies.",
+        "options": [
+            "Kamalabai Mangarulkar",
+            "Kanandevi",
+            "Devika Rani",
+            "Amirbai Karnataki"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The British first built closed theatres like play house Rippon and ...... in Mumbai.",
+        "options": [
+            "Victoria",
+            "Asiatic"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The government of India created a special division named ‘Films Division’ for making ...... .",
+        "options": [
+            "Historical movies",
+            "Documentaries"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... is comparable to the style of road show.",
+        "options": [
+            "Lalit",
+            "Bharud",
+            "Tamasha",
+            "Bhajan"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Technology of motion pictures gave rise to ...... movies.",
+        "options": [
+            "Talkie",
+            "Silent",
+            "Colour",
+            "Documentary"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... was a movie made by prahhat company in 1944.",
+        "options": [
+            "Bajirao Mastani",
+            "Ramshastri",
+            "Raja Harishchandra",
+            "Bal Shivaji"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The stories presented in Dashavatara shows are based on the ...... incarnations of Vishnu.",
+        "options": [
+            "10",
+            "5",
+            "2",
+            "20"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Healthy ...... of excellent quality is essential for the healthy growth of one’s personality.",
+        "options": [
+            "Community",
+            "Society",
+            "Entertainment",
+            "Body"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Clay dolls were used as ...... .",
+        "options": [
+            "Kathputali",
+            "Puppets"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... can also be used as the medium of expression in Theatre.",
+        "options": [
+            "Action",
+            "Drama",
+            "Mime",
+            "Stage"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "There are ...... forms of entertainment available in the modern period as well.",
+        "options": [
+            "Different",
+            "Simple",
+            "Varied",
+            "Complex"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Odd man out",
+        "options": [
+            "Varaha",
+            "Narsimha",
+            "Chakri",
+            "Kalki"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The honour of making and releasing the first full length movie goes to ...... .",
+        "options": [
+            "Maharashtra",
+            "Gujarat",
+            "Madhya Pradesh",
+            "Kerala"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "There are two main traditions of keertan ...... and varakari.",
+        "options": [
+            "Naman",
+            "Rashtriya",
+            "Haridasi",
+            "Khanjiri"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "...... is known as the father of the Marathi theatre.",
+        "options": [
+            "Vishnudas Bhave",
+            "Madhavrao Peshwe"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In the 18th century Shyamji Naik Kale started a ...... .",
+        "options": [
+            "Bhajan",
+            "Theatre",
+            "Puppets",
+            "Phad"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Satyashodhak samaj also used keertan as a medium of creating ...... .",
+        "options": [
+            "Cleanliness",
+            "Social awareness",
+            "Tradition",
+            "Invocation"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Dadasaheb Torane sought help from foreign technicians and made a movie entitled ...... .",
+        "options": [
+            "Pundalik",
+            "Raja Harischandra"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In 1925, ...... made a movie Bajirao Mastani, which was later banned by the British government under the suspicion of spreading nationalistic sentiments.",
+        "options": [
+            "Sanjay leela Bhansali",
+            "Dadasaheb phalke",
+            "Baburao painter",
+            "Bhalaji pendharkar"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "...... is a place devoted to performances, either solo or collective of performing art.",
+        "options": [
+            "Drama",
+            "Powada",
+            "Theatre",
+            "Lalit"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In Gujarat Saint Narasi Mehta gave momentum to the ...... movement.",
+        "options": [
+            "Sufi",
+            "Varakari",
+            "Bhakti",
+            "Unite"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Gadhavache lagna : ...... : : Tulasidas : Powada.",
+        "options": [
+            "Tamasha",
+            "Bhave",
+            "Bharud",
+            "Lalit"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Participation of the artist as well as the audience is essential for a ...... performance.",
+        "options": [
+            "Better",
+            "Successful",
+            "Fantastic",
+            "Excellent"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Dashavatara shows are presented in the regions of ...... and ...... after harvesting season is over.",
+        "options": [
+            "Maharashtra and Kerala",
+            "Konkan and Goa"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The artists who stage ...... shows are found in Uttar Pradesh, Maharashtra etc.",
+        "options": [
+            "Bhajan",
+            "Kathputali",
+            "Theatre",
+            "Acting"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Traditionally, ...... is supposed to be the founder of the keertana tradition.",
+        "options": [
+            "Saint Namadev",
+            "Haridas",
+            "Saint Narasi",
+            "Naradmuni"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Remains of clay dolls have been found in the excavations at ...... .",
+        "options": [
+            "Mohenjo-Daro",
+            "Iraq",
+            "Harappan",
+            "Rajasthan"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "...... is a medium that brings together art and technology.",
+        "options": [
+            "Theatre",
+            "Cinema",
+            "Drama",
+            "Tamasha"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The growing ...... of classical music resulted in the origin of musical marathi theatre.",
+        "options": [
+            "Popularity",
+            "Famousness",
+            "Introduction",
+            "Humour"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The ...... becomes very lively and entertaining because of its spontaneous humour.",
+        "options": [
+            "Vag",
+            "Naradmuni",
+            "Nayak"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... was the first author who wrote the script of Thorale Madhavrao Peshwa.",
+        "options": [
+            "Vishnudas Bhave",
+            "V.J.Kirtane"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Pundalik movie was released in Mumbai in ...... .",
+        "options": [
+            "1914",
+            "1912",
+            "1920",
+            "1910"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The role of the narrator known as ...... is very crucial in the success of Kathputali stage show.",
+        "options": [
+            "Dashavatara",
+            "Chakri",
+            "Sutradhara",
+            "String"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The Kathputali a traditional art developed in Rajasthan and ...... regions of India.",
+        "options": [
+            "Southern",
+            "Northern",
+            "Indonesia",
+            "West"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The early Marathi plays were staged on ...... .",
+        "options": [
+            "Platform",
+            "Theatre",
+            "Open grounds",
+            "Road"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The rulers of the Bhosale family of ...... were great patrons of drama.",
+        "options": [
+            "Holkar",
+            "Patil",
+            "Tanjore"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Production studios such as ...... played a significant role in the development of Indian film industry.",
+        "options": [
+            "Bombay Talkies",
+            "Cinema",
+            "Drama",
+            "Theatre"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... film was shown in the International film festival in Paris.",
+        "options": [
+            "Savakari Pash",
+            "Sant Tukaram",
+            "Savitri Satyavana",
+            "Bal Shivaji"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Khadilkar wrote Keechakvadh a ...... drama to denounce the British government.",
+        "options": [
+            "Metaphorical",
+            "Imperialistic",
+            "Popular",
+            "Varied"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Maharashtra is known as the land that ...... the Indian film industry.",
+        "options": [
+            "Develops",
+            "Nurtured",
+            "Donate",
+            "Support"
+        ],
+        "answer": 2
+    }
+]

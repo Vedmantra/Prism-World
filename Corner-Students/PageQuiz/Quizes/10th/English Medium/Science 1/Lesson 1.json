@@ -1,0 +1,292 @@
+[
+    {
+        "question": "The height at which a ball is thrown increases as",
+        "options": [
+            "Acceleration increases",
+            "Initial velocity increases",
+            "Final velocity increases",
+            "Uniformity increases"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Value of g increases with altitude increase.",
+        "options": [
+            "True, it depends on the distance directly.",
+            "True, it depends on the mass directly",
+            "False, it depends on the distance directly",
+            "False, it depends on the distance inversely."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Force acting on a body results in ",
+        "options": [
+            "Inertia",
+            "Acceleration",
+            "Increase in temperature",
+            "Increase in volume"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Light is a type of ",
+        "options": [
+            "Electromagnetic wave",
+            "Radio wave",
+            "Visible wave",
+            "Gravitational wave"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pick out an odd option:",
+        "options": [
+            "Grams",
+            "Newton",
+            "Centimeters",
+            "Dyne"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Velocity of any object in circular motion is ............... in direction.",
+        "options": [
+            "Tangential",
+            "Radial",
+            "Parallel",
+            "Vertical"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In a free fall, initial velocity is ",
+        "options": [
+            "Highest",
+            "Lowest",
+            "0",
+            "Infinity"
+        ],
+        "answer": 3 
+    },
+    {
+        "question": "If object is freely falling at velocity 98 m/s, then time taken to reach ground will be",
+        "options": [
+            "9.8s",
+            "98s",
+            "1s",
+            "10s"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Application of force leads to change in ",
+        "options": [
+            "Gravity",
+            "Motion",
+            "Weight",
+            "Temperature"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Kepler's first law explains",
+        "options": [
+            "Elliptical orbit of a planet",
+            "Gravitational force between objects",
+            "Area covered by a planet",
+            "Time taken by planet for revolution"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Kepler stated the laws describing ...............",
+        "options": [
+            "Circular motion",
+            "Planetary motion ",
+            "Uniform motion",
+            "Solar motion"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Potential energy increases with",
+        "options": [
+            "Height",
+            "Inertia",
+            "Velocity",
+            "Momentum"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The energy stored in object due to its position or state is?",
+        "options": [
+            "Kinetic energy",
+            "Gravitational energy",
+            "Potential energy",
+            "Electrical energy"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The line joining the planet and the Sun sweep equal areas in equal time. This is ...............",
+        "options": [
+            "Newton's first law",
+            "Kepler's first law",
+            "Newton's second law",
+            "Kepler's second law"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "If the mass of each object is doubled, the force between the two objects. ",
+        "options": [
+            "Becomes half",
+            "Increases by 2",
+            "Increases by 4",
+            "Decreases by 4"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "As we go inside the earth, r decreases. The value of g",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains same",
+            "Becomes 0"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "At infinite distance from earth, the total energy equals to ",
+        "options": [
+            "Kinetic energy",
+            "Potential energy",
+            "Gravitational energy",
+            "O"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Free fall is only possible in",
+        "options": [
+            "Air",
+            "Vacuum",
+            "Water",
+            "Oil"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "If mass of the object is 10 kg, its weight is ",
+        "options": [
+            "10 kg",
+            "10 N",
+            "9.8 N",
+            "98 N"
+        ],
+        "answer": 4
+    },
+    {
+        "question": " ............... is necessary to change the speed as well as the direction of the motion of an object. ",
+        "options": [
+            "Velocity",
+            "Inertia",
+            "Force",
+            "Gravity"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "If the distance is doubled, what happens to the gravitational force?",
+        "options": [
+            "Becomes half",
+            "Increases by 2",
+            "Increases by 4",
+            "Decreases by 4"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Objects are pulled downwards towards earth due to phenomenon of ................",
+        "options": [
+            "Magnetation",
+            "Gravitation",
+            "Centre of Mass",
+            "Revolution and Rotation"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Object in free fall has negative acceleration.",
+        "options": [
+            "True, it is vertically downwards along gravity",
+            "True, it is vertically upwards against gravity",
+            "False, it is vertically downwards along gravity",
+            "False, it is vertically upwards against gravity"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Gravitation was invented by ...............",
+        "options": [
+            "Kepler",
+            "Newton",
+            "Galileo",
+            "Einstein"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Escape velocity is velocity",
+        "options": [
+            "Required to escape gravitational boundaries",
+            "Required to escape the potential energy",
+            "Required to escape kinetic energy",
+            "Required to escape out of any motion"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "With uniform density, centre of mass is at ",
+        "options": [
+            "Edge",
+            "Corner",
+            "Vertices",
+            "Centroid"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Which of the following is a vector quantity?",
+        "options": [
+            "Speed",
+            "Time",
+            "Distance",
+            "Velocity"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "According to which theory, every object in universe attracts each other?",
+        "options": [
+            "Planetary motion law",
+            "Kepler's theory",
+            "Law of Gravitational energy",
+            "Theory of universal gravity"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "............... of an object is constant all along the universe.",
+        "options": [
+            "Mass",
+            "Weight",
+            "Gravity",
+            "Momentum"
+        ],
+        "answer": 1
+    }
+]

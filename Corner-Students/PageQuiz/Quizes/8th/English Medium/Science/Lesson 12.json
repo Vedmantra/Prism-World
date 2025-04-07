@@ -1,0 +1,316 @@
+[
+    {
+        "question": "Hard water contains the chloride and sulphate salts of …………… and …………… in dissolved state.",
+        "options": [
+            "Calcium and magnesium",
+            "Calcium and sodium",
+            "Sodium and magnesium",
+            "Sulfur and magnesium"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "New substances formed as a result of the reaction are called ……………",
+        "options": [
+            "Reactants",
+            "Original substances",
+            "Producers",
+            "Products"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Which of the following characteristics help to identify a chemical change when a pinch of baking soda is added to the lemon juice ?",
+        "options": [
+            "Colour and taste change",
+            "Taste change and release of gas",
+            "Colour change and release of gas",
+            "Only colour change"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Baking soda with lemon juice releases which gas?",
+        "options": [
+            "O2",
+            "CO2",
+            "H2",
+            "HCL"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Which of the following is a manmade chemical change ",
+        "options": [
+            "Respiration",
+            "Photosynthesis",
+            "Foul smell from a spoiled food",
+            "Softening of water."
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Which of the following is an ionic compound ?",
+        "options": [
+            "H2",
+            "H20",
+            "KF",
+            "HCL"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Two atoms of same element always form",
+        "options": [
+            "Ionic bond",
+            "Covalent bond",
+            "Strong bond",
+            "Electrovalent bond"
+        ],
+        "answer":2
+    },
+    {
+        "question": "Acid and alkali reaction is known as ...............",
+        "options": [
+            "Decomposition",
+            "Oxidation",
+            "Neutralization",
+            "Dissociation"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "The chemical bond formed by sharing of valence electrons of two atoms with each other is called a …………… bond.",
+        "options": [
+            "Ionic",
+            "Anionic",
+            "Electrovalent",
+            "Covalent"
+        ],
+        "answer":4
+    },
+    {
+        "question": "Citric acid with sodium bicarbonate give which salt?",
+        "options": [
+            "Sodium chloride",
+            "Citric oxide",
+            "Sodium citrate",
+            "Citric carbonate"
+        ],
+        "answer":3
+    },
+    {
+        "question": "When carbon dioxide gas reacts with freshly prepared lime water, the products formed are ............... .",
+        "options": [
+            "Calcium carbonate and oxygen",
+            "Calcium hydroxide and water",
+            "Calcium carbonate and water",
+            "Calcium hydroxide and oxygen"
+        ],
+        "answer":3
+    },
+    {
+        "question": "Which of the following is an example of an ionic compound?",
+        "options": [
+            "H2",
+            "O2",
+            "H2O",
+            "NaCl"
+        ],
+        "answer":4 
+    },
+    {
+        "question": " Respiration is a continuously occurring biological process.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "What happens when carbon dioxide reacts with freshly prepared lime water ?",
+        "options": [
+            "The lime water turns milky",
+            "The solution remains colourless.",
+            "Oxygen gas is released.",
+            "The chemical composition of the lime water does not change."
+        ],
+        "answer":1
+    },
+    {
+        "question": "Wood, coal, petrol or cooking gas are burnt for getting …………….",
+        "options": [
+            "Fuel",
+            "Nitrogen",
+            "Energy",
+            "Electricity"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Shahabad tile is cleaned with concentrated hydrochloric acid.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2
+    },
+    {
+        "question": "Find the odd one out.",
+        "options": [
+            "NaCl",
+            "H2O",
+            "MgCl2",
+            "KCl"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Chemical name of baking soda is  ...............",
+        "options": [
+            "Sodium chloride",
+            "Sodium carbonate",
+            "Calcium hydroxide",
+            "Sodium bicarbonate"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Freshly prepared solution of  calcium hydroxide in water is called ............... .",
+        "options": [
+            "Baking soda",
+            "Soda water",
+            "Lime water",
+            "Lime stone"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Respiration increases the amount of …………… gas in the body.",
+        "options": [
+            "O2",
+            "CO2",
+            "H2",
+            "HCL"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "The common substance that burns in all the fuels is '……………'.",
+        "options": [
+            "Carbon",
+            "Hydrogen",
+            "Oxygen",
+            "Chlorine"
+        ],
+        "answer":1
+    },
+    {
+        "question": "An ion forms the same number of ionic bonds as its ……………",
+        "options": [
+            "Electrons",
+            "Configuration",
+            "Valency",
+            "Size"
+        ],
+        "answer":3
+    },
+    {
+        "question": "The electronic configuration of sodium is ............... .",
+        "options": [
+            "(2, 8, 8, 1)",
+            "(2, 8, 1)",
+            "(2, 8, 8, 2)",
+            "(2, 8, 2)"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Which of the following substances react with oxygen in respiration?",
+        "options": [
+            "Glucose",
+            "Carbon dioxide",
+            "Water",
+            "Carbon"
+        ],
+        "answer":1
+    },
+    {
+        "question": "The compound formed by means of one or more ionic bonds is called ……………",
+        "options": [
+            "Ionic compound",
+            "Covalent compound",
+            "Valence compound",
+            "Anion"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Which of the following is a chemical change ?",
+        "options": [
+            "Boiling of water ",
+            "Bursting of an inflated balloon",
+            "Souring of milk",
+            "Dissolution of salt in water."
+        ],
+        "answer":2 
+    },
+    {
+        "question": " Which of the following is NOT a chemical change ?",
+        "options": [
+            "Digestion of food",
+            "Formation of water vapour from liquid water.",
+            "Baking of a cake",
+            "Changing colour of fallen leaves"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " There are …………… electrons in the valence shell of oxygen atom",
+        "options": [
+            "Six",
+            "Five",
+            "Two",
+            "One"
+        ],
+        "answer":1
+    },
+    {
+        "question": "In MgCl2 , charge on Cl is ...............",
+        "options": [
+            "-1",
+            "+1",
+            "-2",
+            "+2"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "During respiration, …………… in the body is used up to produce energy.",
+        "options": [
+            "Water",
+            "Glucose",
+            "Starch",
+            "Carbon"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "During any …………… change, composition of original substance changes to form new substance with a different composition and properties.",
+        "options": [
+            "Chemical",
+            "Natural",
+            "Physical",
+            "Mechanical"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Which of the following substances is used in the cold drink called 'soda lemon' ?",
+        "options": [
+            "Baking soda",
+            "Washing soda",
+            "Lime water",
+            "Lime stone"
+        ],
+        "answer":1 
+    }
+]

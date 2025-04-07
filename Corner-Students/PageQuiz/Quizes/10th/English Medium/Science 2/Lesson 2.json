@@ -1,0 +1,493 @@
+
+[
+    {
+        "question": "Evolution is ...... process of changes.",
+        "options": [
+            "deceiving",
+            "procrastinating",
+            "reversible",
+            "everlasting"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Which of the following does not support theory of evolution?",
+        "options": [
+            "Anatomical Evidences",
+            "Embryological Evidences",
+            "Paleontological Evidences",
+            "Variational evidences"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "RNA : Uracil : DNA : ......",
+        "options": [
+            "Adenine",
+            "Thymine",
+            "Guanine",
+            "Cytosine"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Research started in the direction of finding the nature of genetic material when it was proved that ...... are carried via chromosomes.",
+        "options": [
+            "RNA",
+            "DNA",
+            "tRNA",
+            "Genes"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The code for each amino acid consists of ...... nucleotides. It is called as ‘triplet codon’.",
+        "options": [
+            "6",
+            "5",
+            "4",
+            "3"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Natural selection is not the only factor responsible for evolution.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the phenomenon in the given figure called?",
+        "options": [
+            "Mutation",
+            "Generation",
+            "Transcription",
+            "Translation"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a mutational disease?",
+        "options": [
+            "Rabies",
+            "Pneumonia",
+            "Tuberculosis",
+            "Sickle cell anemia"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "First record of human-like animal is with us in the form of ‘Australopithecus’ age from East Africa.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "…… is required for protein synthesis.",
+        "options": [
+            "Ribosomes",
+            "mRNA",
+            "tRNA",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Theory of inheritance of acquired characters is also called ......",
+        "options": [
+            "Degeneration",
+            "Natural selection",
+            "Lamarckism",
+            "Evolution"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Similarities in characters like leaf shape, leaf venation, leaf petiole provide ......",
+        "options": [
+            "Morphological Evidences",
+            "Anatomical Evidences",
+            "Outward evidences",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Various similarities like structure of mouth, position of eyes, structure of nostrils and ear pinnae are",
+        "options": [
+            "Morphological Evidences",
+            "Anatomical Evidences",
+            "Outward evidences",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Plants and animals that show some morphological characters by which they can be related to two different groups; hence they are called as ......",
+        "options": [
+            "Connecting links",
+            "Biased organisms",
+            "Bi-developed organisms",
+            "Special organisms"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Evolution of upright man continued in the direction of developing its ......",
+        "options": [
+            "Brain",
+            "Liver",
+            "Toes",
+            "Thumb"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Lamarckism is inheritance of unacquired characters.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which process is shown in the figure?",
+        "options": [
+            "Mutation",
+            "Generation",
+            "Transcription",
+            "Translation"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Chlorella is ...... unicellular organism.",
+        "options": [
+            "Photosynthetic",
+            "Holistic",
+            "Parasitic",
+            "Symbiotic"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Carbon consumption of animals and plants increases after death.",
+        "options": [
+            "True, during decomposition",
+            "False, it stops",
+            "True, and carbon content in soil decreases",
+            "False, it stops only in animals"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... is unit of DNA chain.",
+        "options": [
+            "Nucleic acid",
+            "Nucleotides",
+            "Codons",
+            "Anticodons"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The biodiversity that is known today has been said to be formed from very simple ...... organism due to evolution.",
+        "options": [
+            "Multicellular",
+            "Inorganic",
+            "Degenerative",
+            "Unicellular"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Proteins are complex chains of ......",
+        "options": [
+            "Amino acids",
+            "Pectins",
+            "Polypectins",
+            "Glycopeptides"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The part given in the figure which is a vestigial organ is called as -",
+        "options": [
+            "Appendix",
+            "Coccyx",
+            "Ear muscles",
+            "Ear Pinna"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... is connecting link between annelida and arthropoda.",
+        "options": [
+            "Peripatus",
+            "Coccyx",
+            "Platypus",
+            "Lungfish"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a not a vestigial organ?",
+        "options": [
+            "Peripatus",
+            "Coccyx",
+            "Pinna",
+            "Appendix"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Each species grows in specific geographical conditions.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which organs are useless to human, are useful in monkeys?",
+        "options": [
+            "Appendix",
+            "Muscles of ear pinna",
+            "Coccyx",
+            "Ear Pinna"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "According to Lamarck, the living organism can transfer the characters which it has aquired, to the next generation. This is called",
+        "options": [
+            "Ancestry of special characteristics",
+            "Ancestry of acquired characters.",
+            "Ancestry of development",
+            "History of evolution"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Charles Darwin put forth the",
+        "options": [
+            "Theory of natural selection",
+            "Theory of evolution",
+            "Theory of development",
+            "Theory of survival"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Formation of new species of plants and animals is the effect of ......",
+        "options": [
+            "Evolution",
+            "Regeneration",
+            "Origination",
+            "Orientation"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Geographical or reproductive ...... also leads to speciation.",
+        "options": [
+            "Development",
+            "Condition",
+            "Isolation",
+            "Location"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Lamarck’s theory was disproved mainly because",
+        "options": [
+            "Inheritance of the acquired characters is not possible",
+            "Acquiring of characters is not possible",
+            "Any characters can never be inherited",
+            "Proteins in the human body are less in number"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Evolution means ......",
+        "options": [
+            "Classification of animals",
+            "Speciation of animals",
+            "Gradual development",
+            "Development of fossils"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "...... are synthesized by DNA through the RNA. This is called as ‘Central Dogma’.",
+        "options": [
+            "Ribosomes",
+            "Amino acids",
+            "Proteins",
+            "mRNA"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following supports theory of evolution?",
+        "options": [
+            "Morphological Evidences",
+            "Anatomical Evidences",
+            "Both 1 and 2",
+            "None of them"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Progressive development of plants and animals from the ancestors having different structural and functional organization is called ......",
+        "options": [
+            "Evolution",
+            "Regeneration",
+            "Origination",
+            "Orientation"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Relating to the different groups of animals, pick the odd one out.",
+        "options": [
+            "Duck billed platypus",
+            "Lungfish",
+            "Snake",
+            "Peripatus"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is an example of anatomically similar organs?",
+        "options": [
+            "Human hand and cat’s foreleg",
+            "Flipper of dolphin and patagium of bat.",
+            "Human hand and elephant's foreleg",
+            "Flipper of whale and patagium of eagle."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The neck of giraffe has become too long due to",
+        "options": [
+            "Browsing on leaves of tall plants by extending their neck for several generations",
+            "Generating a stereotype",
+            "One of the parents",
+            "Spinal development"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The morphology of these human-like animals started to appear like to be the member of the genus ......",
+        "options": [
+            "Humo",
+            "Sapiens",
+            "Homo",
+            "Sappins"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Embryos : Embryological Evidences : : Fossils : ......",
+        "options": [
+            "Anatomical Evidences",
+            "Paleontological Evidences",
+            "Morphological Evidences",
+            "Connecting links"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "It seems that invertebrates have been slowly originated from vertebrates.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The diagram provides..",
+        "options": [
+            "Morphological Evidences",
+            "Anatomical Evidences",
+            "Outward evidences",
+            "None of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In accordance with Human organs, pick the odd one out.",
+        "options": [
+            "Coccyx",
+            "Bones",
+            "Appendix",
+            "Ear muscles"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Carbon dating method is used in",
+        "options": [
+            "Paleontology and anthropology",
+            "Only in paleontology",
+            "Only in anthropology",
+            "In fossilization"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Darwin had published a book titled ......",
+        "options": [
+            "Origin of Evolution",
+            "Origin of Animals",
+            "Origin of Organisms",
+            "Origin of Species"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "mRNA is produced as per the sequence of nucleotides on DNA.",
+        "options": [
+            "TRUE, mRNA is transcribed from DNA.",
+            "FALSE, mRNA is made up of amino acids",
+            "TRUE, mRNA then forms tRNA.",
+            "FALSE, tRNA is made from DNA."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Degenerative structure begins to degenerate under a situation as per the principle of natural selection.",
+        "options": [
+            "True, they may be functional in the body",
+            "False, they are called vestigial",
+            "True, they take a some years to disappear",
+            "False, they degenerate and not found in next generation"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which part vestigial in human is useful and fully functional organ in ruminants?",
+        "options": [
+            "Appendix",
+            "Coccyx",
+            "Ear muscles",
+            "Ear Pinna"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... have lost their legs by modifications in their body for burrowing habit.",
+        "options": [
+            "Earthworms",
+            "Rabbits",
+            "Centipedes",
+            "Snakes"
+        ],
+        "answer": 4
+    }
+]

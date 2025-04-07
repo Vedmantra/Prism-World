@@ -1,0 +1,326 @@
+
+[
+    {
+        "question": "Silver, Gold and platinum generally occur in ...... state.",
+        "options": [
+            "Free",
+            "Combine"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... gases do not take part in the chemical reactions.",
+        "options": [
+            "Noble",
+            "Oxygen",
+            "Chlorine"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Chlorine reacts with dilute hydrobromic acid to form ......",
+        "options": [
+            "Chlorine gas",
+            "Bromine gas"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In hydraulic separation, gangue particles flow out along with the water jet from the outlet on the upper side of the tank.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The compounds formed from two units, namely cation and anion are called ...... compounds.",
+        "options": [
+            "Covalent",
+            "Ionic"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "During concentration of ores, environmental pollution factor is also considered.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Classify the following metals based on their reactions with hot or cold water or steam. ( Sodium, Calcium, Iron, Magnesium, Potassium, Aluminum, Calcium, Copper, Gold )",
+        "options": [
+            "Hydroxides: Gold, Copper; Oxides: Sodium, Potassium, Calcium, Magnesium; No Reaction: Aluminum, Iron, Zinc",
+            "Hydroxides: Sodium, Potassium, Calcium, Magnesium; Oxides: Aluminum, Iron, Zinc; No Reaction: Gold, Copper"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... metal has the highest melting point.",
+        "options": [
+            "Silicon",
+            "Germanium",
+            "Tungsten"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Aluminum reacts with steam forming Aluminum oxide.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The process of transfer of sulphide ores into oxides is called calcination.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Corrosion can be prevented by putting a layer of non-corrodible metal on a corrodible metal.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In the first test tube, Copper displaces Iron.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In electrolytic reduction of molten chloride salts, chlorine gas is liberated at.",
+        "options": [
+            "Cathode",
+            "Anode"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The reaction in which a non-metal gains electron.",
+        "options": [
+            "Oxidation reaction",
+            "Reduction reaction"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Na₂O + H₂O → 2NaOH",
+        "options": [
+            "Right",
+            "Wrong"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The extraction method used for highly reactive metals.",
+        "options": [
+            "Leaching",
+            "Electrolytic reduction"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "2Cu + O₂ → 2CuO",
+        "options": [
+            "Right",
+            "Wrong"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Other metals such as Sodium, Aluminum can be used as reducing agent for the reduction of metal oxides.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Anodization method is also called as 'kalhaee'.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Magnesium is more reactive than Iron.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Positive atoms and Negative atoms, when charged with opposite direction, ...... force of attraction develops between them.",
+        "options": [
+            "Electropositive",
+            "Electrostatic"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Aqua regia is freshly prepared.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Most Metals being reactive in nature are found in ...... state in nature.",
+        "options": [
+            "Free",
+            "Combined"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The reaction between chlorine and HBr is an ...... reaction.",
+        "options": [
+            "Oxidation",
+            "Reduction"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hydrogen gas is collected by downward displacement of water.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The other compounds in Cassiterite ore are separated by the electromagnetic method.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Diamond is a good conductor of heat and electricity.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Pure gold and platinum get corroded.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The process of extraction of metal in pure state from the ores is also a part of metallurgy.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The reaction in which the heat generated is so high that the metal is obtained in the molten state is called ...... reaction.",
+        "options": [
+            "Hermit",
+            "Thermite"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Electrolysis method is used to obtain pure metals from impure metals.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Concentration of bauxite ore is carried out by Hall's method.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The alloy of copper and tin.",
+        "options": [
+            "Bronze",
+            "Brass",
+            "Stainless steel"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The arrangement of ions is ...... in different ionic compounds.",
+        "options": [
+            "Same",
+            "Different"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Sodium is kept under kerosene to prevent accidents.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Metals react with oxygen to form metal oxides.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Potassium suddenly catches fire on exposure to air.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Ferric oxide and Titanium oxide are the impurities present in Bauxite.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In electrolytic reduction of molten chloride salts, metal is deposited on.",
+        "options": [
+            "Cathode",
+            "Anode"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When metals react with water, oxygen gas is liberated.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    }
+]

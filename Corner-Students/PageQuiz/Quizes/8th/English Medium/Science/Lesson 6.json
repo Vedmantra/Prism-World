@@ -1,0 +1,424 @@
+[
+    {
+        "question": "Metals produce sound on striking",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": "An alloy is made by mixing the constituent elements.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following electronic configurations is of nonmetal?",
+        "options": [
+            "(2, 5)",
+            "(2, 8, 1)",
+            "(2, 8, 3)",
+            "(2, 8, 2)"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Find the odd one out",
+        "options": [
+            "Hydrogen",
+            "Phosphorus",
+            "Nitrogen",
+            "Oxygen"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Non-metal …………… shows the property of luster.",
+        "options": [
+            "Iodine",
+            "Sulphur",
+            "Oxygen",
+            "Platinum"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Find the odd one out",
+        "options": [
+            "Ductility",
+            "Brittleness",
+            "Sonority",
+            "Malleability"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following metal is soft?",
+        "options": [
+            "Sodium",
+            "Iron",
+            "Copper",
+            "Zinc"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " The corrosion of iron can be prevented by coating it with ............... .",
+        "options": [
+            "Copper",
+            "Lead",
+            "Zinc",
+            "Silver"
+        ],
+        "answer": 3
+    },
+    {
+        "question": " Iron is prevented from rusting by …………… plating",
+        "options": [
+            "Copper",
+            "Zinc"        ],
+        "answer": 2
+    },
+    {
+        "question": "Antimony is a metalloid.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Metals can be beaten into sheets due to property of malleability.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " Elements which are intermediate between metals and non-metals are called ……………",
+        "options": [
+            "Metal oxide",
+            "Metalloids",
+            "Non-metal oxide"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " Which of the following metals has antibacterial property?",
+        "options": [
+            "Platinum",
+            "Gold",
+            "Silver",
+            "Palladium"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Best conductors of heat.",
+        "options": [
+            "Gold",
+            "Silver",
+            "Mercury"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The electronic configuration of Na cation is ............... .",
+        "options": [
+            "(2, 8, 1)",
+            "(2, 7)",
+            "(2, 8, 2)",
+            "(2, 8)"
+        ],
+        "answer":4 
+    },
+    {
+        "question": " To prevent corrosion of metals, layer of oil, grease, varnish and paint is applied on them",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Non-metals have high densities",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following represents 100 percent pure gold?",
+        "options": [
+            "14 carat",
+            "18 carat",
+            "22 carat",
+            "24 carat"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "…………… is the only non-metallic element which is liquid at room temperature.",
+        "options": [
+            "Sulphur",
+            "Bromine",
+            "Carbon",
+            "Mercury"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "…………… is a good conductor of electricity.",
+        "options": [
+            "Carbon",
+            "Sulphur",
+            "Graphite",
+            "Iodine"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Find the odd one out",
+        "options": [
+            "Silver",
+            "Copper",
+            "Lead",
+            "Aluminium"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Calcium is a soft metal and can be cut with a knife.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2 
+    },
+    {
+        "question": " …………… is an allotrope of carbon and is the hardest natural substance",
+        "options": [
+            "Diamond",
+            "Graphite",
+            "Fullerenes"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " The ability of metals to be drawn into a thin sheet is called ............... ",
+        "options": [
+            "Malleability",
+            "Ductility",
+            "Sonority",
+            "Density"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Non-metals are generally brittle and non-lustrous",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Gases in the air react with metals in presence of moisture to form metal compounds.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "…………… is used in medicines.",
+        "options": [
+            "Palladium",
+            "Silver"        ],
+        "answer":2 
+    },
+    {
+        "question": "…………… is a metalloid.",
+        "options": [
+            "Mercury",
+            "Silicon",
+            "Bromine",
+            "Zinc"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " Pure gold is …………….",
+        "options": [
+            "Hard",
+            "Soft"        ],
+        "answer":2 
+    },
+    {
+        "question": "Metal which exist in liquid state.",
+        "options": [
+            "Sodium",
+            "Gallium",
+            "Potassium"        ],
+        "answer":2 
+    },
+    {
+        "question": " Ornaments are made from 22 carat gold",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Density of lithium is 1g/cc",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "The metals used in the preparation of Varkha are ............... ",
+        "options": [
+            "Aluminium and gold",
+            "Silver and gold",
+            "Aluminium and silver",
+            "Copper and aluminium"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " All elements are classified into metals, non-metals and metalloids",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "…………… are the allotropic forms of carbon",
+        "options": [
+            "Diamond and Gold",
+            "Gold and Silver",
+            "Diamond and Graphite",
+            "Lead and Diamond"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Silver, Copper and aluminium are the best conductors of heat.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": "Find the odd one out",
+        "options": [
+            "Gold",
+            "Silver",
+            "Iron",
+            "Diamond"
+        ],
+        "answer": 4
+    },
+    {
+        "question": " Majority of metals have upto three electrons in their outermost shell",
+        "options": [
+            "False",
+            "True"        ],
+        "answer":1 
+    },
+    {
+        "question": " Magnesium: 2,8,2 :: Sodium: …………",
+        "options": [
+            "2,8,1",
+            "2,8"
+     ],
+        "answer": 1 
+    },
+    {
+        "question": "Light gets reflected from the cleaned or freshly cut surface of metal.",
+        "options": [
+            "True",
+            "False"
+                    ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following metals is in liquid state at room temperature?",
+        "options": [
+            "Gallium",
+            "Calcium",
+            "Potassium",
+            "Lead"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "The iron pillar in the premises of Qutubminar is made from an alloy of iron",
+        "options": [
+            "False",
+            "True"     
+       ],
+        "answer": 2
+    },
+    {
+        "question": "Metals : Cations :: Non-metals : …………",
+        "options": [
+            "Ions",
+            "Anions"      
+        ],
+        "answer": 2
+    },
+    {
+        "question": " A reddish color deposit is formed on iron by its reaction with oxygen gas",
+        "options": [
+            "True",
+            "False"     
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The ability of metals to be drawn into a thin wire is called ............... ",
+        "options": [
+            "Malleability",
+            "Ductility",
+            "Sonority",
+            "Density"
+        ],
+        "answer": 2 
+    },
+    {
+        "question": " …………… is an alloy of iron with carbon, chromium and nickel",
+        "options": [
+            "Steel",
+            "Stainless steel"      
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The nonmetal in stainless steel alloy is ...............",
+        "options": [
+            "Carbon",
+            "Sulphur",
+            "Phosphorus",
+            "Nitrogen"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Find the odd one out",
+        "options": [
+            "Oxygen",
+            "Bromine",
+            "Sulphur",
+            "Fluorine"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " …………… is an allotrope of carbon and is a very good conductor of electricity",
+        "options": [
+            "Diamond",
+            "Graphite",
+            "Fullerenes"    
+        ],
+        "answer": 2
+    }
+]

@@ -1,0 +1,431 @@
+[
+    {
+        "question": "The element ............... has a zero valency.",
+        "options": [
+            "Hydrogen",
+            "Sodium",
+            "Oxygen",
+            "Helium"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "When table salt is thrown on LPG gas stove flame, yellow sparks are given out",
+        "options": [
+            "Yes",
+            "No"],
+        "answer": 1
+    },
+    {
+        "question": "Atoms of the same element having different mass number.",
+        "options": [
+            "Isobars",
+            "Isotopes"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " Valency means the number of chemical bonds formed by an atom",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Each electron carries one unit of negative charge.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": " ............... isotope is used to determine cracks in the underground pipes.",
+        "options": [
+            "Sodium-24",
+            "Cobalt-60",
+            "Uranium-235",
+            "Iodine-131"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "............... consists of single type of atoms in a molecule.",
+        "options": [
+            "Ammonia",
+            "Hydrogen chloride",
+            "Bromine",
+            "Methane"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The valency of an element with 32 nucleons and 16 electrons is ",
+        "options": [
+            "6",
+            "8",
+            "0",
+            "2"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Each electron has a definite energy as per the shell in which it is present.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": " The positive charge on the nucleus is due to the neutron in it.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The particles used for bombardment in Rutherford’s experiment.",
+        "options": [
+            "α",
+            "β"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The number of electron is equal to the number of neutrons.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " According to John Dalton, matter is made of atoms.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "The atomic nucleus is positively charged",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " Tritium is an isotope of ..............",
+        "options": [
+            "Carbon",
+            "Chlorine",
+            "Hydrogen",
+            "Nitrogen"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Neutron is an electrically neutral subatomic particle.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " Chlorine : (2,8,1) :: Lithium : .............",
+        "options": [
+            "(2, 1)",
+            "(2, 2)"
+      ],
+        "answer":1 
+    },
+    {
+        "question": "The atomic number is denoted by the symbol ...............",
+        "options": [
+            "‘A’",
+            "‘Z’"
+        ],
+        "answer": 2 
+    },
+    {
+        "question": " If the electronic configuration of an element is (2, 8, 18, 3), then the valency of the element is ..............",
+        "options": [
+            "3",
+            "5",
+            "2"
+        ],
+          "answer": 1
+    },
+    {
+        "question": " Carbon : (2,4) :: Oxygen : ...............",
+        "options": [
+            "2,8",
+            "2,6"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Molecules are formed from atom.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The total negative charge on all the electrons is equal to the positive charge on the nucleus.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "The mass of ............... is negligible.",
+        "options": [
+            "A proton",
+            "An electron"
+        ],
+        "answer": 1
+    },
+    {
+        "question": " Plum pudding model of atom was put forth by Dalton",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " The maximum number of electrons that can be present in N-shell of an atom is ............... ",
+        "options": [
+            "8",
+            "32",
+            "16",
+            "32"
+        ],
+        "answer": 4
+    },
+    {
+        "question": " If an atom has 8 protons then the atomic number of the element is ...............",
+        "options": [
+            "10",
+            "16",
+            "8"
+        ],
+        "answer":3 
+    },
+    {
+        "question": " H is a molecule with different types of atoms",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Muni Kanad named the indivisible particles as ‘Atomos’.",
+        "options": [
+            "True",
+            "False"
+              ],
+        "answer": 2
+    },
+    {
+        "question": "India has a large reserve of the element ............... ",
+        "options": [
+            "U - 235",
+            "Th-232",
+            "U-238",
+            "Kr-92"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Argon is an element.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Smallest particles of most of the substances are molecules.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "All elements except hydrogen contain neutrons.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is the correct electronic configuration of Sodium (11)?",
+        "options": [
+            " 2, 8",
+            "1, 8, 2",
+            "2, 8, 1",
+            "2, 1, 8"
+        ],
+        "answer": 3 
+    },
+    {
+        "question": " An atom is the smallest unit of matter",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": " The shell wise distribution of the electron in an atom of an element is called the electronic configuration of that element.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "The mass of one hydrogen atom is approximately 1 u.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If the electronic configuration of an element is (2, 8, 2), then the valency of the element is ...............",
+        "options": [
+            "6",
+            "8",
+            "2"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "If the electronic configuration of an element is (2, 6), then the valency of the element is ..............",
+        "options": [
+            "6",
+            "8",
+            "2"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Radioactive isotopes are used for food preservation from microbes.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Shortcoming of Rutherford’s atomic model was put forth by.",
+        "options": [
+            "Thomson",
+            " Niels Bohr"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "On road, sodium vapour lamps gives white light.",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " Atomic number of an element is represented by the symbol ............... ",
+        "options": [
+            "A",
+            "P",
+            "N",
+            "Z"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "According to ..............., atoms are supposed to be indivisible.",
+        "options": [
+            "Rutherford's atomic model",
+            "Dalton's atomic model",
+            "Thomson's atomic mode",
+            "Bohr's atomic model"
+        ],
+        "answer":2 
+    },
+    {
+        "question": " ‘K’ shell: 2 electrons:: ‘M’ shell : ...............",
+        "options": [
+            "8",
+            "18",
+            "32"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Number of protons in Sodium are 11. So, number of electrons in the outermost shell will be",
+        "options": [
+            "8",
+            "1",
+            "2",
+            "3"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The valency of inert gas elements is ............... .",
+        "options": [
+            "Zero",
+            "One",
+            " Two",
+            "Three"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "The ............... shell is nearest to the nucleus.",
+        "options": [
+            "K",
+            "L",
+            "M"
+        ],
+        "answer": 1
+    },
+    {
+        "question": " The number of protons in the nucleus of an atom is the atomic number of that element.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Atoms are formed by chemical combination of molecules.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The foil used in Rutherford’s experiment.",
+        "options": [
+            "Gold",
+            "Silver"
+        ],
+        "answer": 1
+    }
+]

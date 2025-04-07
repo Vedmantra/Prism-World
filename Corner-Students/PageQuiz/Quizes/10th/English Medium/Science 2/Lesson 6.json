@@ -1,0 +1,495 @@
+
+[
+    {
+        "question": "Aschelminthes is",
+        "options": [
+            "Kingdom",
+            "Sub-kingdom",
+            "Phylum",
+            "Sub-phylum"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Animal classification gives idea about animal ...... .",
+        "options": [
+            "Function",
+            "Endangered",
+            "Evolution",
+            "Extinct"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In class Mammalia, Exoskeleton is in the form",
+        "options": [
+            "Dry skin",
+            "Nails",
+            "Hair or fur",
+            "Keratin"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Body organization of ...... animals is referred as ‘Protoplasmic grade’ organization.",
+        "options": [
+            "Coelenterate",
+            "Cnidarian",
+            "Paramecium",
+            "Echinoderm"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Echinoderms are generally sedentary.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If the body of animals is divided into small, similar units, then such body is called as ...... body.",
+        "options": [
+            "Segmented",
+            "Equally divided",
+            "United",
+            "Metamorphosed"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Body is spindle shaped of fishes to minimize water-resistance.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Coral reefs are present in ocean.",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is not a sub-phyla of Phylum Chordata?",
+        "options": [
+            "Cephalochordata",
+            "Vertebrata",
+            "Urochordata",
+            "Hemichordata"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "In case of multicellular animals, germ layers are formed during initial period of their embryonic development.",
+        "options": [
+            "True, they are formed in all multicellular animals.",
+            "False, they are formed in unicellular organisms.",
+            "True, they are also formed in unicellular organisms.",
+            "False, they are formed in later stage."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Platyhelminthes are called as",
+        "options": [
+            "Flat worms",
+            "Round worms",
+            "Earth worms",
+            "Aquatic worms"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is true for the organism in the figure?",
+        "options": [
+            "Diploblastic body",
+            "Covered with cuticle",
+            "Radial symmetry",
+            "Segmented body"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Pores on sponges are called as ‘……………’.",
+        "options": [
+            "Ostia",
+            "Osculum",
+            "Spongy pore",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pick the odd option out.",
+        "options": [
+            "Scoliodon",
+            "Pomfret",
+            "Salamander",
+            "Shark"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Skin is dry and scaly in",
+        "options": [
+            "Amphibians",
+            "Mammals",
+            "Aves",
+            "Reptiles"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Which is the second largest phylum in animal kingdom?",
+        "options": [
+            "Annelida",
+            "Mollusca",
+            "Arthropoda",
+            "Echinodermata"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The animals with simplest body plan, called as ‘Sponges’ belong to the phylum ...... .",
+        "options": [
+            "Cnidaria",
+            "Porifera",
+            "Annelida",
+            "Arthropoda"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Character of Cyclostomata is",
+        "options": [
+            "Impaired appendages.",
+            "Cartilaginous Endoskeleton.",
+            "Endoparasites",
+            "Scaly skin."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Sub-phylum Vertebrata are divide into",
+        "options": [
+            "2 phyla",
+            "6 phyla",
+            "6 classes",
+            "5 classes"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In case of multicellular animals, if tissues are not formed, their body organization is called as ‘......’.",
+        "options": [
+            "Cellular grade organization",
+            "Protoplasmic grade",
+            "Tissue-Organ grade",
+            "Organ-system grade organization"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Body of Molluscans is",
+        "options": [
+            "Tender towards the head",
+            "Chitinous",
+            "Soft and slimy",
+            "Cylindrical"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Planet Earth has highest number of animals from which phylum?",
+        "options": [
+            "Annelida",
+            "Cnidaria",
+            "Arthropoda",
+            "Porifera"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Snails are ......",
+        "options": [
+            "Echinoderms",
+            "Asexual",
+            "Hermaphrodite",
+            "Unisexual"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "In unicellular animals, ...... cell/cells perform all the functions.",
+        "options": [
+            "Single",
+            "Two",
+            "Four",
+            "Eight"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pick the odd option out.",
+        "options": [
+            "Millipede",
+            "Earthworm",
+            "Leech",
+            "Nereis"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Animals are diploblastic when",
+        "options": [
+            "They have radial symmetry",
+            "They have two germ layers",
+            "They are asymmetrical",
+            "They have only one germ layer"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Body of Planaria is",
+        "options": [
+            "Diploblastic",
+            "Bilateral",
+            "Segmented",
+            "Eucoelomate"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Pick the odd option out in terms of Homeostasis process.",
+        "options": [
+            "Dolphin",
+            "Salamander",
+            "Toad",
+            "Scoliodon"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "It has jointed appendages. It belongs to phylum",
+        "options": [
+            "Annelida",
+            "Cnidaria",
+            "Arthropoda",
+            "Porifera"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the exoskeleton of the organism given?",
+        "options": [
+            "Spicules",
+            "Chitin",
+            "Visceral mass",
+            "Parapodia"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Tentacles are useful for",
+        "options": [
+            "Movement in polyps",
+            "Capturing the prey",
+            "Regenerate organs",
+            "Attaching to substrate"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following are long and metamerically segmented?",
+        "options": [
+            "Annelida",
+            "Arthropoda",
+            "Cnidaria",
+            "Porifera"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Locomotion in echinoderms is by ……….",
+        "options": [
+            "Spines",
+            "Setae",
+            "Parapodia",
+            "Tube-feet"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "In Hemichordates,",
+        "options": [
+            "Few are unisexual and few are hermaphrodite",
+            "All are unisexual",
+            "All are hermaphrodite",
+            "All are asexual"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Frogs belong to class",
+        "options": [
+            "Cyclostomata",
+            "Pisces",
+            "Amphibia",
+            "Reptilia"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which is not a character of class Pisces?",
+        "options": [
+            "Cartilaginous or bony endoskeleton",
+            "Respiration occurs with gills",
+            "Spindle shaped body",
+            "Homeotherms"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Humans are",
+        "options": [
+            "Amphibians",
+            "Mammals",
+            "Aves",
+            "Pisces"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... does not have a cuticle.",
+        "options": [
+            "Ascaris",
+            "Loa loa",
+            "Filarial worm",
+            "Physalia"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Non-chordates are classified / divided into ...... phyla.",
+        "options": [
+            "3",
+            "6",
+            "10",
+            "9"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is feature of an Arthropoda?",
+        "options": [
+            "Chitinous exoskeleton",
+            "Jointed limbs",
+            "Acoelomate diploblast",
+            "Asymmetry body"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Vertebrata is divided into ...... classes.",
+        "options": [
+            "Six",
+            "Five",
+            "Ten",
+            "Nine"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pick the odd option out in terms of sub-phyla.",
+        "options": [
+            "Herdmania",
+            "Dollolum",
+            "Amphioxus",
+            "Oikopleura"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Pisces includes all aquatic animals living in marine and fresh waters.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Exoskeleton in cockroach : Chitin :: Exoskeleton in Bivalve: ......",
+        "options": [
+            "Visceral mass",
+            "Calcareous shells",
+            "Special cuticle",
+            "Spicules"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which is not a character of Vertebrata?",
+        "options": [
+            "Brain is protected by cranium.",
+            "Pharynx is very large",
+            "Endoskeleton is either cartilaginous or bony.",
+            "Jaw-less (Agnatha) while some are with jaws (Gnathostomata)."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which one of the following is not a class of Vertebrata?",
+        "options": [
+            "Reptilia",
+            "Cyclostomata",
+            "Craniata",
+            "Aves"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Bat is included in which class?",
+        "options": [
+            "Amphibia.",
+            "Reptilia.",
+            "Aves.",
+            "Mammalia."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Hemichordates",
+        "options": [
+            "Are also called as ‘acorn worms’.",
+            "Have fake notochord.",
+            "Are evolved from chordates",
+            "Have regenerative properties."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "All phyla after Cnidaria are",
+        "options": [
+            "Unicellular",
+            "Diploblastic",
+            "Triploblastic",
+            "Segmented"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Formation of groups and sub-groups of animals depending upon similarities and differences among animals is called as …………… .",
+        "options": [
+            "Animal identification",
+            "Animal classification.",
+            "Animal experimentation",
+            "Animal division"
+        ],
+        "answer": 2
+    }
+]

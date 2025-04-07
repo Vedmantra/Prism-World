@@ -1,0 +1,183 @@
+[
+    {
+        "question": "Dampness in the air",
+        "options": [
+            "Moisture (humidity)",
+            "Evaporation",
+            "Saturation"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The amount of water vapour in 1 cu.m of air is the …………… of the air.",
+        "options": [
+            "Relative humidity",
+            "Absolute humidity",
+            "Negligible humidity"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Clouds are found at different …………… above mean seal level.",
+        "options": [
+            "Longitude",
+            "Latitude",
+            "Altitude"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The humidity in the air mainly depends on the ……………",
+        "options": [
+            "Temperature",
+            "Weather",
+            "Rain",
+            "Temperature"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Dark clouds in the sky is the sign of a ……………",
+        "options": [
+            "Rainy day",
+            "Sunny day",
+            "Cold day"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In the afternoon the temperature increases, relative humidity ……………",
+        "options": [
+            "Decreases",
+            "Increases",
+            "Remains same"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cirrus, Cirro-cumulus and Cirro-Stratus are mostly form between ……………",
+        "options": [
+            "7000 m to 14000 m",
+            "2000 m to 700 m",
+            "Less than 2000 m"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The amount of water vapour in 1 cu.m. of air is the …………… humidity of the air.",
+        "options": [
+            "Relative",
+            "Absolute",
+            "Water holding"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The climate of Rajasthan is hot and dry because of ……………",
+        "options": [
+            "More moisture",
+            "Less rain",
+            "No moisture"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Relative humidity mean when water vapour in the air reached to the …………… point.",
+        "options": [
+            "Dew",
+            "Fog",
+            "Saturated"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Moisture in the air is ……………",
+        "options": [
+            "Visible",
+            "Invisible",
+            "Present"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Dew, frost and fog are the forms of condensation at the ……………",
+        "options": [
+            "Higher elevato",
+            "Ground level",
+            "Vertical level"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Find particles of ice and water accumulate around …………… particles in the air.",
+        "options": [
+            "Soil",
+            "Dust",
+            "Moisture"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "…………… air can hold more moistures in the air.",
+        "options": [
+            "Cool",
+            "Moist",
+            "Warmer"
+        ],
+        "answer": 3
+    },
+    {
+        "question": " When the temperature of the air is 35 C, its vapour holding capacity is 33.37 sm/cu.m.  If the absolute humidity is 20 gm/cu.m the what would be the relative humidity",
+        "options": [
+            "59.93%",
+            "59.25%",
+            "59.40%"
+        ],
+        "answer": 1 
+    },
+    {
+        "question": "Indicator of pleasant weather.",
+        "options": [
+            "Cumulonimbus clouds",
+            "Cumulus clouds",
+            "Cirrus clouds"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The process of cloud framing : Evaporation, vertical current, saturation ……………",
+        "options": [
+            "Dew point",
+            "Higher elevation",
+            "Condensation"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "When the temperature is low and the relative humidity is high ……………",
+        "options": [
+            "Process of evaporation begins",
+            "Vapour holding capacity is more",
+            "Process of condensation begins."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cumulonimbus clouds accompanied by ……………",
+        "options": [
+            "Lightening",
+            "Heavy rain",
+            "Storm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Put the process in order : Vertical current, precipitation, cloud formation condensation, Evaporation",
+        "options": [
+            "Condensation, vertical current, cloud formation, evaporation precipitation",
+            "Evaporation, vertical current, cloud formation, precipitation condensation",
+            "Evaporation, vertical current condensation, cloud formation, precipitation."
+        ],
+        "answer": 3
+    }
+]

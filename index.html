@@ -20,23 +20,30 @@
 
 <body>
 
-    <div id="loader">Loading...</div>
+    <!-- <div id="loader">Loading...</div> -->
 
     <nav>
         <div class="left">
             <img src="./Assets/Logo/big.png" alt="">
         </div>
+
+        <div class="toggleDiv">
+            <img src="./Assets/Icons/menu.svg" onclick="ToggleNavbar()" alt="">
+            <!-- <button onclick="ToggleNavbar()">hey</button> -->
+        </div>
+
         <div class="right">
-            <h2><a href="https://shdwebapp.admin360.in/#/subscription?_k=PRISMWO">Student Login</a></h2>
-            <h2><a href="./PagePdfs/pdfs.html">Study Material</a></h2>
+            <h2><a href="./Corner-Parents/parents.html">Parents Corner</a></h2>
+            <h2><a href="./Corner-Students/students.html">Students Corner</a></h2>
+            <h2><a href="./Corner-Teachers/teachers.html">Teachers Corner</a></h2>
         </div>
     </nav>
 
     <section class="hero">
-        <img src="./Assets/HeroImages/1.webp" id="img1" loading="lazy" alt="Hero Image">
-        <img src="./Assets/HeroImages/2.webp" id="img2" loading="lazy" alt="Feature Image">
-        <img src="./Assets/HeroImages/3.webp" id="img3" loading="lazy" alt="Education Image">
-        <img src="./Assets/HeroImages/4.webp" id="img4" loading="lazy" alt="Study Image">
+        <img src="./Assets/HeroImages/11.webp" id="img1" loading="lazy" alt="Hero Image">
+        <img src="./Assets/HeroImages/12.webp" id="img2" loading="lazy" alt="Feature Image">
+        <img src="./Assets/HeroImages/13.webp" id="img3" loading="lazy" alt="Education Image">
+        <img src="./Assets/HeroImages/14.webp" id="img4" loading="lazy" alt="Study Image">
 
         <img src="./Assets/HeroImages/5.webp" id="elem1" loading="lazy" alt="Element 1">
         <img src="./Assets/HeroImages/6.webp" id="elem2" loading="lazy" alt="Element 2">
@@ -44,22 +51,27 @@
 
         <div class="content">
             <!-- <h1><span>Step Into</span><br><span>Bright Future.</span></h1> -->
-            <h1><span>Enjoy Your</span><br><span>Education.</span></h1>
+            <h1><span>Enjoy Your</span><br><span>Education</span></h1>
             <h2>Prism World transforms education with innovative teaching methods and expert guidance.</h2>
-            <div class="buttons">
-                <button onclick="location.href='#batches'" class="primary-button">Explore More</button>
-                <button onclick="location.href='#contact'" class="secondary-button">Join Now</button>
-
-            </div>
+            <img src="./Assets/Icons/down.svg" alt="" onclick="location.href='#reviews'">
         </div>
     </section>
 
-    <!-- <section class="reviews" id="reviews">
+    <section class="reviews" id="reviews">
         <h1 class="heading">See What Our Students & Parents Say About Prism</h1>
-        <div class="overlay"></div>
+        <!-- <div class="overlay"></div>
         <script src="https://static.elfsight.com/platform/platform.js" async></script>
-        <div class="elfsight-app-fead4ea4-8dab-40f6-b0a3-85b687cff79e" data-elfsight-app-lazy></div>
-    </section> -->
+        <div class="elfsight-app-fead4ea4-8dab-40f6-b0a3-85b687cff79e" data-elfsight-app-lazy></div> -->
+        <div class="images">
+            <!-- <img src="./Assets/Review  s/1.png" alt=""> -->
+            <img src="./Assets/Reviews/2.png" alt="">
+            <img src="./Assets/Reviews/3.png" alt="">
+            <img src="./Assets/Reviews/4.png" alt="">
+            <img src="./Assets/Reviews/5.png" alt="">
+            <img src="./Assets/Reviews/6.png" alt="">
+        </div>
+        <button class="button">Add Review</button>
+    </section>
 
     <section class="batches" id="batches">
         <h1 class="heading">Our Batches</h1>
@@ -115,7 +127,7 @@
     <section class="gallary">
         <h1 class="heading">Prism in Pictures</h1>
         <div class="container">
-            <div class="img"><img src="./Assets/Gallary/img1.webp" alt=""></div>
+            <!-- <div class="img"><img src="./Assets/Gallary/img1.webp" alt=""></div> -->
             <div class="img"><img src="./Assets/Gallary/img2.webp" alt=""></div>
             <div class="img"><img src="./Assets/Gallary/img3.webp" alt=""></div>
             <div class="img"><img src="./Assets/Gallary/img7.webp" alt=""></div>
@@ -126,9 +138,11 @@
             <div class="img"><img src="./Assets/Gallary/img6.webp" alt=""></div>
             <div class="img"><img src="./Assets/Gallary/building1.webp" alt=""></div>
             <div class="img"><img src="./Assets/Gallary/building2.webp" alt=""></div>
-            <div class="img"><img src="./Assets/Gallary/trip1.webp" alt=""></div>
+            <!-- <div class="img"><img src="./Assets/Gallary/trip1.webp" alt=""></div>
             <div class="img"><img src="./Assets/Gallary/trip2.webp" alt=""></div>
-            <div class="img"><img src="./Assets/Gallary/trip3.webp" alt=""></div>
+            <div class="img"><img src="./Assets/Gallary/trip3.webp" alt=""></div> -->
+            <div class="img"><img src="./Assets/Gallary/trip4.jpg" alt=""></div>
+            
         </div>
     </section>
 
@@ -145,7 +159,6 @@
     <section class="contact" id="contact">
         <h1 class="heading"> Let's Get Started </h1>
         <div class="container">
-
             <div class="radio-inputs">
                 <label class="radio">
                     <input type="radio" name="radio" checked="" value="RegularClass">
@@ -161,48 +174,37 @@
                 <div class="inputs">
                     <input type="text" autocomplete="off" required id="name" placeholder="Enter Your Name">
                     <input type="text" autocomplete="off" required id="std" placeholder="Enter Your Standard">
-                    <!-- <input type="text" autocomplete="off" required id="num" placeholder="Enter Your Phone Number"> -->
                 </div>
-                <button type="submit" class="primary-button">Send Massage</button>
+                <button type="submit" class="button">Send Massage</button>
             </form>
-
-
         </div>
+
         <div class="container2">
             <div>
                 <img class="call" src="./Assets/Icons/icons8-call.svg" alt="">
                 <h2>Call</h2>
                 <h3>+91 9408 66 0808</h3>
-                <h3>Mon - Fri, 9am - 9pm</h3>
             </div>
             <div>
                 <img class="whatsapp" src="./Assets/Icons/icons8-whatsapp.svg" alt="">
                 <h2>Whatsapp</h2>
                 <h3>+91 9408 66 0808</h3>
-                <h3>Mon - Fri, 9am - 9pm</h3>
             </div>
         </div>
     </section>
 
     <section class="footer">
 
-        <div class="links-container">
-            <!-- <h1>Links for Prism Teachers</h1>
-            <div class="links">
-                <a href="https://app.admin360.in/">Admin Login</a>
-                <a href="https://web.vizn.co.in/auth/login/">Exam Portal</a>
-                <a href="https://lordicon.com/">Icons by Lordicon.com</a>
-            </div> -->
-            <a href="./Corner-Teachers/index.html">Teachers Corner</a>
-        </div>
-        <div class="social-media-container">
-            <h1>See us more at</h1>
-            <div class="social-media">
-                <img class="gb" src="./Assets/Icons/google-my-business-logo.svg" alt="">
-                <img class="insta" src="./Assets/Icons/insta.png" alt="">
-                <img class="fb" src="./Assets/Icons/facebook.png" alt="">
-                <img class="yt" src="./Assets/Icons/icons8-youtube.svg" alt="">
-            </div>
+        <!-- <div class="div">
+            <a href="./Corner-Teachers/teachers.html">Teachers Corner</a>
+        </div> -->
+
+        <h1>See us more at</h1>
+        <div class="social-media">
+            <img class="gb" src="./Assets/Icons/google-my-business-logo.svg" alt="">
+            <img class="insta" src="./Assets/Icons/insta.png" alt="">
+            <img class="fb" src="./Assets/Icons/facebook.png" alt="">
+            <img class="yt" src="./Assets/Icons/icons8-youtube.svg" alt="">
         </div>
 
         <p>© 2025-2026 Prism World. All Rights Reserved</p>

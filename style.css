@@ -42,11 +42,9 @@
 
 a {
     text-decoration: none;
-    /* border-bottom: 1px solid black; */
 }
 
 html {
-    /* overflow-x: hidden; */
     scroll-behavior: smooth;
 }
 
@@ -61,27 +59,17 @@ html {
     color: var(--dark-blue);
 }
 
-.primary-button,
-.secondary-button {
-    padding: 1rem 2rem;
-    font-size: 1.5rem;
-    border: none;
-    cursor: pointer;
-    /* border-radius: 10px; */
-}
-
-.primary-button {
-    background: var(--light-blue);
-}
-
-.secondary-button {
-    color: black;
-    background: white;
-    border: 2px solid var(--light-blue);
-}
-
 section {
     padding-top: 5rem;
+}
+
+.button {
+    background: black;
+    color: white;
+    font-size: 1.5rem;
+    padding: .8rem 1.5rem;
+    margin-top: 2rem;
+    cursor: pointer;
 }
 
 /* ? ------------------ Navbar ------------------ */
@@ -92,6 +80,7 @@ nav {
     justify-content: space-between;
     padding: 0 2rem;
     position: fixed;
+    top: 0;
     width: 100%;
     z-index: 10;
     height: 10vh;
@@ -101,7 +90,6 @@ nav {
 nav .right {
     display: flex;
     align-items: center;
-    /* justify-content: space-between; */
     gap: 1.5rem;
 }
 
@@ -125,6 +113,10 @@ nav img {
     height: 80%;
 }
 
+nav .toggleDiv {
+    display: none;
+}
+
 /* ? ------------------ Hero ------------------ */
 
 section.hero {
@@ -138,11 +130,11 @@ section.hero {
 }
 
 section.hero .content {
+    /* border:1px solid black; */
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    /* padding-top: 2rem; */
 }
 
 section.hero .content h1 {
@@ -150,11 +142,6 @@ section.hero .content h1 {
     font-size: 5.5rem;
     text-align: center;
     color: var(--dark-blue);
-}
-
-section.hero .content h1 span:last-child {
-    /* border:1px solid black; */
-    /* letter-spacing: .2rem; */
 }
 
 section.hero .content h2 {
@@ -168,9 +155,15 @@ section.hero .content h2 {
     text-align: center;
     color: rgb(82, 81, 81);
     margin: 2rem 0;
+    /* border:1px solid black; */
 }
 
-section.hero img {
+section.hero .content img {
+    cursor: pointer;
+    height: 70px;
+}
+
+section.hero>img {
     height: 250px;
     position: absolute;
 }
@@ -216,7 +209,7 @@ section.hero #elem3 {
 
 /* ? ------------------ Reviews ------------------ */
 
-.reviews {
+/* .reviews {
     position: relative;
 }
 
@@ -227,12 +220,29 @@ section.hero #elem3 {
 .reviews .overlay {
     height: 50px;
     width: 250px;
-    /* background: red; */
     background: white;
     position: absolute;
     bottom: 0;
     left: calc(50% - 125px);
     z-index: 500;
+} */
+
+.reviews {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.reviews .images {
+    width: 90%;
+    margin: auto;
+    columns: 3;
+}
+
+.reviews .images img {
+    /* padding: 2rem; */
+    width: 100%;
 }
 
 /* ? ------------------ Contact ------------------ */
@@ -283,9 +293,14 @@ section.contact .container form {
     flex-direction: column;
 }
 
-section.contact .container form button {
+/* section.contact .container form button {
+    background: black;
+    color: white;
+    font-size: 1.5rem;
+    padding: .8rem 1.5rem;
     margin-top: 2rem;
-}
+    cursor: pointer;
+} */
 
 .radio-inputs {
     display: flex;
@@ -358,12 +373,8 @@ section.contact .container2 img {
 
 /* ? ------------------ Gallary ------------------ */
 
-section.gallary {
-    /* background: red; */
-}
-
 section.gallary .container {
-    columns: 4;
+    columns: 3;
     width: 100%;
     gap: 1rem;
     padding: 0 1rem;
@@ -383,7 +394,7 @@ section.gallary .container .img:first-child {
 section.gallary .container .img img {
     width: 100%;
     border-radius: 10px;
-    transition: 0.5s;
+    transition: scale 0.5s;
 }
 
 section.gallary .container .img img:hover {
@@ -402,12 +413,11 @@ section.batches .container {
 }
 
 section.batches .container .box {
-    /* flex: 1; */
+    /* display: inline-block; */
     background: #f3f3f3;
     padding: 2rem;
     border-radius: 10px;
-    transition: 0.5s;
-    /* position: relative; */
+    /* transition: transform 0.5s; */
 }
 
 section.batches .container .box:first-child {
@@ -415,21 +425,20 @@ section.batches .container .box:first-child {
     border: 1px solid #c0f8d0;
 }
 
+section.batches .container .box:first-child:hover {
+    scale: 1.5;
+}
+
 section.batches .container .box:nth-child(2) {
     background: var(--violetish);
     border: 1px solid #e1bef4;
-
 }
 
 section.batches .container .box:last-child {
     background: var(--yellowish);
     border: 1px solid #fbcb9f;
-
 }
 
-section.batches .container .box:hover {
-    scale: 1.1;
-}
 
 section.batches .container .box h1 {
     font-size: 2.3rem;
@@ -484,81 +493,49 @@ section.footer {
     color: white;
 }
 
-section.footer .links-container {
-    /* background: red; */
+section.footer .div {
     display: flex;
-    flex-direction: column;
-    margin: auto;
-    width: max-content;
-    /* background: red; */
-
+    align-items: center;
+    justify-content: center;
 }
 
-section.footer .links-container a {
-    color: white;
+section.footer .div a {
     text-decoration: none;
+    color: white;
+    text-align: center;
     font-size: 1rem;
     border-bottom: 1px solid white;
+    margin-bottom: 2rem;
 }
 
-section.footer .links-container h1 {
-    font-size: 2rem;
-}
-
-section.footer .links-container .links {
-    /* font-size: 4rem; */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-section.footer .links-container .links a {
-    /* font-size: 4rem; */
-    display: flex;
-    flex-direction: column;
-    margin-top: 0.5rem;
-    width: max-content;
-    color: white;
-    border-bottom: 1px solid white;
-}
-
-section.footer .social-media-container {
-    /* background: red; */
-    display: flex;
-    flex-direction: column;
-    margin: 2rem auto;
-    width: max-content;
-}
-
-section.footer .social-media-container h1 {
+section.footer h1 {
     text-align: center;
     font-size: 2rem;
+    margin-bottom: 0.5rem;
 }
 
-section.footer .social-media-container .social-media {
+section.footer .social-media {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 0.5rem;
-    margin-top: -0.5rem;
-
 }
 
-section.footer .social-media-container .social-media img {
+section.footer .social-media img {
     cursor: pointer;
     height: 50px;
 }
 
-section.footer .social-media-container .social-media img.insta {
+section.footer .social-media img.insta {
     height: 65px;
 }
 
-section.footer .social-media-container .social-media img.yt {
+section.footer .social-media img.yt {
     height: 75px;
 }
 
 section.footer p {
     text-align: center;
+    margin-top: 2rem;
     padding-bottom: 2rem;
 }

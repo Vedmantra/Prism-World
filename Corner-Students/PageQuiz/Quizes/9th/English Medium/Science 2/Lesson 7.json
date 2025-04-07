@@ -1,0 +1,479 @@
+[
+    {
+        "question": "Saprophytes in the ecosystem can act as ...............",
+        "options": [
+            "Decomposers",
+            "Primary producers",
+            "Primary consumers",
+            "Secondary consumers"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "An accumulation of the main abiotic ............... nutrient materials is found in the earth’s atmosphere",
+        "options": [
+            "Semi-solid",
+            "Liquid",
+            "Solid",
+            "Gaseous"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Abiotic carbon atoms are circulated and recycled into biotic form mainly through ............... and ............... .",
+        "options": [
+            "Nitrogen fixation, nitrification",
+            "Photosynthesis, respiration",
+            "Respiration, ammonification",
+            "Destratification, respiration"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Pick the odd option out with regard to atmosphere.",
+        "options": [
+            "Oxygen",
+            "Calcium",
+            "Nitrogen",
+            "Water vapour"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Most organisms cannot use the .............. form of nitrogen. ",
+        "options": [
+            "Reduced",
+            "Oxide",
+            "Complex",
+            "Free"
+        ],
+        "answer": 4
+    },
+    {
+        "question": ".............. are compounds biomolecules containing Nitrogen.",
+        "options": [
+            "Nucleic acids",
+            "Carbohydrates",
+            "Glucose",
+            "Organic acids"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Conversion of ammonia into a nitrite and then nitrate is called",
+        "options": [
+            "Denitrification",
+            "Nitrification",
+            "Ammonolysis",
+            "Ammonification"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "........................ is a step, at which the organism obtains its food in the food chain",
+        "options": [
+            "Food web",
+            "Trophic level",
+            "Energy pyramid",
+            "Bio-geo-chemical cycle"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Carbon dioxide, in which organelle is converted into Glucose?",
+        "options": [
+            "Chloroplasts",
+            "Mitochondria",
+            "Cytoplasm",
+            "Nucleus"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Nitrogen is ............................ and does not combine with other elements",
+        "options": [
+            "Inactive",
+            "Active",
+            "Neutral",
+            "Toxic"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The passage of energy in an ecosystem is referred to as ..................",
+        "options": [
+            "Cyclical transfer",
+            "One way transport",
+            "Bidirectional transport",
+            "Multidirectional transport"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "",
+        "options": [
+            "Pick the odd option out",
+            "Calcium",
+            "Coal",
+            "Diamond"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "............... forms 78% i.e. the maximum portion of the atmosphere.",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Phosphorous"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Photosynthesis uses which of the primary source of energy?",
+        "options": [
+            "Heat",
+            "Light",
+            "Geo-thermal",
+            "Air"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "............... and ............... are the main processes of the carbon cycle.",
+        "options": [
+            "Nitrification, esterification",
+            "Ammonification, nitrification",
+            "Nitrogen fixation, denitrification",
+            "Photosynthesis, respiration"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Oxygen forms 28% of the atmosphere.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "Glucose in the cell is broken into",
+        "options": [
+            "Carbon monoxide",
+            "Carbon dioxide",
+            "Carbon tetroxide ",
+            "Carbon peroxide"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "After the death of apex animals, food is available to",
+        "options": [
+            "Consumers",
+            "Producers",
+            "Autotrophs",
+            "Saprotrophs"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The amount of matter and energy gradually decreases from .................... at lowest level to ............... at the highest leve",
+        "options": [
+            "Apex consumers, Primary Producers",
+            "Apex consumers, primary consumers",
+            "Primary producers, Apex consumers",
+            "Primary producers, Secondary consumers"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Each level in the food chain is called a ............... level. ",
+        "options": [
+            "Trophic",
+            "Food",
+            "Consumer",
+            "Energy"
+        ],
+        "answer": 1 
+    },
+    {
+        "question": "Energy in Producers is usually generated by",
+        "options": [
+            "Microsynthesis",
+            "Photosynthesis",
+            "Food synthesis",
+            "Auto synthesis"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "............... is highly reactive and it readily reacts with other elements and compounds.4/1",
+        "options": [
+            "Carbon",
+            "Nitrogen",
+            "Oxygen",
+            "Hydrogen"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Decomposers convert the remaining organisms into .......................",
+        "options": [
+            "Complex carbon compound",
+            "Simple nitrogen compounds",
+            "Simple Carbohydrate",
+            "Simple Carbon Compounds"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The number of organisms ...................... from the lowest level to the highest level.",
+        "options": [
+            "Decrease",
+            "Increases",
+            "Remains the same",
+            "None of the above "
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Carbohydrate is produced with the help of",
+        "options": [
+            "Sunlight",
+            "Chlorophyll",
+            "Oxide of carbon",
+            "All of the above"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Most organisms cannot use Nitrogen in its ..........................",
+        "options": [
+            "Free form",
+            "Complex form",
+            "Oxidized form",
+            "Active form"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Plants convert carbon dioxide into Carbohydrates by the process of .....................",
+        "options": [
+            "Respiration",
+            "Nitrogen cycle",
+            "Photosynthesis",
+            "Sedimentary cycle"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Nitrogen is an important component of",
+        "options": [
+            "Proteins",
+            "Carbohydrates",
+            "Fats",
+            "Vitamins"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Carbon cycle : Carbon :: Nitrogen cycle : ?",
+        "options": [
+            "Magnesium",
+            "Nitrate",
+            "Oxygen",
+            "Nitrogen"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "............... is the most important source of energy in the ecosystem.",
+        "options": [
+            "Plants",
+            "Tiger",
+            "Fungi",
+            "Sun"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "............... are the only organisms that can produce oxygen. All others can only use up the oxygen.",
+        "options": [
+            "Primary consumers",
+            "Secondary consumers",
+            "Tertiary consumers",
+            "Primary producers"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "............... carbon is transported from plants to herbivores, from herbivores to carnivores and from carnivores to apex consumers.",
+        "options": [
+            "Hydrolysis",
+            "Purified",
+            "Biotic",
+            "Abiotic"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Nitrogen is an important component of ............... and ............... present in the living organisms.",
+        "options": [
+            "Carbohydrates, fats",
+            "Water, fats",
+            "Proteins, nucleic acids",
+            "Nucleic acids - carbohydrates"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "For synthesis of which of the following Oxygen is not essential?",
+        "options": [
+            "Fats",
+            "Carbohydrates",
+            "Ozone",
+            "Amines"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Food energy pyramid is also known as ",
+        "options": [
+            "Ecosystem Pyramid.",
+            "Eltonian Pyramid",
+            "Life Pyramid",
+            "Evolution Pyramid"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "No other animal feeds upon ...........................",
+        "options": [
+            "Primary consumer",
+            "Secondary consumer",
+            "Saprophyte",
+            "Apex consumer"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Primary consumers directly depend upon ............... for their food.",
+        "options": [
+            "Autotrophs",
+            "Secondary consumers",
+            "Saprophytes",
+            "Decomposers"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Name the source of food for the herbivores",
+        "options": [
+            "Carnivores",
+            "Saprotrophs",
+            "Autotrophs",
+            "Heterotrophs"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The cyclic flow of nutrients within an ecosystem is called the ............... cycle.",
+        "options": [
+            "Bio-chemical",
+            "Biotic to abiotic",
+            "Bio-geo-chemical",
+            "Abiotic to biotic"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "In which direction, energy is transferred from one trophic level to another?",
+        "options": [
+            "Upward",
+            "Downward",
+            "Sideways",
+            "Towards the base"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Oxygen is ............... and readily reacts with other elements and compounds.",
+        "options": [
+            "Inactive",
+            "Less active",
+            "Highly reactive",
+            "None of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "If an organism survives on a plant only it is called a ",
+        "options": [
+            "Primary consumer",
+            "Producer",
+            "Secondary consumer",
+            "Tertiary consumer"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Bear is an example of ..........................",
+        "options": [
+            "Autotroph",
+            "Decomposer",
+            "Omnivore",
+            "Herbivore"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Ozone contains how many atoms of Oxygen?",
+        "options": [
+            "2",
+            "4",
+            "3",
+            "12"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Ammonification process takes place in the",
+        "options": [
+            "Soil",
+            "Ozone layer",
+            "Atmosphere",
+            "Oxygen"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "In the following food chain ......................... is the Apex consumer. Grass - Grasshopper - Frog - Snake - Hawk - Fungus",
+        "options": [
+            "Snake",
+            "Fungus",
+            "Grasshopper",
+            "Hawk"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Even through, the carbon content on earth, is constant, there is a rise in respiration due to CO , due to ...............",
+        "options": [
+            "Increase in pollution due to vehicles",
+            "Increase in pollution due to industries",
+            "Increase in pollution due to combustion of fossil fuels",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Which of the following belongs to the second trophic level from the Apex of the pyramid?",
+        "options": [
+            "Squirrel",
+            "Rabbit",
+            "Eagle",
+            "Snake"
+        ],
+        "answer": 3
+    }
+]

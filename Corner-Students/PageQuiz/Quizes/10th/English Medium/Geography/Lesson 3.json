@@ -1,0 +1,322 @@
+[
+    {
+        "question": "Indo-Gangetic plains comprises floodplains that are:",
+        "options": [
+            "Ganges river systems",
+            "Brahmaputra river systems",
+            "Indus river systems",
+            "All of these"
+        ],
+        "answer":4
+    },
+    {
+        "question": "Andaman and Nicobar Islands group are volcanic in origin.",
+        "options": [
+            "True",
+            "False",
+            "None"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "These rivers of India are south - east flowing.",
+        "options": [
+            "Satluj - Chenab - Beas",
+            "Kaveri - Krishna - Godavari",
+            "Ganga - Yamuna - Gomati"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "In which direction does the height of the Sahyadri hills increase?",
+        "options": [
+            "North",
+            "South",
+            "East",
+            "West"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "What is the average height of the Greater Himalayas?",
+        "options": [
+            "4000m",
+            "3000m",
+            "2100m",
+            "6100m"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "India : Ganga :: Brazil : ..........",
+        "options": [
+            "Amazon",
+            "Parana",
+            "None of the these"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Himalaya act as a climate divide.",
+        "options": [
+            "True",
+            "False",
+            "None"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Which one of the following passes through the middle of the country?",
+        "options": [
+            "The Equator",
+            "The Tropic of Cancer",
+            "The Tropic of Capricorn",
+            "Prime Meridian"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "What describe Brazilian coastal land?",
+        "options": [
+            "Western plain",
+            "Shield",
+            "Escarpment",
+            "Pantanal"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Which highlands are located in the northern part of Brazil?",
+        "options": [
+            "Patagonia Highlands",
+            "Guiana Highlands",
+            "Panama Highlands",
+            "Amazon Highlands"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Which is the largest of all the west flowing rivers of the Peninsula?",
+        "options": [
+            "The Luni",
+            "The Mahi",
+            "The Narmada",
+            "The Sabarmati"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "The origin of Himalayas can best be explained by -",
+        "options": [
+            "Continental Drift Theory",
+            "Ocean Floor Mapping",
+            "Sea Floor Spreading",
+            "Theory of Plate Tectonics"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Considering plain, world's most populated region is ...............",
+        "options": [
+            "North American plain",
+            "Australian plain",
+            "Eurasia Plain",
+            "Indo-Gangetic Plain"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Which is the largest river system of the peninsular India?",
+        "options": [
+            "The Brahmani",
+            "The Cauvery",
+            "The Godavari",
+            "The Krishna"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "The southern Brazil is occupied by an extensive ...............",
+        "options": [
+            "Plain",
+            "Plateau",
+            "Basin",
+            "Mountain"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "The Shiwalik is the outer Himalayas which is youngest in the origin.",
+        "options": [
+            "True",
+            "False",
+            "None"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Eastern Coast is also known as by which name?",
+        "options": [
+            "Sahyadri",
+            "Coromandal coast",
+            "Konkan",
+            "Kayal"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Which is the highest mountain peak of the Western Ghat?",
+        "options": [
+            "Anamudi",
+            "Mahendragiri",
+            "K2",
+            "Nallamala Hill"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Which island is located in east of Brazil.",
+        "options": [
+            "Multai",
+            "Sao Marcos",
+            "Marajo",
+            "Pantanal"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "In which state the Girnar hills are located.",
+        "options": [
+            "Goa",
+            "Rajasthan",
+            "Gujarat",
+            "Panjab"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "The Amazon, Brazil's largest river system, originates in which mountain range?",
+        "options": [
+            "Himalayas",
+            "Inuit",
+            "Andes",
+            "Yukon"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Andaman & Nicobar : .......... :: Lakshadweep: atoll",
+        "options": [
+            "Coastal",
+            "Submerged",
+            "Volcanic",
+            "None of these"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Western coastal plain provides natural conditions for the development of ports and harbors because -",
+        "options": [
+            "They are emergent coastal plain and broad in nature.",
+            "They are submerged coastal plain and narrow in nature.",
+            "They provide enough infrastructures for the development of ports.",
+            "None"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "The order of plateaus of India from south to north.",
+        "options": [
+            "Karnataka - Maharashtra - Bundelkhand",
+            "Chhota Nagpur - Malwa - Marwad",
+             "Telangana - Maharashtra - Marwad"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "The important rivers of north India",
+        "options": [
+            "Godaveri and Krishna",
+            "Godaveri and Ganga",
+            "Tapi and Narmada",
+            "Ganga and Brahmaputra"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Which of these is the longest river located completely within Brazil?",
+        "options": [
+            "Sao Francisco",
+            "Amazon",
+            "Iguacu",
+            "Parana"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Which major latitude passes at the south of the southernmost point of peninsular India that is Kanyakumari?",
+        "options": [
+            "Tropic of cancer",
+            "Equator",
+            "Tropic of Capricorn",
+            "Prime meridian"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "By which name the lesser Himalayas or Himachal is known in Kashmir?",
+        "options": [
+            "Kashmir Himalaya",
+            "Kumaun Himalaya",
+            "Pir panjal",
+            "Purvachal"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Himalayas do not play an important role in the phenomenon of Monsoon rainfall in Indian Sub continent.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "The Lakshadweep islands are formed due to the coral deposits.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "The Andaman and Nicobar island are situated in ...............",
+        "options": [
+            "Arabian sea",
+            "Bay of Bengal",
+            "Red sea",
+            "Dead sea"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Name the highest peak of Brazil",
+        "options": [
+            "Amapa",
+            "Guyana",
+            "Pico de Neblina",
+            "Para"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Which part of India is the oldest?",
+        "options": [
+            "The Himalayas",
+            "The North Indian Plains",
+            "The plateaus",
+            "Coastal Plains"
+        ],
+        "answer":3
+    }
+]

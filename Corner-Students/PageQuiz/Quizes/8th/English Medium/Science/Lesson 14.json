@@ -1,0 +1,312 @@
+[
+    {
+        "question": "Tuning fork generally shows a frequency of",
+        "options": [
+            "510 Hz",
+            "512 Hz",
+            "521 Hz",
+            "501 Hz"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "The voices of men, women and children are different due to difference in:",
+        "options": [
+            "Larynx",
+            "Lungs",
+            "Vocal cords",
+            "Wind pipe"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "A bomb explodes on the moon. How long will it take for the sound to reach the earth?",
+        "options": [
+            "10 seconds",
+            "1000 seconds",
+            "1day",
+            "None of these"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Sound cannot travel through ............... .",
+        "options": [
+            "Metal",
+            "Air",
+            "Water",
+            "Vacuum"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "In string based instruments, the frequency of vibration of the string is changed by",
+        "options": [
+            "Changing the tension on the string",
+            "By changing the vibrating length of the string using fingers",
+            "By changing the number of strings",
+            "All of the above"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Above what level the sound can be harmful to the human ears?",
+        "options": [
+            "500 decibels",
+            "200 decibels",
+            "100 decibels",
+            "150 decibels"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Increased pressure produces",
+        "options": [
+            "Rarefaction",
+            "Compression",
+            "Vibration",
+            "Energy"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "The frequency of the prongs is not dependent of",
+        "options": [
+            "Mass of prong",
+            "Thickness of Prong",
+            "Length of Prong",
+            "Material of the prong"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "When the prongs come closer to each other , the pressure",
+        "options": [
+            "Decreases",
+            "Increases",
+            "First increases then decreases",
+            "First decreases then increases"
+        ],
+        "answer":1
+    },
+    {
+        "question": "Loudspeaker consists of",
+        "options": [
+            "Horseshoe magnet",
+            "Permanent Magnet",
+            "Bar magnet",
+            "Bar magnet"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "In regions called ................ , particles are crowded together.",
+        "options": [
+            "Reverberation",
+            "Compressions",
+            "Rarefactions",
+            "Oscillations"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Which of the following cannot travel through vacuum?",
+        "options": [
+            "Light waves",
+            "Heat waves",
+            "X-rays",
+            "Sound waves"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Unit of measurement of sound is",
+        "options": [
+            "Decibel",
+            "Hertz",
+            "Coulomb",
+            "Debye"
+        ],
+        "answer":1
+    },
+    {
+        "question": "Due to back and forth motion of the ............... of the tuning fork, sound waves are produced.",
+        "options": [
+            "Prongs",
+            "Screen",
+            "Stem",
+            "Coil"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "The amplitude of vibratory motion is measured in units of",
+        "options": [
+            "Length",
+            "Time",
+            "Speed",
+            "Hz"
+        ],
+        "answer":1
+    },
+    {
+        "question": "Sound is produced by",
+        "options": [
+            "Waves",
+            "Energy",
+            "Vibrations",
+            "Heat"
+        ],
+        "answer":3
+    },
+    {
+        "question": "As the quantity of air inside the bell jar decreases, the level of ringing sound heard outside ............... ",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains same",
+            "Doubles"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Which of the following vibrates when a musical note is produced by the cymbals in an orchestra?",
+        "options": [
+            "Stretched strings",
+            "Stretched membranes ",
+            "Metal plates",
+            "Air columns"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "In a loudspeaker there is",
+        "options": [
+            "Generation of electric current inside the loudspeaker",
+            "Generation of a magnetic field",
+            "Generation of power",
+            "Generation of Magnetic flux"
+        ],
+        "answer":2
+    },
+    {
+        "question": "Medium is necessary for sound to propagate.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer":2
+    },
+    {
+        "question": "Hertz is the unit of ",
+        "options": [
+            "Wavelength",
+            "Amplitude",
+            "Frequency",
+            "None of these"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "............... and ............... of the movement of the coil depends on the variation of the current flowing through the coil.",
+        "options": [
+            "Frequency and Magnetic flux",
+            "Amplitude and Magnetic field",
+            "Frequency and amplitude",
+            "Magnetic flux and Amplitude"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "The maximum displacement of a particle in a vibratory motion is known as",
+        "options": [
+            "Time period",
+            "Wavelength",
+            "Amplitude",
+            "Frequency"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "............... make the vocal cords tight or loose",
+        "options": [
+            "Muscles attached to the vocal cords",
+            "The vocal cords themselves",
+            "Trachea",
+            "Larynx"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "In humans sound is produced in the",
+        "options": [
+            "Pharynx",
+            "Larynx",
+            "Trachea",
+            "Vocal cord"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "A rapid periodic forward and backward motion of an object is called ............... .",
+        "options": [
+            "Sound",
+            "Acceleration",
+            "Intensity",
+            "Vibration"
+        ],
+        "answer":4
+    },
+    {
+        "question": "The prongs of a tuning fork",
+        "options": [
+            "Set into periodic motion in forward and backward direction",
+            "Vibrate when struck",
+            "Vibrate when they are provided with heat",
+            "Both 1 and 2"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "If the medium is absent for the sound to travel then",
+        "options": [
+            "Sound will still travel",
+            "Sound won’t travel without a medium",
+            "Depends on the vibrations and the frequency of sound",
+            "None of the above"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "What does the vacuum pump experiment determine?",
+        "options": [
+            "Sound requires a medium to travel",
+            "Sound travels by the means of waves",
+            "Sound takes place due to generation of vibrations",
+            "Sound is independent of the type of medium for its travelling"
+        ],
+        "answer":1
+    },
+    {
+        "question": "Vibration of air column produces sound in which of the following instruments?",
+        "options": [
+            "Jaltarang",
+            "Flute",
+            "Siren",
+            "All of the above"
+        ],
+        "answer":4
+    },
+    {
+        "question": "When the air outside the prongs is compressed the pressure",
+        "options": [
+            "Decreases",
+            "Increases",
+            "First increases then decreases",
+            "First decreases then increases"
+        ],
+        "answer":2
+    }
+]

@@ -1,0 +1,384 @@
+[
+    {
+        "question": " ………………… is a region where the particles of the medium are crowded together during the propagation of longitudinal wave.",
+        "options": [
+            "Crests",
+            "Rarefaction",
+            "Compressions",
+            "Trough"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Images of the internal organs in a human body can be obtained using ……………",
+        "options": [
+            "Ultrasound",
+            "Infrasound",
+            "Audible sound",
+            "NMR"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If the frequency of the wave is 100 Hz and its wavelength is 0.2 m, then its wave speed is ……………….",
+        "options": [
+            "20 m/s",
+            "75 m/s",
+            "300 m/s",
+            "600 m/s"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "SONAR is based on …………… technology.",
+        "options": [
+            "Infrasound",
+            "Ultrasound",
+            "Radar",
+            "None of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If the frequency of radio waves is 530 MHz, then the wavelength of radio waves is ………………. (c = 3 x 10 m/s)",
+        "options": [
+            "0.56 m",
+            "5.6 m",
+            "56.6 m",
+            "0.75 m"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Borelli and Viviani were the first to calculate the …………….. of sound.",
+        "options": [
+            "Wavelength",
+            "Density",
+            "Pressure",
+            "Speed"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The …………… of the sound waves is indicated by the Greek letter lambda (λ).",
+        "options": [
+            "Frequency",
+            "Wavelength",
+            "Velocity",
+            "Time period"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Echocardiography studies ………… using ultrasound scans.",
+        "options": [
+            "Nerves",
+            "Abdomen",
+            "Heartbeats",
+            "Brain"
+        ],
+        "answer": 3 
+    },
+    {
+        "question": "The periodic time is ………… second if the frequency of the wave is 100 Hz and the wavelength is 0.2 m.",
+        "options": [
+            "20 s",
+            "2 s",
+            "1 s",
+            "0.01 s"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "If the time period of oscillation is 0.05s, the frequency of sound wave is ………………..",
+        "options": [
+            "10 Hz",
+            "20 Hz",
+            "30 Hz",
+            "40 Hz"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Pitch of sound depends upon ……………... of the wave.",
+        "options": [
+            "Quality",
+            "Frequency",
+            "Loudness",
+            "Wavelength"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The distance between two consecutive crests in a wave produced in string is 5 cm. If two complete waves pass through any point per second, then the velocity of the wave is  ……….………",
+        "options": [
+            "2.5 m/s",
+            "10 m/s",
+            "5 m/s",
+            "20 m/s"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "……………… in the objects are responsible for producing sound.",
+        "options": [
+            "Reflections",
+            "Waves",
+            "Reverberations",
+            "Vibrations"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "…………… wave is a wave in which the particles of the medium vibrate in a direction parallel to the direction of propagation of the wave.",
+        "options": [
+            "Electromagnetic",
+            "Transverse",
+            "Polarised",
+            "Longitudinal"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The time taken by a particle to complete one oscillation is called the ………………. of the wave",
+        "options": [
+            "Amplitude",
+            "Period",
+            "Frequency",
+            "Wavelength"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The velocity of sound is …………… to the square root of the temperature of the medium.",
+        "options": [
+            "Directly proportional",
+            "Inversely proportional",
+            "Equal",
+            "Almost equal"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Sonography technique can be used for sex determination during pregnancy.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2 
+    },
+    {
+        "question": "Longitudinal waves consist of alternate …………… and ……………",
+        "options": [
+            "Crests & troughs",
+            "Waxing and waning",
+            "Compressions & rarefactions",
+            "Electric and magnetic field vectors"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Repetition of the original sound because of reflection of sound is called ………………..",
+        "options": [
+            "Reflection",
+            "Refraction",
+            "Echo",
+            "Reverberation"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Bats can produce ……………........ sounds.",
+        "options": [
+            "Infrasonic",
+            "Loud",
+            "Ultrasonic",
+            "Low quality"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "SONAR has a …………… and ……………, which are fitted on ships or boats.",
+        "options": [
+            "Absorber, reflector",
+            "Absorber, transmitter",
+            "Transmitter, receiver",
+            "Reflector, receiver"
+        ],
+        "answer": 3
+    },
+    {
+        "question": " ………………. is the relation between the frequency (υ) & time period (T) of a sound wave.",
+        "options": [
+            "υ = T",
+            "υ = λT",
+            "υ = 1 / T",
+            "λυ = T"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is different from others?",
+        "options": [
+            "Wavelength",
+            "Velocity",
+            "Frequency",
+            "Amplitude"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The value of frequency determines the ……………  of the sound.",
+        "options": [
+            "Noise",
+            "Music",
+            "Pitch",
+            "All of these"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Our brain retains sound for 0.1second.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Longitudinal waves are created by dropping a stone in still water.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": "……………...... sound has frequency below 20 hz and is not audible to human beings.",
+        "options": [
+            "Ultrasonic",
+            "Sonic",
+            "Infrasonic",
+            "Supersonic"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Bats, mice , dolphins can produce ……………",
+        "options": [
+            "Audible sound",
+            "Infra sound",
+            "Ultrasound",
+            "None of these"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "………… waves gives rise to a chain of compression and rarefaction.",
+        "options": [
+            "Light",
+            "Medium",
+            "Sound",
+            "Large"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A hard and flat surface is a good ……………",
+        "options": [
+            "Absorber",
+            "Reflector",
+            "Refractor",
+            "None of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Sonography is useful in finding out ……………",
+        "options": [
+            "Condition of the heart",
+            "State of the heart after a heart attack",
+            "Growth of the fetus",
+            "All of these"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The sensation of sound persists in our brain for about …………………",
+        "options": [
+            "1 second",
+            "10 second",
+            "0.01 second",
+            "0.1 second"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "In …………… waves, particles oscillate up and down about their mean positions.",
+        "options": [
+            "Electromagnetic",
+            "Transverse",
+            "Polarised",
+            "Longitudinal"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The time taken for one oscillation is called the Time period",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": "The golghumat in Karnataka is perfect example for multiple reflection of sound.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "A boat at anchor is rocked by waves whose crests are 100 feet. apart and whose velocity is 25 ft/sec. The time taken by each wave to reach the boat is …………………",
+        "options": [
+            "4 s",
+            "0.25 s",
+            "2500 s",
+            "0.125 s"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Sonography method is …………… and hence is increasingly used in medical practice for correct diagnosis",
+        "options": [
+            "Painful",
+            "Painless",
+            "Challenging",
+            "Costly"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In SONAR, R stands for …………….",
+        "options": [
+            "Radar",
+            "Reflected",
+            "Ranging",
+            "Receiving"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Sound is a form of energy which creates the sensation of hearing in our ears.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Sound waves are ……………. waves.",
+        "options": [
+            "Electromagnetic",
+            "Transverse",
+            "Polarised",
+            "Longitudinal"
+        ],
+        "answer": 4
+    }
+]

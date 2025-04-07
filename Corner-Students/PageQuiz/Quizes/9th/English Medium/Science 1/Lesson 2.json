@@ -1,0 +1,432 @@
+[
+    {
+        "question": "When a body is raised above the ground level, the force acting on the body is the ..............",
+        "options": [
+            "Velocity of the body",
+            "Buoyancy",
+            "Gravitational pull of the earth ",
+            "Electromagnetic force."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "the mass of a body raised at height of 10 m and possessing potential energy of 49 J is ...............",
+        "options": [
+            "5 kg",
+            "50 kg",
+            "0.5kg",
+            "5 g"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "At ..............., water is stored at a greater height.",
+        "options": [
+            "Hydroelectric power station",
+            "Police station",
+            "Nuclear power plants",
+            "Home"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Kinetic energy is ............... to the square of velocity.",
+        "options": [
+            "Directly proportional",
+            "Inversely proportiona",
+            "Independent",
+            "One-fourth"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "A mass of 2kg falls vertically through a height of 3.5m. The kinetic energy gained by it is ...............",
+        "options": [
+            "66.8 J",
+            "6.86 J",
+            "6.68 J",
+            "68.6 J"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Electricity used for domestic purposes is measured in units of  ...............",
+        "options": [
+            "Horsepower",
+            "Watt",
+            "Kilowatt",
+            "Kilowatt hour"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The kinetic energy of a body of mass 20gm moving with a velocity of 180m/s is .............",
+        "options": [
+            "0.324 J",
+            "32.4 J ",
+            "324 J",
+            "3240 J"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "The work done is zero if there is no ...............",
+        "options": [
+            "Mass",
+            "Displacement",
+            "Energy",
+            "Acceleration"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In circular motion, work done is ...............",
+        "options": [
+            "Positive",
+            "Negative",
+            "50",
+            "Zero"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "............... is the rate at which work is done.",
+        "options": [
+            "Work",
+            "Power",
+            "Momentum",
+            "Energy"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A stone of mass 0.5kg is released from the top of a tower of height 200m. The kinetic energy of a stone when it falls on the ground is ..............",
+        "options": [
+            "98 J",
+            "9800 J",
+            "9.8 J",
+            "980 J"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Potential energy comes into picture only when ............... is taking place.",
+        "options": [
+            "Motion",
+            "Work",
+            "Hard work",
+            "Storage of energy"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Units of energy and ............... are same",
+        "options": [
+            "Velocity",
+            "Work",
+            "Momentum",
+            "Force"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The flywheel of an aero-plane uses its stored ............... to rotate itself.",
+        "options": [
+            "Potential energy",
+            "Kinetic energy",
+            "Magnetic energy",
+            "Chemical energy"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "In MKS system, the unit of work is ...............",
+        "options": [
+            "Erg",
+            "Newton",
+            "Dyne",
+            "Joule"
+        ],
+        "answer": 4
+    },
+    {
+        "question": " ............... can be converted from one form into another.",
+        "options": [
+            "Energy",
+            "Work",
+            "Force",
+            "Momentum"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Kinetic energy of a bullet of mass 40gm moving with a velocity of 500m/s is ...............",
+        "options": [
+            "500 J",
+            "5000 J",
+            "1000 J",
+            "10000 J"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Energy is measured in terms of the ............... .",
+        "options": [
+            "Mass",
+            "Velocity",
+            "Work",
+            "Power"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Kinetic energy can never be ...............",
+        "options": [
+            "Positive",
+            "Negative",
+            "50%",
+            "Zero"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The total amount of energy in the universe remains ..............",
+        "options": [
+            "Constant",
+            "Unequal",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The mathematical equation of kinetic energy is .............",
+        "options": [
+            "½ mgh.",
+            "¼ mv  ",
+            "mgh",
+            "½ mv ."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "A stone of mass 5 g dropped from a height of 2 m above the ground possesses ............... of energy.",
+        "options": [
+            "0.0098 J",
+            "0.98 J ",
+            "98 J ",
+            "0.098 J"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "When a force of ............... displaces a body through 1 metre along the line of action of the force, the work done by the body is said to be 1 joule",
+        "options": [
+            "1 dyne",
+            "1 newton ",
+            "1 kilogram  ",
+            "1 gram."
+        ],
+        "answer":2 
+    },
+    {
+        "question": "By stretching the rubber strings of a catapult, we store ............... energy in it",
+        "options": [
+            "Kinetic",
+            "Electrical",
+            "Potential",
+            "Nuclear"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Work is the product of ............... ",
+        "options": [
+            "Force and mass",
+            "Force and displacement",
+            "Force and power   ",
+            "Distance and time."
+        ],
+        "answer":2 
+    },
+    {
+        "question": "The body of mass 250gm has a momentum of 40,000gm/sec. The kinetic energy of the body is ............",
+        "options": [
+            "32 J",
+            "3.2 J",
+            "320 J",
+            "3200 J"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The work done when a force of 60N displaces a body through a distance of 10m in the direction of the force is ...............",
+        "options": [
+            "600 J",
+            "60 J",
+            "6000 J",
+            "0.6 J."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The energy stored in the dry cell is in the form of ...............",
+        "options": [
+            "Heat energy ",
+            "Sound energy ",
+            "Electrical energy ",
+            "Chemical energy"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "A body of mass 1kg is released from a height of 500m from the ground. The kinetic energy of the body is ............... (g = 9.8 m/s²).",
+        "options": [
+            "49 J",
+            "4.9 J",
+            "4900 J",
+            "490 J"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "1Horsepower = ............... watts.",
+        "options": [
+            "746",
+            "764",
+            "467",
+            "647"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Flowing water has ............... energy.",
+        "options": [
+            "Potential",
+            "Kinetic",
+            "Chemical",
+            "Electrical"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A body sliding across a surface does ..............",
+        "options": [
+            "Positive work ",
+            "Zero work",
+            "Negative work ",
+            "No work"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Weight of an object A is 500N and that of B is 1000N. If the object A is lifted to a height of 10m, some work is done. The height through which the object B can be lifted, if the same amount of work is performed on it is",
+        "options": [
+            "550 m",
+            "500 m",
+            "5500 m",
+            "5m"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The C.G.S. unit of energy is ............... .",
+        "options": [
+            "Newton",
+            "Joule",
+            "Dyne",
+            "Erg"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The work done to displace a body in the direction of force is ............... .",
+        "options": [
+            "Positive work ",
+            "Negative work ",
+            "Zero work",
+            "No work"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Energy can neither be ............... nor destroyed.",
+        "options": [
+            "Stored",
+            "Suppressed",
+            "Created",
+            "Obstructed"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Energy possessed by a body on account of its ............... is called potential energy.",
+        "options": [
+            "Motion",
+            "Inertia",
+            "Position",
+            "Displacement"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "A body of mass 10kg is lifted through a height of 20m. The work done by the person in lifting it is ............... (g = 9.8m/s²).",
+        "options": [
+            "169 J ",
+            "1690 J",
+            "196 J",
+            "1960 J"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The potential energy of the body of 5kg, when it is lifted through 20m is ..............",
+        "options": [
+            "98 J",
+            "980 J",
+            "9.8 J",
+            "9800 J"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Energy possessed by a body on account of its motion is called its ............... .",
+        "options": [
+            "Kinetic energy ",
+            "Potential energy ",
+            "Sound energy ",
+            "Heat energy"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Energy is the ............... of a body to perform work.",
+        "options": [
+            "Power",
+            "Rate",
+            "Capacity",
+            "Tendency"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "When force & displacement are ............... directions, the work done is negative.",
+        "options": [
+            "In opposite ",
+            "In same  ",
+            "Inclined at 45°",
+            "In perpendicular"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Energy is a ............... quantity.",
+        "options": [
+            "Scalar",
+            "Vector",
+            "Tensor",
+            "Fundamental"
+        ],
+        "answer": 1
+    }
+]

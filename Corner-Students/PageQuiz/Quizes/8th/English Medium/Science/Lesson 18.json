@@ -1,0 +1,343 @@
+[
+    {
+        "question": "Huge clouds of gas and dust present in the empty spaces between stars in a galaxy are called as ...............",
+        "options": [
+            "Universe",
+            "Interstellar clouds"        ],
+        "answer": 2
+    },
+    {
+        "question": "Solar system is a ............... galaxy.",
+        "options": [
+            "Spiral",
+            "Elliptical",
+            "Irregular"        ],
+        "answer": 1
+    },
+    {
+        "question": "For measuring large distances ............... is used as a unit.",
+        "options": [
+            "Kilometer",
+            "Light year"        ],
+        "answer":2 
+    },
+    {
+        "question": "In a tug of war, the rope is steady when the forces applied on both the sides are unbalanced",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "For the stability of stars, gravitational force acts outwards while the gas pressure acts inwards",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "When the fuel in the centre of the star is exhausted, the energy generation stops",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "............... are gigantic spheres of hot gas",
+        "options": [
+            "Sun",
+            "Stars",
+            "Planets"        ],
+        "answer": 2
+    },
+    {
+        "question": "Higher is the mass of the stars, ................ is the number of fuels used.",
+        "options": [
+            "Lower",
+            "Higher"        ],
+        "answer":2 
+    },
+    {
+        "question": "For the Sun, ratio of its surface temperature to temperature at the centre is",
+        "options": [
+            "58 : 1500",
+            "29 : 75000",
+            "1 : 1",
+            "1 : 100"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "............... of a star means change in its properties with time resulting in its passing through different stages",
+        "options": [
+            "Evolution",
+            "Explosion"        ],
+        "answer":1 
+    },
+    {
+        "question": "The Sun will pass through the supergiant stage during its evolution.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "There are other stars having higher or lower mass size and temperature than those of the Sun.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "When sun will become a red giant, its diameter will increase so much that it will swallow Mercury and Venus. ",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "If the properties of Sun had changed then it would have caused changes in the life on the earth.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "The reason for the evolution of stars is the burning of fuels",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "The Sun will end its life as a white dwarf.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Ratio of hydrogen to helium gas present in the Sun is ............... ",
+        "options": [
+            "36 : 13",
+            "72 : 26",
+            "72 : 24",
+            "1 : 1"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A ............... is  a collection of billions of stars.",
+        "options": [
+            "Universe",
+            "Galaxy"        ],
+        "answer": 2
+    },
+    {
+        "question": "There are .............. ways of evolution of stars depending on their initial mass.",
+        "options": [
+            "Two",
+            "Three"        ],
+        "answer":2 
+    },
+    {
+        "question": "Hubble telescope is able to take pictures of the universe from the surface of the earth.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2 
+    },
+    {
+        "question": "In the Sun, helium at the centre of the star acts as a fuel",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2 
+    },
+    {
+        "question": "The star is stable when the gravitational force and gas pressure are balanced.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "As the stars are continuously emitting energy, their energy is continuously decreasing",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Telescope are placed on the surface of the earth and also kept aboard manmade satellites that orbit the earth",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "The Milky Way galaxy is like disc with a bulge in the centre",
+        "options": [
+            "True",
+            "False"            
+        ],
+        "answer": 1
+    },
+    {
+        "question": "if the incense stick is burnt in one corner of the room, the fragrance spreads all over the room.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "The end stage of the star having higher density and gravitational force that even light cannot escape from inside it.",
+        "options": [
+            "White dwarf",
+            "Neutron star",
+            "Black hole"        ],
+        "answer": 3
+    },
+    {
+        "question": "The end stage of the star having initial mass less than 8 times the mass of the Sun. ",
+        "options": [
+            "White dwarf",
+            "Neutron star",
+            "Black hole"        ],
+        "answer":1 
+    },
+    {
+        "question": "Only light can emit from the black hole.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "Higher the mass of the star, .................. is the rate of evolution.",
+        "options": [
+            "Faster",
+            "Slower"        ],
+        "answer":1 
+    },
+    {
+        "question": "Hot gas in the stars disperses in space",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2 
+    },
+    {
+        "question": "The mass of the Sun is 100 times the mass of the earth.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2 
+    },
+    {
+        "question": "Light takes ............... to reach us from the Sun while it takes ............... to reach us from the moon.",
+        "options": [
+            "8 minutes, 1 second",
+            "4 minutes, 2 second"    ],
+        "answer": 1
+    },
+    {
+        "question": "A light year is the distance travelled by light in one year",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "The properties of the Sun have remained unchanged for last 2 billion years",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "A light year is equal to 9.5 x 10 km",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "When a star contracts, ............... .",
+        "options": [
+            "Its mass decreases",
+            "Its mass increases",
+            "Its temperature decreases",
+            "Its temperatures increases"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "The size of the white dwarf is similar to that of the earth but their density is very small",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "............... help us to get all the information about the other components of the universe.",
+        "options": [
+            "Microscope",
+            "Telescope",
+            "Satellites"        ],
+        "answer": 2
+    },
+    {
+        "question": "The end stage of a star is always ............... .",
+        "options": [
+            "Black hole",
+            "Stable",
+            "Unstable",
+            "An explosion"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " More than one star can be produced by the contraction of a huge ............... ",
+        "options": [
+            "Explosion",
+            "Interstellar cloud"        ],
+        "answer": 2
+    },
+    {
+        "question": "The gravitational force between the gas particles of the star keeps the particles together",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Sun appears larger than all other stars because it is nearest to us.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "The mass of the other stars are measured with respect to the mass of the Sun",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Gas pressure depends on the density and temperature of the gas.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Hydrogen makes about 26%  of the mass of the Sun.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2 
+    }
+]

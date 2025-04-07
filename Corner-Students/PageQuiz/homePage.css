@@ -1,0 +1,185 @@
+nav {
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2rem;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background: white;
+    z-index: 10;
+}
+
+nav .right {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+nav .right a {
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1.3rem;
+}
+
+nav .left {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav img {
+    height: 80%;
+}
+
+@media (max-width:700px) {
+
+    nav {
+        padding: 0 1rem;
+    }
+
+    nav .left img {
+        height: 50%;
+    }
+
+    nav .right {
+        gap: 0.8rem;
+    }
+
+    .pdfSection .box {
+        width: 40%;
+    }
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: #EAF3F9;
+}
+
+section.main .title {
+    font-size: 4rem;
+    text-align: center;
+    padding: 2rem;
+}
+
+section.main .container {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+section.main .container>* {
+    width: 50%;
+    margin: auto;
+    margin: 0.5rem 0;
+}
+
+section.main .container h2 {
+    text-align: center;
+}
+
+section.main .container .subjectDiv {
+    margin: 1rem 0;
+}
+
+section.main .container .buttonDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.main .container .buttonDiv button {
+    background: black;
+    color: white;
+    border: none;
+    font-size: 1.3rem;
+    padding: 1rem 0;
+    cursor: pointer;
+    width: 100%;
+}
+
+input[type=range] {
+    -webkit-appearance: none;
+    height: 5rem;
+    width: 100%;
+    cursor: pointer;
+    background: #EAF3F9;
+    position: relative;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+    border-radius: 30px;
+    background: white;
+    height: 3.5rem;
+    width: 3.5rem;
+    padding: 0 0.2rem;
+    transition: .5s;
+}
+
+/* Middle Circle  */
+input[type=range]::-webkit-slider-thumb {
+    margin-top: 0.25rem;
+
+    -webkit-appearance: none;
+    box-shadow: 1px 1px 1px #000031;
+    border: 1px solid #00001E;
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50px;
+    background: black;
+}
+
+select {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    font-size: 1.3rem;
+    border-radius: 10px;
+    padding: 0.5rem 0;
+    border: 1px solid rgb(230, 229, 229);
+}
+
+select:focus {
+    outline: none;
+}
+
+
+@media (max-width:700px) {
+    section.main .container {
+        width: 90%;
+    }
+
+    section.main .container>* {
+        width: 90%;
+    }
+}
+
+.lessonDiv {
+    /* display: flex; */
+    gap: 0.5rem;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.lessonDiv h1 {
+    font-size: 1rem;
+}
+
+.lessonDiv input[type="checkbox"] {
+    height: 1.3rem;
+    width: 1.3rem;
+}

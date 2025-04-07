@@ -1,0 +1,443 @@
+[
+    {
+        "question": "Removal of wastes from the body of animals is carried out by which of the following?",
+        "options": [
+            "Circulatory system",
+            "Conducting tissues",
+            "Excretory system ",
+            "Lower system"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Root pressure is most effective in tall trees",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "Co-ordination in plants is absent",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": "Cavities in brain : ventricles :: Cavity in spinal cord : ?",
+        "options": [
+            "Meninges",
+            "Central canal",
+            "Vertebral column",
+            "Cranium"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Human excretes in the form of",
+        "options": [
+            "Urine",
+            "Uric acid",
+            "Ammonia",
+            "Ornithine"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pick the odd option out.",
+        "options": [
+            "Myelin sheaths",
+            "Dendrites",
+            "Axons",
+            "Kidneys"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Removal of waste or harmful substances from the body is called  ...............",
+        "options": [
+            "Absorption",
+            "Transpiration",
+            "Excretion",
+            "Translocation"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The left side of our brain controls the ............... side of our body and right side of our brain controls ............... side of the body.",
+        "options": [
+            "Upper, lower",
+            "Left, right",
+            "Right,  left",
+            "Lower, upper"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Pick the odd option out.",
+        "options": [
+            "Central nervous system",
+            "Peripheral nervous system",
+            "Association nervous system",
+            "Autonomic nervous system"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What type of tissues are Xylem and Phloem?",
+        "options": [
+            "Conducting tissues",
+            "Transport tissues",
+            "Stem tissues",
+            "Nutrient tissues"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In Balsam, the ripened fruit dehisces (bursts-open) at the right time to disperse the seeds.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1 
+    },
+    {
+        "question": "Which part of the plant is responsible for intake of major nutrients?",
+        "options": [
+            "Flowers",
+            "Stem",
+            "Leaves",
+            "Roots"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Accumulation excess of toxic substances in the body can lead to death.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": "Some specific movements of the plants do not lead to the plant’s growth. Such movements are called ‘...............’.",
+        "options": [
+            "Reflex response movements",
+            "Growth-regarding movements",
+            "Growth-relevant movements",
+            "Growth-irrelevant movements"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "............... are the structural and functional units of the nervous system.",
+        "options": [
+            "Dendrites",
+            "Neurons",
+            "Axons",
+            "Synapse"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The ventricles, central canal and spaces between the meninges are filled with ............... fluid.",
+        "options": [
+            "Cerebro-spinal",
+            "Cerebrum",
+            "Cranial",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A minute space, called the ............... is present between two adjacent neurons",
+        "options": [
+            "Dendrites",
+            "Neurons",
+            "Synapse",
+            "Axons"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Excretion : Urine formation :: Co-ordination : ?",
+        "options": [
+            "Homeostasis",
+            "Oxygenation",
+            "Absorption of water",
+            "Tissue formation"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The action of hormones is very slow but long lasting",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": "Urea is produced by the liver and released into blood.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Movement shown by plants in response to specific chemicals is called ‘...............’.",
+        "options": [
+            "Phototropic movement",
+            "Chemotropic movement",
+            "Tropism",
+            "Growth relevant movements"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "By the process of ..............., a substance either synthesized or absorbed in one part of the body reaches another",
+        "options": [
+            "Transpiration",
+            "Absorption",
+            "Synthesis",
+            "Transportation"
+        ],
+        "answer": 4
+    },
+    {
+        "question": ".......... are present on the leaves of the  insectivorous plant Drosera.",
+        "options": [
+            "Fly-traps",
+            "Mimosas",
+            "Tendrils",
+            "Fibrils"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Roots are responsible for anchorage.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "The cerebellum occupies two-thirds of the brain",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": "Plants use ............... impulses for transfer of information from one place to another.",
+        "options": [
+            "Biological",
+            "Electro-chemical",
+            "Physical",
+            "Hormonal"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Urine is formed by the ............... by separating the waste and unwanted excess substances from the blood.",
+        "options": [
+            "Urethra",
+            "Bladder",
+            "Ureters",
+            "Kidneys"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Food can be carried in a plant only in one direction i.e. upwards.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": "Humans can respond to changes in their surroundings due to nervous control.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Control and co-ordination is brought about with the help of a special type of cells called ................",
+        "options": [
+            "Neurons",
+            "Spinals",
+            "Cranium",
+            "Nephrons"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "............... is also called small brain.",
+        "options": [
+            "Spinal cord",
+            "Cerebellum",
+            "Cerebrum",
+            "Medulla oblongata"
+        ],
+        "answer": 2 
+    },
+    {
+        "question": "Plants need comparatively less energy than animals.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": "As a response to changes in the surroundings, plant hormones bring about various movements in plants.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Gaseous substances are given out by ...............",
+        "options": [
+            "Translocation",
+            "Absorption",
+            "Evaporation",
+            "Diffusion"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The root system of plants responds to stimuli like gravitation and water.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": "Membrane of Bowman’s capsule is",
+        "options": [
+            "Impermeable",
+            "Semipermeable",
+            "Completely permeable",
+            "Non-permeable"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In plants, movements are mainly in the form of ............... given to the stimuli.",
+        "options": [
+            "Reflexes",
+            "Moving",
+            "Responses",
+            "Action"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Muscle cells have the ability to change their shape due to a special type of ................",
+        "options": [
+            "Carbohydrate",
+            "Saturated fat",
+            "Sugar",
+            "Protein"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "............... is largest part of our brain.",
+        "options": [
+            "Spinal cord",
+            "Cerebellum",
+            "Cerebrum",
+            "Medulla oblongata"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The network of capillaries in Bowman's capsule is called as",
+        "options": [
+            "Nephron",
+            "Bowman’s capsule",
+            "Glomerulus",
+            "Capillaries"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Water and minerals enter the cells on the root surface due to ................",
+        "options": [
+            "Cell intake properties.",
+            "Differences in concentration.",
+            "Diffusion of gases",
+            "Absorption by the cell wal"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Pick the odd man out with respect to the process of a particular system.",
+        "options": [
+            "Stimuli",
+            "Dialysis",
+            "Water-level",
+            "Enzyme level"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Transpiration : Xylem :: Translocation : ?",
+        "options": [
+            "Phloem",
+            "Transportation",
+            "Conductor",
+            "Stomata"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Plants give out water in the form of vapour through the ............... on their leaves.",
+        "options": [
+            "Veins",
+            "Spots",
+            "Stomata",
+            "Tips"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Pituitary is located",
+        "options": [
+            "Anterolateral sides of trachaea",
+            "Behind thyroid gland",
+            "Anterior end of each kidney",
+            "At the base of brain"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The spinal cord is protected by the ................",
+        "options": [
+            "Meninges",
+            "Cranium",
+            "Vertebral column",
+            "Central canal"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Digestion : Digestive system :: Respiration : ?",
+        "options": [
+            "Inhalation and exhalation",
+            "Respiratory circulation",
+            "Respiratory system",
+            "Circulatory system"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The large brain surface has deep, irregular ridges and grooves which are called ...............",
+        "options": [
+            "Convolutions",
+            "Ups and downs",
+            "Highs and lows",
+            "Crests"
+        ],
+        "answer": 1
+    }
+]

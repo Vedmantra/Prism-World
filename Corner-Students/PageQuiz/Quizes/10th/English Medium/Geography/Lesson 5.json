@@ -1,0 +1,152 @@
+[
+    {
+        "question": "The rainforests are rightly called the ................ .",
+        "options": [
+            "Roof of the world",
+            "Heaven of the world",
+            "Lungs of the world",
+            "Desert of the world"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "In the swampy areas of the Assam huge ................ are found.",
+        "options": [
+            "One horned rhinoceroses",
+            "Tiger",
+            "Elephants",
+            "Monkey"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Identify the odd man out: With reference to fauna of Brazil",
+        "options": [
+            "Anaconda",
+            "Tamarin",
+            "Red Panda",
+            "Lion"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "The ever green forests of India are found ................ rainfall region.",
+        "options": [
+            "1000mm",
+            "2000mm",
+            "3000mm",
+            "4000mm"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Identified the odd man out: With reference to India",
+        "options": [
+            "Mangrove forests",
+            "Mediterranean forests",
+            "Thorny bush-type vegetation",
+            "Equatorial forests"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "In which country a greater diversity of vegetation is found? What is the reason is behind it?",
+        "options": [
+            "India",
+            "Brazil",
+            "China",
+            "USA"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "In which country do equatorial forests occupy a greater area",
+        "options": [
+            "India",
+            "Brazil",
+            "China",
+            "USA"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "On which coast do you mainly find the coastal vegetation?",
+        "options": [
+            "Western",
+            "Eastern",
+            "Northern",
+            "Southern"
+        ],
+        "answer":2
+    },
+    {
+        "question": "Brazil has the largest number of ............... species in the world",
+        "options": [
+            "Flowers",
+            "Vegetation",
+            "Birds",
+            "Above All"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "In Brazil, rainfall varies due to ................ .",
+        "options": [
+            "Climate",
+            "Physiography",
+            "Vegetation",
+            "Forests"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "In the swampy areas of the Pantanal huge ................. are found.",
+        "options": [
+            "Pigs",
+            "Crocodiles",
+            "Anacondas",
+            "Horse"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "The swampy areas near the coastal areas having saline soil are called ................ in India.",
+        "options": [
+            "Kharland",
+            "Sundarbans",
+            "Dryland",
+            "Wetland"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Which forests are found in western snow-capped regions.",
+        "options": [
+            "Sahara",
+            "Thar",
+            "Cold",
+            "Hot"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Where do you find thorny and shrub vegetation found in India?",
+        "options": [
+            "Central",
+            "Northern",
+            "Southern",
+            "Eastern"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Which type of forests found in India are not found in Brazil",
+        "options": [
+            "Evergreen Forests",
+            "Deciduous Forests",
+            "Coastal Forests",
+            "Himalayan Forests"
+        ],
+        "answer":3 
+    }
+]

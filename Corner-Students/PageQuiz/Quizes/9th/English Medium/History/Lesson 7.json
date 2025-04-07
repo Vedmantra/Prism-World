@@ -1,0 +1,195 @@
+[
+    {
+        "question": "Full form of INSAT",
+        "options": [
+            "Indian National Satellite",
+            "Indian Nuclear Satellite",
+            "International Nuclear Satellite"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Prithvi could travel a distance of ............... km due to the nuclear ballistic missile.",
+        "options": [
+            "170-300",
+            "150-300",
+            "200-300",
+            "150-310"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Through ............... , Public Primary Health Centres in villages have been connected with super specialtyhospitals.",
+        "options": [
+            "INSAT",
+            "NCSR",
+            "APPLE",
+            "BHASKAR - 1"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "More than ............... oil wells and ............... natural gas wells dug in the Bombay High Area.",
+        "options": [
+            "8400,33",
+            "8500,33",
+            "8400,34",
+            "8500, 34"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "The first Diesel engine was manufactured at the ............... at Varanasi.",
+        "options": [
+            "Chittaranjan Locomotive Works",
+            "Diesel Locomotive Works"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Full Form of APPLE",
+        "options": [
+            "Airplane passenger Payload Experiment",
+            "Ariane Passenger Payload Experiment",
+            "Ariane Payload Passenger Experiment"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Who is the Director of the Bhabha Atomic Research Centre ?",
+        "options": [
+            "Dr. Raja Ramanna",
+            "Dr. Homi Sethna",
+            "Dr. Homi Bhabha",
+            "Dr. A.P.J Abdul Kalam"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "India successfully performed her first nuclear test at Pokharan in Rajasthan on ............... .",
+        "options": [
+            "18 May 1975",
+            "18 May 1974",
+            "17 May 1974",
+            "17 May 1975"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "When was Apple launched?",
+        "options": [
+            "19 June , 1981",
+            "19 June, 1982",
+            "19 July, 1981",
+            "19 July, 1982"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "What was Heavy Water Projects later named as?",
+        "options": [
+            "Heavy Water Activity",
+            "Heavy Water Institution",
+            "Heavy Water Department",
+            "Heavy Water Board"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Who took the decision of carrying out a �Nuclear Explosion�",
+        "options": [
+            "Prime Minister Jawaharlal Nehru",
+            "Prime Minister Indira Gandhi",
+            "Dr. A. P. J Abdul Kalam",
+            "Dr. Raja Ramanna"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Answer in one word: Who held the distinction of being the main internet service provider in India?",
+        "options": [
+            "VSNL",
+            "BSNL", 
+            "ISD",
+            "MTNL"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Full Form of ISRO?",
+        "options": [
+            "Indian Space Recovery Organisation",
+            "Indian Satellite Research Organisation",
+            "Indian Space Research Organisation"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "............... is celebrated as �Science Day�.",
+        "options": [
+            "28 February",
+            "28 March",
+            "28 January",
+            "28 April"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "When was Indian Space Research Organisation established?",
+        "options": [
+            "15 august 1990",
+            "15 august 1969",
+            "14 august 1969",
+            "15 august 1969"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The contribution of ............... In the field of telecommunication service is significant.",
+        "options": [
+            "VSNL",
+            "BSNL",
+            "Sam Pitroda",
+            "MTNL"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Full form of NPCIL",
+        "options": [
+            "Nuclear Power Corporation of India Ltd.",
+            "Nuclear Point Corporation of India Ltd.",
+            "New Power Corporation of India Ltd.",
+            "Nuclear Power Company of India Ltd."
+        ],
+        "answer":1 
+    },
+    {
+        "question": "True or False and If False, rewrite the correct sentence. NPCIL was set up in 1988 to generate electricity from atomic energy.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "What was one of them tests done called?",
+        "options": [
+            "Hydrogen Bomb",
+            "Oxygen Bomb",
+            "Hydrogen test",
+            "Oxygen Test"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "What made easy to train scientists and technicians in setting up and running an earth station within thecountry and in which year?",
+        "options": [
+            "Telex Service,1963",
+            "Domestic satellite communication earth station,1967",
+            "International telecommunication service,1970",
+            "ISD,1972"
+        ],
+        "answer":2 
+    }
+]

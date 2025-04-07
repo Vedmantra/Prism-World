@@ -1,0 +1,153 @@
+
+[
+    {
+        "question": "In isopleth maps the distribution is shown with the help of ...... showing equal values.",
+        "options": [
+            "Colour",
+            "Shades",
+            "Dots",
+            "Lines"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Field visit are extremely useful for understanding the correlation between ...... and environment.",
+        "options": [
+            "Animals",
+            "Humans",
+            "Natural condition",
+            "Technology"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In choropleth maps only one value is given to one ...... unit in a region.",
+        "options": [
+            "Administrative",
+            "Political",
+            "Physical",
+            "Sub-administrative"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The dot method of map making is more suitable for that variables which is freely ...... across the region.",
+        "options": [
+            "Uniform",
+            "Even",
+            "Specific",
+            "Scattered"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In 'Dot maps' the size of dot should be ......",
+        "options": [
+            "Even",
+            "Uneven",
+            "Uniform",
+            "Balance"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "While showing the population distribution rural population is shown by ...... and ...... are used to show urban population.",
+        "options": [
+            "Dot, point",
+            "Point, circle",
+            "Dots, circles",
+            "Point, lines"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "To show the distribution of population in the district ...... method of map has been used.",
+        "options": [
+            "Dot",
+            "Isopleth",
+            "Choropleth",
+            "Political"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "The maps are prepared with special theme are ...... maps.",
+        "options": [
+            "Physical",
+            "Political",
+            "General",
+            "Thematic"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A ...... map are prepared using statistical data.",
+        "options": [
+            "Choropleth",
+            "Isopleth",
+            "Dot",
+            "Thematic"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In ...... maps, values of the variable are written on the map by their respective locations.",
+        "options": [
+            "Dot",
+            "Isopleth",
+            "Choropleth",
+            "Political"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The main aim of map is to show ...... of place.",
+        "options": [
+            "Name",
+            "Area",
+            "Natural factors",
+            "Location"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In Choropleth maps the ...... and the ...... values of the given data of the variable are taken into consideration.",
+        "options": [
+            "Smallest, largest",
+            "First, last",
+            "Bigger, smaller",
+            ""
+        ],
+        "answer": 0
+    },
+    {
+        "question": "While preparing dot maps only data gathered through ...... is used.",
+        "options": [
+            "Counting",
+            "Measuring",
+            "Surveying",
+            "Analysing"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Temperature condition of Maharashtra state is shown with help of ...... method of map.",
+        "options": [
+            "Dot",
+            "Isopleth",
+            "Choropleth",
+            "Contour"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In ...... map the data regarding various geographical variables is shown by shades, tint of various colours.",
+        "options": [
+            "Isopleth",
+            "Choropleth",
+            "Dot",
+            "Physical"
+        ],
+        "answer": 1
+    }
+]

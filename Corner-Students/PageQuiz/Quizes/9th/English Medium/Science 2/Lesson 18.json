@@ -1,0 +1,222 @@
+[
+    {
+        "question": "The wavelength of Micro waves is between .............. and ...............",
+        "options": [
+            "0.3 mm and 20 cm",
+            "400 nm and 800 nm",
+            "800 nm and 0.3 mm",
+            "300 pm and 400 nm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The biggest optical telescope in India is situated at ...............",
+        "options": [
+            "Bengaluru",
+            "Pune",
+            "Mumbai",
+            "Nainital"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Out of the following ............... is a telescope",
+        "options": [
+            "INSAT",
+            "GSAT",
+            "EDUSAT",
+            "GMRT"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The only light radiation that our eyes are capable to sense is ................",
+        "options": [
+            "X-rays",
+            "Radio waves",
+            "Visible rays",
+            "Micro waves"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The wavelength of Ultraviolet rays is between ...............",
+        "options": [
+            "3pm and 300pm",
+            "400 nm and 800 nm",
+            "800 nm and 0.3 mm",
+            "300 pm and 400 nm"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The GMRT gives data equivalent to a telescope having a dish with diameter ...............",
+        "options": [
+            "20 m",
+            "400 m",
+            "25 km",
+            "3 km"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The National Aeronautics and Space Administration launched an X-ray telescope in space called ..............",
+        "options": [
+            "Hubble",
+            "Chandra",
+            "IRS",
+            "Astrosat"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "GMRT is used for ............... waves.",
+        "options": [
+            "Radio",
+            "Micro",
+            "Ultraviolet",
+            "Gamma"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The wavelength of ............... rays are shorter than 3 pm.",
+        "options": [
+            "Radio",
+            "Micro",
+            "Ultraviolet",
+            "Gamma"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The wavelength of ............... waves is between 0.3 mm and 20 cm.",
+        "options": [
+            "Radio",
+            "Micro",
+            "Ultraviolet",
+            "Gamma"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The wavelength of X-rays is between ............... and .............",
+        "options": [
+            "3pm and 300pm",
+            "400 nm and 800 nm",
+            "800 nm and 0.3 mm",
+            "300 pm and 400 nm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "INSAT and GSAT are the satellites used for ...............",
+        "options": [
+            "Telecommunication network, television broadcasting.",
+            "Education",
+            "Disaster management",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hubble satellite is orbiting at a height of ............... km earth.",
+        "options": [
+            "259",
+            "958",
+            "589",
+            "859"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The ............... satellite series is used for education.",
+        "options": [
+            "INSAT",
+            "GSAT",
+            "EDUSAT",
+            "Astrosat"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The ............... series of satellite is used for monitoring and management of natural resources as well as disaster management.",
+        "options": [
+            "INSAT",
+            "GSAT",
+            "IRS",
+            "Astrosat"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The wavelength of visible light is between ................",
+        "options": [
+            "0.3 mm and 20 cm.",
+            "400 nm and 800 nm",
+            "800 nm and 0.3 mm",
+            "300 pm and 400 nm"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The wavelength of Radio waves is longer than about ................",
+        "options": [
+            "20 cm",
+            "400 nm",
+            "0.3 mm",
+            "300 pm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hubble telescope has a diameter of ............... inches",
+        "options": [
+            "25",
+            "94",
+            "20",
+            "3"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The wavelength of Gamma rays is shorter than ...............",
+        "options": [
+            "20 cm",
+            "400 nm",
+            "0.3 pm",
+            "3 pm"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The wavelength of Infrared waves is between .............",
+        "options": [
+            "0.3 mm and 20 cm",
+            "400 nm and 800 nm",
+            "800 nm and 0.3 mm",
+            "700 nm and 0.3 nm"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A telescope is used to observe ................",
+        "options": [
+            "Sky",
+            "Clouds",
+            "Space",
+            "Weather"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The first scientist to use a telescope for space observation was ...............",
+        "options": [
+            "Aryabhatt",
+            "Chandra",
+            "Galileo",
+            "Astrosat"
+        ],
+        "answer": 3
+    }
+]

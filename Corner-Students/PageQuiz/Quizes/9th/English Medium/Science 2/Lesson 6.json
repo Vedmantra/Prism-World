@@ -1,0 +1,391 @@
+[
+    {
+        "question": "Based on which criteria are Phanerogams classified into gymnosperms and angiosperms?",
+        "options": [
+            "Flowers are coloured or not",
+            "Seeds are covered or naked",
+            "Shaped and structure of leaves.",
+            "Position of fruit formed on stem."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Thallophyta",
+        "options": [
+            "Mainly grow in water",
+            "Are flower bearing",
+            "Have no chlorophyll",
+            "Mainly grow in wetlands"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Stem of dicotyledonous plants are ..............",
+        "options": [
+            "Hollow",
+            "Strong",
+            "weak",
+            "None of the above"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "The plants of Bryophyta are ...............",
+        "options": [
+            "Thalloid",
+            "Multicellular",
+            "Autotrophic",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "............... is a division under Phanerogam",
+        "options": [
+            "Thallophyta",
+            "Bryophyta",
+            "Gymnosperms",
+            "Pteridophyta"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Flowers of monocotyledonous have parts with multiples of ..............",
+        "options": [
+            "4",
+            "5",
+            "3",
+            "6"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Chloroplasts in Spirogyra are ",
+        "options": [
+            "Scattered",
+            "Artificial",
+            "Linear",
+            "Spiral"
+        ],
+        "answer": 4 
+    },
+    {
+        "question": "The group of plants in division Thallophyta are called as",
+        "options": [
+            "Cryptogams",
+            "Bacteria",
+            "Algae",
+            "None of these"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following have well developed conducting system?",
+        "options": [
+            "Fungi",
+            "Ulva",
+            "Ferns",
+            "Riccia"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "The presence or absence of organs is the first criterion for classification of .............",
+        "options": [
+            "Fungi",
+            "Plants",
+            "Protists",
+            "Animals"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Spirogyra is named so because of ...............",
+        "options": [
+            "Its large spiral nucleus.",
+            "Its spirally arranged green thread like chloroplast.",
+            "Its spiral cell wall",
+            "All of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the similarity between Bryophyta and Pteridophyta?",
+        "options": [
+            "Presence of chlorophyll",
+            "Conducting system",
+            "Presence of Rhizoids",
+            "Complete body structure."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Banana ............... stem",
+        "options": [
+            "Strong",
+            "Hard",
+            "False",
+            "Hallow"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Plants which have special structures for reproduction and produce seeds are called ........",
+        "options": [
+            "Cryptogams",
+            "Phanerogams",
+            "Thallophytes",
+            "Gymnosperms"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Monera is ...............",
+        "options": [
+            "Prokaryotic",
+            "Eukaryotic",
+            "Multicellular",
+            "All of the above"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Onion seed has .............. cotyledon",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "All pteridophytes are produced by",
+        "options": [
+            "Gamete formation and spores",
+            "Flowering",
+            "Seeds"        ],
+        "answer": 1
+    },
+    {
+        "question": "Pteridophytes have separate tissues for conduction",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Male and Female flowers of ............... are borne on different sporophylls of the same plant",
+        "options": [
+            "Angiosperms",
+            "Gymnosperm",
+            "Thallophyta",
+            "Bryophyta"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Gymnosperms are ...............",
+        "options": [
+            "Evergreen",
+            "Perennial",
+            "Woody",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Depending upon whether seeds of the plant are enclosed within a fruit or not, phanerogams are classified as gymnosperms and angiosperms.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Maize is an example of ",
+        "options": [
+            "Dicotyledonous plant",
+            "Monocotyledonous plant"        ],
+        "answer":2 
+    },
+    {
+        "question": "Robert Whittaker proposed",
+        "options": [
+            "Animal classification",
+            "Plant Classification",
+            "Five Kingdom Classification",
+            "Classification of Phylum"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Plants perform photosynthesis with the help of ..............",
+        "options": [
+            "Starch",
+            "Glucose",
+            "Chlorophyll",
+            "Soil"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is not an example of a  Dicotyledonous plant?",
+        "options": [
+            "Bamboo",
+            "Banyan",
+            "Ground nut",
+            "Chick pea"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a example of a Cryptogam?",
+        "options": [
+            "Protista",
+            "Amoeba",
+            "Chara",
+            "Cycas"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Pick the odd option out.",
+        "options": [
+            "Riccia",
+            "Yeast",
+            "Moulds",
+            "Ulva"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In pteridophytes, sexual reproduction occurs by ............... formation.",
+        "options": [
+            "Zygote",
+            "Pollen",
+            "Spore",
+            "All of above"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The 'Five Kingdom classification was given by",
+        "options": [
+            "Eicher",
+            "Linnaeus",
+            "Whittaker",
+            "None of above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Organisms of kingdom Monera are",
+        "options": [
+            "Autotrophic",
+            "Multicellular",
+            "Prokaryotic",
+            "Flowering"
+        ],
+        "answer": 3
+    },
+    {
+        "question": ".............. which do not have chlorophyll are also included in Thallophyta.",
+        "options": [
+            "Virus",
+            "Bacteria",
+            "Algae",
+            "Fungi"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "............... are called 'Amphibians' of plant world.",
+        "options": [
+            "Thallophytes",
+            "Phanerogams",
+            "Bryophytes",
+            "Ulva"
+        ],
+        "answer": 3
+    },
+    {
+        "question": ".............. plants have soft and fiber - like body.",
+        "options": [
+            "Angiosperms",
+            "Gymnosperms",
+            "Thallophyta",
+            "Bryophyta"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Dicotyledonous plants are plants with two",
+        "options": [
+            "Cotyledons",
+            "Seeds",
+            "Flowers",
+            "Spores"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Pores of Fern plants are formed",
+        "options": [
+            "On the anterior side of stem",
+            "On the anterior side of leaves.",
+            "On the posterior side of stem",
+            "On the posterior side of leaves."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Pick the odd option out.",
+        "options": [
+            "Pinus",
+            "Cycas",
+            "Lily",
+            "Thuja"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Living organisms of kingdom ...............  are the main source of food for all other living organisms.",
+        "options": [
+            "Fungi",
+            "Monera",
+            "Animalia",
+            "Plantae"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Phanerogams and Cryptogams, according to Eichler are",
+        "options": [
+            "Sub-kingdoms",
+            "Phyla",
+            "Newly added Kingdoms",
+            "Sub-Phyla"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Following is an example of Thallophyta :",
+        "options": [
+            "Funaria",
+            "Ulothrix",
+            "Marchantia",
+            "Riccia"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Pick the odd option out.",
+        "options": [
+            "Sargassum",
+            "Marchantia",
+            "Riccia",
+            "Anthoceros"
+        ],
+        "answer": 1
+    }
+]

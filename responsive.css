@@ -7,11 +7,6 @@
     }
 
     /* ? ------------------ Master Code ------------------ */
-    .primary-button,
-    .secondary-button {
-        font-size: 1.3rem;
-        padding: 1rem 2rem;
-    }
 
     section {
         padding-top: 1rem;
@@ -24,7 +19,7 @@
         margin: 3rem 0;
     }
 
-    /* ? ------------------ Master Code ------------------ */
+    /* ? ------------------ Nav ------------------ */
 
     nav {
         padding: 0 1rem;
@@ -40,17 +35,31 @@
 
     nav a {
         font-size: 1rem !important;
-        /* background: red; */
     }
+
+    nav .right {
+        position: absolute;
+        background: white;
+        display: flex;
+        align-items: start;
+        /* justify-content: center; */
+        flex-direction: column;
+        width: 50%;
+        height: 100vh;
+        padding: 1rem;
+        right: -50%;
+        top: 10vh;
+    }
+
+    nav .toggleDiv {
+        display: block;
+    }
+
 
     /* ? ------------------ Hero ------------------ */
 
-    section.hero img {
-        height: 120px !important;
-    }
-
-    section.hero .content {
-        /* padding-top: 2rem; */
+    section.hero .content img {
+        height: 60px;
     }
 
     section.hero .content h1 {
@@ -60,27 +69,30 @@
     section.hero .content h2 {
         width: 90%;
         font-size: 1.3rem;
-        /* margin-bottom: 1rem; */
         margin: 1rem 0;
         line-height: 1.8rem;
     }
 
     section.hero #img1 {
+        height: 120px;
         top: 90px;
         left: 0px;
     }
 
     section.hero #img2 {
+        height: 120px;
         top: 90px;
         right: 0px;
     }
 
     section.hero #img3 {
+        height: 120px;
         bottom: 20px;
         left: 0px;
     }
 
     section.hero #img4 {
+        height: 120px;
         bottom: 0px;
         right: 0px;
     }
@@ -104,6 +116,12 @@
         left: 50%;
         height: 70px !important;
     }
+
+    /* ? ------------------ Reviews ------------------ */
+
+    /* .reviews img {
+        width: 150%;
+    } */
 
     /* ? ------------------ Map ------------------ */
 
@@ -175,6 +193,12 @@
     section.contact .container2 {
         /* flex-direction: column; */
         gap: 2rem;
+    }
+
+    .reviews .images {
+        width: 100%;
+        margin: auto;
+        columns: 1;
     }
 }
 

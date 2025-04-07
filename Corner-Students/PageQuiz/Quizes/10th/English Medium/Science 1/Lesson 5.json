@@ -1,0 +1,332 @@
+
+[
+    {
+        "question": "Melting point of solid decreases as we go higher than sea level.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The mass of water vapor per unit volume of air.",
+        "options": [
+            "Humidity",
+            "Absolute humidity",
+            "Relative humidity",
+            "Dew point"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... is a measure of degree of hotness or coldness of an object.",
+        "options": [
+            "Heat",
+            "Temperature"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the phenomenon that is studied using Hope’s apparatus.",
+        "options": [
+            "Latent heat",
+            "Anomalous behavior"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Calorimeter is used to measure the specific heat of an object.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When a liquid is heated upto a certain temperature, it ......",
+        "options": [
+            "Expands",
+            "Contracts"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The graph shows the exceptional behavior of ............... between temperatures 0°C to 4°C.",
+        "options": [
+            "Water",
+            "Steam",
+            "Liquid"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "1kcal = ............... cal.",
+        "options": [
+            "10",
+            "100",
+            "1000"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The SI unit of specific heat is ............... .",
+        "options": [
+            "‘c’",
+            "J/kg°C",
+            "m x c x T",
+            "1 cal/g°C"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The presence of water vapor in the atmosphere.",
+        "options": [
+            "Humidity",
+            "Absolute humidity",
+            "Relative humidity",
+            "Dew point"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When air cools, it becomes saturated with water vapor and excess of water vapor is converted into tiny droplets.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The crumbling of the rock is due to the anomalous expansion of water.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The constant temperature at which the water converts into steam is called the ......",
+        "options": [
+            "Boiling point of water",
+            "Melting point of ice"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which out of the two thermometers will record the decrease in temperature first?",
+        "options": [
+            "T₁",
+            "T₂"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Calorimeter works on the principle of heat exchange.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Absolute humidity is measured in percentage.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The amount of heat necessary to raise the temperature of 1g of water by 1°C from 14.5°C to 15.5°C.",
+        "options": [
+            "One cal heat",
+            "One kcal heat",
+            "Latent heat"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "As soon as pressure is removed, the melting point of ice is restored to 0°C.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Humidity is measured by relative humidity.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Heat energy lost by the hot object is equal to heat energy gained by cold object.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Ice: 80cal/g:: Water: ...... .",
+        "options": [
+            "540 cal/g",
+            "530cal/g",
+            "540g/cal"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Anomalous behavior of water can be studied by calorimeter.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If water is heated beyond 4°C, it ...... .",
+        "options": [
+            "Expands",
+            "Contracts"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Aquatic plants and animals survive even when the atmospheric temperature goes below 0°C.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The behavior of water between its temperatures from 0°C to 4°C is called ...... .",
+        "options": [
+            "Anomalous behavior of water",
+            "Specific heat of water"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "1 calorie = ...... joule.",
+        "options": [
+            "4.18",
+            "0.418",
+            "41.8"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In CGS system, heat is measured in ...... .",
+        "options": [
+            "Joule",
+            "Calorie"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In SI system, heat is measured in ...... .",
+        "options": [
+            "Joule",
+            "Calorie"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Absolute humidity is measured in.",
+        "options": [
+            "Kg/m³",
+            "Kg/m",
+            "Kg",
+            "Kg/m²"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "All the bodies expand ...... on heating.",
+        "options": [
+            "Uniformly",
+            "Constantly"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The heat energy absorbed at constant temperature by unit mass of a liquid to convert into gaseous phase is called ...... .",
+        "options": [
+            "Specific latent heat of fusion",
+            "Specific latent heat of vaporization"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The SI unit of heat is named after the scientist ...... .",
+        "options": [
+            "James Prescott Joule",
+            "Joseph Prescott Joule",
+            "Max Planck"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The amount of heat energy required to raise the ...... of a unit mass of an object by ...... is called the specific heat of that object.",
+        "options": [
+            "1°C, cal/g°C",
+            "Cal/g°C, temperature",
+            "1 cal/g°C, 1°C",
+            "Temperature, 1°C"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The conversion of ice to water takes place at ...... temperature.",
+        "options": [
+            "Critical",
+            "Constant"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Name the phenomenon that takes place by studying the above graph.",
+        "options": [
+            "Anomalous behavior of water",
+            "Specific heat capacity of water",
+            "Latent heat of water"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Heat energy is released by water during its transformation from liquid phase to gas phase.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "During transition of solid phase to liquid, the heat energy is utilized for ...... bonds between the atoms or molecules in the solid.",
+        "options": [
+            "Binding",
+            "Weakening"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When a liquid is cooled upto a certain temperature, it ...... .",
+        "options": [
+            "Expands",
+            "Contracts"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What will be the final readings of both the thermometers at the end of the experiment?",
+        "options": [
+            "4°C",
+            "0°C"
+        ],
+        "answer": 2
+    }
+]

@@ -1,0 +1,390 @@
+[
+    {
+        "question": "…………… river in Tamilnadu is referred to as Puzzar (Gutter river).",
+        "options": [
+            "Palar",
+            "Kaveri"        ],
+        "answer":1 
+    },
+    {
+        "question": "Find the odd one out",
+        "options": [
+            "Bleaching chemicals",
+            "Burning of timber",
+            "Disposal of floral offerings",
+            "Thermal power plant"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Soil fertility decreases due to either natural or manmade reasons",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": " If wet waste is dumped at wrong place instead of composting, pathogens grow upon it",
+        "options": [
+            "False",
+            "True"
+        ],
+        "answer": 1
+    },
+    {
+        "question": " Ozone layer is present above the stratosphere.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": "Oil spillage is a natural reason for water pollution.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": "Forest fire is considered to be natural cause for water pollution",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2 
+    },
+    {
+        "question": "............... makes the environment poisonous and unhealthy.",
+        "options": [
+            "Pollutants",
+            "Biotic factors",
+            "Abiotic factors"        ],
+        "answer": 1
+    },
+    {
+        "question": " Diseases like hepatitis, typhoid are mainly caused due to …………… pollution.",
+        "options": [
+            "Air",
+            "Water",
+            "Soil"        ],
+        "answer": 2
+    },
+    {
+        "question": "Excessive algal bloom pollutes water",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": " Acidity of the soil and water bodies increases due to acid rain",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": " …………… pollutants are destroyed in the due course of time by nature’s rule",
+        "options": [
+            "Natural",
+            "Manmade"
+        ],
+        "answer":1 
+    },
+    {
+        "question": " Irritation of eyes : Air pollution :: Typhoid : …………",
+        "options": [
+            "Water pollution",
+            "Soil Pollution"        ],
+        "answer":1 
+    },
+    {
+        "question": " …………… is one of the factors causing pollution on the earth",
+        "options": [
+            "Afforestation",
+            "Industrialization"        ],
+        "answer": 2
+    },
+    {
+        "question": " Many problems have arisen on the earth due to …………… interference in the nature",
+        "options": [
+            "Environmental",
+            "Human"        ],
+        "answer": 2
+    },
+    {
+        "question": "Bacteria: Biological pollutant :: Weedicides: ……………",
+        "options": [
+            "Organic pollutant",
+            "Inorganic pollutant"        ],
+        "answer": 1
+    },
+    {
+        "question": " Excessive growth of aquatic weeds results in",
+        "options": [
+            "Faster decomposition of organic matter",
+            "Depletion of oxygen levels",
+            "Silicosis",
+            "Increase in salt content of water"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Pollutants do not cause any harmful effects on biotic and abiotic factors",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "Worst ever industrial accident that occurred in India during 1984",
+        "options": [
+            "Bhopal gas accident",
+            "Bihar gas accident"       ],
+        "answer":1 
+    },
+    {
+        "question": " Aliments of liver, kidneys are the effects on human beings due to …………… pollution",
+        "options": [
+            "Air",
+            "Water"        ],
+        "answer":2 
+    },
+    {
+        "question": "Pollutants are the factors that affect the natural functions of ecosystem.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": "…………… is a manmade reason for air pollution.",
+        "options": [
+            "Microbes in air",
+            "Burning of solid waste",
+            "Volcanic eruption"        ],
+        "answer":2 
+    },
+    {
+        "question": " Excessive algal growth pollutes …………….",
+        "options": [
+            "Soil",
+            "Water"        ],
+        "answer": 2
+    },
+    {
+        "question": " Contamination of natural environment that will be harmful to ecosystem is called as …………",
+        "options": [
+            "Pollution",
+            "Pollutant"        ],
+        "answer":2 
+    },
+    {
+        "question": " Methane: Air pollution :: Aquatic weeds: …………",
+        "options": [
+            "Water pollution",
+            "Soil pollution"        ],
+        "answer": 1
+    },
+    {
+        "question": " Diseases spread through various pathogens.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": " Algal Growth : Water pollution: Leaching of toxic substances: ……………",
+        "options": [
+            "Air pollution",
+            "Soil pollution"        ],
+        "answer": 2
+    },
+    {
+        "question": "Excessive use of chemical fertilizers can cause water pollution.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": " …………… pollution is caused by harmful substances like poisonous gases, smoke, particulate matter and microbes",
+        "options": [
+            "Water",
+            "Air",
+            "Soil"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " …………… is a natural reason for air pollution.",
+        "options": [
+            "Forest fires",
+            "Fuels",
+            "Atomic energy plants",
+            "Forest fires"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Ban over CFC is a preventive measure against water pollution.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": " Find the odd one out.",
+        "options": [
+            "Industrialization",
+            "Mining",
+            "Forest fires",
+            "Transportation"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Earthquakes are considered as the natural reason for causing air pollution.",
+        "options": [
+            "True",
+            "False"
+                   ],
+        "answer": 1
+    },
+    {
+        "question": " Soil pollution occurs due to mixing of human wastes, birds and animal waste",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Find the odd one out.",
+        "options": [
+            "Kerosene",
+            "Petrol",
+            "LPG",
+            "Biogas"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Government body that that supervise and checks the pollution in industries.",
+        "options": [
+            "Maharashtra Pollution Control Board",
+            "Pollution Control Board in Maharashtra"        ],
+        "answer": 1
+    },
+    {
+        "question": "The city that was named as ‘Black City’ when smoke and soot caused night like situation.",
+        "options": [
+            "London",
+            "Petersburg",
+            "Ireland"        ],
+        "answer": 2
+    },
+    {
+        "question": "The natural cause of air pollution is",
+        "options": [
+            "Burning of fuels",
+            "Industrialization",
+            "Forest fires",
+            "Atomic energy plants"
+        ],
+        "answer": 3
+    },
+    {
+        "question": " There should be proper disposal of stinking waste generated in cities",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": " Arsenic : Inorganic pollutants :: Algae: ……………",
+        "options": [
+            "Inorganic pollutant",
+            "Biological pollutant"        ],
+        "answer": 2
+    },
+    {
+        "question": "Soil fertility gets affected due to water pollution.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is NOT a cause of air pollution?",
+        "options": [
+            "Particulate matter",
+            "Nitrous oxides",
+            "Pollens",
+            "Nematodes"
+        ],
+        "answer": 4
+    },
+    {
+        "question": " The problem of water pollution increases due to …………… pollution",
+        "options": [
+            "Air",
+            "Soil"        ],
+        "answer": 2
+    },
+    {
+        "question": "Find the odd one out",
+        "options": [
+            "Retarded plant growth",
+            "Leaching of toxic substances",
+            "Adverse effects on sea birds",
+            "Decreased dissolved oxygen level"
+        ],
+        "answer": 2
+    },
+    {
+        "question": " Pollution occurs due to increasing population.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": " Carbon dioxide gas is released from atomic energy plants",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": " Air is a homogeneous mixture of different gases",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Find the odd one out",
+        "options": [
+            "Find the odd one out",
+            "Acid rain",
+            "Global warming",
+            "Green-house effect"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Ozone layer prevents the earth from ultraviolet rays of the Sun",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": "Global temperature is gradually increasing due to green-house effect",
+        "options": [
+            "True",
+            "False"
+           
+        ],
+        "answer": 1
+    }
+]

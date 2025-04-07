@@ -1,0 +1,315 @@
+[
+    {
+        "question": " ............... is part of the disaster relief in the school.",
+        "options": [
+            "Mock Drill",
+            "Fire extinguisher",
+            "Both 1 & 2",
+            "Age of students"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Fire due to flammable liquid substances: Class B Fire:: Fire due to combustible metals: ...............",
+        "options": [
+            "Class D",
+            "Class B"        ],
+        "answer":1 
+    },
+    {
+        "question": " One should develop the habit of switching off the gas regulators at night.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Fire due to electricity or oil can be best suppressed with the help of water.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": "The shocks and waves formed in the interior of the earth spread on the surface in all directions.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": " Strong waves at first reach to the epicenter, therefore major loss occurs near to that area",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": " Fire extinguishers consist of carbon mono-oxide gas.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "Mining can cause earthquakes.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": "The intensity of the earthquake is measured in ……………..",
+        "options": [
+            "Richter scale",
+            "Ritcher scale"        ],
+        "answer": 1
+    },
+    {
+        "question": " The constructions which do not get damaged due to earth movements upto a certain limit are called earthquake resistant buildings.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": "Loss of human beings, wild animal and pets happen due to ............... disaster.",
+        "options": [
+            "Earthquake",
+            "Landslide",
+            "Fire",
+            "All of the these"
+        ],
+        "answer": 4
+    },
+    {
+        "question": " Stir up pump is the best device to put off small fires.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Electrical appliances need not be switched off when going out of the house.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": "Earthquake causes ……………. waves leading to movements of the earth’s surface like tremors.",
+        "options": [
+            "Seismic",
+            "Tsunami"        ],
+        "answer":1 
+    },
+    {
+        "question": " Ecosystem gets destructed due to the loss of biodiversity after earthquake",
+        "options": [
+            "False",
+            "True"        ],
+        "answer":2 
+    },
+    {
+        "question": "Institute of geology and world geological forum also help for the landslide forecast.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": "Rivers get flooded and change their paths due to landslides.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": "Building roads in mountains can cause landslides",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "On the earth mild earthquakes occur in a larger number than the intensified or Runners.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "water creates cooling effect and helps to control fire.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Water is the most common and effective solution to extinguish fire.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": "The central point of earthquake is the point above the ……………. on the earth surface.",
+        "options": [
+            "Runners",
+            "Epicenter"        ],
+        "answer": 2
+    },
+    {
+        "question": " ............... is not a flammable liquid.",
+        "options": [
+            "Petrol",
+            "Varnish",
+            "Paints",
+            "Coal"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "If the plan is prepared for disaster management, it will help any disaster relief in the school.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "There is no change in the level of water-table after earthquake.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer":1 
+    },
+    {
+        "question": "Natural cracks and fissures present in hard rocks cause weathering of these rocks.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": " Co-related terms Fire due to LPG : Class C Fire :: Fire due to electrical components: ..............",
+        "options": [
+            "Class A",
+            "Class E"            
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Sudden vibration on the earth and shaking of the earth surface is called an …………….",
+        "options": [
+            "Landslide",
+            "Earthquake"        ],
+        "answer": 2
+    },
+    {
+        "question": " Unlimited cutting of trees causes ...............",
+        "options": [
+            "Earthquake",
+            "Floods",
+            "Landslide",
+            "Fire"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Malin mishap in Pune district is a manmade disaster.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": " Landslide affects the traffic.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": "Class D fires are caused due to electrical components.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer":2 
+    },
+    {
+        "question": " According to the observation of ‘National Earthquakes information center’ every year nearly 12,400 to 14,000 earthquakes occur on the earth.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": " Tsunami is caused if there is earthquake on the land.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 1
+    },
+    {
+        "question": "Shocks occurred due to an earthquake are always intense.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2 
+    },
+    {
+        "question": "............... is not the cause of Landslide.",
+        "options": [
+            "Volcanic eruption",
+            "Building roads in mountains",
+            "Floods",
+            "Cutting down of trees"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Class C fires are caused due to household gas.",
+        "options": [
+            "False",
+            "True"        ],
+        "answer": 2
+    },
+    {
+        "question": "The possibility of fire in cities increases after earthquake.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "The instrument which records the earthquakes is called ……………",
+        "options": [
+            "Seismograph",
+            "Barometer"        ],
+        "answer":1 
+    },
+    {
+        "question": "All flammable substances should be kept away from the fire",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Find the odd one out Geiger counter,  Creep meter,  tilt meter,  barometer",
+        "options": [
+            "Geiger counter",
+            "Creep meter",
+            "Tilt meter",
+            "Barometer"
+        ],
+        "answer":4 
+    },
+    {
+        "question": "Advanced technology is used for earthquake resistant construction.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+     } 
+]

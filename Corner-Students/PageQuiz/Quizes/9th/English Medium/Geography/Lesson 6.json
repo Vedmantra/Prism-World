@@ -1,0 +1,262 @@
+[
+    {
+        "question": "There is no ............... possible in dead sea.",
+        "options": [
+            "Life",
+            "Fish",
+            "Current"        ],
+        "answer": 1
+    },
+    {
+        "question": "............... has high salinity as compared to Bay of Bengal.",
+        "options": [
+            "Indian Ocean",
+            "Arabian sea",
+            "Red sea"        ],
+        "answer": 2
+    },
+    {
+        "question": "Dead sea is one of the places having the lowest ................. on the earth.",
+        "options": [
+            "Altitude",
+            "Elevation",
+            "Area"        ],
+        "answer": 2
+    },
+    {
+        "question": "In temperate region the sunrays are ..............",
+        "options": [
+            "Oblique",
+            "Perpendicular",
+            "Slanting",
+            "Straight"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Most of the sunrays ................ back from the surface of the seawater.",
+        "options": [
+            "Radiate",
+            "Absorb",
+            "Reflect"        ],
+        "answer": 1
+    },
+    {
+        "question": ".............. is not possible beyond 500m. depth in the oceans.",
+        "options": [
+            "Plant life",
+            "Animal life",
+            "Fish"        ],
+        "answer": 1
+    },
+    {
+        "question": "With the increasing depth, the temperature of the sea water ............... to a certain limit.",
+        "options": [
+            "Decreases",
+            "Increases",
+            "Same"        ],
+        "answer": 1
+    },
+    {
+        "question": "In ............... zone, temperature is higher and the rate of evaporation is also higher.",
+        "options": [
+            "Tropical",
+            "Temperate",
+            "Polar"        ],
+        "answer": 1
+    },
+    {
+        "question": "The surface temperature of the seawater is not ................ everywhere.",
+        "options": [
+            "Uneven",
+            "Uniform",
+            "Average",
+            "Same"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The average temperature of the sea water in equatorial areas is around ................. C.",
+        "options": [
+            "20°",
+            "30°",
+            "25°",
+            "35°"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "After 2000 m. depth the sea water is around ............... every where.",
+        "options": [
+            "0°c",
+            "5°c",
+            "4°c"        ],
+        "answer": 3
+    },
+    {
+        "question": "Temperature reduces only upto ................ C according to depth.",
+        "options": [
+            "5°",
+            "4°",
+            "3°"        ],
+        "answer": 2
+    },
+    {
+        "question": "The ................. are called the temperature controller of the sea water.",
+        "options": [
+            "Winds",
+            "Ocean-currents",
+            "Rivers"        ],
+        "answer": 2
+    },
+    {
+        "question": "If Temperature reduces ................ of water increases.",
+        "options": [
+            "Intensity",
+            "Density",
+            "Liquidity"        ],
+        "answer": 3
+    },
+    {
+        "question": "The ................ of landlocks sea is always high",
+        "options": [
+            "Rainfall",
+            "Freshwater",
+            "Salinity",
+            "Snow"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In equatorial regions, The supply of fresh water is .............",
+        "options": [
+            "Deficient",
+            "Abundant",
+            "Average"        ],
+        "answer": 2
+    },
+    {
+        "question": "........... current increase the temperature in the region.",
+        "options": [
+            "Cold",
+            "Warm",
+            "Hot",
+            "Cool"
+        ],
+        "answer": 2 
+    },
+    {
+        "question": "................ is not affected much in the seas where both the supply of fresh water and evaporation of water is low",
+        "options": [
+            "Salinity",
+            "Temperature",
+            "Rainfall"        ],
+        "answer": 1
+    },
+    {
+        "question": "If the salinity is more than bearable limit, the ............... in the water gets destroyed.",
+        "options": [
+            "Fish",
+            "Life",
+            "Creature"        ],
+        "answer": 2
+    },
+    {
+        "question": "The temperature decreases upto ................ m. dept",
+        "options": [
+            "500",
+            "1000",
+            "2000",
+            "1500"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "There are move salt pans on the ............... coast of India.",
+        "options": [
+            "Eastern",
+            "Southern",
+            "Western"        ],
+        "answer": 3
+    },
+    {
+        "question": "The surface temperature of the seawater ............... from equatorial areas to the poles.",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Same",
+            "Uneven"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The average  salinity of Arabian sea is ................",
+        "options": [
+            "32‰",
+            "37‰",
+            "35‰",
+            "30‰"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The difference in temperature is ............... in polar region.",
+        "options": [
+            "Lesser",
+            "More",
+            "Same"        ],
+        "answer": 1
+    },
+    {
+        "question": "In equatorial region, ............... rainfall occurs every day",
+        "options": [
+            "Orographic",
+            "Convectional",
+            "Heavy"        ],
+        "answer": 2
+    },
+    {
+        "question": "The buoyancy of sea water increases because of the ............... of sea water.",
+        "options": [
+            "Intensity",
+            "Salinity",
+            "Gravity"        ],
+        "answer": 2
+    },
+    {
+        "question": "Mid-Latitudinal zone has hot ............... of the world",
+        "options": [
+            "Plains",
+            "Deserts",
+            "Springs"        ],
+        "answer": 2
+    },
+    {
+        "question": "In the seas where the rate of ............... is high than the supply of freshwater, the salinity is high.",
+        "options": [
+            "Sunrays",
+            "Fresh air",
+            "Evaporation"        ],
+        "answer": 3
+    },
+    {
+        "question": "The intensity of ............... decrease with increasing depth.",
+        "options": [
+            "Salinity",
+            "Sunrays",
+            "Rainfall",
+            "Fresh water"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "............... and ................ are the two properties of sea water",
+        "options": [
+            "Sunrays",
+            "Temperature, Salinity",
+            "Rainfall",
+            "Salinity"
+        ],
+        "answer": 2
+    }
+]

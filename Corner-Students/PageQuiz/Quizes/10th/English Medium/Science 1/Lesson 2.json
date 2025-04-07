@@ -1,0 +1,383 @@
+
+[
+    {
+        "question": "Which statement is true for lithium and sodium?",
+        "options": [
+            "Both belong to same group",
+            "Both are metals",
+            "Both have same valence electron",
+            "All of these"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Who is known as father of periodic table?",
+        "options": [
+            "Newlands",
+            "Dobereiner",
+            "Mendeleev",
+            "Henry Moseley"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which is odd among the following?",
+        "options": [
+            "Li",
+            "Sr",
+            "K",
+            "Na"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which one is odd among the following?",
+        "options": [
+            "B and Al",
+            "O and S",
+            "Be and Mg",
+            "N and S"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Given K = 2,8,8,1 Answer the following : symbol K stands for which element?",
+        "options": [
+            "Potassium",
+            "Kennel",
+            "Pure kennel",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which statement tells us about the limitations of Dobereiner’s law of triad.",
+        "options": [
+            "It did not hold true for all elements",
+            "Properties of elements grouped into triad were not similar to each other",
+            "Both 1 and 2",
+            "None of these"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "1st period : shortest : : 6th period : ......",
+        "options": [
+            "Small",
+            "Longest",
+            "Detailed",
+            "None of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Mendeleev arranged ...... elements in increasing order of their atomic masses.",
+        "options": [
+            "36",
+            "56",
+            "63",
+            "None of these"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which given statement represent merit of Mendeleev’s Periodic table?",
+        "options": [
+            "Table had vacant places for undiscovered elements",
+            "A ‘Zero group’ was created for noble gases without disturbing original Periodic table",
+            "Atomic masses of some elements was revised to give them proper place in the periodic table as per their properties",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Isotopes have same ...... properties",
+        "options": [
+            "Physical",
+            "Chemical",
+            "Both 1 and 2",
+            "None of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Find the odd one among the following",
+        "options": [
+            "Germanium",
+            "Silicon",
+            "Scandium",
+            "Gallium"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Newlands arranged the elements starting from ...... and ended with ......",
+        "options": [
+            "Hydrogen, Thorium",
+            "Lithium, Thorium",
+            "Hydrogen, calcium",
+            "Sodium, Thorium"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Elements are classified as ......",
+        "options": [
+            "Metals",
+            "Non-metals",
+            "Metalloids",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Vertical column : Groups : : Horizontal rows : ......",
+        "options": [
+            "Periods",
+            "Boxes",
+            "Columns",
+            "Bars"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Electrons revolve around the nucleus in ......",
+        "options": [
+            "Shells",
+            "Skates",
+            "Planes",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which statement depicts the demerits of Mendeleev’s Periodic table.",
+        "options": [
+            "It could not justify position of certain elements, rare earths and isotopes",
+            "The elements arranged in increasing order of atomic masses but the rise in atomic mass was not uniform",
+            "It was not possible to predict, the number of elements which could be discovered between two heavy elements",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Which statement is true for Newlands law of octaves.",
+        "options": [
+            "Elements are arranged in increasing order of their atomic masses",
+            "Every eighth element had properties similar to those of the first",
+            "It was similar to musical scale where every eighth note is similar to the first note",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Atomic radius is expressed in unit ......",
+        "options": [
+            "Nano meter",
+            "Pico meter",
+            "Milli meter",
+            "Light year"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... is the combining capacity of an element.",
+        "options": [
+            "Valency",
+            "Atomic radius",
+            "Atomic size",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Atomic size goes on ...... while going down a group.",
+        "options": [
+            "Increasing",
+            "Decreasing",
+            "Remain same",
+            "None of these"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The sub atomic particle is ......",
+        "options": [
+            "Electron",
+            "Proton",
+            "Neutron",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Around year 1800 only about ...... elements were known.",
+        "options": [
+            "15",
+            "30",
+            "45",
+            "60"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Law of octaves was found to be applicable upto ...... element.",
+        "options": [
+            "Calcium",
+            "Copper",
+            "Cobalt",
+            "Chlorine"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Neon : Inert gas : : Bromine : ......",
+        "options": [
+            "Alkali metal",
+            "Halogen",
+            "Alkali earth metal",
+            "Transition elements"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Given K = 2,8,8,1 Name of the group to which it belongs.",
+        "options": [
+            "Halogens",
+            "Noble gases",
+            "Alkali metals",
+            "Transition elements"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Given K = 2,8,8,1 , To which period does it belong?",
+        "options": [
+            "Period 1",
+            "Period 2",
+            "Period 3",
+            "Period 4"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "5th period : number of elements 18 : : 6th period : ......",
+        "options": [
+            "2 elements",
+            "8 elements",
+            "32 elements",
+            "None of these"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Given K = 2,8,8,1, Answer the following : what is its atomic number?",
+        "options": [
+            "2",
+            "8",
+            "1",
+            "19"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Which of the following is not a transition element?",
+        "options": [
+            "Beryllium",
+            "Cobalt",
+            "Copper",
+            "Nickel"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Atomic radius goes on ...... while going from left to right within a period.",
+        "options": [
+            "Increasing",
+            "Decreasing",
+            "Remain same",
+            "None of these"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which was the limitation of Newlands law of octave?",
+        "options": [
+            "It did not have the provision to accommodate the newly discovered elements",
+            "Law was applicable only upto calcium",
+            "Elements with different properties were placed under the same note in octave.",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Newlands fitted all the known elements in ...... boxes.",
+        "options": [
+            "50",
+            "54",
+            "56",
+            "60"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Find the odd one.",
+        "options": [
+            "Hydrogen",
+            "Helium",
+            "Neon",
+            "Argon"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The third period has only ...... elements",
+        "options": [
+            "2",
+            "8",
+            "18",
+            "32"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Find odd man out.",
+        "options": [
+            "Carbon",
+            "Nitrogen",
+            "Oxygen",
+            "Sulphur"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Ca, Sr, Ba : Triad II :: ...... : Triad I",
+        "options": [
+            "Li, Sr, I",
+            "Li, Br, Cl",
+            "Li, Na, K",
+            "Cl, Br, I"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Electronic configuration of calcium.",
+        "options": [
+            "2,8,8,1",
+            "2,8,8,3",
+            "2,8,10",
+            "2,8,8,2"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Fluorine : Second period :: chlorine : ......",
+        "options": [
+            "First period",
+            "Second period",
+            "Third period",
+            "Fourth period"
+        ],
+        "answer": 3
+    }
+]

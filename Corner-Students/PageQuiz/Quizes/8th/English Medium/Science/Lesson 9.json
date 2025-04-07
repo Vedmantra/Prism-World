@@ -1,0 +1,361 @@
+[
+    {
+        "question": "The demolition squads of the cell",
+        "options": [
+            "Golgi Complex",
+            "Lysosomes"        ],
+        "answer": 2
+    },
+    {
+        "question": "An organelle that controls all metabolic activity of the cell.",
+        "options": [
+            "Endoplasmic reticulum",
+            "Nucleus"        ],
+        "answer":2 
+    },
+    {
+        "question": "According to the functions, cells of different sizes and structure are found in different organs.",
+        "options": [
+            "True ",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Find the odd one out",
+        "options": [
+            "Lignin",
+            "Suberin",
+            "Cytosol",
+            "Cutin"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Full form of ATP is Adenosine Tri Phosphor.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2
+    },
+    {
+        "question": " The travelling of water from a part with more water to a part with less water through a selectively permeable membrane is ..............",
+        "options": [
+            "Diffusion",
+            "Osmosis"        ],
+        "answer":2 
+    },
+    {
+        "question": "Vacuoles are storage sacs for solid or liquid contents of the cell.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "If any changes occur outside the cell, the cellular environment does not change. This condition is called ...............",
+        "options": [
+            "Cellular energy",
+            "Homeostasis"        ],
+        "answer":2 
+    },
+    {
+        "question": "Chromoplast: Colored plastids:: ................ : Colorless plastids",
+        "options": [
+            "Lycopene",
+            "Leucoplast"        ],
+        "answer":2 
+    },
+    {
+        "question": "............... is the fluid between the plasma membrane and nucleus.",
+        "options": [
+            "Cytosol",
+            "Cell membrane",
+            "Cytoplasm"        ],
+        "answer": 3
+    },
+    {
+        "question": "............... process does not consume cellular energy",
+        "options": [
+            "Diffusion",
+            "Endocytosis"        ],
+        "answer": 1
+    },
+    {
+        "question": "Magnifying glass is used to observe the cells",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2 
+    },
+    {
+        "question": "Golgi Complex produces vacuoles and secretory vesicles. ",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "The packaging department of the cell.",
+        "options": [
+            "Endoplasmic Reticulum",
+            "Golgi Complex"        ],
+        "answer": 2
+    },
+    {
+        "question": "RBC does not contain nucleus and hence can accommodate large quantity of hemoglobin.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": " If the medium outside and inside the cell has same proportion of water such that water doesn’t go in or out, then it is called as ............... solution.",
+        "options": [
+            "Isotonic",
+            "Hypotonic",
+            "Hypertonic"        ],
+        "answer": 1
+    },
+    {
+        "question": "Cell wall is mainly composed of carbohydrates like cellulose and pectin.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Plastids are present both in plant and animal cell.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2 
+    },
+    {
+        "question": " An organelle that has a net like structure consisting of interconnected miniature tubes and sheets filled with fluid.",
+        "options": [
+            "Endoplasmic reticulum",
+            "Nucleus"        ],
+        "answer":1 
+    },
+    {
+        "question": "Cristae work like a packaging department that packs and distributes substances.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": ".............. molecules are embedded in two layers of phospholipids.",
+        "options": [
+            "Fats",
+            "Lipids",
+            "Proteins"        ],
+        "answer":3 
+    },
+    {
+        "question": "The organelle which is present only in plant cells and gives color to the plants is ..............",
+        "options": [
+            "Plastids",
+            "Vacuoles"        ],
+        "answer":1 
+    },
+    {
+        "question": " Chloroplasts are important for the ............... process that takes place in the leaves",
+        "options": [
+            "Osmotic",
+            "Photosynthesis"        ],
+        "answer": 2
+    },
+    {
+        "question": " Lysosomes destroy viruses and bacteria that attack the cell",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "If raisins are placed in water for an hour, then ...............",
+        "options": [
+            "It will become more dry",
+            "It will swell",
+            "No change is observed"        ],
+        "answer":2 
+    },
+    {
+        "question": " Nucleolus can be only seen through electron microscope.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Mitochondria are the chemical factory of the cell",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Purple, blue color of the plant part is due to the pigment Xanthophyll.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "Cell wall is found around cells of algae, fungi and plants",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "Plant cells have more mitochondrion than animal cell",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": "Cell wall is present in the animal cell.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2 
+    },
+    {
+        "question": "The part of cytoplasm other than organelles is the ..............",
+        "options": [
+            "Cell organelles",
+            "Cytosol"        ],
+        "answer": 2
+    },
+    {
+        "question": " Chlorophyll in chloroplasts traps solar energy and converts it to chemical energy (food energy).",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Golgi complex is the secretory organ of the cell.",
+        "options": [
+            "True",
+            "False" 
+        ],
+        "answer": 1
+    },
+    {
+        "question": "............... is said to be selectively permeable membrane.",
+        "options": [
+            "Plasma membrane",
+            "Cell wall",
+            "Cytoplasm"        ],
+        "answer": 1
+    },
+    {
+        "question": "Mitochondria and Plastids can replicate themselves.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":1 
+    },
+    {
+        "question": "The suicide bags of the cell.",
+        "options": [
+            "Golgi Complex",
+            "Lysosomes"        ],
+        "answer": 2
+    },
+    {
+        "question": "............... is the pigment which gives green color to the plant.",
+        "options": [
+            "Chlorophyll",
+            "Anthocyanin"        ],
+        "answer":1 
+    },
+    {
+        "question": " ............... stain is used to see the slide of the cell under the microscope",
+        "options": [
+            "Phenolphthalein",
+            "Methylene blue"        ],
+        "answer": 2
+    },
+    {
+        "question": "............... is not a part of the nucleus.",
+        "options": [
+            "Nucleolus",
+            "Gene",
+            "Ribosomes",
+            "Chromosomes"
+        ],
+        "answer":3
+    },
+    {
+        "question": "Stroma in vacuoles contains enzymes, DNA, ribosomes and carbohydrates",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 2
+    },
+    {
+        "question": " ............... maintain the osmotic pressure of the cell.",
+        "options": [
+            "Mitochondria",
+            "Endoplasmic Reticulum",
+            "Vacuoles",
+            "Golgi complex"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "An ............... is a specialized subunit having specific function within the cell.",
+        "options": [
+            "Organ",
+            "Organelle"        ],
+        "answer": 2
+    },
+    {
+        "question": "Bacteria have prokaryotic cells.",
+        "options": [
+            "True",
+            "False "        ],
+        "answer":1
+    },
+    {
+        "question": "Each organ has its own ............... membrane.",
+        "options": [
+            "Phospholipid",
+            "Lipoprotein"        ],
+        "answer":2 
+    },
+    {
+        "question": "Eukaryotes don’t have membrane bound cell organelles.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer":2 
+    },
+    {
+        "question": "National Centre for Cell Science (NCCS) is mainly working on research about cancer treatment.",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+        "question": "Mitochondria are present in the plant cell. ",
+        "options": [
+            "True",
+            "False"        ],
+        "answer": 1
+    },
+    {
+      "question": " ............... are colored plastids that give different colors to flowers and fruits.",
+        "options": [
+            "Chlorophyll",
+            "Chromoplast"
+        ],
+        "answer": 2
+    }
+]                            

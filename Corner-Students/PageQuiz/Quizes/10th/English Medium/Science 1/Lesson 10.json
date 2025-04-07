@@ -1,0 +1,325 @@
+
+[
+    {
+        "question": "The functions of the satellite decide ......",
+        "options": [
+            "The height of the satellites Orbit from the earth's surface",
+            "The nature of the orbit (circular / elliptical)",
+            "Whether the orbit shall be parallel to equator or making some angles with it",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The astronomical object near to the earth after moon is ......",
+        "options": [
+            "Sun",
+            "Mars",
+            "Jupiter"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Chandrayaan – 1 was launched in the year.",
+        "options": [
+            "2018",
+            "2008",
+            "1998",
+            "1908"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following satellite Launchers is developed by India.",
+        "options": [
+            "INSAT",
+            "EDUSAT",
+            "PSLV",
+            "IRNSS"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Launch vehicles can be used only once so they are ......",
+        "options": [
+            "Temperate region",
+            "Polar region",
+            "All of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Critical Velocity acts in a ...... direction to the Satellites Orbit.",
+        "options": [
+            "Opposite",
+            "Tangential",
+            "Same",
+            "Backward"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The main objectives of space mission are ......",
+        "options": [
+            "To understand the part of the universe beyond the solar system",
+            "To launch artificial satellites in the earth’s orbit for study and research",
+            "To send artificial satellite to study and collect information about other planets, meteors, comets",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "In polar orbits, the satellite complete one revolution in ...... hours.",
+        "options": [
+            "3 to 5 hours",
+            "2 to 24 hours",
+            "90 hours",
+            "5 to 15 hours"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If a space craft is to escape the earth’s gravitational force to travel to the outer space, it must have minimum velocity of ......",
+        "options": [
+            "10.2 km/s",
+            "11.2 km/s",
+            "12.2 km/s",
+            "15.2 km/s"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Last four mission of Russia were unmanned.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "How much did satellite weighed?",
+        "options": [
+            "1kg",
+            "5kg",
+            "25kg",
+            "11kg"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Russia executed 15 moon mission between 1959 and 1976.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which one of the following is a Low Earth Orbit (LEO) satellite.",
+        "options": [
+            "Navigational Satellite",
+            "Geostationary Satellite",
+            "International Space Station",
+            "All of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Match the following:",
+        "options": [
+            "i - d , ii - a , iii - b , iv - c",
+            "i - a , ii - d , iii - b , iv - c"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Elliptical medium earth orbits passing over the polar region called ......",
+        "options": [
+            "Scalar orbits",
+            "Vector orbits",
+            "Polar orbits",
+            "Geostationary satellites orbit."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "High Earth Orbit Satellites pass over the polar region.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Match the following:",
+        "options": [
+            "i - c, ii - a, iii - b",
+            "i - d, ii - a, iii - c"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Some planets have more than one satellite.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A man-made object orbiting the earth or any other planet in a fixed orbit is called ......",
+        "options": [
+            "Natural satellite",
+            "Artificial Satellite",
+            "Planet",
+            "Comet"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Space mission is important because ......",
+        "options": [
+            "We can connect with the person in any part of the world within a second",
+            "Advanced alerts and management of some natural calamities",
+            "We can gather information about world wide events sitting at home",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Name 3 Indian satellite Launch center ?",
+        "options": [
+            "Thumba, Thiruvananthapuram",
+            "Sriharikota",
+            "Chandipur, Odisha",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Sky is very tiny part of ......",
+        "options": [
+            "Home",
+            "School",
+            "Park",
+            "Space"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "...... developed space shuttle.",
+        "options": [
+            "USSR",
+            "UK",
+            "USA",
+            "Uganda"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Space shutter can be used in ...... .",
+        "options": [
+            "Single launch",
+            "Double launch",
+            "Multiple launches",
+            "No launch"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Sun is a ......",
+        "options": [
+            "Planet",
+            "Satellite",
+            "Star",
+            "None of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The first satellite launch was established at ......",
+        "options": [
+            "Bihar",
+            "Orissa",
+            "Thumba (Thiruvananthapuram )",
+            "Ahmedabad"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The shortest time taken by a space craft to reach the moon so far is.",
+        "options": [
+            "9 hrs.",
+            "9 hrs. 20 min.",
+            "8 hrs. 36 min.",
+            "8 hrs. 63 min."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "How many natural satellite does the earth have ?",
+        "options": [
+            "2",
+            "1",
+            "3",
+            "5"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Match the following:",
+        "options": [
+            "i-c, ii-a",
+            "i-b, ii-c"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Match the following:",
+        "options": [
+            "i-b, ii-d, iii-c, iv-e",
+            "i-b, ii-c, iii-a, iv-e"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Find the odd one.",
+        "options": [
+            "ISAT",
+            "PLSV",
+            "GSAT",
+            "IRNSS"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "…… has 69 satellites.",
+        "options": [
+            "Neptune",
+            "Jupiter",
+            "Pluto",
+            "Earth"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Solar system consist of ………",
+        "options": [
+            "Planets",
+            "Asteroids",
+            "Meteoroids",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Moon mission have been successfully under take by ………",
+        "options": [
+            "Russia",
+            "USA",
+            "Japan",
+            "All of the above"
+        ],
+        "answer": 4
+    }
+]

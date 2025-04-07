@@ -1,0 +1,471 @@
+
+[
+    {
+        "question": "Biotechnology harnesses cellular and ……… processes to develop technologies and products that help improve our lives and the health of our planet.",
+        "options": [
+            "Chemical",
+            "Physical",
+            "Natural",
+            "Biomolecular"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "All the following organs can be donated except",
+        "options": [
+            "Intestines",
+            "Liver",
+            "Heart",
+            "Eyes"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "………… is study of cells.",
+        "options": [
+            "Immunology",
+            "Oncology",
+            "Cytology",
+            "Zoology"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Pick the odd option out.",
+        "options": [
+            "Cytology",
+            "Molecular biology",
+            "Transplantation",
+            "Genetic engineering"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Name Uses of human body after death",
+        "options": [
+            "For organ and body donation.",
+            "For research in medical studies.",
+            "Both 1 and 2",
+            "Human body has no use after death"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Organs like liver, heart, eyes can be donated after death only. This has lead to the emergence of concepts like ......donation of body and organs.",
+        "options": [
+            "Prehumous",
+            "Posthumous",
+            "Predeath",
+            "Medical"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Various methods applied for harvesting maximum yield from minimum land are collectively called as ......",
+        "options": [
+            "Blue revolution",
+            "Green revolution",
+            "White revolution"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "A living person can donate one kidney, skin from certain parts of body , bone marrow whereas organs like liver, heart, eyes can be donated after ...... only.",
+        "options": [
+            "Inspection",
+            "Justification",
+            "Adulthood",
+            "Death"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Availability of ...... is an important requirement in organ transplantation.",
+        "options": [
+            "Donor",
+            "Receiver",
+            "Instruments",
+            "Blood"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Fruits are ...... agro-produce.",
+        "options": [
+            "Imperishable",
+            "Insignificant",
+            "Beneficial",
+            "Perishable"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The fern Pteris vittata can absorb the ...... from the soil.",
+        "options": [
+            "Lead",
+            "Magnesium",
+            "Arsenic",
+            "Calcium"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is true about edible vaccines :",
+        "options": [
+            "Currently potatoes are used to make edible vaccines",
+            "These potatoes are called as transgenic potatoes.",
+            "Consumption of these raw potatoes generates the immunity against cholera and the disease caused due to E. coli",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Stem Cells are ...... type of cells present in the body of multicellular organism.",
+        "options": [
+            "Special",
+            "Unhealthy",
+            "Modern",
+            "Small"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Production of various useful aquatic organisms with the help of water is called as ......",
+        "options": [
+            "Blue revolution",
+            "Green revolution",
+            "Aqua revolution"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... are manmade soil enhancers used to raise the level of nutrients found in soil.",
+        "options": [
+            "Natural fertilizers",
+            "Manure",
+            "Inorganic fertilizers"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "White biotechnology includes producing various ...... expensive processes.",
+        "options": [
+            "Biochemicals",
+            "Natural chemicals",
+            "Chemicals"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "...... is known as the father of white revolution.",
+        "options": [
+            "Dr. Verghese Kurien",
+            "Dr. Salim Ali",
+            "Dr. Norman"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... is a rating system describing the amount of nitrogen, phosphorus, and potassium in a fertilizer.",
+        "options": [
+            "NPK rating",
+            "CPS rating",
+            "NNaPK rating"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... is the water equivalent of the green revolution.",
+        "options": [
+            "Red revolution",
+            "Aqua revolution",
+            "Blue Revolution"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "...... different types of cells in human body are formed from single type cells i.e. embryonic stem cells.",
+        "options": [
+            "200",
+            "320",
+            "220",
+            "240"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "In soil-less farming i.e. hydroponics ...... fertilizers are used.",
+        "options": [
+            "Liquid chemical",
+            "Solid chemical",
+            "Gaseous chemical"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Therapeutic cloning Stem cells can be derived from the cell formed in laboratory by the union of somatic cell nucleus with the enucleated egg cell and used for treatment of various diseases. This is called as ......",
+        "options": [
+            "Therapeutic cloning",
+            "Ultra cloning",
+            "Cloning"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Organ donation and transplantation is under the control of ...... act.",
+        "options": [
+            "Transplantation human organs act",
+            "Act of organ donation",
+            "Conditions for transplantation",
+            "Law for organ donation"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The bacterium Deinococcus radiodurans is highly ...... resistant organism.",
+        "options": [
+            "Radiation",
+            "Fungus",
+            "Virus"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Grasses like alfalfa, clover and rye are used in ......",
+        "options": [
+            "Dye generation",
+            "Phyto-remediation",
+            "Fermentation"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "The Anand pattern experiment at Amul, a single cooperative dairy, was the engine behind the success of the ......",
+        "options": [
+            "White revolution",
+            "Green revolution",
+            "Blue revolution"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Microbes are useful on large scale while production of ...... by treatment on solid organic waste material.",
+        "options": [
+            "Compost",
+            "Vermicompost",
+            "Alcohol"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... involves raising fish commercially in tanks or enclosures such as fish ponds, usually for food.",
+        "options": [
+            "Ornithon culture",
+            "Sericulture",
+            "Pisciculture",
+            "Aquaculture"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The ...... bacteria are useful for cleaning the hydrocarbon and oil pollutants from soil and water.",
+        "options": [
+            "Green",
+            "Pseudomonas",
+            "Chlorella",
+            "Amoeba"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... is the complete loss of brain function including involuntary activity necessary to sustain life.",
+        "options": [
+            "Heart death",
+            "Neurolysis",
+            "Brain death",
+            "Cardiac arrest"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Bacteria used as biofertilizer",
+        "options": [
+            "Rhizobium",
+            "Azotobacter",
+            "Nostoc",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "The cell is derived from Latin world which means ......",
+        "options": [
+            "Small room",
+            "Large room",
+            "Compartment",
+            "Cellular"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Alcohol production from sugar molasses with the help of transgenic yeast is the example of ......",
+        "options": [
+            "Pure biotechnology",
+            "White biotechnology",
+            "Biochemistry"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "DDT, malathion, chlorpyriphos are examples of ......",
+        "options": [
+            "Fertilizers",
+            "Composts",
+            "Insecticides"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "...... can absorb uranium and arsenic.",
+        "options": [
+            "Shoe flower",
+            "Sunflower",
+            "Jasmine"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... is a process of growing any aquatic animals and selling them for commercial purposes.",
+        "options": [
+            "Bird culture",
+            "Aquaculture",
+            "Pisciculture"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... includes complete ban on chemical fertilizers and pesticides and use of local, sturdy varieties and thereby maintaining natural balance.",
+        "options": [
+            "Inorganic farming",
+            "Agriculture",
+            "Organic farming"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Pick the odd option out.",
+        "options": [
+            "Eyes",
+            "Kidney",
+            "Uterus",
+            "Bone marrow"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Active ingredient present in adulsa plant is ...... in the leaves.",
+        "options": [
+            "Orcinol",
+            "Fatty oils",
+            "Vasicine",
+            "Glycols"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which is plant used as biofertilizer",
+        "options": [
+            "Azotobacter",
+            "Nostoc",
+            "Azolla",
+            "All of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Use of biotechnology:",
+        "options": [
+            "Developing High-class varieties of crops through the technique of tissue-culture.",
+            "Production of antibiotics and vaccines, etc. with the help of specific cells.",
+            "Production of human growth hormone with the help of genetically modified bacteria.",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Genetically modified variety of ...... can absorb selenium from soil.",
+        "options": [
+            "Indian mustard",
+            "Bt crops",
+            "GM crop"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Patients classified as ...... can have their organs surgically removed for organ donation.",
+        "options": [
+            "Brain dead",
+            "Ill dead",
+            "Infected dead",
+            "Heart dead"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Dr. Norman Borlaug and ...... have valuable contribution in green revolution.",
+        "options": [
+            "Dr. M. S. Swaminathan",
+            "Dr. Chakravarti",
+            "Dr. Homi Baba"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... are already in use for treatment on sewage and solid waste.",
+        "options": [
+            "Molasses technique",
+            "Ferment technique",
+            "Microbial techniques"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "The ...... is the basic structural, functional, and biological unit of all known living organisms.",
+        "options": [
+            "Organ",
+            "Tissue",
+            "System",
+            "Cell"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Operation Flood is the program behind the ......",
+        "options": [
+            "Green revolution",
+            "White revolution",
+            "Blue revolution"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... are sometimes known as ‘ecosystem engineers’ because they significantly modify the physical, chemical and biological properties of the soil profile.",
+        "options": [
+            "Bees",
+            "Birds",
+            "Silkworms",
+            "Earthworms"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Adulsa is an example of ...... plant.",
+        "options": [
+            "Fruit plant",
+            "Vegetable",
+            "Medicinal plant",
+            "Shrub"
+        ],
+        "answer": 3
+    }
+]

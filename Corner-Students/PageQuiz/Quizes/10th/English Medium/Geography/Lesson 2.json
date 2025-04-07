@@ -1,0 +1,210 @@
+[
+    {
+        "question": "Which Indian state was also ruled by Portuguese?",
+        "options": [
+            "Goa",
+            "Kerala",
+            "Karnataka"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Name the imperial power ruled Brazil",
+        "options": [
+            "British",
+            "Spanish",
+            "Portuguese"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Brazil got its independence in the year ……………",
+        "options": [
+            "1947",
+            "1822",
+            "1835"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "……………. has covered the major part south America in the north.",
+        "options": [
+            "Argentina",
+            "Bolivia",
+            "Brazil"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "The southern most Tip of India is ……………",
+        "options": [
+            "Kanyakumari",
+            "Indira-point",
+            "Post-Blaire"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Brazil has the coast along the Pacific ocean",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Name the country which is known as coffee-pot.",
+        "options": [
+            "Sri Lanka",
+            "Brazil",
+            "Peru"
+        ],
+        "answer":2
+    },
+    {
+        "question": "Major part of ………….. population forms Indian population.",
+        "options": [
+            "Senior",
+            "Working",
+            "Children"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "India : Cricket :: Brazil : ..........",
+        "options": [
+            "Football",
+            "Hockey",
+            "Wrestling",
+            "None of these"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "What is the national motto of India in the emblem?",
+        "options": [
+            "Atithi devo bhava",
+            "Satyameva Jayate",
+            "Green India Clean India"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "Longitudinal extent of India is .......... .",
+        "options": [
+            "68° 7' E to 97° 25' E",
+            "67° 8' E to 96° 25' E",
+            "65° 7' E to 96° 25' E"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Name the country which is larger than the other",
+        "options": [
+            "Brazil",
+            "India"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Both the countries have …………… type of government.",
+        "options": [
+            "Military",
+            "Republic",
+            "Communist",
+            "Presidential"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "India is the ............... largest country area wise.",
+        "options": [
+            "Fourth",
+            "Sixth",
+            "Seventh"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "India is located in …………… continent",
+        "options": [
+            "America",
+            "Asia",
+            "Africa"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "India is located in the .......... hemispheres of the Earth.",
+        "options": [
+            "northern and easter",
+            "southern and western",
+            "northern and western",
+            "southern and eastern"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Southern part of India is known as …………….",
+        "options": [
+            "Coastal – area",
+            "Plateau",
+            "Peninsula"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "These two countries in South America do not share their border with Brazil.",
+        "options": [
+            "Chile - Ecuador",
+            "Argentina - Bolivia",
+            "Columbia - French Guiana",
+            "Surinam - Uruguay"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "More than half a century Brazil was under populist ………….. government.",
+        "options": [
+            "Dictatorship",
+            "Military",
+            "Democratic"
+        ],
+        "answer":2 
+    },
+    {
+        "question": "India has …………….. states",
+        "options": [
+            "26",
+            "28",
+            "29"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Which tropic passes through the centre of India?",
+        "options": [
+            "Tropic of cancer",
+            "Tropic of Capricorn",
+            "Equator"
+        ],
+        "answer":1 
+    },
+    {
+        "question": "Indian emblem has ……………. Lions.",
+        "options": [
+            "Three",
+            "Four",
+            "Two"
+        ],
+        "answer":3 
+    },
+    {
+        "question": "Both India and Brazil have same climate.",
+        "options": [
+            "Right",
+            "Wrong"
+        ],
+        "answer":2 
+    }
+]

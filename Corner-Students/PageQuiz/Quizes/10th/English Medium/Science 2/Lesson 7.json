@@ -1,0 +1,503 @@
+
+[
+    {
+        "question": "Probiotic products are available in various forms except-",
+        "options": [
+            "Miso soup",
+            "Corn syrup",
+            "Microalgae",
+            "Fudge"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In villages sewage is disposal off in nearby ...... or is ......",
+        "options": [
+            "Soil, water",
+            "Water, biogas plant",
+            "Air, soil",
+            "Soil, biogas plant"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Sulphuric acid can be source of energy for some species of bacteria like ...... and ......",
+        "options": [
+            "Acidphillium spp and Nocardia",
+            "Ideonella and Lactobacilli",
+            "Thiobacilli and Acidobacillus ferroxideus",
+            "Acidophillium spp. and Acidobacillus ferroxidens."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Science related to commercial use of microbes in various economic, social, and environment related processes and products is called as",
+        "options": [
+            "Fermentation",
+            "Industrial Microbiology",
+            "Applied Microbiology",
+            "Biotechnology"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Degradable waste being accumulated in urban areas in used for ......",
+        "options": [
+            "Composing",
+            "Harvesting",
+            "Land-filling sites",
+            "Quilting"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Two types of butter like sweet cream and cultured are produced on ...... Scale.",
+        "options": [
+            "Minor",
+            "Small",
+            "Tiny",
+            "Large"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "...... acid is present in acid rain.",
+        "options": [
+            "Hydrochloric",
+            "Sulphuric",
+            "Sodium Hydrochloride",
+            "Citric"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Bread dough rises due to ...... and bread becomes spongy.",
+        "options": [
+            "Carbon dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Helium"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... gas is considered to be the fuel of future.",
+        "options": [
+            "Oxygen",
+            "Carbon-dioxide",
+            "Hydrogen",
+            "Nitrogen"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Now-a-days the urban garbage mostly consists of ......",
+        "options": [
+            "Soil",
+            "Slurry",
+            "Plastic",
+            "Leaves"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Milk is connected into what dairy products out of this.",
+        "options": [
+            "Cheese, butter, yoghurt",
+            "Cheese, butter, coffee",
+            "Cheese, Tea, Cream",
+            "Cream, cheese, Tea"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is not an anti-biotic.",
+        "options": [
+            "Penicillin",
+            "Erythromycin",
+            "Tryptophan",
+            "Streptomycin"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "...... Enzyme obtained from fungi is used at present to obtain vegetarian cheese.",
+        "options": [
+            "Protease",
+            "Trypsin",
+            "Ligases",
+            "Hydrolases"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In production of vinegar, acetic acid is bleached with the help of ......",
+        "options": [
+            "Potassium ferrocyanide",
+            "Ammonium sulphate",
+            "Ferric sulphate",
+            "Silver nitrate"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Microbes are used for ...... of environment polluted due to sewage.",
+        "options": [
+            "Bio-radiation",
+            "Bio-remediation",
+            "Bio-action",
+            "Bio-degradation"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Enzyme protease obtained from ...... is used at present to produce vegetarian cheese.",
+        "options": [
+            "Fungi",
+            "Virus",
+            "Bacterial",
+            "Intestines"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Bacteria used to clear oil spills are : ......",
+        "options": [
+            "Alcanovorax borkumensis, Nocardia",
+            "Nocardia, streptomyces",
+            "Pseudomonas spp. and Alcanovorax borkumensis",
+            "Pseudomonas spp., Nocardia"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Geobacter converts uranium Salts into ...... salts.",
+        "options": [
+            "Semi-Solid",
+            "Liquid",
+            "Insoluble",
+            "Coagulable"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "...... and ...... syrup can be obtained from corn flour by action of enzymes obtained from bacilli and Streptomyces.",
+        "options": [
+            "Glucose and lactose",
+            "Lactose and fructose",
+            "Lactose and galactose",
+            "Glucose and fructose"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Shelf life and probiotic properties of yoghurt can be improved by ......",
+        "options": [
+            "Pasteurization",
+            "Healing",
+            "Coaling",
+            "Kneading"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... enzyme, obtained from alimentary canal of cattle was being traditionally used for production of cheese.",
+        "options": [
+            "Kinase",
+            "Rennet",
+            "Pepsin",
+            "Lipase"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "...... is effective against tuberculosis.",
+        "options": [
+            "Rifamycin",
+            "Cefixime",
+            "Augmentation",
+            "Vancomycin"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Now-a-days probiotics are used in the treatment of ......",
+        "options": [
+            "Pneumonia",
+            "Cholera",
+            "Diarrhea",
+            "Meningitis"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Ethanol an alcohol is obtained by fermentation of carbon compounds like fruit juices, maple syrup, sugar molasses, starch of roots with the help of yeast.",
+        "options": [
+            "Clostridium tetani",
+            "Shigella boydii",
+            "Streptococcus diphtheria",
+            "Saccharomyces cerevisiae"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Probiotics have developed much importance in recent days because",
+        "options": [
+            "They add to this enzyme protease to the body.",
+            "They make proteins get out and give dense consistency to yoghurt.",
+            "They form Colonies of useful Microbes in alimentary canal and control other Microbes and their metabolic activities, improves resistance and lower it effects of harmful substances formed during metabolic activities.",
+            "They help in making erosion proof."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which is not an example of microbial enzymes?",
+        "options": [
+            "Osmosis",
+            "Ligases",
+            "Isomerases",
+            "Reductases"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... is produced by fermentation of mixture of flow of wheat or rice and soyabean with the help of fungus aspergillus oryzae.",
+        "options": [
+            "Soya-sauce",
+            "Soya-sticks",
+            "Yoghurt",
+            "Cheese"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... is not a part of land fill site.",
+        "options": [
+            "Soil slurry",
+            "Microbes",
+            "Yeast",
+            "Saw dust"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "...... are sprayed on seeds before sowing.",
+        "options": [
+            "Microbial gases",
+            "Microbial inoculants",
+            "Microbial slabs",
+            "Microbial liquids"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Milk is fermented with the help of ...... Bacteria.",
+        "options": [
+            "Mycobacterium viridans",
+            "Treponema pallidum",
+            "Escherichia coli",
+            "Lactobacillus"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Due to fermentation of Carbohydrates by yeast, sugar is converted in to ...... and ......",
+        "options": [
+            "CO₂ and menthol",
+            "CO₂ and O₂",
+            "CO₂ and ethanol",
+            "CO₂ and methanol"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Microbes containing inoculants are produced by process of ......",
+        "options": [
+            "Heating",
+            "Cooling",
+            "Fermentation",
+            "Kneading"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Land filling sites can be ...... after removal of compost.",
+        "options": [
+            "Re-used",
+            "Regained",
+            "Revived",
+            "Relived"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Species of fungi like ...... decompose rubber from garbage.",
+        "options": [
+            "Actinomycetes, Streptomyces",
+            "Nocardia, Alcanovorax borkumensis",
+            "Clostridium, sakaiensis",
+            "Pseudomonas spp., Actinoplaces"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... is among the renewable source of good energy.",
+        "options": [
+            "Petrol",
+            "Kerosene",
+            "Bio-fuel",
+            "Butane"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Cheese is pressed and cut into pieces and stored for ......",
+        "options": [
+            "Salting",
+            "Sweetening",
+            "Ripening",
+            "All of the above"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "HCB decomposes the ...... and bring about the reaction of carbon oxygen, ...... and ...... is formed in this process.",
+        "options": [
+            "Hydrocarbons, CO₂, water",
+            "Nitrogen CO₂, water.",
+            "Oxygen, CO₂, hydrogen",
+            "Oxygen, hydrocarbon, nitrogen"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Disposal of Solid waste can be done through ...... and ...... production.",
+        "options": [
+            "Agriculture, food",
+            "Food, Clothes",
+            "Biogas plant, Compost",
+            "Compost, food"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Useful Microbes become inactive due to antibiotics, ...... Make them active again.",
+        "options": [
+            "Kurases",
+            "Lipases",
+            "Lysis",
+            "Probiotics"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Milk is pasteurized at the beginning to destroy unwanted ......",
+        "options": [
+            "Energy",
+            "Proteins",
+            "Vitamins",
+            "Microbes"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Soil pollution occurring due to chemical fertilizers are prevented due to microbial ......",
+        "options": [
+            "Inoculants",
+            "Insets",
+            "Reactions",
+            "Pathogen"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "...... that settles down in sewage management is again used as fertilizer.",
+        "options": [
+            "Soil",
+            "Water",
+            "Sludge",
+            "Slurpy"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Chemical name for ajinomoto.",
+        "options": [
+            "Palmitic acid",
+            "Monosodium glutamate",
+            "Linolenic acid",
+            "Benzaldehyde"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Industrial Microbiology is related to commercial use of microbes in except.",
+        "options": [
+            "Social",
+            "Economic",
+            "Environment",
+            "Political"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Xanthan gum is obtained by fermentation of starch and molasses with the help of ...... species.",
+        "options": [
+            "Aspergillus",
+            "Lactobacillus",
+            "Corynebacterium",
+            "Xanthomonas"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "...... Gum impacts thickness to ice – creams, puddings, chocolates, milk – shakes.",
+        "options": [
+            "Gluten",
+            "Xanthan",
+            "Xenium",
+            "Glue"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which out of the following bacteria is not used to impart sourness to the milk in production of cheese?",
+        "options": [
+            "Lactobacillus lactis",
+            "Lactobacillus delbrueckii",
+            "Lactobacillus cremoris",
+            "Streptococcus thermophilus"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "All are active bacteria are except-",
+        "options": [
+            "Bifidobacterium bifidum",
+            "Lactobacillus Acidophilus",
+            "Corynebacterium diphtheria",
+            "Lactobacillus casei"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which act of the following are used in cheese food are produced by microbial fermentation?",
+        "options": [
+            "Vinegar, tomato ketchup, ajinomoto",
+            "Vinegar, ajinomoto, soya sauce",
+            "Soya sauce, tomato ketchup, vinegar",
+            "Tomato ketchup, ajinomoto soya sauce"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Bio-fuel are available in following forms except.",
+        "options": [
+            "Liquid",
+            "Gaseous",
+            "Semi-solid",
+            "Solid"
+        ],
+        "answer": 3
+    }
+]
