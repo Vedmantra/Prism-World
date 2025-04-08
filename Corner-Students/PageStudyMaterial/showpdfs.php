@@ -72,8 +72,11 @@
                 <div class="paperTypeDiv">
                     <select class="paperTypeDropdown">
                         <option value="default" selected disabled>Select Type</option>
-                        <option value="Board Paper">Board Paper</option>
-                        <option value="Sample Paper">Sample Paper</option>
+                        <option value="Unit Test">Unit Test</option>
+                        <option value="Semester Exam">Semester Exam</option>
+                        <option value="Class Test">Class Test</option>
+                        <option value="Solutions">Solutions</option>
+                        <option value="Board exam">Board exam</option>
                     </select>
                 </div>
                 
