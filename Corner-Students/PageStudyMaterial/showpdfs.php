@@ -73,9 +73,9 @@
                     <select class="paperTypeDropdown">
                         <option value="default" selected disabled>Select Type</option>
                         <option value="Unit Test">Unit Test</option>
-                        <option value="Semester Exam">Semester Exam</option>
-                        <option value="Class Test">Class Test</option>
-                        <option value="Solutions">Solution</option>
+                        <option value="Sem">Semester Exam</option>
+                        <!-- <option value="Class Test">Class Test</option> -->
+                        <option value="Solution">Solution</option>
                         <!-- <option value="Board exam">Board exam</option> -->
                     </select>
                 </div>
