@@ -9,7 +9,7 @@
 
 /* ? ------------------ Loader ------------------ */
 
-#loader {
+/* #loader {
     position: fixed;
     top: 0;
     left: 0;
@@ -29,7 +29,7 @@
 #loader.hidden {
     opacity: 0;
     visibility: hidden;
-}
+} */
 
 /* ? ------------------ Main Code ------------------ */
 
@@ -127,7 +127,20 @@ section.hero {
     display: flex;
     align-items: center;
     justify-content: center;
+
+    /* background-image: url("./Assets/HeroImages/hero.jpg");
+    background-size: cover;
+    background-position: center; */
+
+    background-image:
+        linear-gradient(to bottom, rgba(0, 0, 0, 0.347), rgba(0, 0, 0, 0.628)),
+        url("./Assets/HeroImages/hero.jpg");
+    /* background: #DCECFD; */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
+
 
 section.hero .content {
     /* border:1px solid black; */
@@ -135,13 +148,15 @@ section.hero .content {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    /* background: red; */
 }
 
 section.hero .content h1 {
     letter-spacing: -0.2rem;
     font-size: 5.5rem;
     text-align: center;
-    color: var(--dark-blue);
+    /* color: var(--dark-blue); */
+    color: white;
 }
 
 section.hero .content h2 {
@@ -153,12 +168,19 @@ section.hero .content h2 {
     width: 60%;
     font-size: 1.7rem;
     text-align: center;
-    color: rgb(82, 81, 81);
+    /* color: rgb(82, 81, 81); */
     margin: 2rem 0;
     /* border:1px solid black; */
+    color: white;
+
 }
 
 section.hero .content img {
+    cursor: pointer;
+    height: 70px;
+}
+
+/* section.hero .content img {
     cursor: pointer;
     height: 70px;
 }
@@ -176,7 +198,6 @@ section.hero #img1 {
 
 section.hero #img2 {
     top: 130px;
-    /* left: 1100px; */
     right: 200px;
 }
 
@@ -205,27 +226,39 @@ section.hero #elem2 {
 section.hero #elem3 {
     top: 150px;
     left: -200px;
+} */
+
+
+/* ? ------------------ News ------------------ */
+
+section.news {
+    height: 100vh;
+    width: 100%;
+    /* background: red; */
+    /* padding: 5rem 0; */
+}
+
+section.news .container {
+    height: 100%;
+    width: 80%;
+    margin: auto;
+
+    background-image:
+        url("./Assets/Gallary/img7.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 4rem
+}
+
+@media (max-width:600px) {
+    section.news .container {
+        background-image:
+            url("./Assets/Gallary/trip1.webp");
+    }
 }
 
 /* ? ------------------ Reviews ------------------ */
-
-/* .reviews {
-    position: relative;
-}
-
-.reviews div {
-    overflow: hidden;
-}
-
-.reviews .overlay {
-    height: 50px;
-    width: 250px;
-    background: white;
-    position: absolute;
-    bottom: 0;
-    left: calc(50% - 125px);
-    z-index: 500;
-} */
 
 .reviews {
     display: flex;
@@ -241,7 +274,6 @@ section.hero #elem3 {
 }
 
 .reviews .images img {
-    /* padding: 2rem; */
     width: 100%;
 }
 
@@ -411,6 +443,10 @@ section.batches .container {
     margin: auto;
     gap: 1rem;
 }
+section.batches .container:nth-child(2) {
+    margin-top: 1rem;
+    border:1px solid black;
+}
 
 section.batches .container .box {
     /* display: inline-block; */
@@ -538,4 +574,15 @@ section.footer p {
     text-align: center;
     margin-top: 2rem;
     padding-bottom: 2rem;
+}
+
+.whatsappbutton {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 10;
+}
+
+.whatsappbutton img {
+    cursor: pointer;
 }

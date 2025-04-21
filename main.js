@@ -1,54 +1,53 @@
 // window.addEventListener("load", function () {
-    // setTimeout(() => {
-    //     document.getElementById("loader").classList.add("hidden");
-        
-    // }, 500);
-    // setTimeout(() => {
-    // GSAPHeroSection()
+// setTimeout(() => {
+//     document.getElementById("loader").classList.add("hidden");
 
-    //     // document.getElementById("loader").classList.add("hidden");
-    // }, 700);
-    // });
+// }, 500);
+// setTimeout(() => {
+// GSAPHeroSection()
+
+//     // document.getElementById("loader").classList.add("hidden");
+// }, 700);
+// });
 // document.getElementById("loader").classList.add("hidden");
 
 GSAPHeroSection()
 
-
 function GSAPHeroSection() {
     let tl = gsap.timeline()
 
-    tl.from(".hero #img1", {
-        x: -200,
-        y: -200,
-        duration: 1
-    }, "0");
-    tl.from(".hero #img2", {
-        x: 200,
-        y: -200,
-        duration: 1
-    }, "0");
-    tl.from(".hero #img3", {
-        x: -200,
-        y: 200,
-        duration: 1
-    }, "0");
-    tl.from(".hero #img4", {
-        x: 200,
-        y: 200,
-        duration: 1
-    }, "0");
-    tl.from(".hero #elem1", {
-        y: -200,
-        duration: 1
-    }, "0");
-    tl.from(".hero #elem2", {
-        y: 200,
-        duration: 1
-    }, "0");
-    tl.from(".hero #elem3", {
-        y: -200,
-        duration: 1
-    }, "0");
+    // tl.from(".hero #img1", {
+    //     x: -200,
+    //     y: -200,
+    //     duration: 1
+    // }, "0");
+    // tl.from(".hero #img2", {
+    //     x: 200,
+    //     y: -200,
+    //     duration: 1
+    // }, "0");
+    // tl.from(".hero #img3", {
+    //     x: -200,
+    //     y: 200,
+    //     duration: 1
+    // }, "0");
+    // tl.from(".hero #img4", {
+    //     x: 200,
+    //     y: 200,
+    //     duration: 1
+    // }, "0");
+    // tl.from(".hero #elem1", {
+    //     y: -200,
+    //     duration: 1
+    // }, "0");
+    // tl.from(".hero #elem2", {
+    //     y: 200,
+    //     duration: 1
+    // }, "0");
+    // tl.from(".hero #elem3", {
+    //     y: -200,
+    //     duration: 1
+    // }, "0");
 
     tl.from(".hero h1", {
         y: 200,
@@ -166,6 +165,13 @@ function Contacts() {
 
 Contacts()
 
+function WhatsappMessage() {
+    let phoneNumber = "919408660808";
+    let url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent("")}`;
+
+    window.open(url, "_blank");
+}
+
 function FooterLinks() {
     document.querySelector('.footer .gb').onclick = function () {
         window.open("https://g.co/kgs/ExNHMKZ", "_blank");
@@ -182,20 +188,6 @@ function FooterLinks() {
 }
 
 FooterLinks()
-
-function Reviews() {
-    // if (window.innerWidth < 600) {
-    //     let firstImg = document.querySelector('.reviews .one')
-    //     firstImg.src = "./Assets/Reviews/c.png"
-    // }
-
-    let reviewButton = document.querySelector('.reviews button')
-    reviewButton.addEventListener('click', function () {
-        window.open("https://g.page/r/CRrz7ygAV5-9EBM/review", "_blank");
-    })
-}
-
-Reviews()
 
 let navClicked = false
 let navbar = document.querySelector('nav .right')
