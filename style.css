@@ -443,9 +443,9 @@ section.batches .container {
     margin: auto;
     gap: 1rem;
 }
-section.batches .container:nth-child(2) {
+section.batches .container#second {
     margin-top: 1rem;
-    border:1px solid black;
+    /* border:1px solid black; */
 }
 
 section.batches .container .box {
