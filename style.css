@@ -244,7 +244,7 @@ section.news .container {
     margin: auto;
 
     background-image:
-        url("./Assets/News/WhatsApp\ Image\ 2025-04-21\ at\ 13.11.47_7b37bf9e.jpg");
+        url("./Assets/News/a.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -254,7 +254,7 @@ section.news .container {
 @media (max-width:600px) {
     section.news .container {
         background-image:
-        url("./Assets/News/WhatsApp\ Image\ 2025-04-21\ at\ 13.11.47_7b37bf9e.jpg");
+        url("./Assets/News/b.jpg");
     }
 }
 
