@@ -245,7 +245,7 @@ section.news .container {
 
     background-image:
         url("./Assets/News/a.jpg");
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
     padding: 4rem
