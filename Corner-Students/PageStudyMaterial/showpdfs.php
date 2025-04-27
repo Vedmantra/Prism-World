@@ -52,7 +52,7 @@
                         <option value="English">English</option>
                         <option value="Maths">Maths</option>
                         <option value="Science">Science</option>
-                        <option value="History & PS">History & PS</option>
+                        <option value="History">History</option>
                         <option value="Geography">Geography</option>
                     </select>
                     <select class="subjectDropdown2">
@@ -64,7 +64,7 @@
                         <option value="Maths 2">Maths 2</option>
                         <option value="Science 1">Science 1</option>
                         <option value="Science 2">Science 2</option>
-                        <option value="History & PS">History & PS</option>
+                        <option value="History">History</option>
                         <option value="Geography">Geography</option>
                     </select>
                 </div>
