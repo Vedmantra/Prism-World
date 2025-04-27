@@ -96,16 +96,19 @@ function ShowPdfs() {
 
     let html = ``
 
-    // console.log('std', std)
-    // console.log('med', med)
-    // console.log('sub', sub)
-    // console.log('paperType', paperType)
+    console.log('std', std)
+    console.log('med', med)
+    console.log('sub', sub)
+    console.log('paperType', paperType)
 
     for (let pdf of allPdfsNamesArray) {
 
+        // pdf = pdf.toLowerCase()
+
         let pdfName = pdf.split("/").pop()
         pdfName = pdfName.replace(".pdf", "")
-        let pdfNameLowerCased = pdfName.toLowerCase()
+        // pdfName = pdfName.toLowerCase()
+        console.log('pdfName',pdfName)
 
         // ?  ------------------ FILTER ------------------ 
         if (std) {
@@ -118,11 +121,11 @@ function ShowPdfs() {
 
         if (med) {
             if (med == "English Medium") {
-                if (!pdfNameLowerCased.includes("eng med")) {
+                if (!pdfName.includes("Eng med")) {
                     continue
                 }
             } else if (med == "Marathi Medium") {
-                if (!pdfNameLowerCased.includes("mar med")) {
+                if (!pdfName.includes("Mar med")) {
                     continue
                 }
             }
