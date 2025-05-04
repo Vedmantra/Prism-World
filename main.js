@@ -216,7 +216,7 @@ function ToggleNavbar() {
 function News() {
     let newsContainer = document.querySelector('.news .container')
     newsContainer.addEventListener('click', function () {
-        window.open("https://www.google.com", "_blank");
+        window.open("https://mahresult.nic.in/", "_blank");
     })
 }
 
