@@ -212,3 +212,12 @@ function ToggleNavbar() {
         navClicked = false
     }
 }
+
+function News() {
+    let newsContainer = document.querySelector('.news .container')
+    newsContainer.addEventListener('click', function () {
+        window.open("https://www.google.com", "_blank");
+    })
+}
+
+News()
