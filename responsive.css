@@ -210,6 +210,14 @@
         margin: auto;
         columns: 1;
     }
+
+    .abra .container {
+        width: 90%;
+    }
+
+    section.news {
+        padding-top: 0;
+    }
 }
 
 /* @media (min-width:700px) {
