@@ -306,12 +306,19 @@ section.gallary .container {
     padding: 0 1rem;
 }
 
+section.gallary .heading{
+    margin-bottom: 2rem;
+}
+
 section.gallary .options {
+    margin-bottom: 2rem;    
+    padding: 1rem 0;
+
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 2rem;
-    margin-bottom: 2rem;
+    flex-wrap: wrap;
+    gap: 1rem;
 }
 
 section.gallary .options p {
@@ -319,6 +326,8 @@ section.gallary .options p {
     color: white;
     padding: 0.5rem 1rem;
     cursor: pointer;
+    font-size: 2rem;
+    /* margin: 0; */
 }
 
 section.gallary .container .img {
@@ -351,28 +360,43 @@ section.batches .container {
     justify-content: center;
     margin: auto;
     gap: 1rem;
+
+    /* background: red; */
 }
 
 section.batches .container#second {
     margin-top: 1rem;
-    /* border:1px solid black; */
+    /* border: 1px solid black; */
 }
 
 section.batches .container .box {
     /* display: inline-block; */
-    background: #f3f3f3;
-    padding: 2rem;
+
+    /* background-image: linear-gradient(to top left,
+            #e3edf8 0%,
+            white 20%,
+            #e3edf8 80%,
+            #e3edf8 100%); */
+
+    border: 1px solid gray;
     border-radius: 10px;
-    /* transition: transform 0.5s; */
+    padding: 2rem;
 }
 
-section.batches .container .box:first-child {
+section.batches .container .box:hover {
+    /* display: inline-block; */
+    /* background: red; */
+    background-image: linear-gradient(to top left,
+            #e3edf8 0%,
+            white 20%,
+            #e3edf8 40%,
+            #e3edf8 100%);
+
+}
+
+/* section.batches .container .box:first-child {
     background: var(--greenish);
     border: 1px solid #c0f8d0;
-}
-
-section.batches .container .box:first-child:hover {
-    scale: 1.5;
 }
 
 section.batches .container .box:nth-child(2) {
@@ -383,11 +407,11 @@ section.batches .container .box:nth-child(2) {
 section.batches .container .box:last-child {
     background: var(--yellowish);
     border: 1px solid #fbcb9f;
-}
+} */
 
 
 section.batches .container .box h1 {
-    font-size: 2.3rem;
+    font-size: 2rem;
 }
 
 section.batches .container .box h2 {
@@ -421,7 +445,7 @@ section.batches .container .box .features p {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 50%;
+    width: 90%;
     margin: auto;
 }
 
@@ -484,4 +508,29 @@ section.footer p {
     text-align: center;
     margin-top: 2rem;
     padding-bottom: 2rem;
+}
+
+.flex-3>* {
+    flex: 1;
+}
+
+section.youtube {
+    /* background: black; */
+    /* min-height: 100vh; */
+}
+
+section.youtube .container {
+    /* background: red; */
+    width: 90%;
+    margin: auto;
+
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+section.youtube .container iframe {
+    width: 48%;
+    aspect-ratio: 16/9;
 }

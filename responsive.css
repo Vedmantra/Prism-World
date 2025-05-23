@@ -159,6 +159,15 @@
         font-size: 1rem;
     }
 
+    section.gallary .options p {
+        font-size: 1.3rem;
+    }
+
+    section.youtube .container iframe {
+        width: 100%;
+        aspect-ratio: 16/9;
+    }
+
 }
 
 /* @media (min-width:700px) {

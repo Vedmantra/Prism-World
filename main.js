@@ -142,7 +142,7 @@ function FooterLinks() {
         window.open("https://www.facebook.com/share/18pALPqCya/", "_blank");
     }
     document.querySelector('.footer .yt').onclick = function () {
-        window.open("https://youtube.com/@worldofprismsedu?si=_dViL16DkpHOd0SD", "_blank");
+        window.open("https://www.youtube.com/@worldofprisms", "_blank");
     }
 }
 
