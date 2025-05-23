@@ -1,72 +1,31 @@
-// window.addEventListener("load", function () {
-// setTimeout(() => {
-//     document.getElementById("loader").classList.add("hidden");
+let navClicked = false
+let navbar = document.querySelector('nav .right')
+let img = document.querySelector('nav .toggleDiv img')
 
-// }, 500);
-// setTimeout(() => {
-// GSAPHeroSection()
+function ToggleNavbar() {
 
-//     // document.getElementById("loader").classList.add("hidden");
-// }, 700);
-// });
-// document.getElementById("loader").classList.add("hidden");
-
-GSAPHeroSection()
-
-function GSAPHeroSection() {
-    let tl = gsap.timeline()
-
-    // tl.from(".hero #img1", {
-    //     x: -200,
-    //     y: -200,
-    //     duration: 1
-    // }, "0");
-    // tl.from(".hero #img2", {
-    //     x: 200,
-    //     y: -200,
-    //     duration: 1
-    // }, "0");
-    // tl.from(".hero #img3", {
-    //     x: -200,
-    //     y: 200,
-    //     duration: 1
-    // }, "0");
-    // tl.from(".hero #img4", {
-    //     x: 200,
-    //     y: 200,
-    //     duration: 1
-    // }, "0");
-    // tl.from(".hero #elem1", {
-    //     y: -200,
-    //     duration: 1
-    // }, "0");
-    // tl.from(".hero #elem2", {
-    //     y: 200,
-    //     duration: 1
-    // }, "0");
-    // tl.from(".hero #elem3", {
-    //     y: -200,
-    //     duration: 1
-    // }, "0");
-
-    tl.from(".hero h1", {
-        y: 200,
-        duration: 0.8,
-        opacity: 0
-    })
-
-    tl.from(".hero h2", {
-        y: 50,
-        duration: 0.3,
-        opacity: 0,
-    })
-
-    tl.from(".hero .content img", {
-        y: 50,
-        duration: 0.3,
-        opacity: 0,
-    })
+    if (navClicked == false) {
+        // show navbar 
+        gsap.to(navbar, {
+            x: "-100%",
+            duration: 0.2,
+        })
+        // change icon
+        img.src = "./Assets/Icons/x.svg"
+        navClicked = true
+    } else {
+        // hide navbar 
+        gsap.to(navbar, {
+            x: "50%",
+            duration: 0.2,
+        })
+        // change icon
+        img.src = "./Assets/Icons/menu.svg"
+        navClicked = false
+    }
 }
+
+
 
 gsap.registerPlugin(ScrollTrigger);
 function ScrollTriggerAnimation() {
@@ -189,30 +148,6 @@ function FooterLinks() {
 
 FooterLinks()
 
-let navClicked = false
-let navbar = document.querySelector('nav .right')
-let img = document.querySelector('nav .toggleDiv img')
-function ToggleNavbar() {
-
-    if (navClicked == false) {
-        // show navbar 
-        gsap.to(navbar, {
-            x: "-100%",
-            duration: 0.2,
-        })
-        img.src = "./Assets/Icons/x.svg"
-        navClicked = true
-    } else {
-        // hide navbar 
-        gsap.to(navbar, {
-            x: "50%",
-            duration: 0.2,
-        })
-        img.src = "./Assets/Icons/menu.svg"
-        navClicked = false
-    }
-}
-
 function News() {
     let newsContainer = document.querySelector('.news .container')
     newsContainer.addEventListener('click', function () {
@@ -221,3 +156,44 @@ function News() {
 }
 
 News()
+
+function Gallary() {
+    let options = document.querySelectorAll('.gallary .options p')
+    let images = document.querySelectorAll('.gallary .container .img')
+
+    for (let option of options) {
+        option.addEventListener('click', function () {
+
+            let category = option.id
+
+            if (category == "All") {
+                for (let img of images) {
+                    img.style.display = "block";
+                }
+            } else {
+                for (let img of images) {
+                    if (img.classList.contains(category)) {
+                        img.style.display = "block";
+                    } else {
+                        img.style.display = "none";
+                    }
+                }
+            }
+        })
+    }
+}
+
+Gallary()
+
+// document.querySelectorAll('.options p').forEach(button => {
+//     button.addEventListener('click', () => {
+//         const filter = button.id;
+//         document.querySelectorAll('.gallary .img').forEach(img => {
+//             if (img.classList.contains(filter)) {
+//                 img.style.display = 'block';
+//             } else {
+//                 img.style.display = 'none';
+//             }
+//         });
+//     });
+// });

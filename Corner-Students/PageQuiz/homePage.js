@@ -24,21 +24,21 @@ function Standard() {
 
 //
 let med = "English Medium"
-let mediumText = document.querySelector('.mediumDiv h2')
-let mediumInput = document.querySelector('#mediumInput')
+// let mediumText = document.querySelector('.mediumDiv h2')
+// let mediumInput = document.querySelector('#mediumInput')
 
-mediumInput.addEventListener("mouseup", Medium);
-mediumInput.addEventListener("touchend", Medium);
-function Medium() {
-    if (mediumInput.value <= 50) {
-        mediumInput.value = 0
-        med = "English Medium"
-    } else {
-        mediumInput.value = 100
-        med = "Marathi Medium"
-    }
-    mediumText.innerHTML = med
-}
+// mediumInput.addEventListener("mouseup", Medium);
+// mediumInput.addEventListener("touchend", Medium);
+// function Medium() {
+//     if (mediumInput.value <= 50) {
+//         mediumInput.value = 0
+//         med = "English Medium"
+//     } else {
+//         mediumInput.value = 100
+//         med = "Marathi Medium"
+//     }
+//     mediumText.innerHTML = med
+// }
 
 function ChangeSubjectDropdown() {
     let subjectDropdown1 = document.querySelector('.subjectDropdown1')
