@@ -30,25 +30,20 @@
     }
 
     nav .right {
-        gap: 0.8rem;
-    }
-
-    nav a {
-        font-size: 1rem !important;
-    }
-
-    nav .right {
-        position: absolute;
         background: white;
-        display: flex;
+        position: absolute;
+        right: -50%;
+        top: 10vh;
         align-items: start;
-        /* justify-content: center; */
         flex-direction: column;
         width: 50%;
         height: 100vh;
         padding: 1rem;
-        right: -50%;
-        top: 10vh;
+        gap: 0.8rem;
+    }
+
+    nav .right a {
+        font-size: 1rem;
     }
 
     nav .toggleDiv {
@@ -57,8 +52,14 @@
 
     /* ? ------------------ Hero ------------------ */
 
-    .hero .container {
+
+    section.hero .container {
         width: 90%;
+        margin: auto;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     /* ? ------------------ News ------------------ */
@@ -77,14 +78,34 @@
 
     /* ? ------------------ Reviews ------------------ */
 
-    /* .reviews img {
-        width: 150%;
-    } */
-
     .reviews .images {
-        width: 100%;
+        width: 95%;
         margin: auto;
         columns: 1;
+    }
+
+    .reviews .images img {
+        margin-top: 1rem;
+    }
+
+    /* ? ------------------ Batches ------------------ */
+
+    .flex-3 {
+        flex-direction: column;
+    }
+
+    section.batches .container {
+        width: 100%;
+    }
+
+    section.batches .container .box {
+        padding: 1rem;
+        width: 90%;
+    }
+
+    section.batches .container .box h1,
+    section.batches .container .box h2 {
+        text-align: center; 
     }
 
     /* ? ------------------ Map ------------------ */
@@ -130,25 +151,7 @@
         border-radius: 0;
     }
 
-    /* ? ------------------ Batches ------------------ */
 
-    .flex-3 {
-        flex-direction: column;
-    }
-
-    section.batches .container {
-        width: 100%;
-    }
-
-    section.batches .container .box {
-        padding: 1rem;
-        width: 90%;
-    }
-
-    section.batches .container .box h1,
-    section.batches .container .box h2 {
-        text-align: center;
-    }
 
     /* ? ------------------ Footer ------------------ */
     section.footer {

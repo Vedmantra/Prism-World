@@ -25,8 +25,6 @@ function ToggleNavbar() {
     }
 }
 
-
-
 gsap.registerPlugin(ScrollTrigger);
 function ScrollTriggerAnimation() {
     gsap.from(".batches .box", {

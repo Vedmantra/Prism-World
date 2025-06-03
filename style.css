@@ -1,4 +1,5 @@
 /* ? ------------------ Variables ------------------ */
+
 :root {
     --light-blue: #DCECFD;
     --dark-blue: #2a2432;
@@ -18,6 +19,7 @@
 
 a {
     text-decoration: none;
+    color: black;
 }
 
 html {
@@ -40,12 +42,27 @@ section {
 }
 
 .button {
-    background: black;
-    color: white;
-    font-size: 1.5rem;
-    padding: .8rem 1.5rem;
+    font-size: 1.3rem;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 0.8em 2em;
+    transition: 0.2s;
+
+    transform: translate(-0.25rem, -0.25rem);
+    background: rgb(237, 237, 237);
+    box-shadow: 0.25rem 0.25rem black;
     margin-top: 2rem;
     cursor: pointer;
+}
+
+.button:active {
+    transform: translate(0);
+    box-shadow: none;
+}
+
+.flex-3>* {
+    flex: 1;
 }
 
 /* ? ------------------ Navbar ------------------ */
@@ -63,21 +80,6 @@ nav {
     background: white;
 }
 
-nav .right {
-    display: flex;
-    align-items: center;
-    gap: 1.5rem;
-}
-
-nav .right a {
-    text-decoration: none;
-    color: black;
-    font-family: "Poppins", serif;
-    font-weight: 500;
-    font-size: 1.3rem;
-    font-style: normal;
-}
-
 nav .left {
     height: 100%;
     display: flex;
@@ -89,37 +91,55 @@ nav img {
     height: 80%;
 }
 
+nav .right {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+nav .right a {
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-size: 1.3rem;
+    font-style: normal;
+}
+
 nav .toggleDiv {
     display: none;
 }
 
 /* ? ------------------ WhatsappButton ------------------ */
 
-.whatsappbutton {
+.whatsappDiv {
     position: fixed;
     bottom: 10px;
     right: 10px;
     z-index: 10;
 }
 
-.whatsappbutton img {
+.whatsappDiv img {
     cursor: pointer;
 }
 
 /* ? ------------------ Hero ------------------ */
 
 section.hero {
-    padding-top: 6rem;
+    padding-top: 10vh;
+    /* background: red; */
 }
 
 section.hero .container {
-    width: 50%;
+    width: 60%;
     margin: auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 section.hero img {
     width: 100%;
-    margin: auto;
+    height: 100%;
 }
 
 /* ? ------------------ News ------------------ */
@@ -127,8 +147,6 @@ section.hero img {
 section.news {
     height: 100vh;
     width: 100%;
-    /* background: red; */
-    /* padding: 5rem 0; */
     padding-top: 2rem;
 }
 
@@ -142,7 +160,6 @@ section.news .container {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding: 4rem
 }
 
 @media (max-width:600px) {
@@ -164,10 +181,159 @@ section.news .container {
 .reviews .images {
     width: 90%;
     margin: auto;
-    columns: 3;
+    columns: 2;
 }
 
 .reviews .images img {
+    width: 100%;
+}
+
+/* ? ------------------ Batches ------------------ */
+
+section.batches .container {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    gap: 1rem;
+}
+
+section.batches .container#second {
+    margin-top: 1rem;
+}
+
+section.batches .container .box {
+    background-image: linear-gradient(to top left,
+            #e3edf8 0%,
+            white 20%,
+            #e3edf8 80%,
+            #e3edf8 100%);
+
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 10px;
+    padding: 2rem;
+}
+
+section.batches .container .box:hover {
+    background-image: linear-gradient(to top left,
+            #e3edf8 0%,
+            white 20%,
+            #e3edf8 40%,
+            #e3edf8 100%);
+}
+
+.lottieContainer {
+    font-size: 2rem;
+    height: 10rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.batches .container .box h1 {
+    font-size: 2rem;
+    font-family: "Poppins";
+    font-weight: bold;
+}
+
+section.batches .container .box h2 {
+    margin-top: 0.1rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid black;
+}
+
+section.batches .container .box .features {
+    margin-top: 2rem;
+}
+
+section.batches .container .box .features p {
+    font-size: 1.2rem;
+    margin: 1rem 0;
+}
+
+
+/* ? ------------------ Gallary ------------------ */
+
+section.gallary .container {
+    width: 100%;
+    columns: 3;
+    gap: 1rem;
+    padding: 0 1rem;
+}
+
+section.gallary .heading {
+    margin-bottom: 2rem;
+}
+
+section.gallary .options {
+    margin-bottom: 2rem;
+    padding: 1rem 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+section.gallary .options .button {
+    margin: 0;
+}
+
+section.gallary .container .img {
+    width: 100%;
+    margin: 1rem 0;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+section.gallary .container .img:first-child {
+    margin: 0;
+}
+
+section.gallary .container .img img {
+    width: 100%;
+    border-radius: 10px;
+    transition: scale 0.5s;
+}
+
+/* section.gallary .container .img img:hover {
+    scale: 1.2;
+} */
+
+/* ? ------------------ Youtube ------------------ */
+
+section.youtube .container {
+
+    width: 90%;
+    margin: auto;
+
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+section.youtube .container iframe {
+    width: 48%;
+    aspect-ratio: 16/9;
+}
+
+/* ? ------------------ Map ------------------ */
+
+.map .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin: auto;
+}
+
+.map iframe {
+    border-radius: 10px;
     width: 100%;
 }
 
@@ -218,15 +384,6 @@ section.contact .container form {
     justify-content: center;
     flex-direction: column;
 }
-
-/* section.contact .container form button {
-background: black;
-color: white;
-font-size: 1.5rem;
-padding: .8rem 1.5rem;
-margin-top: 2rem;
-cursor: pointer;
-} */
 
 .radio-inputs {
     display: flex;
@@ -297,164 +454,6 @@ section.contact .container2 img {
 }
 
 
-/* ? ------------------ Gallary ------------------ */
-
-section.gallary .container {
-    columns: 3;
-    width: 100%;
-    gap: 1rem;
-    padding: 0 1rem;
-}
-
-section.gallary .heading{
-    margin-bottom: 2rem;
-}
-
-section.gallary .options {
-    margin-bottom: 2rem;    
-    padding: 1rem 0;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 1rem;
-}
-
-section.gallary .options p {
-    background: black;
-    color: white;
-    padding: 0.5rem 1rem;
-    cursor: pointer;
-    font-size: 2rem;
-    /* margin: 0; */
-}
-
-section.gallary .container .img {
-    width: 100%;
-    margin: 1rem 0;
-    border-radius: 10px;
-    overflow: hidden;
-}
-
-section.gallary .container .img:first-child {
-    margin: 0;
-}
-
-section.gallary .container .img img {
-    width: 100%;
-    border-radius: 10px;
-    transition: scale 0.5s;
-}
-
-section.gallary .container .img img:hover {
-    scale: 1.2;
-}
-
-/* ? ------------------ Batches ------------------ */
-
-section.batches .container {
-    width: 80%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: auto;
-    gap: 1rem;
-
-    /* background: red; */
-}
-
-section.batches .container#second {
-    margin-top: 1rem;
-    /* border: 1px solid black; */
-}
-
-section.batches .container .box {
-    /* display: inline-block; */
-
-    /* background-image: linear-gradient(to top left,
-            #e3edf8 0%,
-            white 20%,
-            #e3edf8 80%,
-            #e3edf8 100%); */
-
-    border: 1px solid gray;
-    border-radius: 10px;
-    padding: 2rem;
-}
-
-section.batches .container .box:hover {
-    /* display: inline-block; */
-    /* background: red; */
-    background-image: linear-gradient(to top left,
-            #e3edf8 0%,
-            white 20%,
-            #e3edf8 40%,
-            #e3edf8 100%);
-
-}
-
-/* section.batches .container .box:first-child {
-    background: var(--greenish);
-    border: 1px solid #c0f8d0;
-}
-
-section.batches .container .box:nth-child(2) {
-    background: var(--violetish);
-    border: 1px solid #e1bef4;
-}
-
-section.batches .container .box:last-child {
-    background: var(--yellowish);
-    border: 1px solid #fbcb9f;
-} */
-
-
-section.batches .container .box h1 {
-    font-size: 2rem;
-}
-
-section.batches .container .box h2 {
-    margin-top: 0.5rem;
-    font-size: 1.5rem;
-    font-weight: 500;
-    padding-bottom: 1rem;
-    border-bottom: 1px solid black;
-}
-
-section.batches .container .box .features {
-    margin-top: 2rem;
-}
-
-section.batches .container .box .features p {
-    font-size: 1.2rem;
-    margin: 1rem 0;
-}
-
-.lottieContainer {
-    font-size: 2rem;
-    height: 10rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-/* ? ------------------ Map ------------------ */
-
-.map .container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 90%;
-    margin: auto;
-}
-
-.map iframe {
-    border-radius: 20px;
-    width: 100%;
-    aspect-ratio: 1;
-}
-
 /* ? ------------------ Footer ------------------ */
 
 section.footer {
@@ -508,29 +507,4 @@ section.footer p {
     text-align: center;
     margin-top: 2rem;
     padding-bottom: 2rem;
-}
-
-.flex-3>* {
-    flex: 1;
-}
-
-section.youtube {
-    /* background: black; */
-    /* min-height: 100vh; */
-}
-
-section.youtube .container {
-    /* background: red; */
-    width: 90%;
-    margin: auto;
-
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 2rem;
-}
-
-section.youtube .container iframe {
-    width: 48%;
-    aspect-ratio: 16/9;
 }
