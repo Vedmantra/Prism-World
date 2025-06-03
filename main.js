@@ -1,3 +1,5 @@
+// todo ------------------ Navbar ------------------ 
+
 let navClicked = false
 let navbar = document.querySelector('nav .right')
 let img = document.querySelector('nav .toggleDiv img')
@@ -25,34 +27,133 @@ function ToggleNavbar() {
     }
 }
 
-gsap.registerPlugin(ScrollTrigger);
+// todo ------------------ ScrollTrigger ------------------ 
+
+// gsap.registerPlugin(ScrollTrigger);
+
 function ScrollTriggerAnimation() {
-    gsap.from(".batches .box", {
-        opacity: 0,
-        y: 100,
-        duration: 0.3,
-        stagger: 0.3,
-        scrollTrigger: {
-            trigger: ".batches",
+    // // All Sections
+    // let sections = document.querySelectorAll("section");
+
+    // sections.forEach(section => {
+    //     // All Sections > All Containers
+    //     let container = section.querySelector(".container");
+
+    //     if (container) {
+    //         // All Sections > All Containers > All Direct Childrens
+    //         let directChildren = Array.from(container.children);
+
+    //         directChildren.forEach(child => {
+    //             gsap.from(child, {
+    //                 opacity: 0,
+    //                 y: 100,
+    //                 duration: 0.5,
+    //                 scrollTrigger: {
+    //                     trigger: child,
+    //                     start: "top 70%",
+    //                     // markers: true,
+    //                 }
+    //             });
+    //         });
+    //     }
+    // });
+
+
+    // batch =>
+    // Groups them into batches as they enter the viewport
+    // Animates the whole batch together with stagger
+
+    // gsap.registerPlugin(ScrollTrigger);
+
+    // performance.mark("start-animations");
+
+    // const allChildren = document.querySelectorAll("section .container > *");
+    // gsap.set(allChildren, { opacity: 0, y: 50 });
+
+    // ScrollTrigger.batch(allChildren, {
+    //     onEnter: batch => {
+    //         gsap.to(batch, {
+    //             opacity: 1,
+    //             y: 0,
+    //             duration: 1,
+    //             stagger: 0.2,
+    //             ease: "power2.out"
+    //         });
+    //     },
+    //     start: "top 70%",
+    //     markers: true
+    // });
+
+    // performance.mark("end-animations");
+    // performance.measure("Animation Setup Time", "start-animations", "end-animations");
+
+    // const result = performance.getEntriesByName("Animation Setup Time")[0];
+    // console.log("Animation setup took", result.duration.toFixed(2), "ms");
+
+    // 
+
+
+    // performance.mark("start-animations");
+
+    gsap.registerPlugin(ScrollTrigger);
+
+    // All Sections 
+    const allSections = document.querySelectorAll("section");
+
+    allSections.forEach(section => {
+        // if (section == "gallary") {
+        //     return
+        // }
+        // All Sections > All Containers 
+        const container = section.querySelector(".container");
+        if (!container) return;
+
+        // All Sections > All Containers > All Direct Childrens 
+
+        let children = Array.from(container.children);
+
+        gsap.set(children, { opacity: 0, y: 100 });
+
+        ScrollTrigger.batch(children, {
+            onEnter: batch => {
+                gsap.to(batch, {
+                    opacity: 1,
+                    y: 0,
+                    duration: 0.6,
+                    ease: "power2.out",
+                    stagger: 0.15,
+                });
+            },
             start: "top 50%",
-        },
+            once: true,
+            markers: true,
+        });
     });
 
-    let gallaryDivs = document.querySelectorAll(".gallary img")
-    for (let div of gallaryDivs) {
-        gsap.from(div, {
-            opacity: 0,
-            y: 100,
-            duration: 0.5,
-            scrollTrigger: {
-                trigger: div,
-                start: "top 80%",
-            }
-        });
-    }
+
+    // performance.mark("end-animations");
+    // performance.measure("Animation Setup Time", "start-animations", "end-animations");
+
+    // const result = performance.getEntriesByName("Animation Setup Time")[0];
+    // console.log("Animation setup took", result.duration.toFixed(2), "ms");
+
+    // gsap.from(".gallary > div > img", {
+    //     opacity: 0,
+    //     y: 100,
+    //     duration: 0.6,
+    //     ease: "power2.out",
+    //     stagger: 0.15,
+    //     ScrollTrigger: {
+    //         trigger: ".gallary",
+    //         start: "top 70%"
+    //     }
+    // });
+
 }
 
 ScrollTriggerAnimation()
+
+// todo ------------------ SVG ------------------ 
 
 function SVG() {
     var animation1 = lottie.loadAnimation({
@@ -88,6 +189,8 @@ function SVG() {
 }
 
 SVG()
+
+// todo ------------------ Contacts ------------------ 
 
 function SendWhatsappMessage(e) {
     e.preventDefault()
@@ -129,6 +232,8 @@ function WhatsappMessage() {
     window.open(url, "_blank");
 }
 
+// todo ------------------ Footer Links ------------------ 
+
 function FooterLinks() {
     document.querySelector('.footer .gb').onclick = function () {
         window.open("https://g.co/kgs/ExNHMKZ", "_blank");
@@ -146,6 +251,8 @@ function FooterLinks() {
 
 FooterLinks()
 
+// todo ------------------ News ------------------ 
+
 function News() {
     let newsContainer = document.querySelector('.news .container')
     newsContainer.addEventListener('click', function () {
@@ -154,6 +261,8 @@ function News() {
 }
 
 News()
+
+// todo ------------------ Gallary ------------------ 
 
 function Gallary() {
     let options = document.querySelectorAll('.gallary .options p')
@@ -182,16 +291,3 @@ function Gallary() {
 }
 
 Gallary()
-
-// document.querySelectorAll('.options p').forEach(button => {
-//     button.addEventListener('click', () => {
-//         const filter = button.id;
-//         document.querySelectorAll('.gallary .img').forEach(img => {
-//             if (img.classList.contains(filter)) {
-//                 img.style.display = 'block';
-//             } else {
-//                 img.style.display = 'none';
-//             }
-//         });
-//     });
-// });

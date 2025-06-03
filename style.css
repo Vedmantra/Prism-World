@@ -1,3 +1,9 @@
+/* 
+todo -------------------------------------------------------------------------
+todo                                 Starting               
+todo -------------------------------------------------------------------------
+*/
+
 /* ? ------------------ Variables ------------------ */
 
 :root {
@@ -8,7 +14,7 @@
     --greenish: #DFF1E4;
 }
 
-/* ? ------------------ Main Code ------------------ */
+/* ? ------------------ Basic Code ------------------ */
 
 * {
     font-family: Arial, Helvetica, sans-serif;
@@ -26,7 +32,7 @@ html {
     scroll-behavior: smooth;
 }
 
-/* ? ------------------ Master Class ------------------ */
+/* ? ------------------ Repetitive Code ------------------ */
 
 .heading {
     letter-spacing: -0.1rem;
@@ -121,6 +127,12 @@ nav .toggleDiv {
     cursor: pointer;
 }
 
+/* 
+todo -------------------------------------------------------------------------
+todo                                 SECTIONS               
+todo -------------------------------------------------------------------------
+*/
+
 /* ? ------------------ Hero ------------------ */
 
 section.hero {
@@ -178,13 +190,13 @@ section.news .container {
     flex-direction: column;
 }
 
-.reviews .images {
+.reviews .container {
     width: 90%;
     margin: auto;
     columns: 2;
 }
 
-.reviews .images img {
+.reviews .container img {
     width: 100%;
 }
 
@@ -195,12 +207,9 @@ section.batches .container {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
     margin: auto;
     gap: 1rem;
-}
-
-section.batches .container#second {
-    margin-top: 1rem;
 }
 
 section.batches .container .box {
@@ -213,6 +222,7 @@ section.batches .container .box {
     border: 1px solid rgb(204, 204, 204);
     border-radius: 10px;
     padding: 2rem;
+    width: 30%;
 }
 
 section.batches .container .box:hover {
@@ -232,7 +242,7 @@ section.batches .container .box:hover {
 }
 
 section.batches .container .box h1 {
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-family: "Poppins";
     font-weight: bold;
 }
@@ -453,6 +463,11 @@ section.contact .container2 img {
     cursor: pointer;
 }
 
+/* 
+todo -------------------------------------------------------------------------
+todo                                 Footer               
+todo --------------------------------------------------------------------------
+*/
 
 /* ? ------------------ Footer ------------------ */
 
@@ -508,3 +523,9 @@ section.footer p {
     margin-top: 2rem;
     padding-bottom: 2rem;
 }
+
+/* 
+todo -------------------------------------------------------------------------
+todo                                                
+todo -------------------------------------------------------------------------
+*/
