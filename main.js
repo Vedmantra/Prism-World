@@ -124,9 +124,9 @@ function ScrollTriggerAnimation() {
                     stagger: 0.15,
                 });
             },
-            start: "top 50%",
+            start: "top 70%",
             once: true,
-            markers: true,
+            // markers: true,
         });
     });
 
