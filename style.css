@@ -242,7 +242,7 @@ section.batches .container .box:hover {
 }
 
 section.batches .container .box h1 {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     font-family: "Poppins";
     font-weight: bold;
 }
@@ -317,18 +317,16 @@ section.gallary .container .img img {
 /* ? ------------------ Youtube ------------------ */
 
 section.youtube .container {
-
     width: 90%;
     margin: auto;
 
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
     gap: 2rem;
 }
 
 section.youtube .container iframe {
-    width: 48%;
+    width: 100%;
     aspect-ratio: 16/9;
 }
 

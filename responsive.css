@@ -183,9 +183,9 @@
         font-size: 1.3rem;
     }
 
-    section.youtube .container iframe {
-        width: 100%;
-        aspect-ratio: 16/9;
+    section.youtube .container {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 1rem;
     }
 
     /* 

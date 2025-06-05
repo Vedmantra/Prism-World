@@ -124,7 +124,7 @@ function ScrollTriggerAnimation() {
                     stagger: 0.15,
                 });
             },
-            start: "top 70%",
+            start: "top 70%",   
             once: true,
             // markers: true,
         });
@@ -185,6 +185,36 @@ function SVG() {
     });
     document.getElementById("eaglebox").addEventListener("mouseenter", function () {
         animation3.goToAndPlay(0, true);
+    });
+    var animation4 = lottie.loadAnimation({
+        container: document.getElementById("celebration"),
+        renderer: "svg",
+        loop: false,
+        autoplay: false,
+        path: "./Assets/Animated-Icons/celebration.json"
+    });
+    document.getElementById("celebrationbox").addEventListener("mouseenter", function () {
+        animation4.goToAndPlay(0, true);
+    });
+    var animation5 = lottie.loadAnimation({
+        container: document.getElementById("sphere"),
+        renderer: "svg",
+        loop: false,
+        autoplay: false,
+        path: "./Assets/Animated-Icons/sphere.json"
+    });
+    document.getElementById("spherebox").addEventListener("mouseenter", function () {
+        animation5.goToAndPlay(0, true);
+    });
+    var animation6 = lottie.loadAnimation({
+        container: document.getElementById("puzzle"),
+        renderer: "svg",
+        loop: false,
+        autoplay: false,
+        path: "./Assets/Animated-Icons/puzzle.json"
+    });
+    document.getElementById("puzzlebox").addEventListener("mouseenter", function () {
+        animation6.goToAndPlay(0, true);
     });
 }
 
