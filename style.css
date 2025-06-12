@@ -67,6 +67,12 @@ section {
     box-shadow: none;
 }
 
+.buttonDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .flex-3>* {
     flex: 1;
 }
@@ -172,6 +178,8 @@ section.news .container {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    /* border:1px solid black; */
+    cursor: pointer;
 }
 
 @media (max-width:600px) {
@@ -184,10 +192,10 @@ section.news .container {
 /* ? ------------------ Reviews ------------------ */
 
 .reviews {
-    display: flex;
+    /* display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: column; */
 }
 
 .reviews .container {
@@ -197,6 +205,7 @@ section.news .container {
 }
 
 .reviews .container img {
+    /* border:1px solid black; */
     width: 100%;
 }
 

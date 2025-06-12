@@ -74,43 +74,33 @@ section.main {
     width: 100%;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    /* gap: 1px; */
+    gap: 0.5rem;
+    padding: 1rem;
 }
 
-section.main>* {
+section.main>div {
     border: 1px solid black;
-    display: grid;
+    display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(112, 111, 111, 0.8);
 }
 
-section.main a {
+section.main .button {
     font-size: 2rem;
-    background-color: rgb(94, 94, 94);
+    background-color: #1C2B53;
     color: white;
-    /* padding: 1rem 1.5rem; */
     padding: 2rem 3rem;
     border-radius: 50px;
-    /* outline: 1px solid white; */
 }
 
 @media (max-width:700px) {
     section.main {
-        /* grid-template-columns: 1fr; */
-        /* height: auto; */
+        grid-template-columns: repeat(1, 1fr);
     }
 
-    section.main a {
+    section.main .button {
         font-size: 1.8rem;
         padding: 1rem 1.5rem;
     }
 
 }
-
-/* section.main div:first-child {
-    background-image: url("./quiz.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-} */
