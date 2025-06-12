@@ -58,7 +58,7 @@ function ScrollTriggerAnimation() {
             },
             start: "top 70%",   
             once: true,
-            // markers: true,
+            markers: true,
         });
     });
 }
