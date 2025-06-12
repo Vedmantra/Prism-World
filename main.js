@@ -58,12 +58,72 @@ function ScrollTriggerAnimation() {
             },
             start: "top 70%",   
             once: true,
-            markers: true,
+            // markers: true,
         });
     });
 }
 
 ScrollTriggerAnimation()
+
+function ScrollTriggerAnimation2() {
+    gsap.registerPlugin(ScrollTrigger);
+
+    const allSections = document.querySelectorAll("section");
+
+    allSections.forEach(section => {
+        const container = section.querySelector(".container");
+        if (!container) return;
+
+        let children = Array.from(container.children);
+
+        gsap.set(children, { opacity: 0, y: 100 });
+
+        ScrollTrigger.batch(children, {
+            start: "top bottom",   // When the section enters the bottom of the viewport
+            end: "bottom top",     // Until it fully scrolls out
+            onEnter: batch => {
+                gsap.to(batch, {
+                    opacity: 1,
+                    y: 0,
+                    duration: 0.6,
+                    ease: "power2.out",
+                    stagger: 0.15
+                });
+            },
+            onLeave: batch => {
+                gsap.to(batch, {
+                    opacity: 0,
+                    y: 100,
+                    duration: 0.6,
+                    ease: "power2.in",
+                    stagger: 0.15
+                });
+            },
+            onEnterBack: batch => {
+                gsap.to(batch, {
+                    opacity: 1,
+                    y: 0,
+                    duration: 0.6,
+                    ease: "power2.out",
+                    stagger: 0.15
+                });
+            },
+            onLeaveBack: batch => {
+                gsap.to(batch, {
+                    opacity: 0,
+                    y: 100,
+                    duration: 0.6,
+                    ease: "power2.in",
+                    stagger: 0.15
+                });
+            },
+            markers: true
+        });
+    });
+}
+
+// ScrollTriggerAnimation2();
+
 
 // todo ------------------ SVG ------------------ 
 

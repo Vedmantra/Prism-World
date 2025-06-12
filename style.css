@@ -415,7 +415,7 @@ section.contact .container form {
 }
 
 .radio-inputs .radio .name {
-    font-family: "Poppins";
+    /* font-family: "Poppins"; */
     display: flex;
     cursor: pointer;
     align-items: center;
