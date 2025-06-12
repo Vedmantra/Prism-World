@@ -29,81 +29,13 @@ function ToggleNavbar() {
 
 // todo ------------------ ScrollTrigger ------------------ 
 
-// gsap.registerPlugin(ScrollTrigger);
-
 function ScrollTriggerAnimation() {
-    // // All Sections
-    // let sections = document.querySelectorAll("section");
-
-    // sections.forEach(section => {
-    //     // All Sections > All Containers
-    //     let container = section.querySelector(".container");
-
-    //     if (container) {
-    //         // All Sections > All Containers > All Direct Childrens
-    //         let directChildren = Array.from(container.children);
-
-    //         directChildren.forEach(child => {
-    //             gsap.from(child, {
-    //                 opacity: 0,
-    //                 y: 100,
-    //                 duration: 0.5,
-    //                 scrollTrigger: {
-    //                     trigger: child,
-    //                     start: "top 70%",
-    //                     // markers: true,
-    //                 }
-    //             });
-    //         });
-    //     }
-    // });
-
-
-    // batch =>
-    // Groups them into batches as they enter the viewport
-    // Animates the whole batch together with stagger
-
-    // gsap.registerPlugin(ScrollTrigger);
-
-    // performance.mark("start-animations");
-
-    // const allChildren = document.querySelectorAll("section .container > *");
-    // gsap.set(allChildren, { opacity: 0, y: 50 });
-
-    // ScrollTrigger.batch(allChildren, {
-    //     onEnter: batch => {
-    //         gsap.to(batch, {
-    //             opacity: 1,
-    //             y: 0,
-    //             duration: 1,
-    //             stagger: 0.2,
-    //             ease: "power2.out"
-    //         });
-    //     },
-    //     start: "top 70%",
-    //     markers: true
-    // });
-
-    // performance.mark("end-animations");
-    // performance.measure("Animation Setup Time", "start-animations", "end-animations");
-
-    // const result = performance.getEntriesByName("Animation Setup Time")[0];
-    // console.log("Animation setup took", result.duration.toFixed(2), "ms");
-
-    // 
-
-
-    // performance.mark("start-animations");
 
     gsap.registerPlugin(ScrollTrigger);
 
     // All Sections 
     const allSections = document.querySelectorAll("section");
-
     allSections.forEach(section => {
-        // if (section == "gallary") {
-        //     return
-        // }
         // All Sections > All Containers 
         const container = section.querySelector(".container");
         if (!container) return;
@@ -129,26 +61,6 @@ function ScrollTriggerAnimation() {
             // markers: true,
         });
     });
-
-
-    // performance.mark("end-animations");
-    // performance.measure("Animation Setup Time", "start-animations", "end-animations");
-
-    // const result = performance.getEntriesByName("Animation Setup Time")[0];
-    // console.log("Animation setup took", result.duration.toFixed(2), "ms");
-
-    // gsap.from(".gallary > div > img", {
-    //     opacity: 0,
-    //     y: 100,
-    //     duration: 0.6,
-    //     ease: "power2.out",
-    //     stagger: 0.15,
-    //     ScrollTrigger: {
-    //         trigger: ".gallary",
-    //         start: "top 70%"
-    //     }
-    // });
-
 }
 
 ScrollTriggerAnimation()
