@@ -19,17 +19,27 @@ let totalMarksContainer = document.querySelector('.totalMarks')
 
 let promiseArr = [];
 
-for (let lesson of lessonArr) {     
-    let address = `Quizes/${std}/${med}/${sub}/${lesson}.json`
-    console.log('address',address)
-    let promise1 = fetch(address)
-        .then(response => response.json())
-        .then(allQuestionsArray => {
-            allQuestionsArray2.push(...allQuestionsArray)
-        })
-        .catch(error => console.log('error', error))
-    promiseArr.push(promise1)
-}
+// for (let lesson of lessonArr) {     
+//     let address = `Quizes/${std}/${med}/${sub}/${lesson}.json`
+//     console.log('address',address)
+//     let promise1 = fetch(address)
+//         .then(response => response.json())
+//         .then(allQuestionsArray => {
+//             allQuestionsArray2.push(...allQuestionsArray)
+//         })
+//         .catch(error => console.log('error', error))
+//     promiseArr.push(promise1)
+// }
+
+let address = `Quizes/Adaptation_MCQs_Class7.json`
+console.log('address', address)
+let promise1 = fetch(address)
+    .then(response => response.json())
+    .then(allQuestionsArray => {
+        allQuestionsArray2.push(...allQuestionsArray)
+    })
+    .catch(error => console.log('error', error))
+promiseArr.push(promise1)
 
 Promise.all(promiseArr).then(() => {
     console.log('All fetches completed');
