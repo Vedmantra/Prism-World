@@ -31,7 +31,7 @@ for (let lesson of lessonArr) {
     promiseArr.push(promise1)
 }
 
-// let address = `Quizes/Adaptation_MCQs_Class7.json`
+// let address = `Quizes/a.json`
 // console.log('address', address)
 // let promise1 = fetch(address)
 //     .then(response => response.json())
