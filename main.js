@@ -258,7 +258,7 @@ FooterLinks()
 function News() {
     let newsContainer = document.querySelector('.news .container')
     newsContainer.addEventListener('click', function () {
-        window.open("https://mahahsscboard.in", "_blank");
+        window.open("https://prismworld.in/Corner-Students/PageQuiz/homePage.html", "_blank");
     })
 }
 
