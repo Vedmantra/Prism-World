@@ -479,6 +479,12 @@ todo --------------------------------------------------------------------------
 
 /* ? ------------------ Footer ------------------ */
 
+
+section.footer {
+    /* background: red; */
+    padding-bottom: 1rem;
+}
+
 section.footer .div {
     display: flex;
     align-items: center;
