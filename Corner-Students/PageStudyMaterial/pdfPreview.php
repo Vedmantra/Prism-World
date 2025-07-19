@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+    <!-- Enable pinch zooming on mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes" />
     <title>Secure PDF Viewer</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.3.200/pdf.js"></script>
     <style>
@@ -52,7 +53,6 @@
         }
 
         @media (max-width:700px) {
-
             nav {
                 padding: 0 1rem;
             }
@@ -64,13 +64,10 @@
             nav .right {
                 gap: 0.8rem;
             }
-
         }
 
         #pdfContainer {
-
             max-height: 90vh;
-            /* overflow-y: auto; */
             width: 60%;
             margin: auto;
             padding-top: 5rem;
@@ -80,15 +77,34 @@
             width: 100%;
             height: auto;
             display: block;
-            /* margin: 10px auto; */
         }
 
         @media (max-width:700px) {
             #pdfContainer {
-                max-height: 90vh;
                 width: 100%;
-                margin: auto;
             }
+        }
+
+        #zoomControls {
+            position: fixed;
+            bottom: 1rem;
+            right: 1rem;
+            z-index: 20;
+        }
+
+        #zoomControls button {
+            font-size: 1.5rem;
+            padding: 0.5rem 0.8rem;
+            margin: 0.2rem;
+            border: none;
+            background: black;
+            color: white;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        #zoomControls button:hover {
+            background: #333;
         }
     </style>
 </head>
@@ -108,10 +124,18 @@
         <div id="pdfViewer"></div>
     </div>
 
+    <!-- Zoom Controls -->
+    <div id="zoomControls">
+        <button onclick="zoomIn()">➕</button>
+        <button onclick="zoomOut()">➖</button>
+    </div>
+
     <script>
         const urlParams = new URLSearchParams(window.location.search);
         const pdfUrl = urlParams.get('pdfUrl');
-        loadPDF()
+
+        let currentScale = 1;
+
         function loadPDF() {
             const viewer = document.getElementById('pdfViewer');
             viewer.innerHTML = '';
@@ -120,28 +144,29 @@
 
             pdfjsLib.getDocument(pdfUrl).promise.then(pdf => {
                 const renderPages = [];
+
                 for (let i = 1; i <= pdf.numPages; i++) {
                     renderPages.push(
                         pdf.getPage(i).then(page => {
-                            const viewport = page.getViewport({ scale: 1 });
-                            const scale = containerWidth / viewport.width;
-                            const scaledViewport = page.getViewport({ scale });
+                            const unscaledViewport = page.getViewport({ scale: 1 });
+                            const scale = (containerWidth / unscaledViewport.width) * currentScale;
+                            const viewport = page.getViewport({ scale });
 
                             const outputScale = window.devicePixelRatio || 1;
 
                             const canvas = document.createElement('canvas');
                             canvas.className = 'pdf-page-canvas';
-                            canvas.width = scaledViewport.width * outputScale;
-                            canvas.height = scaledViewport.height * outputScale;
-                            canvas.style.width = `${scaledViewport.width}px`;
-                            canvas.style.height = `${scaledViewport.height}px`;
+                            canvas.width = viewport.width * outputScale;
+                            canvas.height = viewport.height * outputScale;
+                            canvas.style.width = `${viewport.width}px`;
+                            canvas.style.height = `${viewport.height}px`;
 
                             const context = canvas.getContext('2d');
                             context.setTransform(outputScale, 0, 0, outputScale, 0, 0);
 
                             return page.render({
                                 canvasContext: context,
-                                viewport: scaledViewport
+                                viewport: viewport
                             }).promise.then(() => {
                                 canvas.addEventListener("contextmenu", e => e.preventDefault());
                                 return canvas;
@@ -156,7 +181,19 @@
             });
         }
 
+        function zoomIn() {
+            currentScale = Math.min(currentScale + 0.2, 5);
+            loadPDF();
+        }
+
+        function zoomOut() {
+            currentScale = Math.max(0.4, currentScale - 0.2);
+            loadPDF();
+        }
+
         document.addEventListener("contextmenu", e => e.preventDefault());
+
+        loadPDF();
     </script>
 </body>
 
