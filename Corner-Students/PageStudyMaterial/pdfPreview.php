@@ -68,15 +68,22 @@
 
         #pdfContainer {
             max-height: 90vh;
-            width: 60%;
+            width: 100%;
             margin: auto;
             padding-top: 5rem;
+            overflow-x: hidden;
+        }
+
+        #pdfViewer {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1rem;
         }
 
         .pdf-page-canvas {
-            width: 100%;
-            height: auto;
             display: block;
+            height: auto;
         }
 
         @media (max-width:700px) {
@@ -89,13 +96,15 @@
             position: fixed;
             bottom: 1rem;
             right: 1rem;
-            z-index: 20;
+            z-index: 9999;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
         }
 
         #zoomControls button {
             font-size: 1.5rem;
             padding: 0.5rem 0.8rem;
-            margin: 0.2rem;
             border: none;
             background: black;
             color: white;
