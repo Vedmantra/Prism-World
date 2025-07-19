@@ -7,7 +7,6 @@ let std
 standardInput.addEventListener('mouseup', Standard)
 standardInput.addEventListener("touchend", Standard)
 function Standard() {
-
     let standardValue = standardInput.value
     if (standardValue <= 35) {
         standardInput.value = 0
@@ -45,6 +44,27 @@ function Medium() {
     ShowPdfs()
 }
 
+// todo  ------------------ PAPER TYPE ------------------ 
+
+let abras = document.querySelectorAll('.abra')
+
+let paperTypeDropdown = document.querySelector('.paperTypeDropdown')
+let paperType
+paperTypeDropdown.addEventListener('change', function () {
+    paperType = paperTypeDropdown.value
+    ShowPdfs()
+
+    if (paperType == "Class Test" || paperType == "Solution") {
+        for (let abra of abras) {
+            abra.style.display = "none"
+        }
+    } else {
+        for (let abra of abras) {
+            abra.style.display = "block"
+        }
+    }
+})
+
 // todo  ------------------ SUBJECT ------------------ 
 
 let subjectDropdown1 = document.querySelector('.subjectDropdown1')
@@ -71,14 +91,7 @@ subjectDropdown2.addEventListener('change', function () {
     ShowPdfs()
 })
 
-// todo  ------------------ PAPER TYPE ------------------ 
 
-let paperTypeDropdown = document.querySelector('.paperTypeDropdown')
-let paperType
-paperTypeDropdown.addEventListener('change', function () {
-    paperType = paperTypeDropdown.value
-    ShowPdfs()
-})
 
 // todo  ------------------ SEARCH ------------------ 
 

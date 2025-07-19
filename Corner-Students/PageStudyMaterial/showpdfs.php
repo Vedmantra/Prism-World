@@ -44,30 +44,6 @@
             </div>
 
             <div class="div">
-                <div class="subjectDiv">
-                    <select class="subjectDropdown1">
-                        <option value="default" selected disabled>Subject</option>
-                        <option value="Marathi">Marathi</option>
-                        <option value="Hindi">Hindi</option>
-                        <option value="English">English</option>
-                        <option value="Maths">Maths</option>
-                        <option value="Science">Science</option>
-                        <option value="History">History</option>
-                        <option value="Geography">Geography</option>
-                    </select>
-                    <select class="subjectDropdown2">
-                        <option value="default" selected disabled>Subject</option>
-                        <option value="Marathi">Marathi</option>
-                        <option value="Hindi">Hindi</option>
-                        <option value="English">English</option>
-                        <option value="Maths 1">Maths 1</option>
-                        <option value="Maths 2">Maths 2</option>
-                        <option value="Science 1">Science 1</option>
-                        <option value="Science 2">Science 2</option>
-                        <option value="History">History</option>
-                        <option value="Geography">Geography</option>
-                    </select>
-                </div>
 
                 <div class="paperTypeDiv">
                     <select class="paperTypeDropdown">
@@ -76,7 +52,35 @@
                         <option value="Sem">Semester Exam</option>
                         <option value="Class Test">Class Test</option>
                         <option value="Solution">Solution</option>
-                        <!-- <option value="Board exam">Board exam</option> -->
+                    </select>
+                </div>
+
+                <div class="subjectDiv">
+                    <select class="subjectDropdown1">
+                        <option value="default" selected disabled>Subject</option>
+                        <div class="abra">
+                            <option value="Marathi">Marathi</option>
+                            <option value="Hindi">Hindi</option>
+                            <option value="English">English</option>
+                        </div>
+                        <option value="Maths">Maths</option>
+                        <option value="Science">Science</option>
+                        <option value="History">History</option>
+                        <option value="Geography">Geography</option>
+                    </select>
+                    <select class="subjectDropdown2">
+                        <option value="default" selected disabled>Subject</option>
+                        <div class="abra">
+                            <option value="Marathi">Marathi</option>
+                            <option value="Hindi">Hindi</option>
+                            <option value="English">English</option>
+                        </div>
+                        <option value="Maths 1">Maths 1</option>
+                        <option value="Maths 2">Maths 2</option>
+                        <option value="Science 1">Science 1</option>
+                        <option value="Science 2">Science 2</option>
+                        <option value="History">History</option>
+                        <option value="Geography">Geography</option>
                     </select>
                 </div>
 

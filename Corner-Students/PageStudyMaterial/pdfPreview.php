@@ -7,6 +7,20 @@
     <title>Secure PDF Viewer</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.3.200/pdf.js"></script>
     <style>
+        /* ? ------------------ Variables ------------------ */
+
+        :root {
+            --bg-white: white;
+            --bg-gray: #F5F5F5;
+            --bg-gray-darker: #e9e9e9;
+
+            --accent-blue: #1C2B53;
+        }
+
+        body {
+            background: var(--bg-gray);
+        }
+
         * {
             padding: 0;
             margin: 0;
