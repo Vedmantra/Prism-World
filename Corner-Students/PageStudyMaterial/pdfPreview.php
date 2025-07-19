@@ -14,6 +14,11 @@
             box-sizing: border-box;
         }
 
+        html, body {
+            height: 100%;
+            overflow: auto;
+        }
+
         nav {
             height: 10vh;
             display: flex;
@@ -67,11 +72,11 @@
         }
 
         #pdfContainer {
-            max-height: 90vh;
+            margin-top: 10vh;
+            padding: 2rem 0;
+            min-height: 90vh;
             width: 100%;
-            margin: auto;
-            padding-top: 5rem;
-            overflow-x: hidden;
+            overflow: auto;
         }
 
         #pdfViewer {
@@ -79,17 +84,11 @@
             flex-direction: column;
             align-items: center;
             gap: 1rem;
+            padding-bottom: 4rem; /* for space below last page */
         }
 
         .pdf-page-canvas {
             display: block;
-            height: auto;
-        }
-
-        @media (max-width:700px) {
-            #pdfContainer {
-                width: 100%;
-            }
         }
 
         #zoomControls {
@@ -149,7 +148,8 @@
             const viewer = document.getElementById('pdfViewer');
             viewer.innerHTML = '';
 
-            const containerWidth = document.getElementById('pdfContainer').clientWidth;
+            const container = document.getElementById('pdfContainer');
+            const containerWidth = container.clientWidth;
 
             pdfjsLib.getDocument(pdfUrl).promise.then(pdf => {
                 const renderPages = [];
