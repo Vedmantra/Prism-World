@@ -1,3 +1,13 @@
+/* ? ------------------ Variables ------------------ */
+
+:root {
+    --bg-white: white;
+    --bg-gray: #F5F5F5;
+    --bg-gray-darker: #e9e9e9;
+
+    --accent-blue: #1C2B53;
+}
+
 nav {
     height: 10vh;
     display: flex;
@@ -63,7 +73,8 @@ nav img {
 }
 
 body {
-    background: #EAF3F9;
+    /* background: #EAF3F9; */
+    background: var(--bg-gray);
 }
 
 .title {
@@ -145,19 +156,31 @@ body {
     box-shadow: 0 0 0 2px #0281B3;
 }
 
-.button {
+.buttonDiv {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 1rem;
 }
 
-.button button {
+.button {
     font-size: 1.3rem;
-    padding: 0.5rem 1.5rem;
-    background: #0281B3;
-    border: none;
     cursor: pointer;
-    color: white;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 0.8em 2em;
+    transition: 0.2s;
+
+    transform: translate(-0.25rem, -0.25rem);
+    background: rgb(237, 237, 237);
+    box-shadow: 0.25rem 0.25rem black;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+
+.button:active {
+    transform: translate(0);
+    box-shadow: none;
 }
 
 .whiteEffect {

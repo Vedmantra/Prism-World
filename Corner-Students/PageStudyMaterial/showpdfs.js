@@ -142,7 +142,7 @@ function ShowPdfs() {
 
         if (searchVal) {
             searchVal = searchVal.toLowerCase()
-            pdfLowercased = pdfName.toLowerCase()
+            let pdfLowercased = pdfName.toLowerCase()
             let skip = false
 
             let splittedArr = searchVal.split(" ")

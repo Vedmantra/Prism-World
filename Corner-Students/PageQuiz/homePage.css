@@ -1,3 +1,13 @@
+/* ? ------------------ Variables ------------------ */
+
+:root {
+    --bg-white: white;
+    --bg-gray: #F5F5F5;
+    --bg-gray-darker: #e9e9e9;
+
+    --accent-blue: #1C2B53;
+}
+
 nav {
     height: 10vh;
     display: flex;
@@ -63,7 +73,8 @@ nav img {
 }
 
 body {
-    background: #EAF3F9;
+    /* background: #EAF3F9; */
+    background: var(--bg-gray);
 }
 
 section.main .title {
@@ -116,7 +127,8 @@ input[type=range] {
     height: 5rem;
     width: 100%;
     cursor: pointer;
-    background: #EAF3F9;
+    /* background: #EAF3F9; */
+    background: var(--bg-gray);
     position: relative;
 }
 
@@ -170,9 +182,9 @@ select:focus {
 .lessonDiv {
     /* display: flex; */
     gap: 0.5rem;
-    display:flex;
-    align-items:center;
-    justify-content:center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .lessonDiv h1 {

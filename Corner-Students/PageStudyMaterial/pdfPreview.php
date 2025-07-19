@@ -7,11 +7,12 @@
     <title>Secure PDF Viewer</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.3.200/pdf.js"></script>
     <style>
-        *{
+        * {
             padding: 0;
             margin: 0;
             box-sizing: border-box;
         }
+
         nav {
             height: 10vh;
             display: flex;
@@ -113,39 +114,35 @@
         loadPDF()
         function loadPDF() {
             const viewer = document.getElementById('pdfViewer');
-            // If there is already 1 pdf in the container - it clears that and then we render the new pdf
             viewer.innerHTML = '';
 
             const containerWidth = document.getElementById('pdfContainer').clientWidth;
 
             pdfjsLib.getDocument(pdfUrl).promise.then(pdf => {
-                // We have fetched the whole pdf in "pdf" 
                 const renderPages = [];
                 for (let i = 1; i <= pdf.numPages; i++) {
-
                     renderPages.push(
                         pdf.getPage(i).then(page => {
-                            // Getting Individual Page 
-                            const viewport = page.getViewport(1);
-                            let scale = containerWidth / viewport.width;
+                            const viewport = page.getViewport({ scale: 1 });
+                            const scale = containerWidth / viewport.width;
+                            const scaledViewport = page.getViewport({ scale });
 
-                            // if (window.innerWidth < 700) {
-                            //     scale *= 1.5;
-                            // }
-
-                            const scaledViewport = page.getViewport(scale);
+                            const outputScale = window.devicePixelRatio || 1;
 
                             const canvas = document.createElement('canvas');
                             canvas.className = 'pdf-page-canvas';
-                            canvas.width = scaledViewport.width;
-                            canvas.height = scaledViewport.height;
+                            canvas.width = scaledViewport.width * outputScale;
+                            canvas.height = scaledViewport.height * outputScale;
+                            canvas.style.width = `${scaledViewport.width}px`;
+                            canvas.style.height = `${scaledViewport.height}px`;
 
-                            // We have calculated the width and height of the pdfContainer and we are giving it to the canvas
+                            const context = canvas.getContext('2d');
+                            context.setTransform(outputScale, 0, 0, outputScale, 0, 0);
 
                             return page.render({
-                                canvasContext: canvas.getContext('2d'),
+                                canvasContext: context,
                                 viewport: scaledViewport
-                            }).then(() => {
+                            }).promise.then(() => {
                                 canvas.addEventListener("contextmenu", e => e.preventDefault());
                                 return canvas;
                             });

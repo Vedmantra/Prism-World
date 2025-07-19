@@ -79,7 +79,7 @@
                         <!-- <option value="Board exam">Board exam</option> -->
                     </select>
                 </div>
-                
+
             </div>
 
             <div class="searchBarDiv">
