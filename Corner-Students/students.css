@@ -1,3 +1,7 @@
+:root{
+    
+}
+
 * {
     padding: 0;
     margin: 0;
@@ -74,7 +78,7 @@ section.main {
     width: 100%;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 0.5rem;
+    gap: 0.1rem;
     padding: 1rem;
 }
 
@@ -85,12 +89,32 @@ section.main>div {
     align-items: center;
 }
 
-section.main .button {
+/* section.main .button {
     font-size: 2rem;
     background-color: #1C2B53;
     color: white;
     padding: 2rem 3rem;
     border-radius: 50px;
+} */
+
+.button {
+    font-size: 2rem;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 0.8em 2em;
+    transition: 0.2s;
+
+    transform: translate(-0.25rem, -0.25rem);
+    background: rgb(237, 237, 237);
+    box-shadow: 0.25rem 0.25rem black;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+
+.button:active {
+    transform: translate(0);
+    box-shadow: none;
 }
 
 @media (max-width:700px) {

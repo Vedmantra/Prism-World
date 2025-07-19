@@ -7,11 +7,11 @@ todo -------------------------------------------------------------------------
 /* ? ------------------ Variables ------------------ */
 
 :root {
-    --light-blue: #DCECFD;
-    --dark-blue: #2a2432;
-    --yellowish: #FDE7D3;
-    --violetish: #EDE1F4;
-    --greenish: #DFF1E4;
+    --bg-white: white;
+    --bg-gray: #F5F5F5;
+    --bg-gray-darker: #e9e9e9;
+
+    --accent-blue: #1C2B53;
 }
 
 /* ? ------------------ Basic Code ------------------ */
@@ -32,6 +32,16 @@ html {
     scroll-behavior: smooth;
 }
 
+/* ? ------------------ Master Code ------------------ */
+
+section {
+    padding: 5rem 0;
+}
+
+section:nth-child(even) {
+    background: #F5F5F5;
+}
+
 /* ? ------------------ Repetitive Code ------------------ */
 
 .heading {
@@ -40,11 +50,7 @@ html {
     text-align: center;
     margin-bottom: 5rem;
     padding: 0 1rem;
-    color: var(--dark-blue);
-}
-
-section {
-    padding-top: 5rem;
+    color: var(--accent-blue);
 }
 
 .button {
@@ -72,6 +78,8 @@ section {
     align-items: center;
     justify-content: center;
 }
+
+/* ? ------------------ Resoponsive Code ------------------ */
 
 .flex-3>* {
     flex: 1;
@@ -143,7 +151,7 @@ todo -------------------------------------------------------------------------
 
 section.hero {
     padding-top: 10vh;
-    /* background: red; */
+    margin: 0;
 }
 
 section.hero .container {
@@ -165,7 +173,7 @@ section.hero img {
 section.news {
     height: 100vh;
     width: 100%;
-    padding-top: 2rem;
+    margin: 0;
 }
 
 section.news .container {
@@ -178,7 +186,6 @@ section.news .container {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    /* border:1px solid black; */
     cursor: pointer;
 }
 
@@ -191,13 +198,6 @@ section.news .container {
 
 /* ? ------------------ Reviews ------------------ */
 
-.reviews {
-    /* display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column; */
-}
-
 .reviews .container {
     width: 90%;
     margin: auto;
@@ -205,7 +205,6 @@ section.news .container {
 }
 
 .reviews .container img {
-    /* border:1px solid black; */
     width: 100%;
 }
 
@@ -222,25 +221,25 @@ section.batches .container {
 }
 
 section.batches .container .box {
-    background-image: linear-gradient(to top left,
+    /* background-image: linear-gradient(to top left,
             #e3edf8 0%,
             white 20%,
             #e3edf8 80%,
-            #e3edf8 100%);
-
+            #e3edf8 100%); */
+    background: white;
     border: 1px solid rgb(204, 204, 204);
     border-radius: 10px;
     padding: 2rem;
     width: 30%;
 }
 
-section.batches .container .box:hover {
+/* section.batches .container .box:hover {
     background-image: linear-gradient(to top left,
             #e3edf8 0%,
             white 20%,
             #e3edf8 40%,
             #e3edf8 100%);
-}
+} */
 
 .lottieContainer {
     font-size: 2rem;
@@ -254,6 +253,7 @@ section.batches .container .box h1 {
     font-size: 1.6rem;
     font-family: "Poppins";
     font-weight: bold;
+    color: var(--accent-blue);
 }
 
 section.batches .container .box h2 {
@@ -381,6 +381,7 @@ section.contact .container .inputs input {
     margin: 1rem 0;
     border: none;
     border-bottom: 1px solid black;
+    background: #F5F5F5;
 }
 
 section.contact .container .inputs input:focus {
@@ -405,7 +406,7 @@ section.contact .container form {
 .radio-inputs {
     display: flex;
     border-radius: 0.5rem;
-    background: var(--light-blue);
+    background: var(--bg-gray-darker);
     /* background: white; */
     padding: 0.25rem;
     width: 70%;
@@ -478,12 +479,6 @@ todo --------------------------------------------------------------------------
 
 /* ? ------------------ Footer ------------------ */
 
-section.footer {
-    margin-top: 5rem;
-    background: black;
-    color: white;
-}
-
 section.footer .div {
     display: flex;
     align-items: center;
@@ -528,7 +523,7 @@ section.footer .social-media img.yt {
 section.footer p {
     text-align: center;
     margin-top: 2rem;
-    padding-bottom: 2rem;
+    /* padding-bottom: 2rem; */
 }
 
 /* 
