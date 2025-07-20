@@ -56,9 +56,10 @@
                 answer = randomNumber1 * randomNumber2
             }
             else if (randomSign === 4) {
-                let num1 = randomNumber2 * randomNumber1
-                questionHTML = num1 + ` / ` + randomNumber2
-                answer = randomNumber1
+                let num2 = Math.floor(Math.random() * 10) + 1
+                let num1 = randomNumber2 * num2
+                questionHTML = num1 + ` / ` + num2
+                answer = randomNumber2
             }
 
             // Writing Question in QuestionDiv
