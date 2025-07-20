@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../Game.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="game">
+            <div class="info">
+                <div class="timerDiv">
+                    <span></span>s
+                </div>
+                <div class="scoreDiv">
+                    <span>0</span>
+                    Points
+                </div>
+            </div>
+            <div class="questionDiv">4 * 4</div>
+            <div class="optionsDiv">
+                <div class="option" id="op1">a</div>
+                <div class="option" id="op2">a</div>
+                <div class="option" id="op3">a</div>
+                <div class="option" id="op4">a</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let answer
+        let score = 0
+        let scoreDivSpan = document.querySelector('.scoreDiv span')
+
+
+        function GenerateQuestionAndAnswer() {
+            let randomNumber1 = Math.floor(Math.random() * 1000) + 1
+            let randomNumber2 = Math.floor(Math.random() * 1000) + 1
+            let randomSign = Math.floor(Math.random() * 4) + 1
+
+            let questionHTML
+
+            if (randomSign === 1) {
+                questionHTML = randomNumber1 + ` + ` + randomNumber2
+                answer = randomNumber1 + randomNumber2
+            }
+            else if (randomSign === 2) {
+                questionHTML = randomNumber1 + ` - ` + randomNumber2
+                answer = randomNumber1 - randomNumber2
+            }
+            else if (randomSign === 3) {
+                questionHTML = randomNumber1 + ` x ` + randomNumber2
+                answer = randomNumber1 * randomNumber2
+            }
+            else if (randomSign === 4) {
+                let num1 = randomNumber2 * randomNumber1
+                questionHTML = num1 + ` / ` + randomNumber2
+                answer = randomNumber1
+            }
+
+            // Writing Question in QuestionDiv
+            let questionDiv = document.querySelector('.questionDiv')
+            questionDiv.innerHTML = questionHTML
+
+            // Writing Options in OptionsDiv
+            let arr = [1, 2, 3, 4]
+            let randomNum = Math.floor(Math.random() * 4) + 1
+
+            for (let i = 1; i <= 4; i++) {
+                let option = document.querySelectorAll('.option')[i - 1]
+                if (i == randomNum) {
+                    // console.log('i', i)
+                    option.innerHTML = answer
+                    continue
+                }
+
+                let randomNumber = Math.floor(Math.random() * 500) + 1
+                option.innerHTML = randomNumber
+            }
+        }
+
+        GenerateQuestionAndAnswer()
+
+        let options = document.querySelectorAll('.option')
+        for (let option of options) {
+            option.addEventListener('click', function () {
+                let userAnswer = option.innerHTML
+                if (userAnswer == answer) {
+                    score++
+                    scoreDivSpan.innerHTML = score
+                }
+
+                GenerateQuestionAndAnswer()
+            })
+        }
+
+        function Timer() {
+
+            let timerDivSpan = document.querySelector('.timerDiv span')
+
+            let timer = 30
+            timerDivSpan.innerHTML = timer
+
+            let timerInterval = setInterval(() => {
+                timer--
+                timerDivSpan.innerHTML = timer
+                // console.log('timer',timer)
+                if (timer == 0) {
+                    clearInterval(timerInterval)
+                    alert("Times Up")
+                }
+            }, 1000);
+        }
+
+        Timer()
+    </script>
+</body>
+
+
+</html>
