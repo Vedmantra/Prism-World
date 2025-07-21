@@ -82,3 +82,36 @@ body {
         width: 100%;
     }
 }
+
+.button {
+    font-size: 1.3rem;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 0.8em 2em;
+    transition: 0.2s;
+
+    transform: translate(-0.25rem, -0.25rem);
+    background: rgb(237, 237, 237);
+    box-shadow: 0.25rem 0.25rem black;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+
+.button:active {
+    transform: translate(0);
+    box-shadow: none;
+}
+
+.buttonDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+svg {
+    height: 150px;
+    /* height: 100px; */
+    font-size: 2rem;
+    fill: black;
+}
