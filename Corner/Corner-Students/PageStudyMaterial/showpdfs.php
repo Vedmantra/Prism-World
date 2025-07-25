@@ -4,8 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="icon" type="image/png" href="../../../Assets/Logo/small.png">
+    <title>Study Material Homepage</title>
     <link rel="stylesheet" href="showpdfs.css">
+    <link rel="stylesheet" href="../../../css/global.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.3.200/pdf.js"></script>
 </head>
 
@@ -13,14 +15,13 @@
 
     <nav>
         <div class="left">
-            <img src="../../Assets/Logo/big.png" alt="">
+            <img src="../../../Assets/Logo/big.png" alt="">
         </div>
         <div class="right">
-            <h2><a href="../students.html">Home</a></h2>
+            <a href="../students.html">Home</a>
         </div>
     </nav>
 
-    <!-- <h1>Hey There Boy</h1> -->
     <section class="inputs">
         <!-- <h1 class="title">Get Your Study Material</h1> -->
         <div class="container">
@@ -93,6 +94,7 @@
         </div>
 
     </section>
+
     <section class="pdfSection">
     </section>
 

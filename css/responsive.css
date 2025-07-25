@@ -1,0 +1,126 @@
+@media (max-width:700px) {
+
+    /* ? ------------------ Repetitive Code ------------------ */
+
+    section {
+        padding: 3rem 0;
+    }
+
+    /* 
+    todo -------------------------------------------------------------------------
+    todo                                 SECTIONS               
+    todo -------------------------------------------------------------------------
+    */
+
+    section .container {
+        width: 95%;
+    }
+
+    /* ? ------------------ Hero ------------------ */
+
+    section.hero {
+        padding-top: 5rem;
+    }
+
+    section.hero .container {
+        width: 80%;
+    }
+
+    /* ? ------------------ Reviews ------------------ */
+
+    .reviews .container {
+        columns: 1;
+        width: 95%;
+    }
+
+    .reviews .container img {
+        margin-bottom: 1rem;
+    }
+
+    /* ? ------------------ Batches ------------------ */
+
+    section.batches .container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    section.batches .container .box {
+        padding: 1rem;
+    }
+
+    section.batches .container .box h1,
+    section.batches .container .box h2 {
+        text-align: center;
+    }
+
+    /* ? ------------------ Gallary ------------------ */
+
+    section.gallary .container {
+        width: 100%;
+        columns: 1;
+        padding: 0 0.5rem;
+    }
+
+    section.gallary .container .img {
+        margin: 0.2rem 0;
+    }
+
+    section.gallary .container .img img {
+        border-radius: 0;
+    }
+
+    /* ? ------------------ Contact ------------------ */
+
+
+    section.contact .container {
+        width: 90%;
+    }
+
+    section.contact .radio-inputs {
+        width: 100%;
+        font-size: 1.2rem;
+    }
+
+    /* ? ------------------ Contact ------------------ */
+
+    section.youtube .container iframe {
+        margin-bottom: 1rem;
+    }
+
+
+
+    /* 
+    todo -------------------------------------------------------------------------
+    todo                                 Footer               
+    todo -------------------------------------------------------------------------
+    */
+
+
+    /* ? ------------------ Footer ------------------ */
+    section.footer {
+        padding-top: 2rem;
+    }
+
+    section.footer .links-container h1 {
+        font-size: 1rem;
+    }
+
+    section.gallary .options p {
+        font-size: 1.3rem;
+    }
+
+    /*  */
+
+    section.youtube .container {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 1rem;
+    }
+
+
+
+}
+
+/* @media (min-width:700px) {
+    .flex-3>* {
+        flex: 1;
+    }
+} */

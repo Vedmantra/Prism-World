@@ -1,32 +1,3 @@
-// todo ------------------ Navbar ------------------ 
-
-let navClicked = false
-let navbar = document.querySelector('nav .right')
-let img = document.querySelector('nav .toggleDiv img')
-
-function ToggleNavbar() {
-
-    if (navClicked == false) {
-        // show navbar 
-        gsap.to(navbar, {
-            x: "-100%",
-            duration: 0.2,
-        })
-        // change icon
-        img.src = "./Assets/Icons/x.svg"
-        navClicked = true
-    } else {
-        // hide navbar 
-        gsap.to(navbar, {
-            x: "50%",
-            duration: 0.2,
-        })
-        // change icon
-        img.src = "./Assets/Icons/menu.svg"
-        navClicked = false
-    }
-}
-
 // todo ------------------ ScrollTrigger ------------------ 
 
 function ScrollTriggerAnimation() {
@@ -56,7 +27,7 @@ function ScrollTriggerAnimation() {
                     stagger: 0.15,
                 });
             },
-            start: "top 70%",   
+            start: "top 70%",
             once: true,
             // markers: true,
         });
@@ -123,7 +94,6 @@ function ScrollTriggerAnimation2() {
 }
 
 // ScrollTriggerAnimation2();
-
 
 // todo ------------------ SVG ------------------ 
 
@@ -257,9 +227,16 @@ FooterLinks()
 
 function News() {
     let newsContainer = document.querySelector('.news .container')
-    newsContainer.addEventListener('click', function () {
+    let img1 = newsContainer.querySelector('#img1')
+    img1.addEventListener('click', function () {
         window.open("https://prismworld.in/Corner-Students/PageQuiz/homePage.html", "_blank");
     })
+
+    // change image in news
+    if (window.innerWidth <= 700) {
+        let img1 = document.querySelector('.news .container #img1')
+        img1.src = "./Assets/News/news2.jpg";
+    }
 }
 
 News()

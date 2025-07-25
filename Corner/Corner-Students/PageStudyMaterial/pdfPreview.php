@@ -4,87 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
-    <title>Secure PDF Viewer</title>
+    <link rel="icon" type="image/png" href="../../../Assets/Logo/small.png">
+    <title>Study Material PDF</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.3.200/pdf.js"></script>
+    <link rel="stylesheet" href="../../../css/global.css">
+
     <style>
-        /* ? ------------------ Variables ------------------ */
-
-        :root {
-            --bg-white: white;
-            --bg-gray: #F5F5F5;
-            --bg-gray-darker: #e9e9e9;
-
-            --accent-blue: #1C2B53;
-        }
-
-        body {
-            background: var(--bg-gray);
-        }
-
-        * {
-            padding: 0;
-            margin: 0;
-            box-sizing: border-box;
-        }
-
-        nav {
-            height: 10vh;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 0 2rem;
-            position: fixed;
-            top: 0;
-            width: 100%;
-            background: white;
-            z-index: 10;
-        }
-
-        nav .right {
-            display: flex;
-            align-items: center;
-            gap: 1.5rem;
-        }
-
-        nav .right a {
-            text-decoration: none;
-            color: black;
-            font-family: Arial, Helvetica, sans-serif;
-            font-weight: 400;
-            font-size: 1.3rem;
-        }
-
-        nav .left {
-            height: 100%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-
-        nav img {
-            height: 80%;
-        }
-
-        @media (max-width:700px) {
-
-            nav {
-                padding: 0 1rem;
-            }
-
-            nav .left img {
-                height: 50%;
-            }
-
-            nav .right {
-                gap: 0.8rem;
-            }
-
-        }
-
         #pdfContainer {
-
             max-height: 90vh;
-            /* overflow-y: auto; */
             width: 60%;
             margin: auto;
             padding-top: 5rem;
@@ -111,10 +38,10 @@
 
     <nav>
         <div class="left">
-            <img src="../../Assets/Logo/big.png" alt="">
+            <img src="../../../Assets/Logo/big.png" alt="">
         </div>
         <div class="right">
-            <h2><a href="./showpdfs.php">Home</a></h2>
+            <a href="./showpdfs.php">Home</a>
         </div>
     </nav>
 

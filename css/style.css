@@ -1,131 +1,12 @@
-/* 
-todo -------------------------------------------------------------------------
-todo                                 Starting               
-todo -------------------------------------------------------------------------
-*/
-
-/* ? ------------------ Variables ------------------ */
-
-:root {
-    --bg-white: white;
-    --bg-gray: #F5F5F5;
-    --bg-gray-darker: #e9e9e9;
-
-    --accent-blue: #1C2B53;
-}
-
-/* ? ------------------ Basic Code ------------------ */
-
-* {
-    font-family: Arial, Helvetica, sans-serif;
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-
-a {
-    text-decoration: none;
-    color: black;
-}
-
-html {
-    scroll-behavior: smooth;
-}
-
-/* ? ------------------ Master Code ------------------ */
+/* ? ------------------  ------------------ */
 
 section {
+    width: 100%;
     padding: 5rem 0;
 }
 
 section:nth-child(even) {
     background: #F5F5F5;
-}
-
-/* ? ------------------ Repetitive Code ------------------ */
-
-.heading {
-    letter-spacing: -0.1rem;
-    font-size: 3rem;
-    text-align: center;
-    margin-bottom: 5rem;
-    padding: 0 1rem;
-    color: var(--accent-blue);
-}
-
-.button {
-    font-size: 1.3rem;
-    cursor: pointer;
-    border: 1px solid black;
-    border-radius: 4px;
-    padding: 0.8em 2em;
-    transition: 0.2s;
-
-    transform: translate(-0.25rem, -0.25rem);
-    background: rgb(237, 237, 237);
-    box-shadow: 0.25rem 0.25rem black;
-    margin-top: 2rem;
-    cursor: pointer;
-}
-
-.button:active {
-    transform: translate(0);
-    box-shadow: none;
-}
-
-.buttonDiv {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-/* ? ------------------ Resoponsive Code ------------------ */
-
-.flex-3>* {
-    flex: 1;
-}
-
-/* ? ------------------ Navbar ------------------ */
-
-nav {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 2rem;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 10;
-    height: 10vh;
-    background: white;
-}
-
-nav .left {
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-nav img {
-    height: 80%;
-}
-
-nav .right {
-    display: flex;
-    align-items: center;
-    gap: 1.5rem;
-}
-
-nav .right a {
-    font-family: "Poppins", serif;
-    font-weight: 500;
-    font-size: 1.3rem;
-    font-style: normal;
-}
-
-nav .toggleDiv {
-    display: none;
 }
 
 /* ? ------------------ WhatsappButton ------------------ */
@@ -150,103 +31,70 @@ todo -------------------------------------------------------------------------
 /* ? ------------------ Hero ------------------ */
 
 section.hero {
-    padding-top: 10vh;
-    margin: 0;
+    /* padding-top: 10vh; */
+    /* margin: 0; */
 }
 
 section.hero .container {
     width: 60%;
     margin: auto;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 section.hero img {
     width: 100%;
-    height: 100%;
+    object-fit: cover;
 }
 
 /* ? ------------------ News ------------------ */
 
-section.news {
-    height: 100vh;
-    width: 100%;
-    margin: 0;
-}
-
 section.news .container {
-    height: 100%;
     width: 80%;
     margin: auto;
-
-    background-image:
-        url("./Assets/News/news1.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    cursor: pointer;
 }
 
-@media (max-width:600px) {
-    section.news .container {
-        background-image:
-            url("./Assets/News/news2.jpg");
-    }
+section.news .container img {
+    width: 100%;
+    object-fit: contain;
+    cursor: pointer;
 }
 
 /* ? ------------------ Reviews ------------------ */
 
 .reviews .container {
-    width: 90%;
+    width: 80%;
     margin: auto;
     columns: 2;
 }
 
 .reviews .container img {
     width: 100%;
+    margin-bottom: 2rem;
 }
 
 /* ? ------------------ Batches ------------------ */
 
 section.batches .container {
     width: 80%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
     margin: auto;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
 }
 
 section.batches .container .box {
-    /* background-image: linear-gradient(to top left,
-            #e3edf8 0%,
-            white 20%,
-            #e3edf8 80%,
-            #e3edf8 100%); */
     background: white;
     border: 1px solid rgb(204, 204, 204);
     border-radius: 10px;
     padding: 2rem;
-    width: 30%;
 }
 
-/* section.batches .container .box:hover {
-    background-image: linear-gradient(to top left,
-            #e3edf8 0%,
-            white 20%,
-            #e3edf8 40%,
-            #e3edf8 100%);
-} */
+section.batches .container .box:hover {
+    border: 1px solid gray;
+}
 
-.lottieContainer {
-    font-size: 2rem;
-    height: 10rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+section.batches .lottieContainer {
+    height: 10em;
 }
 
 section.batches .container .box h1 {
@@ -257,8 +105,7 @@ section.batches .container .box h1 {
 }
 
 section.batches .container .box h2 {
-    margin-top: 0.1rem;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 500;
     padding-bottom: 1rem;
     border-bottom: 1px solid black;
@@ -277,7 +124,9 @@ section.batches .container .box .features p {
 /* ? ------------------ Gallary ------------------ */
 
 section.gallary .container {
-    width: 100%;
+    width: 95%;
+    margin: auto;
+
     columns: 3;
     gap: 1rem;
     padding: 0 1rem;
@@ -319,10 +168,6 @@ section.gallary .container .img img {
     transition: scale 0.5s;
 }
 
-/* section.gallary .container .img img:hover {
-    scale: 1.2;
-} */
-
 /* ? ------------------ Youtube ------------------ */
 
 section.youtube .container {
@@ -342,11 +187,12 @@ section.youtube .container iframe {
 /* ? ------------------ Map ------------------ */
 
 .map .container {
+    width: 90%;
+    margin: auto;
+
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 90%;
-    margin: auto;
 }
 
 .map iframe {
@@ -354,7 +200,7 @@ section.youtube .container iframe {
     width: 100%;
 }
 
-/* ? ------------------ Contact ------------------ */
+/* ------------------ Contact ------------------ */
 
 section.contact .container {
     width: 50%;
@@ -366,47 +212,13 @@ section.contact .container {
     flex-direction: column;
 }
 
-section.contact .container .inputs {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    width: 100%;
-}
+/* Top 2 toggle  */
 
-section.contact .container .inputs input {
-    width: 100%;
-    font-size: 1.2rem;
-    padding: 0.5rem 0;
-    margin: 1rem 0;
-    border: none;
-    border-bottom: 1px solid black;
-    background: #F5F5F5;
-}
-
-section.contact .container .inputs input:focus {
-    border: none;
-    outline: none;
-    border-bottom: 1px solid black;
-}
-
-section.contact .container .inputs input::placeholder {
-    font-size: 1.2rem;
-    color: #2a2432;
-}
-
-section.contact .container form {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-}
-
-.radio-inputs {
+section.contact .radio-inputs {
     display: flex;
     border-radius: 0.5rem;
     background: var(--bg-gray-darker);
+    /* background: red; */
     /* background: white; */
     padding: 0.25rem;
     width: 70%;
@@ -415,16 +227,16 @@ section.contact .container form {
     margin-bottom: 2rem;
 }
 
-.radio-inputs .radio {
+section.contact .radio-inputs .radio {
     flex: 1 1 auto;
     text-align: center;
 }
 
-.radio-inputs .radio input {
+section.contact .radio-inputs .radio input {
     display: none;
 }
 
-.radio-inputs .radio .name {
+section.contact .radio-inputs .radio .name {
     /* font-family: "Poppins"; */
     display: flex;
     cursor: pointer;
@@ -437,10 +249,53 @@ section.contact .container form {
     transition: all .1s ease-in-out;
 }
 
-.radio-inputs .radio input:checked+.name {
+section.contact .radio-inputs .radio input:checked+.name {
     background-color: #fff;
     font-weight: 600;
 }
+
+/* 2 Inputs => Name & Std */
+
+section.contact .container form {
+    /* background: red; */
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+section.contact .container form .inputs {
+    /* background: red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+section.contact .container form .inputs input {
+    width: 100%;
+    font-size: 1.2rem;
+    padding: 0.5rem 0;
+    margin: 1rem 0;
+    border: none;
+    border-bottom: 1px solid black;
+    background: #F5F5F5;
+}
+
+section.contact .container form .inputs input:focus {
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+}
+
+section.contact .container form .inputs input::placeholder {
+    font-size: 1.2rem;
+    color: #2a2432;
+}
+
+/*  */
 
 section.contact .container2 {
     /* background: red; */
@@ -481,23 +336,7 @@ todo --------------------------------------------------------------------------
 
 
 section.footer {
-    /* background: red; */
     padding-bottom: 1rem;
-}
-
-section.footer .div {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-section.footer .div a {
-    text-decoration: none;
-    color: white;
-    text-align: center;
-    font-size: 1rem;
-    border-bottom: 1px solid white;
-    margin-bottom: 2rem;
 }
 
 section.footer h1 {
@@ -529,11 +368,4 @@ section.footer .social-media img.yt {
 section.footer p {
     text-align: center;
     margin-top: 2rem;
-    /* padding-bottom: 2rem; */
 }
-
-/* 
-todo -------------------------------------------------------------------------
-todo                                                
-todo -------------------------------------------------------------------------
-*/

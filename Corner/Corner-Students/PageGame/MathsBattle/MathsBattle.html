@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="icon" type="image/png" href="../../../../Assets/Logo/small.png">
+    <title>MathsBattle</title>
+    <link rel="stylesheet" href="../../../../css/global.css">
     <link rel="stylesheet" href="../Game.css">
 </head>
 
@@ -146,6 +148,15 @@
     <audio id="win" src="../GameAssets/win.mp3"></audio>
     <audio id="lose" src="../GameAssets/lose.mp3"></audio>
 
+    <nav>
+        <div class="left">
+            <img src="../../../../Assets/Logo/big.png" alt="">
+        </div>
+        <div class="right">
+            <a href="../GameHomepage.html">Home</a>
+        </div>
+    </nav>
+
     <div class="container">
         <div class="game">
             <div class="info">
@@ -166,114 +177,13 @@
             </div>
             <div class="buttonDiv">
                 <button class="button startgame">Start Game</button>
+                <button class="button restartgame">Restart Game</button>
+                <a href="../GameHomepage.html" class="button playmoregames">More Games</a>
             </div>
         </div>
     </div>
 
-    <script>
-
-        let startgame = document.querySelector('.startgame')
-        startgame.addEventListener('click', function () {
-            bg.play()
-            Timer()
-        })
-
-        const bg = new Audio("../GameAssets/bg.mp3");
-        const win = new Audio("../GameAssets/win.mp3");
-        const lose = new Audio("../GameAssets/lose.mp3");
-
-        bg.loop = true;
-
-        let answer
-        let score = 0
-        let scoreDivSpan = document.querySelector('.scoreDiv span')
-
-        function GenerateQuestionAndAnswer() {
-            let randomNumber1 = Math.floor(Math.random() * 99) + 1
-            let randomNumber2 = Math.floor(Math.random() * 99) + 1
-            let randomSign = Math.floor(Math.random() * 4) + 1
-
-            let questionHTML
-
-            if (randomSign === 1) {
-                questionHTML = randomNumber1 + ` + ` + randomNumber2
-                answer = randomNumber1 + randomNumber2
-            }
-            else if (randomSign === 2) {
-                questionHTML = randomNumber1 + ` - ` + randomNumber2
-                answer = randomNumber1 - randomNumber2
-            }
-            else if (randomSign === 3) {
-                questionHTML = randomNumber1 + ` x ` + randomNumber2
-                answer = randomNumber1 * randomNumber2
-            }
-            else if (randomSign === 4) {
-                let num2 = Math.floor(Math.random() * 10) + 1
-                let num1 = randomNumber2 * num2
-                questionHTML = num1 + ` / ` + num2
-                answer = randomNumber2
-            }
-
-            // Writing Question in QuestionDiv
-            let questionDiv = document.querySelector('.questionDiv')
-            questionDiv.innerHTML = questionHTML
-
-            // Writing Options in OptionsDiv
-            let arr = [1, 2, 3, 4]
-            let randomNum = Math.floor(Math.random() * 4) + 1
-
-            for (let i = 1; i <= 4; i++) {
-                let option = document.querySelectorAll('.option')[i - 1]
-                if (i == randomNum) {
-                    // console.log('i', i)
-                    option.innerHTML = answer
-                    continue
-                }
-
-                let randomNumber = Math.floor(Math.random() * 500) + 1
-                option.innerHTML = randomNumber
-            }
-        }
-
-        GenerateQuestionAndAnswer()
-
-        let options = document.querySelectorAll('.option')
-        for (let option of options) {
-            option.addEventListener('click', function () {
-                let userAnswer = option.innerHTML
-                if (userAnswer == answer) {
-                    score++
-                    scoreDivSpan.innerHTML = score
-                    // lose.pause()
-                    win.play()
-                } else {
-                    // win.pause()
-                    lose.play()
-                }
-
-                GenerateQuestionAndAnswer()
-            })
-        }
-
-        function Timer() {
-            let timerDivSpan = document.querySelector('.timerDiv span')
-
-            let timer = 30
-            timerDivSpan.innerHTML = timer
-
-            let timerInterval = setInterval(() => {
-                timer--
-                timerDivSpan.innerHTML = timer
-                // console.log('timer',timer)
-                if (timer == 0) {
-                    clearInterval(timerInterval)
-                    alert("Times Up")
-                    bg.pause()
-                }
-            }, 1000);
-        }
-
-    </script>
+    <script src="MathsBattle.js"></script>
 </body>
 
 

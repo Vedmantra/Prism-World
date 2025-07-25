@@ -1,90 +1,10 @@
-/* ? ------------------ Variables ------------------ */
-
-:root {
-    --bg-white: white;
-    --bg-gray: #F5F5F5;
-    --bg-gray-darker: #e9e9e9;
-
-    --accent-blue: #1C2B53;
-}
-
-nav {
-    height: 10vh;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 2rem;
-    position: sticky;
-    top: 0;
-    width: 100%;
-    background: white;
-    z-index: 10;
-}
-
-nav .right {
-    display: flex;
-    align-items: center;
-    gap: 1.5rem;
-}
-
-nav .right a {
-    text-decoration: none;
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 400;
-    font-size: 1.3rem;
-}
-
-nav .left {
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-nav img {
-    height: 80%;
-}
-
-@media (max-width:700px) {
-
-    nav {
-        padding: 0 1rem;
-    }
-
-    nav .left img {
-        height: 50%;
-    }
-
-    nav .right {
-        gap: 0.8rem;
-    }
-
-    .pdfSection .box {
-        width: 40%;
-    }
-}
-
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-a {
-    text-decoration: none;
-}
-
-
 body {
     background: var(--bg-gray);
-    /* background: #EAF3F9; */
-    /* overflow-x: visible; */
-    min-height: 200vh;
 }
 
-/*  */
+section.inputs {
+    margin-top: 15vh;
+}
 
 section.inputs .title {
     font-size: 4rem;
@@ -246,10 +166,8 @@ input[type=search]::placeholder {}
 }
 
 .pdfSection .box button {
-    font-size: 1.3rem;
-    color: white;
-    background: black;
-    padding: 0.5rem 2rem;
+    margin-top: 0.5rem;
+    padding: 0.5rem 1rem;
 }
 
 @media (max-width:700px) {

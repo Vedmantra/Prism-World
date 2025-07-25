@@ -19,9 +19,9 @@ let totalMarksContainer = document.querySelector('.totalMarks')
 
 let promiseArr = [];
 
-for (let lesson of lessonArr) {     
+for (let lesson of lessonArr) {
     let address = `Quizes/${std}/${med}/${sub}/${lesson}.json`
-    console.log('address',address)
+    console.log('address', address)
     let promise1 = fetch(address)
         .then(response => response.json())
         .then(allQuestionsArray => {
@@ -31,33 +31,29 @@ for (let lesson of lessonArr) {
     promiseArr.push(promise1)
 }
 
-// let address = `Quizes/a.json`
-// console.log('address', address)
-// let promise1 = fetch(address)
-//     .then(response => response.json())
-//     .then(allQuestionsArray => {
-//         allQuestionsArray2.push(...allQuestionsArray)
-//     })
-//     .catch(error => console.log('error', error))
-// promiseArr.push(promise1)
-
 Promise.all(promiseArr).then(() => {
     console.log('All fetches completed');
     CreateQuestions();
 });
 
-function CreateQuestions() {
+let container = document.querySelector('.container')
 
-    function RandomsizeTheQuestions() {
+function CreateQuestions() {
+    if (allQuestionsArray2.length == 0) {
+        alert("The Quiz For this lesson is not available ")
+        window.location.href = "./homePage.html";
+        return
+    }
+
+    function RandomizeTheQuestions() {
         for (let i = allQuestionsArray2.length - 1; i > 0; i--) {
             let j = Math.floor(Math.random() * (i + 1));
             [allQuestionsArray2[i], allQuestionsArray2[j]] = [allQuestionsArray2[j], allQuestionsArray2[i]];
         }
     }
 
-    RandomsizeTheQuestions()
+    RandomizeTheQuestions()
 
-    let container = document.querySelector('.container')
     let qIndex = 1
 
     totalMarksContainer.innerHTML = maxMarks + " Marks"
@@ -87,10 +83,8 @@ function CreateQuestions() {
     }
 }
 
-
-
-
 let submitButton = document.querySelector('.submitButton')
+let restartButton = document.querySelector('.restartButton')
 submitButton.onclick = function () {
     CheckAnswers()
 }
@@ -119,7 +113,7 @@ function CheckAnswers() {
         if (!selectedInputOfUser) {
             // Show Unsolved Question 
             questionText.style.color = "red"
-            questionIcon.innerHTML = `<img src="./dash.svg">`
+            questionIcon.innerHTML = `<img src="./Icons/dash.svg">`
 
             // Show Right Option
             rightOptionDiv.style.backgroundColor = "#E6F4EA"
@@ -137,7 +131,7 @@ function CheckAnswers() {
         if (selectedInputOfUserIndex == answerIndex) {
             // Show Right Question 
             questionText.style.color = "green"
-            questionIcon.innerHTML = `<img src="./tick.svg">`
+            questionIcon.innerHTML = `<img src="./Icons/tick.svg">`
 
             // Show Right Option
             rightOptionDiv.style.backgroundColor = "#E6F4EA"
@@ -148,7 +142,7 @@ function CheckAnswers() {
         } else {
             // Show Wrong Question 
             questionText.style.color = "red"
-            questionIcon.innerHTML = `<img src="./cross.svg">`
+            questionIcon.innerHTML = `<img src="./Icons/cross.svg">`
 
             // Show Right Option
             rightOptionDiv.style.backgroundColor = "#E6F4EA"
@@ -191,6 +185,25 @@ whiteEffectButton.onclick = function () {
     whiteEffect.style.display = "none"
     whiteEffect.style.opacity = "0"
     body.style.overflowY = "visible"
+
+    restartButton.style.display = "block"
+    submitButton.style.display = "none"
 }
 
+restartButton.addEventListener('click', function () {
+    // delete previous questions from container 
+    container.innerHTML = ""
 
+    // create new questions 
+    CreateQuestions()
+
+    // toggle buttons
+    restartButton.style.display = "none"
+    submitButton.style.display = "block"
+
+    // make score => 0 
+    totalMarks = 0
+
+    // go up
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+})
