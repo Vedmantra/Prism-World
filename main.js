@@ -4,7 +4,9 @@ function ScrollTriggerAnimation() {
 
     gsap.registerPlugin(ScrollTrigger);
 
-    // All Sections 
+    // % All Sections 
+    // ! All Sections 
+
     const allSections = document.querySelectorAll("section");
     allSections.forEach(section => {
         // All Sections > All Containers 
@@ -29,7 +31,7 @@ function ScrollTriggerAnimation() {
             },
             start: "top 70%",
             once: true,
-            // markers: true,
+            // ! markers: true,
         });
     });
 }
