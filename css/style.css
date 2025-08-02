@@ -5,7 +5,7 @@ section {
 }
 
 section:nth-child(even) {
-    background: #F5F5F5;
+    background: #fbfafaa2;
 }
 
 /* ? ------------------ WhatsappButton ------------------ */
@@ -32,16 +32,86 @@ todo -------------------------------------------------------------------------
 section.hero {
     /* padding-top: 10vh; */
     /* margin: 0; */
+    /* background: red; */
+    padding-bottom: 0;
 }
 
 section.hero .container {
-    width: 60%;
+    width: 100%;
     margin: auto;
 }
 
 section.hero img {
     width: 100%;
     object-fit: cover;
+}
+
+/* ? ------------------ Students Corner ------------------ */
+
+section.corner {
+    margin-top: 2rem;
+}
+
+section.corner .container {
+    width: 80%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    gap: 1rem;
+}
+
+section#parentsCorner .container {
+    grid-template-columns: repeat(3, auto);
+}
+
+section#teachersCorner .container {
+    grid-template-columns: repeat(3, auto);
+}
+
+section.corner .container>div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+section.corner .container>div .lottieContainer {
+    /* width: 80%; */
+    height: 12rem;
+}
+
+section.corner .container>div .button {
+    margin-top: 2rem;
+}
+
+@media (max-width:700px) {
+    section.corner .container {
+        grid-template-columns: repeat(2, 1fr);
+        width: 100%;
+    }
+
+    section#teachersCorner .container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    section.corner .container>div {
+        margin-top: 2rem;
+    }
+
+    section.corner .container>div .lottieContainer {
+        height: 10rem;
+    }
+
+    section.corner .container>div .button {
+        font-size: 1.5rem;
+        padding: 1rem 1rem;
+    }
+
+    section.corner .container>div .button2 {
+        font-size: 1.5rem;
+        padding: 1rem 1rem;
+    }
 }
 
 /* ? ------------------ News ------------------ */
@@ -97,10 +167,13 @@ section.batches .lottieContainer {
 }
 
 section.batches .container .box h1 {
-    font-size: 1.6rem;
-    font-family: "Poppins";
-    font-weight: bold;
+    font-size: 2rem;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* font-family: "Poppins"; */
+    /* font-family: "Raleway", sans-serif; */
+    font-weight: 600;
     color: var(--accent-blue);
+    text-align: center;
 }
 
 section.batches .container .box h2 {
@@ -108,6 +181,7 @@ section.batches .container .box h2 {
     font-weight: 500;
     padding-bottom: 1rem;
     border-bottom: 1px solid black;
+    text-align: center;
 }
 
 section.batches .container .box .features {
@@ -132,6 +206,7 @@ section.gallary .container {
 }
 
 section.gallary .heading {
+
     margin-bottom: 2rem;
 }
 
@@ -170,12 +245,12 @@ section.gallary .container .img img {
 /* ? ------------------ Youtube ------------------ */
 
 section.youtube .container {
-    width: 90%;
+    width: 95%;
     margin: auto;
 
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 2rem;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
 }
 
 section.youtube .container iframe {
@@ -194,9 +269,31 @@ section.youtube .container iframe {
     justify-content: center;
 }
 
+.map .container .left {
+    /* width: 70%; */
+    width: 100%;
+}
+
+.map .container .right {
+    /* width: 30%; */
+}
+
 .map iframe {
     border-radius: 10px;
     width: 100%;
+    height: 20rem;
+    /* height: 100%; */
+}
+
+.map .heading {
+    text-align: center;
+    padding: 0;
+    margin: 3rem 0;
+}
+
+.map .right img {
+    height: 50px;
+    width: 50px;
 }
 
 /* ------------------ Contact ------------------ */
@@ -209,6 +306,25 @@ section.contact .container {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+
+    margin-top: 5rem;
+}
+
+section.contact p {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+
+section.contact h1 {
+    text-align: center;
+    /* background: red; */
+    margin-left: 0;
+}
+
+section.contact p span {
+    border-bottom: 1px solid black;
+    cursor: pointer;
 }
 
 /* Top 2 toggle  */
@@ -367,4 +483,107 @@ section.footer .social-media img.yt {
 section.footer p {
     text-align: center;
     margin-top: 2rem;
+}
+
+/*  */
+
+/* Swiper  */
+
+
+.weeklyToppers .swiper {
+    width: 80%;
+    margin: auto;
+    height: 50vh;
+}
+
+.ourTeam .swiper {
+    width: 80%;
+    margin: auto;
+    height: 80vh;
+}
+
+.swiper-wrapper {
+    height: 100%;
+}
+
+.swiper-slide {
+    height: 100%;
+    text-align: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*  */
+
+.ourTeam .swiper-slide .div {
+    width: 80%;
+    padding: 0 0;
+    border-radius: 10px;
+    margin: auto;
+    /* border: 1px solid black; */
+}
+
+.ourTeam .swiper-slide .div .name {
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+.ourTeam .swiper-slide .div .education {
+    margin: 0.5rem 0;
+    font-size: 2rem;
+}
+
+.ourTeam .swiper-slide .div .experience {
+    font-size: 1.2rem;
+}
+
+.ourTeam .swiper-slide .div img {
+    /* aspect-ratio: 1; */
+    /* height: 150px; */
+    width: 80%;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+@media (max-width:700px) {
+    .ourTeam .swiper-slide .div img {
+        width: 100%;
+    }
+
+}
+
+/*  */
+
+.weeklyToppers .swiper-slide .div {
+    width: 50%;
+    margin: auto;
+}
+
+.weeklyToppers .swiper-slide .div .marks {
+    font-size: 3rem;
+    font-weight: 900;
+    color: #101936;
+}
+
+.weeklyToppers .swiper-slide .div .name {
+    font-size: 1.6rem;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0.5rem 0 0.6rem 0;
+}
+
+.weeklyToppers .swiper-slide .div .standard {
+    font-size: 1rem;
+    font-weight: 500;
+    /* margin: 0.5rem 0 1rem 0;  */
+}
+
+.weeklyToppers .swiper-slide .div img {
+    /* aspect-ratio: 1; */
+    border: 1px solid black;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
 }

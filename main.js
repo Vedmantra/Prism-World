@@ -100,65 +100,36 @@ function ScrollTriggerAnimation2() {
 // todo ------------------ SVG ------------------ 
 
 function SVG() {
-    var animation1 = lottie.loadAnimation({
-        container: document.getElementById("star"),
-        renderer: "svg",
-        loop: false,
-        autoplay: false,
-        path: "./Assets/Animated-Icons/star.json"
+    let animatedIconsArray =
+        ["games", "quiz", "studyMaterial", "ebalbharati",
+            "result", "stationaryShop", "schools", "activityClasses",
+            "all", "indoor", "happyMoment", "functionAndTrip",
+            "teachingHub", "apply", "hire"
+        ]
+
+    animatedIconsArray.forEach(element => {
+        lottie.loadAnimation({
+            container: document.getElementById(element),
+            renderer: "svg",
+            loop: false,
+            autoplay: true,
+            path: `./Assets/Animated-Icons/${element}.json`
+        });
     });
-    document.getElementById("starbox").addEventListener("mouseenter", function () {
-        animation1.goToAndPlay(0, true);
-    });
-    var animation2 = lottie.loadAnimation({
-        container: document.getElementById("youth"),
-        renderer: "svg",
-        loop: false,
-        autoplay: false,
-        path: "./Assets/Animated-Icons/youth.json"
-    });
-    document.getElementById("youthbox").addEventListener("mouseenter", function () {
-        animation2.goToAndPlay(0, true);
-    });
-    var animation3 = lottie.loadAnimation({
-        container: document.getElementById("eagle"),
-        renderer: "svg",
-        loop: false,
-        autoplay: false,
-        path: "./Assets/Animated-Icons/eagle.json"
-    });
-    document.getElementById("eaglebox").addEventListener("mouseenter", function () {
-        animation3.goToAndPlay(0, true);
-    });
-    var animation4 = lottie.loadAnimation({
-        container: document.getElementById("celebration"),
-        renderer: "svg",
-        loop: false,
-        autoplay: false,
-        path: "./Assets/Animated-Icons/celebration.json"
-    });
-    document.getElementById("celebrationbox").addEventListener("mouseenter", function () {
-        animation4.goToAndPlay(0, true);
-    });
-    var animation5 = lottie.loadAnimation({
-        container: document.getElementById("sphere"),
-        renderer: "svg",
-        loop: false,
-        autoplay: false,
-        path: "./Assets/Animated-Icons/sphere.json"
-    });
-    document.getElementById("spherebox").addEventListener("mouseenter", function () {
-        animation5.goToAndPlay(0, true);
-    });
-    var animation6 = lottie.loadAnimation({
-        container: document.getElementById("puzzle"),
-        renderer: "svg",
-        loop: false,
-        autoplay: false,
-        path: "./Assets/Animated-Icons/puzzle.json"
-    });
-    document.getElementById("puzzlebox").addEventListener("mouseenter", function () {
-        animation6.goToAndPlay(0, true);
+
+    let animatedIconsArray2 = ["star", "youth", "eagle", "quest", "mind", "commerce"]
+
+    animatedIconsArray2.forEach(element => {
+        var animation = lottie.loadAnimation({
+            container: document.getElementById(element),
+            renderer: "svg",
+            loop: false,
+            autoplay: false,
+            path: `./Assets/Animated-Icons/${element}.json`
+        });
+        document.getElementById(`${element}box`).addEventListener("mouseenter", function () {
+            animation.goToAndPlay(0, true);
+        });
     });
 }
 
@@ -197,7 +168,7 @@ function Contacts() {
     }
 }
 
-Contacts()
+// Contacts()
 
 function WhatsappMessage() {
     let phoneNumber = "919408660808";
@@ -241,7 +212,7 @@ function News() {
     }
 }
 
-News()
+// News()
 
 // todo ------------------ Gallary ------------------ 
 
@@ -272,3 +243,20 @@ function Gallary() {
 }
 
 Gallary()
+
+let contactContainer = document.querySelector(".contact .container")
+let contactButton = document.querySelector(".contact .ayy")
+contactContainer.style.display = "none"
+contactButton.style.display = "none"
+
+let one = document.querySelector(".contact .one")
+let two = document.querySelector(".contact .two")
+
+one.addEventListener("click", function () {
+    contactContainer.style.display = "flex"
+    contactButton.style.display = "none"
+})
+two.addEventListener("click", function () {
+    contactContainer.style.display = "none"
+    contactButton.style.display = "flex"
+})

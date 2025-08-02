@@ -12,12 +12,11 @@
     <link rel="stylesheet" href="./css/global.css">
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/responsive.css">
+    <!-- Swiper's CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 </head>
 
 <body>
-
-
-    <!-- <h2><a href="https://prismworld.skkdevelopers.xyz">Login</a></h2> -->
 
     <!----------------------------------------------------------------
     -                             Navbar               
@@ -25,12 +24,15 @@
 
     <nav>
         <div class="left">
-            <img src="./Assets/Logo/big.png" alt="">
+            <img src="./Assets/Logo/big.jpg" alt="">
+            <!-- <img src="./Assets/Logo/big.png" alt="">   -->
+            <!-- <img src="./Assets/hero.jpg" alt=""> -->
         </div>
 
         <div class="right">
-            <a href="./Corner/Corner-Students/students.html">Students Corner</a>
-            <a href="./Corner/Corner-Parents/parents.html">Parents Corner</a>
+            <img src="./Assets/hero.jpg" alt="">
+            <!-- <a href="./Corner/Corner-Students/students.html">Students Corner</a>
+            <a href="./Corner/Corner-Parents/parents.html">Parents Corner</a> -->
         </div>
     </nav>
 
@@ -46,19 +48,129 @@
     -                             Hero Section              
     ----------------------------------------------------------------->
 
-    <section class="hero">
+    <!-- <section class="hero">
         <div class="container">
             <img src="./Assets/hero.jpg" alt="">
         </div>
-    </section>
+    </section> -->
 
     <!----------------------------------------------------------------
-    -                             News Section              
+    -                             Students Corner              
     ----------------------------------------------------------------->
 
-    <section class="news">
+    <section class="corner" id="studentsCorner">
+        <h1 class="heading">Students Corner </h1>
         <div class="container">
-            <img src="./Assets/News/news1.jpg" alt="" id="img1">
+            <div>
+                <div class="lottieContainer" id="games"></div>
+                <a href="./Corner/Corner-Students/PageGame/GameHomepage.html" class="button">Games</a>
+            </div>
+            <div>
+                <div class="lottieContainer" id="quiz"></div>
+                <a href="./Corner/Corner-Students/PageQuiz/homePage.html" class="button">Quizes</a>
+            </div>
+            <div>
+                <div class="lottieContainer" id="studyMaterial"></div>
+                <a href="./Corner/Corner-Students/PageStudyMaterial/showpdfs.php" class="button">Study Material</a>
+            </div>
+            <div>
+                <div class="lottieContainer" id="ebalbharati"></div>
+                <a href="https://ebalbharati.in/main/publichome.aspx" class="button">Ebalbharati</a>
+            </div>
+        </div>
+    </section>
+    <!----------------------------------------------------------------
+    -                             Parents Corner           
+    ----------------------------------------------------------------->
+
+    <section class="corner" id="parentsCorner">
+        <h1 class="heading">Parents Corner </h1>
+        <div class="container">
+            <div>
+                <div class="lottieContainer" id="activityClasses"></div>
+                <a href="./Corner/Corner-Parents/PageActivityClasses/ActivityClasses.html" class="button">Activity
+                    Classes</a>
+            </div>
+            <div>
+                <div class="lottieContainer" id="result"></div>
+                <a href="./Corner/Corner-Parents/PageResult/PageResult.html" class="button">Results</a>
+            </div>
+            <div>
+                <div class="lottieContainer" id="stationaryShop"></div>
+                <a href="./Corner/Corner-Parents/PageStationery/Stationery.html" class="button">Stationery</a>
+            </div>
+        </div>
+    </section>
+    <!----------------------------------------------------------------
+    -                             Teachers Corner           
+    ----------------------------------------------------------------->
+
+    <section class="corner" id="teachersCorner">
+        <h1 class="heading">Teachers Corner</h1>
+        <div class="container">
+            <div>
+                <div class="lottieContainer" id="teachingHub"></div>
+                <a href="./Corner/Corner-Teachers/PageTeachingHub/teachingHub.html" class="button2">Teaching Hub</a>
+            </div>
+            <div>
+                <div class="lottieContainer" id="apply"></div>
+                <button class="button2">Apply as a teacher</button>
+            </div>
+            <div>
+                <div class="lottieContainer" id="hire"></div>
+                <button class="button2">Hire a Teacher</button>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!----------------------------------------------------------------
+    -                             Weekly Toppers            
+    ----------------------------------------------------------------->
+    <section class="weeklyToppers">
+        <h1 class="heading">Weekly Toppers</h1>
+        <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+
+                <div class="swiper-slide">
+                    <div class="div">
+                        <img src="./Assets/studentsIcon.jpg" alt="">
+                        <p class="marks">20/20</p>
+                        <p class="name">Bhumika Patil</p>
+                        <p class="standard">Class 8</p>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="div">
+                        <img src="./Assets/studentsIcon.jpg" alt="">
+                        <p class="marks">20/20</p>
+                        <p class="name">Nandita Sapkal</p>
+                        <p class="standard">Class 8</p>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="div">
+                        <img src="./Assets/studentsIcon.jpg" alt="">
+                        <p class="marks">15/15</p>
+                        <p class="name">Vedant Mate</p>
+                        <p class="standard">Class 8</p>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="div">
+                        <img src="./Assets/studentsIcon.jpg" alt="">
+                        <p class="marks">15/15</p>
+                        <p class="name">Dnyaneshwar Mate</p>
+                        <p class="standard">Class 8</p>
+                    </div>
+                </div>
+
+
+            </div>
+            <!-- <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div> -->
+            <div class="swiper-pagination"></div>
         </div>
     </section>
 
@@ -67,131 +179,16 @@
     ----------------------------------------------------------------->
 
     <section class="reviews" id="reviews">
-        <h1 class="heading">See What Our Students & Parents Say About Prism..</h1>
+        <!-- <h1 class="heading">See What Our Students & Parents Say About Prism..</h1> -->
+        <h1 class="heading">Parent's Reviews</h1>
         <div class="container">
-            <img src="./Assets/Reviews/Review2.png" alt="">
-            <img src="./Assets/Reviews/Review3.png" alt="">
-            <img src="./Assets/Reviews/Review1.png" alt="">
-            <img src="./Assets/Reviews/Review4.png" alt="">
+            <img src="./Assets/Reviews/Review1.jpg" alt="">
+            <img src="./Assets/Reviews/Review2.jpg" alt="">
+            <img src="./Assets/Reviews/Review3.jpg" alt="">
+            <img src="./Assets/Reviews/Review4.jpg" alt="">
         </div>
         <div class="buttonDiv">
             <a class="button" href="https://g.page/r/CRrz7ygAV5-9EBM/review">Add reviews</a>
-        </div>
-    </section>
-
-
-
-    <!----------------------------------------------------------------
-    -                             Batches Section              
-    ----------------------------------------------------------------->
-
-    <section class="batches" id="batches">
-        <h1 class="heading">Our Batches</h1>
-
-        <div class="container">
-
-            <div class="box" id="starbox">
-                <div class="lottieContainer" id="star"></div>
-                <h1>Rising Stars</h1>
-                <h2>Class 8th</h2>
-                <div class="features">
-                    <p>Maths and Science (Proper Teaching)</p>
-                    <p>Sst and English (Only Revision)</p>
-                    <p>Marathi and Hindi (Only Revision)</p>
-                    <p>Free Study Material</p>
-                    <p>Free Stationery material</p>
-                    <p>Unlimited Practice Material</p>
-                    <p>Parents Support login</p>
-                    <p>Updated Parents report</p>
-                </div>
-            </div>
-
-            <div class="box" id="youthbox">
-                <div class="lottieContainer" id="youth"></div>
-                <h1>Youth Update</h1>
-                <h2>Class 9th</h2>
-                <div class="features">
-                    <p>Maths and Science (Proper Teaching)</p>
-                    <p>Sst and English (Only Revision)</p>
-                    <p>Marathi and Hindi (Only Revision)</p>
-                    <p>Free Study Material</p>
-                    <p>Free Stationery material</p>
-                    <p>Unlimited Practice Material</p>
-                    <p>Parents Support login</p>
-                    <p>Updated Parents report</p>
-                </div>
-            </div>
-
-            <div class="box" id="eaglebox">
-                <div class="lottieContainer" id="eagle"></div>
-                <h1>Eagles Foundation</h1>
-                <h2>Class 10th</h2>
-                <div class="features">
-                    <p>Maths and Science (Proper Teaching)</p>
-                    <p>Sst and English (Only Revision)</p>
-                    <p>Marathi and Hindi (Only Revision)</p>
-                    <p>Free Study Material</p>
-                    <p>Free Stationery material</p>
-                    <p>Unlimited Practice Material</p>
-                    <p>Parents Support login</p>
-                    <p>Updated Parents report</p>
-                </div>
-            </div>
-
-            <div class="box" id="celebrationbox">
-                <div class="lottieContainer" id="celebration"></div>
-                <h1>Quantum Quest </h1>
-                <h2>Class 11th Science</h2>
-                <div class="features">
-                    <p>PCM (Proper Teaching)</p>
-                    <p>Biology (Only Revision)</p>
-                    <p>Daily Extra Revision Batches</p>
-                    <p>Customized test series</p>
-                    <p>Chapter wise exam</p>
-                    <p>Unlimited Practice Material</p>
-                    <p>Less Homework strategy</p>
-                    <p>Parents Support login</p>
-                    <p>Updated Parents report</p>
-                    <p>Many more...</p>
-                </div>
-            </div>
-
-            <div class="box" id="spherebox">
-                <div class="lottieContainer" id="sphere"></div>
-                <h1>Infinity Minds</h1>
-                <h2>Class 12th Science</h2>
-                <div class="features">
-                    <p>PCM (Proper Teaching)</p>
-                    <p>Biology (Only Revision)</p>
-                    <p>Daily Extra Revision Batches</p>
-                    <p>Customized test series</p>
-                    <p>Chapter wise exam</p>
-                    <p>Unlimited Practice Material</p>
-                    <p>Less Homework strategy</p>
-                    <p>Parents Support login</p>
-                    <p>Updated Parents report</p>
-                    <p>Many more...</p>
-                </div>
-            </div>
-
-            <div class="box" id="puzzlebox">
-                <div class="lottieContainer" id="puzzle"></div>
-                <h1>Commerce Catalyst</h1>
-                <h2>Class 11th Commerce</h2>
-                <div class="features">
-                    <p>Accounts (Proper Teaching)</p>
-                    <p>Other subjects (Test series)</p>
-                    <p>Practical Commerce Education</p>
-                    <p>Unlimited practice material</p>
-                    <p>Chapter wise exam</p>
-                    <p>Parents support login</p>
-                    <p>Updated parents report</p>
-                    <p>Career Guidance</p>
-                    <p>Customized test series</p>
-                    <p>Many more...</p>
-                </div>
-            </div>
-
         </div>
     </section>
 
@@ -199,7 +196,7 @@
     -                             Gallary Section              
     ----------------------------------------------------------------->
 
-    <section class="gallary">
+    <!-- <section class="gallary">
         <h1 class="heading">Prism in Pictures</h1>
 
         <div class="options">
@@ -209,8 +206,10 @@
             <p class="button" id="">Trips</p>
         </div>
 
-        <div class="container">
-            <!-- <div class="img"><img src="./Assets/Gallary/img1.webp" alt=""></div> -->
+        
+    </section> -->
+
+    <!-- <div class="container">
             <div class="img All"><img src="./Assets/Gallary/img2.webp" alt=""></div>
             <div class="img All"><img src="./Assets/Gallary/img3.webp" alt=""></div>
             <div class="img Inside"><img src="./Assets/Gallary/img7.webp" alt=""></div>
@@ -221,16 +220,60 @@
             <div class="img Inside"><img src="./Assets/Gallary/img6.webp" alt=""></div>
             <div class="img "><img src="./Assets/Gallary/building1.webp" alt=""></div>
             <div class="img Outside"><img src="./Assets/Gallary/building2.webp" alt=""></div>
-            <!-- <div class="img "><img src="./Assets/Gallary/trip4.jpg" alt=""></div> -->
+        </div> -->
 
+    <!----------------------------------------------------------------
+    -                             Our Team            
+    ----------------------------------------------------------------->
+    <!-- <section class="ourTeam">
+        <h1 class="heading">Our Team</h1>
+        <div class="swiper mySwiper2">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="div">
+                        <img src="./Assets/teachersIcon.jpg" alt="">
+                        <p class="name">Raj Patil</p>
+                        <p class="education">Ba.LLB</p>
+                        <p class="experience">3 Years</p>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="div">
+                        <img src="./Assets/Gallary/img5.webp" alt="">
+                        <p class="name">Raj Patil</p>
+                        <p class="experience">3 Years</p>
+                        <p class="education">Ba.LLB</p>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="div">
+                        <img src="./Assets/Gallary/img5.webp" alt="">
+                        <p class="name">Raj Patil</p>
+                        <p class="education">Ba.LLB</p>
+                        <p class="experience">3 Years</p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="swiper-pagination"></div>
         </div>
-    </section>
+    </section> -->
+
+    <!----------------------------------------------------------------
+    -                             News Section              
+    ----------------------------------------------------------------->
+
+    <!-- <section class="news">
+        <div class="container">
+            <img src="./Assets/News/news1.jpg" alt="" id="img1">
+        </div>
+    </section> -->
 
     <!----------------------------------------------------------------
     -                             Youtube Section              
     ----------------------------------------------------------------->
 
-    <section class="youtube">
+    <!-- <section class="youtube">
 
         <h1 class="heading">Youtube Videos</h1>
 
@@ -258,6 +301,120 @@
         <div class="buttonDiv">
             <a class="button" href="https://www.youtube.com/channel/UCXlhswwNk33Pp0QEWFaYkxg">More Videos</a>
         </div>
+    </section> -->
+
+    <!----------------------------------------------------------------
+    -                             Batches Section              
+    ----------------------------------------------------------------->
+
+    <section class="batches" id="batches">
+        <h1 class="heading">Our Batches</h1>
+
+        <div class="container">
+
+            <div class="box" id="starbox">
+                <div class="lottieContainer" id="star"></div>
+                <h1>Rising Stars</h1>
+                <h2>Class 8th</h2>
+                <div class="features">
+                    <!-- <p>Maths and Science (Proper Teaching)</p>
+                    <p>Sst and English (Only Revision)</p>
+                    <p>Marathi and Hindi (Only Revision)</p>
+                    <p>Free Study Material</p>
+                    <p>Free Stationery material</p>
+                    <p>Unlimited Practice Material</p>
+                    <p>Parents Support login</p>
+                    <p>Updated Parents report</p> -->
+                </div>
+            </div>
+
+            <div class="box" id="youthbox">
+                <div class="lottieContainer" id="youth"></div>
+                <h1>Youth Update</h1>
+                <h2>Class 9th</h2>
+                <div class="features">
+                    <!-- <p>Maths and Science (Proper Teaching)</p>
+                    <p>Sst and English (Only Revision)</p>
+                    <p>Marathi and Hindi (Only Revision)</p>
+                    <p>Free Study Material</p>
+                    <p>Free Stationery material</p>
+                    <p>Unlimited Practice Material</p>
+                    <p>Parents Support login</p>
+                    <p>Updated Parents report</p> -->
+                </div>
+            </div>
+
+            <div class="box" id="eaglebox">
+                <div class="lottieContainer" id="eagle"></div>
+                <h1>Eagles Foundation</h1>
+                <h2>Class 10th</h2>
+                <div class="features">
+                    <!-- <p>Maths and Science (Proper Teaching)</p>
+                    <p>Sst and English (Only Revision)</p>
+                    <p>Marathi and Hindi (Only Revision)</p>
+                    <p>Free Study Material</p>
+                    <p>Free Stationery material</p>
+                    <p>Unlimited Practice Material</p>
+                    <p>Parents Support login</p>
+                    <p>Updated Parents report</p> -->
+                </div>
+            </div>
+
+            <div class="box" id="questbox">
+                <div class="lottieContainer" id="quest"></div>
+                <h1>Quantum Quest </h1>
+                <h2>Class 11th Science</h2>
+                <div class="features">
+                    <!-- <p>PCM (Proper Teaching)</p>
+                    <p>Biology (Only Revision)</p>
+                    <p>Daily Extra Revision Batches</p>
+                    <p>Customized test series</p>
+                    <p>Chapter wise exam</p>
+                    <p>Unlimited Practice Material</p>
+                    <p>Less Homework strategy</p>
+                    <p>Parents Support login</p>
+                    <p>Updated Parents report</p>
+                    <p>Many more...</p> -->
+                </div>
+            </div>
+
+            <div class="box" id="mindbox">
+                <div class="lottieContainer" id="mind"></div>
+                <h1>Infinity Minds</h1>
+                <h2>Class 12th Science</h2>
+                <div class="features">
+                    <!-- <p>PCM (Proper Teaching)</p>
+                    <p>Biology (Only Revision)</p>
+                    <p>Daily Extra Revision Batches</p>
+                    <p>Customized test series</p>
+                    <p>Chapter wise exam</p>
+                    <p>Unlimited Practice Material</p>
+                    <p>Less Homework strategy</p>
+                    <p>Parents Support login</p>
+                    <p>Updated Parents report</p>
+                    <p>Many more...</p> -->
+                </div>
+            </div>
+
+            <div class="box" id="commercebox">
+                <div class="lottieContainer" id="commerce"></div>
+                <h1>Commerce Catalyst</h1>
+                <h2>Class 11th Commerce</h2>
+                <div class="features">
+                    <!-- <p>Accounts (Proper Teaching)</p>
+                    <p>Other subjects (Test series)</p>
+                    <p>Practical Commerce Education</p>
+                    <p>Unlimited practice material</p>
+                    <p>Chapter wise exam</p>
+                    <p>Parents support login</p>
+                    <p>Updated parents report</p>
+                    <p>Career Guidance</p>
+                    <p>Customized test series</p>
+                    <p>Many more...</p> -->
+                </div>
+            </div>
+
+        </div>
     </section>
 
     <!----------------------------------------------------------------
@@ -265,16 +422,28 @@
     ----------------------------------------------------------------->
 
     <section class="map">
-        <h1 class="heading">Map</h1>
+        <h1 class="heading">Get in Touch</h1>
         <div class="container">
-            <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.4545015679664!2d73.68860767503753!3d18.50835238258282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bd1bd569032b%3A0xbd9f570028eff31a!2sPrism%20World!5e0!3m2!1sen!2sin!4v1741169609423!5m2!1sen!2sin"
-                width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <div class="left">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.4545015679664!2d73.68860767503753!3d18.50835238258282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bd1bd569032b%3A0xbd9f570028eff31a!2sPrism%20World!5e0!3m2!1sen!2sin!4v1741169609423!5m2!1sen!2sin"
+                    width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <div class="buttonDiv">
+                    <a class="button" href="https://maps.app.goo.gl/uXBswndKv5iQB8Ga6">Visit Prism World</a>
+                </div>
+
+            </div>
+            <div class="right">
+                <!-- <img src="./Assets/Icons/facebook.png" alt="">
+                <img src="./Assets/Icons/facebook.png" alt="">
+                <img src="./Assets/Icons/facebook.png" alt="">
+                <img src="./Assets/Icons/facebook.png" alt="">
+                <img src="./Assets/Icons/facebook.png" alt="">
+                <img src="./Assets/Icons/facebook.png" alt=""> -->
+            </div>
         </div>
-        <div class="buttonDiv">
-            <a class="button" href="https://maps.app.goo.gl/uXBswndKv5iQB8Ga6">Visit Prism World</a>
-        </div>
+
 
     </section>
 
@@ -284,6 +453,8 @@
 
     <section class="contact" id="contact">
         <h1 class="heading"> Let's Get Started </h1>
+        <p> New to Prism? <span class="one"> click here</span></p>
+        <p> Already a Prism? <span class="two"> click here</span></p>
         <div class="container">
             <div class="radio-inputs">
                 <label class="radio">
@@ -305,8 +476,11 @@
             </form>
 
         </div>
+        <div class="buttonDiv ayy">
+            <a class="button" href="https://prismworld.skkdevelopers.xyz">Login</a>
+        </div>
 
-        <div class="container2">
+        <!-- <div class="container2">
             <div>
                 <img class="call" src="./Assets/Icons/icons8-call.svg" alt="">
                 <h2>Call</h2>
@@ -317,7 +491,8 @@
                 <h2>Whatsapp</h2>
                 <h3>+91 9408 66 0808</h3>
             </div>
-        </div>
+        </div> -->
+
     </section>
 
     <!----------------------------------------------------------------
@@ -326,12 +501,7 @@
 
     <section class="footer">
 
-        <!-- <div class="div">
-            <a href="./Corner-Teachers/teachers.html">Teachers Corner</a>
-        </div> -->
-        <div class="buttonDiv">
-            <a class="button" href="https://prismworld.skkdevelopers.xyz">Login</a>
-        </div>
+
 
         <h1>See us more at</h1>
         <div class="social-media">
@@ -356,6 +526,45 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"
         integrity="sha512-onMTRKJBKz8M1TnqqDuGBlowlH0ohFzMXYRNebz+yOcc5TQr/zAKsthzhuv0hiyUKEiQEQXEynnXCvNTOk50dg=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!-- Swiper JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+    <!-- Our Team  -->
+    <script>
+        var swiper = new Swiper(".mySwiper2", {
+            spaceBetween: 30,
+            centeredSlides: true,
+            autoplay: {
+                delay: 1000,
+                disableOnInteraction: false,
+            },
+            pagination: {
+                el: ".swiper-pagination",
+                clickable: true,
+            },
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+        });
+    </script>
+
+    <!-- Weekly Toppers  -->
+    <script>
+        var swiper = new Swiper(".mySwiper", {
+            slidesPerView: 3,
+            spaceBetween: 30,
+            autoplay: {
+                delay: 1000,
+                disableOnInteraction: false,
+            },
+            pagination: {
+                el: ".swiper-pagination",
+                clickable: true,
+            },
+        });
+    </script>
     <!-- Main  -->
     <script src="main.js"></script>
 

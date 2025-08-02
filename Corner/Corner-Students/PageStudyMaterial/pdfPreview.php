@@ -36,9 +36,9 @@
 
 <body>
 
-    <nav>
+      <nav>
         <div class="left">
-            <img src="../../../Assets/Logo/big.png" alt="">
+            <img src="../../../Assets/Logo/big.jpg" alt="">
         </div>
         <div class="right">
             <a href="./showpdfs.php">Home</a>
