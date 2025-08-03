@@ -95,6 +95,10 @@ section.corner .container>div .button {
         grid-template-columns: repeat(1, 1fr);
     }
 
+    section#parentsCorner .container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
     section.corner .container>div {
         margin-top: 2rem;
     }
@@ -164,6 +168,10 @@ section.batches .container .box:hover {
 
 section.batches .lottieContainer {
     height: 10em;
+}
+
+section.batches .container .box#commercebox h1 {
+    font-size: 1.8rem;
 }
 
 section.batches .container .box h1 {
@@ -323,8 +331,15 @@ section.contact h1 {
 }
 
 section.contact p span {
+    font-weight: 900;
     border-bottom: 1px solid black;
     cursor: pointer;
+}
+
+@media (max-width:700px) {
+    section.contact p {
+        font-size: 1.5rem;
+    }
 }
 
 /* Top 2 toggle  */

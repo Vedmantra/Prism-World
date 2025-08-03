@@ -260,3 +260,19 @@ two.addEventListener("click", function () {
     contactContainer.style.display = "none"
     contactButton.style.display = "flex"
 })
+
+
+function TeachersCorner() {
+    let phoneNumber = "919408660808";
+    document.querySelector(".hireButton").addEventListener("click", function () {
+        let text = "I would like to hire Teacher"
+        let url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(text)}`;
+        window.open(url, "_blank");
+    })
+    document.querySelector(".applyButton").addEventListener("click", function () {
+        let text = "I would like to apply as a Teacher"
+        let url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(text)}`;
+        window.open(url, "_blank");
+    })
+}
+TeachersCorner()

@@ -204,6 +204,10 @@ nav img {
 
 @media (max-width:700px) {
 
+    nav .right img {
+        height: 85%;
+    }
+
     html {
         font-size: 14px;
     }

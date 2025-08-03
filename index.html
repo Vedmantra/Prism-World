@@ -75,7 +75,7 @@
             </div>
             <div>
                 <div class="lottieContainer" id="ebalbharati"></div>
-                <a href="https://ebalbharati.in/main/publichome.aspx" class="button">Ebalbharati</a>
+                <a href="https://books.ebalbharati.in/ebook.aspx" class="button">Ebalbharati</a>
             </div>
         </div>
     </section>
@@ -114,11 +114,11 @@
             </div>
             <div>
                 <div class="lottieContainer" id="apply"></div>
-                <button class="button2">Apply as a teacher</button>
+                <button class="button2 applyButton">Apply as a Teacher</button>
             </div>
             <div>
                 <div class="lottieContainer" id="hire"></div>
-                <button class="button2">Hire a Teacher</button>
+                <button class="button2 hireButton">Hire a Teacher</button>
             </div>
         </div>
     </section>
@@ -182,10 +182,10 @@
         <!-- <h1 class="heading">See What Our Students & Parents Say About Prism..</h1> -->
         <h1 class="heading">Parent's Reviews</h1>
         <div class="container">
-            <img src="./Assets/Reviews/Review1.jpg" alt="">
-            <img src="./Assets/Reviews/Review2.jpg" alt="">
             <img src="./Assets/Reviews/Review3.jpg" alt="">
             <img src="./Assets/Reviews/Review4.jpg" alt="">
+            <img src="./Assets/Reviews/Review2.jpg" alt="">
+            <img src="./Assets/Reviews/Review1.jpg" alt="">
         </div>
         <div class="buttonDiv">
             <a class="button" href="https://g.page/r/CRrz7ygAV5-9EBM/review">Add reviews</a>
@@ -453,8 +453,8 @@
 
     <section class="contact" id="contact">
         <h1 class="heading"> Let's Get Started </h1>
-        <p> New to Prism? <span class="one"> click here</span></p>
-        <p> Already a Prism? <span class="two"> click here</span></p>
+        <p> New to Prism World? <span class="one"> click here</span></p>
+        <p> Already in Prism World? <span class="two"> click here</span></p>
         <div class="container">
             <div class="radio-inputs">
                 <label class="radio">
@@ -563,8 +563,17 @@
                 el: ".swiper-pagination",
                 clickable: true,
             },
+            breakpoints: {
+                0: {
+                    slidesPerView: 1,
+                },
+                700: {
+                    slidesPerView: 3,
+                }
+            }
         });
     </script>
+
     <!-- Main  -->
     <script src="main.js"></script>
 

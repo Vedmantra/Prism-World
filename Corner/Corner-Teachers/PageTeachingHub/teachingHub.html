@@ -64,17 +64,31 @@
             <div class="div">
                 <img src="./create_state.jpg" alt="">
                 <div class="buttonDiv">
-                    <a class="button" href="http://downloadpapers.com">Create Papers</a>
+                    <a class="button state">Create Papers</a>
                 </div>
             </div>
             <div class="div">
                 <img src="./create_cbse.jpg" alt="">
                 <div class="buttonDiv">
-                    <a class="button" href="https://www.brisklearning.com">Create Papers</a>
+                    <a class="button cbse">Create Papers</a>
                 </div>
             </div>
         </div>
     </section>
+
+    <script>
+        let phoneNumber = "919408660808";
+        document.querySelector(".state").addEventListener("click", function () {
+            let text = "I would like to purchase this tool (state board papers)"
+            let url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(text)}`;
+            window.open(url, "_blank");
+        })
+        document.querySelector(".cbse").addEventListener("click", function () {
+            let text = "I would like to purchase this tool (cbse board papers)"
+            let url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(text)}`;
+            window.open(url, "_blank");
+        })
+    </script>
 
 </body>
 
