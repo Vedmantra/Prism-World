@@ -52,12 +52,13 @@
     gap: 1rem;
 }
 
-.optionsDiv div {
+.optionsDiv button {
     height: 10rem;
     display: flex;
     align-items: center;
     justify-content: center;
     background: var(--bg-gray-darker);
+    border: none;
 
     font-size: 2rem;
     cursor: pointer;

@@ -517,8 +517,18 @@ section.footer p {
 /*  */
 
 .weeklyToppers .swiper-slide .div {
-    width: 50%;
+    width: 70%;
     margin: auto;
+    border: 1px solid rgb(84, 84, 84);
+    border-radius: 10px;
+    padding: 2rem 1rem;
+}
+
+@media (max-width:700px) {
+    .weeklyToppers .swiper-slide .div {
+         width: 80%;
+    }
+
 }
 
 .weeklyToppers .swiper-slide .div .marks {
@@ -542,7 +552,7 @@ section.footer p {
 
 .weeklyToppers .swiper-slide .div img {
     /* aspect-ratio: 1; */
-    border: 1px solid black;
+    border: 1px solid rgb(121, 121, 121);
     height: 150px;
     border-radius: 50%;
     object-fit: cover;
@@ -575,6 +585,7 @@ section.footer p {
     .popupContainer {
         /* top: 5vh; */
     }
+
     .popupContainer img {
         width: 95%;
     }

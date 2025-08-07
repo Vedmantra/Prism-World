@@ -79,12 +79,12 @@
     <script>
         let phoneNumber = "919408660808";
         document.querySelector(".state").addEventListener("click", function () {
-            let text = "I would like to purchase this tool (state board papers)"
+            let text = "I would like to purchase this tool *(State board papers)*"
             let url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(text)}`;
             window.open(url, "_blank");
         })
         document.querySelector(".cbse").addEventListener("click", function () {
-            let text = "I would like to purchase this tool (cbse board papers)"
+            let text = "I would like to purchase this tool *(CBSE board papers)*"
             let url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(text)}`;
             window.open(url, "_blank");
         })

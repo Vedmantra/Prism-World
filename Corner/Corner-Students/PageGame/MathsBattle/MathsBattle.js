@@ -6,6 +6,7 @@ startgame.addEventListener('click', function () {
     startgame.disabled = true
     bg.play()
     Timer()
+    EnableButtons()
 })
 
 let restartgame = document.querySelector('.restartgame')
@@ -21,6 +22,26 @@ let answer
 let score = 0
 
 let scoreDivSpan = document.querySelector('.scoreDiv span')
+
+// 
+function DisableButtons() {
+    let buttons = document.querySelectorAll(".optionsDiv button")
+    // console.log(buttons)
+    buttons.forEach(function (button) {
+        button.disabled = true
+    })
+}
+function EnableButtons() {
+    let buttons = document.querySelectorAll(".optionsDiv button")
+    // console.log(buttons)
+    buttons.forEach(function (button) {
+        button.disabled = false
+    })
+}
+
+DisableButtons()
+
+// 
 
 function GenerateQuestionAndAnswer() {
 
@@ -104,6 +125,7 @@ function Timer() {
         if (timer == 0) {
             clearInterval(timerInterval)
             alert("Times Up")
+            DisableButtons()
             bg.pause()
 
             startgame.style.display = "none"
@@ -116,6 +138,8 @@ function Timer() {
             playmoregames.style.opacity = 1
         }
     }, 1000);
+
+
 }
 
 restartgame.addEventListener('click', function () {
@@ -126,11 +150,12 @@ restartgame.addEventListener('click', function () {
     scoreDivSpan.innerHTML = score
     GenerateQuestionAndAnswer()
 
+    EnableButtons()
+
     bg.play()
     restartgame.disabled = true
     restartgame.style.opacity = 0
 
     playmoregames.disabled = true
     playmoregames.style.opacity = 0
-
 })

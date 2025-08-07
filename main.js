@@ -261,37 +261,41 @@ two.addEventListener("click", function () {
     contactButton.style.display = "flex"
 })
 
-
 function TeachersCorner() {
     let phoneNumber = "919408660808";
     document.querySelector(".hireButton").addEventListener("click", function () {
-        let text = "I would like to hire Teacher"
+        let text = "I would like to *Hire a Teacher* from Prism Worlds Website."
         let url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(text)}`;
-        window.open(url, "_blank");
+        window.open(url, "_blank"); 
     })
     document.querySelector(".applyButton").addEventListener("click", function () {
-        let text = "I would like to apply as a Teacher"
+        let text = "I would like to *Apply as a Teacher* on Prism Worlds Website."
         let url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(text)}`;
         window.open(url, "_blank");
     })
 }
 TeachersCorner()
 
-let scroll2 = false;
+function Popup() {
 
-if (scroll2 == false) {
-    // show popup and don't allow scroll2ing
-    document.querySelector(".popupContainer").style.display = "flex";
-    document.querySelector("body").style.overflowY = "hidden";
+    let scroll2 = false;
+
+    if (scroll2 == false) {
+        // show popup and don't allow scroll2ing
+        document.querySelector(".popupContainer").style.display = "flex";
+        document.querySelector("body").style.overflowY = "hidden";
+    }
+
+    document.querySelector(".popupContainer img").addEventListener("click", function () {
+        scroll2 = true;
+        document.querySelector("body").style.overflowY = "auto";
+        document.querySelector(".popupContainer").style.display = "none";
+    });
+
+    if (window.innerWidth <= 768) {
+        // Change URL if on mobile
+        document.querySelector(".popupContainer img").src = "./Assets/Popup/popup2.jpg";
+    }
 }
 
-document.querySelector(".popupContainer img").addEventListener("click", function () {
-    scroll2 = true;
-    document.querySelector("body").style.overflowY = "auto";
-    document.querySelector(".popupContainer").style.display = "none";
-});
-
-if (window.innerWidth <= 768) {
-    // Change URL if on mobile
-    document.querySelector(".popupContainer img").src = "./Assets/Popup/popup2.jpg";
-}
+Popup()
