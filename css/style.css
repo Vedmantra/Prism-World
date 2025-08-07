@@ -573,9 +573,9 @@ section.footer p {
 
 @media (max-width:700px) {
     .popupContainer {
-        top: 5vh;
+        /* top: 5vh; */
     }
     .popupContainer img {
-        width: 70%;
+        width: 95%;
     }
 }
