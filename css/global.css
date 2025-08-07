@@ -206,7 +206,7 @@ nav img {
 @media (max-width:700px) {
 
     nav .right img {
-        height: 85%;
+        height: 70%;
     }
 
     html {
@@ -221,7 +221,7 @@ nav img {
     /* ? ------------------ Nav ------------------ */
 
     nav {
-        padding: 0 1rem;
+        padding: 0 0.0rem;
     }
 
     nav .left img {
