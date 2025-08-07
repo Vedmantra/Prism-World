@@ -27,24 +27,6 @@ todo                                 SECTIONS
 todo -------------------------------------------------------------------------
 */
 
-/* ? ------------------ Hero ------------------ */
-
-section.hero {
-    /* padding-top: 10vh; */
-    /* margin: 0; */
-    /* background: red; */
-    padding-bottom: 0;
-}
-
-section.hero .container {
-    width: 100%;
-    margin: auto;
-}
-
-section.hero img {
-    width: 100%;
-    object-fit: cover;
-}
 
 /* ? ------------------ Students Corner ------------------ */
 
@@ -118,19 +100,6 @@ section.corner .container>div .button {
     }
 }
 
-/* ? ------------------ News ------------------ */
-
-section.news .container {
-    width: 80%;
-    margin: auto;
-}
-
-section.news .container img {
-    width: 100%;
-    object-fit: contain;
-    cursor: pointer;
-}
-
 /* ? ------------------ Reviews ------------------ */
 
 .reviews .container {
@@ -192,16 +161,6 @@ section.batches .container .box h2 {
     text-align: center;
 }
 
-section.batches .container .box .features {
-    margin-top: 2rem;
-}
-
-section.batches .container .box .features p {
-    font-size: 1.2rem;
-    margin: 1rem 0;
-}
-
-
 /* ? ------------------ Gallary ------------------ */
 
 section.gallary .container {
@@ -250,21 +209,7 @@ section.gallary .container .img img {
     transition: scale 0.5s;
 }
 
-/* ? ------------------ Youtube ------------------ */
 
-section.youtube .container {
-    width: 95%;
-    margin: auto;
-
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 1rem;
-}
-
-section.youtube .container iframe {
-    width: 100%;
-    aspect-ratio: 16/9;
-}
 
 /* ? ------------------ Map ------------------ */
 
@@ -601,4 +546,36 @@ section.footer p {
     height: 150px;
     border-radius: 50%;
     object-fit: cover;
+}
+
+/*  */
+
+.popupContainer {
+    height: 100vh;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.364);
+    background: white;
+    /* background: red; */
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.popupContainer img {
+    width: 60%;
+}
+
+@media (max-width:700px) {
+    .popupContainer {
+        top: 5vh;
+    }
+    .popupContainer img {
+        width: 70%;
+    }
 }

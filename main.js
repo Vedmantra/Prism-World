@@ -36,7 +36,7 @@ function ScrollTriggerAnimation() {
     });
 }
 
-ScrollTriggerAnimation()
+// ScrollTriggerAnimation()
 
 function ScrollTriggerAnimation2() {
     gsap.registerPlugin(ScrollTrigger);
@@ -276,3 +276,22 @@ function TeachersCorner() {
     })
 }
 TeachersCorner()
+
+let scroll2 = false;
+
+if (scroll2 == false) {
+    // show popup and don't allow scroll2ing
+    document.querySelector(".popupContainer").style.display = "flex";
+    document.querySelector("body").style.overflowY = "hidden";
+}
+
+document.querySelector(".popupContainer img").addEventListener("click", function () {
+    scroll2 = true;
+    document.querySelector("body").style.overflowY = "auto";
+    document.querySelector(".popupContainer").style.display = "none";
+});
+
+if (window.innerWidth <= 768) {
+    // Change URL if on mobile
+    document.querySelector(".popupContainer img").src = "./Assets/Popup/popup2.jpg";
+}

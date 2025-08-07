@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        section {
+            height: 100vh;
+        }
+
+        .popupContainer {
+            height: 100vh;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.364);
+            background: red;
+
+            position: fixed;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .popupContainer img {
+            width: 60vw;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="popupContainer">
+        <img src="./Assets/Popup/popup1.jpg" alt="">
+    </div>
+    <section>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quos obcaecati minima vel, possimus debitis
+        quisquam. Debitis, ad eius exercitationem harum quod, laborum provident rerum ab ipsa corrupti, mollitia
+        nesciunt?
+    </section>
+    <section>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio quos obcaecati minima vel, possimus debitis
+        quisquam. Debitis, ad eius exercitationem harum quod, laborum provident rerum ab ipsa corrupti, mollitia
+        nesciunt?
+    </section>
+
+    <script>
+        let scroll2 = false;
+
+        if (scroll2 == false) {
+            // show popup and don't allow scroll2ing
+            document.querySelector(".popupContainer").style.display = "flex";
+            document.querySelector("body").style.overflowY = "hidden";
+        }
+
+        document.querySelector(".popupContainer img").addEventListener("click", function () {
+            scroll2 = true;
+            document.querySelector("body").style.overflowY = "auto";
+            document.querySelector(".popupContainer").style.display = "none";
+        });
+    </script>
+</body>
+
+</html>

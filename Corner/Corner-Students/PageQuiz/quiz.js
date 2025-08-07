@@ -112,7 +112,7 @@ function CheckAnswers() {
         // If User Didn't Select Any Option
         if (!selectedInputOfUser) {
             // Show Unsolved Question 
-            questionText.style.color = "red"
+            questionText.style.color = "#9199a6"
             questionIcon.innerHTML = `<img src="./Icons/dash.svg">`
 
             // Show Right Option
@@ -130,7 +130,7 @@ function CheckAnswers() {
 
         if (selectedInputOfUserIndex == answerIndex) {
             // Show Right Question 
-            questionText.style.color = "green"
+            questionText.style.color = "#6b9443"
             questionIcon.innerHTML = `<img src="./Icons/tick.svg">`
 
             // Show Right Option
@@ -141,7 +141,7 @@ function CheckAnswers() {
             totalMarks += marks
         } else {
             // Show Wrong Question 
-            questionText.style.color = "red"
+            questionText.style.color = "#d04e4e"
             questionIcon.innerHTML = `<img src="./Icons/cross.svg">`
 
             // Show Right Option
@@ -207,3 +207,4 @@ restartButton.addEventListener('click', function () {
     // go up
     window.scrollTo({ top: 0, behavior: 'smooth' });
 })
+
