@@ -162,7 +162,7 @@ section {
 
 .abra p {
     margin: 0 .5rem;
-    font-size:1.2rem;
+    font-size: 1.2rem;
 }
 
 .abra .missed {
@@ -176,3 +176,4 @@ section {
 .abra .correct {
     color: #6b9443;
 }
+
