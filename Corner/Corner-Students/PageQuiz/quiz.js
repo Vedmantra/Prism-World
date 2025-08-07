@@ -10,9 +10,12 @@ console.log('med', med)
 console.log('sub', sub)
 console.log('lessonArr', lessonArr)
 
+let missedCount = 0
+let incorrectCount = 0
+
 let allQuestionsArray2 = []
 let questionLimit = 10
-let marks = 2
+let marks = 1
 let maxMarks = questionLimit * marks
 
 let totalMarksContainer = document.querySelector('.totalMarks')
@@ -111,6 +114,8 @@ function CheckAnswers() {
 
         // If User Didn't Select Any Option
         if (!selectedInputOfUser) {
+
+            missedCount++
             // Show Unsolved Question 
             questionText.style.color = "#9199a6"
             questionIcon.innerHTML = `<img src="./Icons/dash.svg">`
@@ -140,6 +145,8 @@ function CheckAnswers() {
             marksContainer.innerHTML = `${marks}/${marks}`
             totalMarks += marks
         } else {
+
+            incorrectCount++
             // Show Wrong Question 
             questionText.style.color = "#d04e4e"
             questionIcon.innerHTML = `<img src="./Icons/cross.svg">`
@@ -163,6 +170,11 @@ function CheckAnswers() {
     totalMarksContainer.innerHTML = `${totalMarks}/${maxMarks}`
     document.querySelector('.totalMarks').style.fontSize = "2rem"
 
+    document.querySelector('.incorrect span').innerHTML = incorrectCount
+    document.querySelector('.missed span').innerHTML = missedCount
+
+
+
     WhiteEffect()
 }
 
@@ -177,6 +189,8 @@ function WhiteEffect() {
 
     let whiteEffectMarks = document.querySelector('.whiteEffect h2 span')
     whiteEffectMarks.innerHTML = totalMarks
+
+
 }
 
 let whiteEffectButton = document.querySelector('.whiteEffect button')
@@ -203,8 +217,9 @@ restartButton.addEventListener('click', function () {
 
     // make score => 0 
     totalMarks = 0
+    missedCount = 0
+    incorrectCount = 0
 
     // go up
     window.scrollTo({ top: 0, behavior: 'smooth' });
 })
-

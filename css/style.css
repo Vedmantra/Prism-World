@@ -453,7 +453,7 @@ section.footer p {
 .weeklyToppers .swiper {
     width: 80%;
     margin: auto;
-    height: 50vh;
+    /* height: 50vh; */
 }
 
 .ourTeam .swiper {
@@ -526,7 +526,7 @@ section.footer p {
 
 @media (max-width:700px) {
     .weeklyToppers .swiper-slide .div {
-         width: 80%;
+        width: 80%;
     }
 
 }
@@ -588,5 +588,27 @@ section.footer p {
 
     .popupContainer img {
         width: 95%;
+    }
+}
+
+.contact .buttonDiv {
+    margin-top: 1.5rem;
+}
+
+.contact .buttonDiv a {
+    margin: 0.4rem .5rem;
+    /* padding: 1rem .7rem; */
+}
+
+
+@media (max-width:700px) {
+    .contact .buttonDiv {
+        display: flex;
+        /* flex-direction: column; */
+    }
+
+    .contact .buttonDiv a {
+        margin: 0.4rem 0.3rem;
+        padding: 1rem .7rem;
     }
 }

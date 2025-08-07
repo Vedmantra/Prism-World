@@ -153,3 +153,26 @@ section {
 .restartButton {
     display: none;
 }
+
+.abra {
+    width: 50%;
+    margin: auto;
+    display: flex;
+}
+
+.abra p {
+    margin: 0 .5rem;
+    font-size:1.2rem;
+}
+
+.abra .missed {
+    color: #9199a6;
+}
+
+.abra .incorrect {
+    color: #d04e4e;
+}
+
+.abra .correct {
+    color: #6b9443;
+}
