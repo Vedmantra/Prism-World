@@ -177,7 +177,8 @@ function ShowPdfs() {
         html += `<div class="box">
                         <img src="./pdf.png">
                         <h2>${pdfName}</h2>
-                        <button class="button" onclick="RedirectToPdfpreviewPage('${pdf}');">View</button>
+                        // <button class="button" onclick="RedirectToPdfpreviewPage('${pdf}');">View</button>
+                        <a class="button" href="${pdf}" download>Download</a>
                     </div>`
     }
 
