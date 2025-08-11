@@ -18,7 +18,7 @@ let questionLimit = 10
 let marks = 1
 let maxMarks = questionLimit * marks
 
-let totalMarksContainer = document.querySelector('.totalMarks')
+// let totalMarksContainer = document.querySelector('.totalMarks span')
 
 let promiseArr = [];
 
@@ -59,7 +59,7 @@ function CreateQuestions() {
 
     let qIndex = 1
 
-    totalMarksContainer.innerHTML = maxMarks + " Marks"
+    // totalMarksContainer.innerHTML = maxMarks + " Marks"
 
     for (let dataOfEachQuestion of allQuestionsArray2) {
 
@@ -167,11 +167,12 @@ function CheckAnswers() {
         input.disabled = true
     }
 
-    totalMarksContainer.innerHTML = `${totalMarks}/${maxMarks}`
-    document.querySelector('.totalMarks').style.fontSize = "2rem"
+    // totalMarksContainer.innerHTML = `${totalMarks}/${maxMarks}`
+    // document.querySelector('.totalMarks').style.fontSize = "2rem"
 
     document.querySelector('.incorrect span').innerHTML = incorrectCount
     document.querySelector('.missed span').innerHTML = missedCount
+    document.querySelector('.correct span').innerHTML = totalMarks
 
 
 
@@ -188,9 +189,7 @@ function WhiteEffect() {
     }, 1);
 
     let whiteEffectMarks = document.querySelector('.whiteEffect h2 span')
-    whiteEffectMarks.innerHTML = totalMarks
-
-
+    whiteEffectMarks.innerHTML = `${totalMarks}/${questionLimit}`
 }
 
 let whiteEffectButton = document.querySelector('.whiteEffect button')
@@ -219,6 +218,10 @@ restartButton.addEventListener('click', function () {
     totalMarks = 0
     missedCount = 0
     incorrectCount = 0
+
+    document.querySelector('.missed span').innerHTML = 0
+    document.querySelector('.correct span').innerHTML = 0
+    document.querySelector('.incorrect span').innerHTML = 0
 
     // go up
     window.scrollTo({ top: 0, behavior: 'smooth' });

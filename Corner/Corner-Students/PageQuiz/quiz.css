@@ -14,12 +14,6 @@ section {
     padding: 2rem 0;
 }
 
-.totalMarks {
-    text-align: right;
-    width: 50%;
-    margin: auto;
-}
-
 .totalMarks h1 {
     font-size: 1.5rem;
     font-weight: 200;
@@ -116,12 +110,47 @@ section {
     font-size: 2rem;
 }
 
+
+
+.restartButton {
+    display: none;
+}
+
+/* .abra {
+    width: 50%;
+    margin: auto;
+    display: flex;
+} */
+
+.abra p {
+    margin: 0 .5rem;
+    font-size: 1.2rem;
+}
+
+.abra .missed {
+    color: #9199a6;
+}
+
+.abra .incorrect {
+    color: #d04e4e;
+}
+
+.abra .correct {
+    color: #6b9443;
+}
+
+.abra {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    /* background: red; */
+    border: 1px solid black;
+    padding: 0.5rem 0;
+}
+
 @media (max-width:700px) {
     .container {
-        width: 90%;
-    }
-
-    .totalMarks {
         width: 90%;
     }
 
@@ -148,32 +177,8 @@ section {
     .container .questionDiv {
         padding: 1rem;
     }
-}
 
-.restartButton {
-    display: none;
+    .abra {
+        width: 90%;
+    }
 }
-
-.abra {
-    width: 50%;
-    margin: auto;
-    display: flex;
-}
-
-.abra p {
-    margin: 0 .5rem;
-    font-size: 1.2rem;
-}
-
-.abra .missed {
-    color: #9199a6;
-}
-
-.abra .incorrect {
-    color: #d04e4e;
-}
-
-.abra .correct {
-    color: #6b9443;
-}
-

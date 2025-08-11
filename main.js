@@ -264,12 +264,12 @@ two.addEventListener("click", function () {
 function TeachersCorner() {
     let phoneNumber = "919408660808";
     document.querySelector(".hireButton").addEventListener("click", function () {
-        let text = "I would like to *Hire a Teacher* from Prism Worlds Website."
+        let text = "I would like to *Hire a Teacher* from Prism World's Website."
         let url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(text)}`;
         window.open(url, "_blank"); 
     })
     document.querySelector(".applyButton").addEventListener("click", function () {
-        let text = "I would like to *Apply as a Teacher* on Prism Worlds Website."
+        let text = "I would like to *Apply as a Teacher* on Prism World's Website."
         let url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(text)}`;
         window.open(url, "_blank");
     })
@@ -298,4 +298,4 @@ function Popup() {
     }
 }
 
-Popup()
+// Popup()
