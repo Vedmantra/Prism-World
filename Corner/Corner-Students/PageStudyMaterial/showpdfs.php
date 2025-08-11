@@ -114,7 +114,7 @@
 
     ?>
 
-    <script src="showpdfs.js"></script>
+    <script src="showpdfs.js?v=2"></script>
 </body>
 
 </html>
