@@ -102,19 +102,45 @@ function ScrollTriggerAnimation2() {
 function SVG() {
     let animatedIconsArray =
         ["games", "quiz", "studyMaterial", "ebalbharati",
-            "result", "stationaryShop", "schools", "activityClasses",
-            "all", "indoor", "happyMoment", "functionAndTrip",
-            "teachingHub", "apply", "hire"
+            "result", "stationaryShop", "activityClasses",
+            "teachingHub", "apply", "hire",
+            // "all", "indoor", "happyMoment", "functionAndTrip",
         ]
 
+    // Initially Load 
+    // animatedIconsArray.forEach(element => {
+    //     lottie.loadAnimation({
+    //         container: document.getElementById(element),
+    //         renderer: "svg",
+    //         loop: false,
+    //         autoplay: true,
+    //         path: `./Assets/Animated-Icons/${element}.json`
+    //     });
+    // });
+
+    // On Hover
     animatedIconsArray.forEach(element => {
-        lottie.loadAnimation({
+        var animation = lottie.loadAnimation({
             container: document.getElementById(element),
             renderer: "svg",
             loop: false,
-            autoplay: true,
+            autoplay: false,
             path: `./Assets/Animated-Icons/${element}.json`
         });
+        // On hover
+        document.getElementById(`${element}`).addEventListener("mouseenter", function () {
+            animation.goToAndPlay(0, true);
+        });
+        // On scroll into view
+        ScrollTrigger.create({
+            trigger: `#${element}`,
+            start: "top 80%", // start when element is near viewport
+            onEnter: () => {
+                animation.goToAndPlay(0, true);
+            },
+            once: true // play only once
+        });
+
     });
 
     let animatedIconsArray2 = ["star", "youth", "eagle", "quest", "mind", "commerce"]
@@ -266,7 +292,7 @@ function TeachersCorner() {
     document.querySelector(".hireButton").addEventListener("click", function () {
         let text = "I would like to *Hire a Teacher* from Prism World's Website."
         let url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(text)}`;
-        window.open(url, "_blank"); 
+        window.open(url, "_blank");
     })
     document.querySelector(".applyButton").addEventListener("click", function () {
         let text = "I would like to *Apply as a Teacher* on Prism World's Website."

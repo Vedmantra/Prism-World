@@ -1,0 +1,37 @@
+section {
+    padding-top: 5rem;
+    height: 100vh;
+    width: 100%;
+}
+
+section .container {
+    width: 50%;
+    margin: auto;
+}
+
+section .container .div {
+    width: 100%;
+    /* display: flex;
+            flex-direction: column; */
+    margin-top: 3rem;
+}
+
+section .container .div p {
+    text-align: center;
+    font-size: 2rem;
+}
+
+section .container .div .button {
+    margin-top: 1rem;
+}
+
+section .container .div img {
+    border: 1px solid black;
+    width: 100%;
+}
+
+@media (max-width:700px) {
+    section .container {
+        width: 95%;
+    }
+}

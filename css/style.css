@@ -79,6 +79,11 @@ section.corner .container>div .button {
 
     section#parentsCorner .container {
         grid-template-columns: repeat(2, 1fr);
+        gap: 0rem;
+    }
+
+    section#parentsCorner .container {
+        grid-template-columns: repeat(2, 1fr);
     }
 
     section.corner .container>div {
@@ -98,6 +103,7 @@ section.corner .container>div .button {
         font-size: 1.5rem;
         padding: 1rem 1rem;
     }
+
 }
 
 /* ? ------------------ Reviews ------------------ */
