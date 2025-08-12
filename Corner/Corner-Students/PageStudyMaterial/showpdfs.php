@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="../../../Assets/Logo/small.png">
     <title>Study Material Homepage</title>
     <link rel="stylesheet" href="showpdfs.css">
-    <link rel="stylesheet" href="../../../css/global.css?v=4">
+    <link rel="stylesheet" href="../../../css/global.css?v=5">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.3.200/pdf.js"></script>
 </head>
 
