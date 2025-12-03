@@ -4,10 +4,6 @@ section {
     padding: 5rem 0;
 }
 
-section:nth-child(even) {
-    background: #fbfafaa2;
-}
-
 /* ? ------------------ WhatsappButton ------------------ */
 
 .whatsappDiv {
@@ -21,17 +17,51 @@ section:nth-child(even) {
     cursor: pointer;
 }
 
-/* 
-todo -------------------------------------------------------------------------
-todo                                 SECTIONS               
-todo -------------------------------------------------------------------------
-*/
+/* ? ------------------ Corner ------------------ */
 
+.corner {
+    min-height: 100vh;
+    margin-top: 3rem;
+}
 
-/* ? ------------------ Students Corner ------------------ */
+#studentsCorner {
+    background: linear-gradient(white, var(--blue-light));
+}
 
-section.corner {
-    margin-top: 2rem;
+#studentsCorner .button {
+    background: var(--blue-dark);
+}
+
+#studentsCorner .heading {
+    color: var(--blue-dark);
+}
+
+/*  */
+
+#parentsCorner {
+    background: linear-gradient(white, var(--red-light));
+}
+
+#parentsCorner .button {
+    background: var(--red-dark);
+}
+
+#parentsCorner .heading {
+    color: var(--red-dark);
+}
+
+/*  */
+
+#teachersCorner {
+    background: linear-gradient(white, white, var(--yellow-light));
+}
+
+#teachersCorner .button {
+    background: var(--yellow-dark);
+}
+
+#teachersCorner .heading {
+    color: var(--yellow-dark);
 }
 
 section.corner .container {
@@ -59,8 +89,7 @@ section.corner .container>div {
 }
 
 section.corner .container>div .lottieContainer {
-    /* width: 80%; */
-    height: 12rem;
+    height: 11rem;
 }
 
 section.corner .container>div .button {
@@ -103,23 +132,92 @@ section.corner .container>div .button {
         font-size: 1.5rem;
         padding: 1rem 1rem;
     }
-
 }
 
 /* ? ------------------ Reviews ------------------ */
 
+.reviews {
+    background: linear-gradient(white, var(--red-light));
+}
+
+.reviews .heading {
+    font-size: 2.5rem;
+    text-align: left;
+    /* margin-left:0;
+    margin-right: 7rem; */
+}
+
+/* .reviews .heading {
+    background: #B76E2A;
+    color: white;
+    margin-left: 0;
+    margin-right: 7rem;
+} */
+
+.reviews .button {
+    background: #B76E2A;
+}
+
 .reviews .container {
     width: 80%;
     margin: auto;
-    columns: 2;
+    /* columns: 2; */
+    display: grid;
+    /* grid-template-columns: 1fr 1fr; */
+    gap: 3rem;
+
+    background: red;
 }
 
-.reviews .container img {
-    width: 100%;
-    margin-bottom: 2rem;
+/* 
+.checked {
+    color: orange;
 }
+
+.stars {
+    font-size: 1.5rem;
+}
+
+.reviews .container .review {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 4rem 2rem;
+    background: white;
+    border-radius: 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 4px 12px;
+}
+
+.reviews .container .review img {
+    width: 100px;
+    border-radius: 50%;
+    aspect-ratio: 1;
+    padding: 0.5rem;
+}
+
+.reviews .container .review .top {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    gap: 1rem;
+}
+
+.reviews .container .review .top h1 {
+    margin-bottom: 0.5rem;
+}
+
+.reviews .container .review .bottom {
+    font-size: 1.3rem;
+    margin-top: 1rem;
+    line-height: 1.8rem;
+} */
 
 /* ? ------------------ Batches ------------------ */
+
+.batches {
+    /* background: linear-gradient(white, var(--yellow-light)); */
+}
 
 section.batches .container {
     width: 80%;
@@ -130,15 +228,24 @@ section.batches .container {
     gap: 1rem;
 }
 
+/* .batches .heading {
+    background: #2b375a;
+    color: white;
+
+    margin-left: 7rem;
+    margin-right: 0;
+} */
+
+
 section.batches .container .box {
     background: white;
-    border: 1px solid rgb(204, 204, 204);
+    /* border: 1px solid rgb(204, 204, 204); */
     border-radius: 10px;
     padding: 2rem;
 }
 
 section.batches .container .box:hover {
-    border: 1px solid gray;
+    /* border: 1px solid gray; */
 }
 
 section.batches .lottieContainer {
@@ -148,6 +255,35 @@ section.batches .lottieContainer {
 section.batches .container .box#commercebox h1 {
     font-size: 1.8rem;
 }
+
+section.batches .container .box {
+    background: white;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 5px 14px;
+}
+
+/* section.batches .container .box:nth-child(1) {
+    background: #EAF5FF;
+}
+
+section.batches .container .box:nth-child(2) {
+    background: #FFF3EC;
+}
+
+section.batches .container .box:nth-child(3) {
+    background: #F5FBF5;
+}
+
+section.batches .container .box:nth-child(4) {
+    background: #FFF8E6;
+}
+
+section.batches .container .box:nth-child(5) {
+    background: #EEF2F7;
+}
+
+section.batches .container .box:nth-child(6) {
+    background: #faf3ff;
+} */
 
 section.batches .container .box h1 {
     font-size: 2rem;
@@ -217,6 +353,10 @@ section.gallary .container .img img {
 
 
 /* ? ------------------ Map ------------------ */
+.map {
+    /* background: #fbfafaa2; */
+    background: linear-gradient(white, var(--blue-light));
+}
 
 .map .container {
     width: 90%;
@@ -225,6 +365,10 @@ section.gallary .container .img img {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.map .heading {
+    /* background: gray; */
 }
 
 .map .container .left {
@@ -256,6 +400,11 @@ section.gallary .container .img img {
 
 /* ------------------ Contact ------------------ */
 
+section.contact {
+    background: linear-gradient(white, var(--red-light));
+
+}
+
 section.contact .container {
     width: 50%;
     margin: auto;
@@ -265,7 +414,10 @@ section.contact .container {
     justify-content: center;
     flex-direction: column;
 
-    margin-top: 5rem;
+    margin-top: 0rem;
+
+    /* background: red; */
+    /* border: 1px solid black; */
 }
 
 section.contact p {
@@ -298,8 +450,7 @@ section.contact .radio-inputs {
     display: flex;
     border-radius: 0.5rem;
     background: var(--bg-gray-darker);
-    /* background: red; */
-    /* background: white; */
+
     padding: 0.25rem;
     width: 70%;
     margin: auto;
@@ -336,6 +487,10 @@ section.contact .radio-inputs .radio input:checked+.name {
 
 /* 2 Inputs => Name & Std */
 
+section.contact .container {
+    margin-top: 2rem;
+}
+
 section.contact .container form {
     /* background: red; */
     width: 100%;
@@ -361,7 +516,8 @@ section.contact .container form .inputs input {
     margin: 1rem 0;
     border: none;
     border-bottom: 1px solid black;
-    background: #F5F5F5;
+    /* background: #F5F5F5; */
+    background: transparent;
 }
 
 section.contact .container form .inputs input:focus {
@@ -378,7 +534,6 @@ section.contact .container form .inputs input::placeholder {
 /*  */
 
 section.contact .container2 {
-    /* background: red; */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -521,19 +676,41 @@ section.footer p {
 
 /*  */
 
+.weeklyToppers {
+    background: linear-gradient(white, var(--blue-light));
+}
+
+
+/* .weeklyToppers .heading {
+    background: #2b375a;
+    color: white;
+
+    margin-left: 7rem;
+    margin-right: 0;
+} */
+
+
+.weeklyToppers .swiper-slide {
+    /* border:1px solid black; */
+    padding: 4rem 0;
+}
+
 .weeklyToppers .swiper-slide .div {
-    width: 70%;
+    width: 85%;
+    height: 90%;
     margin: auto;
-    border: 1px solid rgb(84, 84, 84);
+    /* border: 1px solid rgb(84, 84, 84); */
     border-radius: 10px;
-    padding: 2rem 1rem;
+    padding: 4rem 0;
+    background: white;
+    /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 5px 14px;
 }
 
 @media (max-width:700px) {
     .weeklyToppers .swiper-slide .div {
         width: 80%;
     }
-
 }
 
 .weeklyToppers .swiper-slide .div .marks {
@@ -616,4 +793,56 @@ section.footer p {
         margin: 0.4rem 0.3rem;
         padding: 1rem 1rem;
     }
+}
+
+.element {
+    height: 10rem;
+    width: 10rem;
+    opacity: 1;
+
+    position: absolute;
+    display: none;
+}
+
+.element path {
+    stroke-width: 5;
+    fill: none;
+}
+
+.svg1 {
+    right: 3%;
+    top: 20%;
+    stroke: navy;
+    transform: rotate(45deg);
+}
+
+.svg2 {
+    left: 3rem;
+    bottom: 10%;
+    transform: rotate(-45deg);
+    stroke: navy;
+
+}
+
+.svg3 {
+    right: 30%;
+    top: 0%;
+    stroke: maroon;
+    transform: rotate(45deg);
+}
+
+.svg4 {
+    left: 3rem;
+    top: 70%;
+    transform: rotate(-45deg);
+    stroke: maroon;
+}
+
+.svg5 {
+    left: 70%;
+    top: -10%;
+}
+
+.corner {
+    position: relative;
 }
